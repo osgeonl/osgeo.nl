@@ -3,3 +3,6 @@ baseURL = "http://osgeo.nl/"
 languageCode = "en-us"
 title = "OSGeo.nl - Wegwijs in Open Geo"
 theme = "hugo-clarity"
+
+[params]
+  mainSections = ["posts"]
