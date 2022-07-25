@@ -1,0 +1,49 @@
+{{- $s := site.Params }}
+{{- $p := .Params }}
+{{- $codeBlockConfig := partial "func/getCodeBlockSettings" . }}
+<!DOCTYPE html>
+<html
+  lang="{{ .Lang }}"
+  data-figures="{{ $p.figurePositionShow }}"
+  {{ if .IsPage }}
+    class="page"
+  {{ else if .IsHome }}
+    class="home"
+  {{ end }}
+  {{ with $s.enforceLightMode }}
+    data-mode="lit"
+  {{ end }}
+  {{ with $s.enforceDarkMode }}
+    data-mode="dim"
+  {{ end -}}
+>
+  <head>
+    {{- partial "head" . }}
+    {{- partial "hooks/head-end" . }}
+  </head>
+  <body
+    data-code="{{ $codeBlockConfig.max }}"
+    data-lines="{{ $codeBlockConfig.lines }}"
+    id="documentTop"
+    data-lang="{{ .Lang }}"
+  >
+    {{- partial "header" . }}
+    <main>
+        <div class="grid-inverse wrap content">
+          <div id="front-text3">
+            {{ with .Site.GetPage "/home" }}
+              <h1 class="post_title">{{ .Title }}</h1>
+              {{ .Content }}
+            {{ end }}
+          </div>
+
+          {{- partial "sidebar" . }}
+        </div>
+    </main>
+
+    {{- partialCached "icons" . }}
+    {{- partialCached "footer" . }}
+    {{- partialCached "scripts" . }}
+    {{- partialCached "hooks/body-end" . }}
+  </body>
+</html>
