@@ -25,7 +25,7 @@ tags:
 ---
 Op donderdag 20 oktober 2016 van 16:00-20:00 organiseerde OSGeo.nl het mini-seminar [RD en Open Source Software][1]. Het doel was tweeledig: allereerst om de bezoeker kennis bij te brengen over coördinatenstelsels in het algemeen en het [Rijksdriehoeksstelsel][2] in het bijzonder. Het tweede doel was om coördinatenstelsels op een juiste manier toe te passen binnen software, waarbij de focus natuurlijk ligt op open source software. Initiatiefnemer en samensteller voor dit event was [Frank Steggink][3].
 
-In [Cafe Dudok Hilversum][4]{.broken_link} genoten ruim 30 aanwezigen van onderstaand programma (en de maaltijd in Dudok tijdens pauze). Klik op de links voor de presentatie-slides en weblinks.
+In {{< broken-link data-href="http://www.cafedudok.com/" data-caption="Cafe Dudok Hilversum">}} genoten ruim 30 aanwezigen van onderstaand programma (en de maaltijd in Dudok tijdens pauze). Klik op de links voor de presentatie-slides en weblinks.
 
   * Just van den Broecke (OSGeo.nl) &#8211; _Inleiding_ &#8211; [[PDF Slides]][5]
   * Erik Meerburg (GeoAcademie) &#8211; _Introductie coördinatenstelsels en -transformaties_ &#8211; [[PDF Slides]][6]
@@ -38,6 +38,7 @@ In [Cafe Dudok Hilversum][4]{.broken_link} genoten ruim 30 aanwezigen van onder
 
 Na een korte inleiding van Just, met nog de uitnodiging om allen op de OSGeo.nl Dag op de GeoBuzz  op 22 november in Den Bosch te komen, schetste Erik Meerburg zeer beeldend de problematiek rond coördinatenstelsels en projecties waar de geodeet dagelijks mee geconfronteerd wordt. Thomas Vermaut nam ons mee in het geo-refereren van historische kaarten met referentiepunten (Ground Control Points of GCP’s) en vooral de kwaliteitsaspecten daarvan. Jan Hartmann demonstreerde vervolgens een praktische toepassing daarvan op zijn indrukwekkende website/applicatie op [mapserver.fa.knaw.nl/atlas][8] waarbij de historische kaarten leidend zijn.
 
+<!--
 <div id="attachment_1256" style="width: 610px" class="wp-caption alignnone">
   <img aria-describedby="caption-attachment-1256" loading="lazy" class="size-full wp-image-1256" src="/uploads/2016/10/steven-tweet.jpg" alt="Tweet/foto van Steve Ottens" width="600" height="384" srcset="/uploads/2016/10/steven-tweet.jpg 600w, /uploads/2016/10/steven-tweet-300x192.jpg 300w, /uploads/2016/10/steven-tweet-234x150.jpg 234w, /uploads/2016/10/steven-tweet-150x96.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" />
   
@@ -45,9 +46,13 @@ Na een korte inleiding van Just, met nog de uitnodiging om allen op de OSGeo.nl 
     Tweet/foto van Steven Ottens
   </p>
 </div>
+-->
+
+![ Tweet/foto van Steve Ottens ](/uploads/2016/10/steven-tweet.jpg)
 
 Verder de diepte in gingen we met Lennard Huisman: zijn presentatie liet gedegen zien &#8220;waar het nu werkelijk om gaat&#8221; als we over de verschillende projecties en transformaties rond RD spreken: waarom WGS84 en Google/Web Mercator &#8220;niet kloppen&#8221;, bewegende aardschollen, GPS, ETRS89, RDNAPTRANS, en vooral RD en/vs EPSG:28992. Vooral in deze tijd waarin we op sub-meter-nivo bezig zijn, denk aan BGT en BIM, was zijn presentatie relevant. Niet alleen schetste Lennard de problematiek en de manier om correcte transformaties tussen RD, EPSG:28992, ETRS89 en WGS84 uit te voeren, maar toonde ook een oplossing die hij bijgedragen heeft in de vorm van [&#8220;NTV2&#8221; transformatie][11] in met name GDAL/OGR waarin de RD grid correctie wordt meegenomen.  Onderstaand plaatje [uit zijn presentatie][9] schetst de hoofdlijnen. Zijn [artikel in de Geo-Info oktober 2014][12] geeft een goed overzicht.
 
+<!--
 <div id="attachment_1255" style="width: 610px" class="wp-caption alignnone">
   <img aria-describedby="caption-attachment-1255" loading="lazy" class="size-full wp-image-1255" src="/uploads/2016/10/LennardHuisman-Trans.jpg" alt="Transformaties tussen RD, EPSG:28992, ETRS89 en WGS84" width="600" height="332" srcset="/uploads/2016/10/LennardHuisman-Trans.jpg 600w, /uploads/2016/10/LennardHuisman-Trans-300x166.jpg 300w, /uploads/2016/10/LennardHuisman-Trans-250x138.jpg 250w, /uploads/2016/10/LennardHuisman-Trans-150x83.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" />
   
@@ -55,6 +60,9 @@ Verder de diepte in gingen we met Lennard Huisman: zijn presentatie liet gedegen
     Transformaties tussen RD, EPSG:28992, ETRS89 en WGS84
   </p>
 </div>
+-->
+
+![ Transformaties tussen RD, EPSG:28992, ETRS89 en WGS84 ](/uploads/2016/10/LennardHuisman-Trans.jpg)
 
 Na de pauze gaf Edward een overzicht van het praktisch gebruik van met name de [Open Source Proj][13].4 bibliotheek binnen toepassingen.
 
@@ -64,7 +72,6 @@ het voor de Open Source geo-community in Nederland gemakkelijk en inzichtelijk k
  [1]: https://www.meetup.com/OSGeoNL/events/234546607/
  [2]: https://nl.wikipedia.org/wiki/Rijksdriehoeksco%C3%B6rdinaten
  [3]: https://www.steggink.it
- [4]: http://www.cafedudok.com/
  [5]: http://io.osgeo.nl/sitecontent/events/RDMiniSeminar2016/inleiding.pdf
  [6]: http://io.osgeo.nl/sitecontent/events/RDMiniSeminar2016/ErikMeerburg.pdf
  [7]: http://io.osgeo.nl/sitecontent/events/RDMiniSeminar2016/ThomasVermaut.pdf
