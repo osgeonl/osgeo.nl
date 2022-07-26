@@ -14,7 +14,7 @@ categories:
 ---
 In 2012 gestart op Hogeschool Larenstein in Velp, in 2013 in samenwerking met TU Delft en dit jaar voor de derde achtereenvolgende keer als onderdeel van de [GeoBuzz][1] in &#8216;s-Hertogenbosch (Brabanthallen) maakt bij elkaar alweer de vijfde achtereenvolgende jaarlijkse OSGeo.nl Dag.
 
-Op onze <a href="https://wiki.osgeo.org/wiki/OSGeo.nl_dag_2016" target="_blank">wiki</a> kun je precies lezen hoe het zit met de voorbereiding van het programma en wat we nog aan &#8220;vacatures&#8221; voor de organisatie open hebben staan.
+Op onze [wiki][16] kun je precies lezen hoe het zit met de voorbereiding van het programma en wat we nog aan &#8220;vacatures&#8221; voor de organisatie open hebben staan.
 
 ## Aanmelden
 
@@ -65,7 +65,7 @@ Omdat voor deze workshop het aantal plaatsen beperkt is (ca. 20-25) vragen we j
 
 ### Inschrijven
 
-De OSGeo.nl dag is integraal onderdeel van de brede geocongres &#8220;<a href="http://www.geobuzz.nl" target="_blank">GeoBuzz</a>&#8220;. Dat betekent dat je een toegangsbewijs voor de GeoBuzz moet aanschaffen om de OSGeo.nl dag te bezoeken (en daarmee kun je uiteraard de gehele GeoBuzz bezoeken).
+De OSGeo.nl dag is integraal onderdeel van de brede geocongres &#8220;[GeoBuzz][1]&#8220;. Dat betekent dat je een toegangsbewijs voor de GeoBuzz moet aanschaffen om de OSGeo.nl dag te bezoeken (en daarmee kun je uiteraard de gehele GeoBuzz bezoeken).
 
 Kosten zijn 25 euro (excl. BTW en servicekosten) voor een dagkaart. Zie de GeoBuzz site voor details. Let er wel op dat de catering daar nog bij komt; hap en drank worden apart afgerekend.
 
@@ -98,3 +98,4 @@ Evenals vorige jaren is er na de eerste GeoBuzz beursdag een (netwerk-)diner. Vo
  [13]: https://osgeo.nl/sprekers-en-samenvattingen-osgeo-nl-dag-2016/#johan
  [14]: https://osgeo.nl/sprekers-en-samenvattingen-osgeo-nl-dag-2016/#baukje
  [15]: https://osgeo.nl/sprekers-en-samenvattingen-osgeo-nl-dag-2016/#workshop
+ [16]: https://wiki.osgeo.org/wiki/OSGeo.nl_dag_2016
