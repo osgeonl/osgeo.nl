@@ -19,7 +19,7 @@ tags:
 ---
 Op donderdag 20 oktober a.s. organiseert OSGeo.nl het mini-seminar &#8220;RD en Open Source Software&#8221;. Het doel is tweeledig: allereerst om de bezoeker kennis bij te brengen over coördinatenstelsels in het algemeen en het Rijksdriehoeksstelsel in het bijzonder. Het tweede doel is om coördinatenstelsels op een juiste manier toe te passen binnen software, waarbij de focus natuurlijk ligt op open source software.
 
-[Zie het verslag en links naar presentaties van dit seminar hier][1].
+[Zie het verslag en links naar presentaties van dit seminar hier][1]
 
 Het programma is als volgt:
 
@@ -35,13 +35,12 @@ Het programma is als volgt:
       * Discussie
   * 20:00: afsluiting
 
-Het mini-seminar zal worden gehouden in de bovenzaal van <a href="http://www.cafedudok.com" target="_blank">Café Dudok</a>, Larenseweg 1A te Hilversum.  Tijdens de pauze is het mogelijk om gebruik te maken van een warme maaltijd. De kosten hiervan bedragen €10,- (dagmenu). Geef bij je aanmelding aan of je hiervan gebruik maakt of niet. Geef s.v.p. ook aan of je gebruik wilt maken van een vegetarische maaltijd.
+Het mini-seminar zal worden gehouden in de bovenzaal van {{< broken-link data-href="http://www.cafedudok.com/" data-caption="Café Dudok">}}, Larenseweg 1A te Hilversum.  Tijdens de pauze is het mogelijk om gebruik te maken van een warme maaltijd. De kosten hiervan bedragen €10,- (dagmenu). Geef bij je aanmelding aan of je hiervan gebruik maakt of niet. Geef s.v.p. ook aan of je gebruik wilt maken van een vegetarische maaltijd.
 
 Aanmelden kan door je  
-hier op te geven via onze <a href="https://osgeo.nl/events/mini-seminar-rd-en-open-source-software/" target="_blank">Meetup-pagina</a> of door een mail te sturen naar info@osgeo.nl. Geef je uiterlijk zo. 16 oktober op als je mee wilt eten. Wie mee wil eten wordt verzocht gepast geld mee te nemen of €10,- over te maken op rekening NL72 INGB 0006276370 t.n.v. Stichting OSGEO.nl o.v.v. &#8220;RD-eten&#8221;.
+hier op te geven via onze [Meetup-pagina][2] of door een mail te sturen naar info@osgeo.nl. Geef je uiterlijk zo. 16 oktober op als je mee wilt eten. Wie mee wil eten wordt verzocht gepast geld mee te nemen of €10,- over te maken op rekening NL72 INGB 0006276370 t.n.v. Stichting OSGEO.nl o.v.v. &#8220;RD-eten&#8221;.
 
 Mocht iemand ervaring hebben met het opnemen van presentaties en gemakkelijk over de juiste apparatuur kan beschikken, laat het ons s.v.p. weten!
 
-&nbsp;
-
  [1]: https://osgeo.nl/2016/10/verslag-mini-seminar-rd/
+ [2]: https://osgeo.nl/events/mini-seminar-rd-en-open-source-software/
