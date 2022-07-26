@@ -20,6 +20,7 @@ Het OSGeo.org Marketing Committee,  voorgezeten door onze eigen Marc Vloemans, 
 
 Als OSGeo.org Lokale Afdeling (Chapter) willen we als OSGeo.nl natuurlijk graag volgen. Gelukkig heeft OSGeo.org zgn &#8220;SubBranding&#8221; gemakkelijk gemaakt door de [design-bestanden te delen via GitHub][2] en een [stijlgids][3] te leveren. Daardoor kon [Winifred Broeder][4] snel een toepasselijk nieuw logo voor OSGeo.nl maken, waarvoor dank! Zie hieronder en natuurlijk op onze website:
 
+<!--
 <div id="attachment_1633" style="width: 408px" class="wp-caption alignnone">
   <a href="/uploads/2017/09/Logo-OSGeoNL.png"><img aria-describedby="caption-attachment-1633" loading="lazy" class="size-full wp-image-1633" src="/uploads/2017/09/Logo-OSGeoNL.png" alt="" width="398" height="114" srcset="/uploads/2017/09/Logo-OSGeoNL.png 398w, /uploads/2017/09/Logo-OSGeoNL-300x86.png 300w, /uploads/2017/09/Logo-OSGeoNL-150x43.png 150w" sizes="(max-width: 398px) 100vw, 398px" /></a>
   
@@ -27,6 +28,9 @@ Als OSGeo.org Lokale Afdeling (Chapter) willen we als OSGeo.nl natuurlijk graag 
     2017 logo OSGeo.nl
   </p>
 </div>
+-->
+
+{{< a-img data-href="/uploads/2017/09/Logo-OSGeoNL.png" data-src="/uploads/2017/09/Logo-OSGeoNL.png" data-caption="2017 logo OSGeo.nl">}}
 
 Er zal komende tijd nog meer moeten gebeuren, denk aan verdere website updates, banners, visite-kaartjes en andere OSGeo.nl marketing-uitingen. In ieder geval is ons nieuwe logo al op de OSGeo.nl website te zien. Dat doet mij denken dat we nog een vacature hebben in het bestuur voor Marketing en Communicatie. Heb je praktische ervaring met web, media, design en/of &#8220;MarCom&#8221;? Laat ons weten via <bestuur@osgeo.nl>.
 
