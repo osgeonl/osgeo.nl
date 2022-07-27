@@ -21,14 +21,13 @@ Rijksdienst voor Oudheidkundig bodemonderzoek, later opgegaan in het RACM, dat w
 
 In de eerste jaren van deze eeuw (2001- 2003) werden door diverse organisaties (de Straat, ARIS) webviewers opgezet op basis van UMN Mapserver.
 
-RWS AGI (in 2007 opgegaan in de DID &#8211; Data en ICT-dienst, in 2013 hernoemd naar CIV &#8211; Centrale informatievoorziening) startte in 2003 met het project Geoservices  
-Aangghaald als voorbeeldproject op ICTU/NOIV site:  
-https://www.ictu.nl/archief/noiv.nl/voorbeeldprojecten/voorbeeldproject-geoservices-rijkswaterstaat-adviesdienst-geo-informatie-en-ict-agi/  
+RWS AGI (in 2007 opgegaan in de DID &#8211; Data en ICT-dienst, in 2013 hernoemd naar CIV &#8211; Centrale informatievoorziening) 
+startte in 2003 met het project Geoservices Aangghaald als voorbeeldproject op [ICTU/NOIV site][1]
 gebruikt: UMN mapserver (+Chameleon) en Deegree (voor CSW-catalogue service)
 
 NGR, sinds december 2007 (op basis van Geonetwork)
 
-GIS magazine special 2009: <http://www.gismagazine.nl/layouts/cmediagismagazine/secure/GIS/2009/GIS91LR.pdf>.
+GIS magazine special 2009: [PDF][2]
 
 Op de desktop is sinds pakweg 2009 QGis aan een opmars bezig. Aanvankeljk vooral bij de rond die tijd sterk groeiende groep ZZP-ers op het grensvlak van cartografie en GIS, sinds een paar jaar zien we ook bij grotere private partijen en bij overheden dat QGis omarmt wordt.
 
@@ -37,3 +36,6 @@ Wat opvalt is dat er in de gebruikte tooling vaak duurzamer is dan de organisati
 Postgis: 2001
 
 Geoserver: 2001
+
+[1]: https://www.ictu.nl/archief/noiv.nl/voorbeeldprojecten/voorbeeldproject-geoservices-rijkswaterstaat-adviesdienst-geo-informatie-en-ict-agi/  
+[2]: http://www.gismagazine.nl/layouts/cmediagismagazine/secure/GIS/2009/GIS91LR.pdf
