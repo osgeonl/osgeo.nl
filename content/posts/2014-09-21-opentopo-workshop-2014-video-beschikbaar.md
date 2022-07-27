@@ -21,8 +21,8 @@ tags:
 ---
 In het voorjaar van 2104 organiseerde OSGeo.nl samen met Jan-Willem van Aalst (Imergis) een tweetal OpenTopo workshops.  Hierin presenteerde Jan-Willem hoe hij met behulp van open geodata (BAG, Top10nl, NWB, OpenStreetMap) en open source doftware (NLExtract, QGis, PostGIS) zijn op de OOV sector gerichte variatie op de klassieke Top25 kaart van het Kadaster maakt.
 
-Drie delen van die workshop (genummerd, 4-5-6) staan vanaf nu ondertiteld en wel online op het <a title="OSGeo.nl Youtube kanaal" href="https://www.youtube.com/channel/UCK1e8j68uZZOw1Wpzc8qubA/videos" target="_blank">OSGeo.nl YouTube kanaal </a>
+Drie delen van die workshop (genummerd, 4-5-6) staan vanaf nu ondertiteld en wel online op het [OSGeo.nl YouTube kanaal][1]
 
 Daarmee is alvast ruim een uur unieke open geo lesmateriaal voor iedereen beschikbaar! Het resterende uur hopen we in de loop van deze maand beschikbaar te kunnen stellen.
 
-&nbsp;
+[1]: https://www.youtube.com/channel/UCK1e8j68uZZOw1Wpzc8qubA/videos
