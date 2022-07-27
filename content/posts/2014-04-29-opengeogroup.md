@@ -10,6 +10,5 @@ categories:
 format: image
 
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-19" src="/uploads/2014/04/logo-opengeogroep.gif" alt="logo-opengeogroep" width="210" height="160" />][1]
-
- [1]: /uploads/2014/04/logo-opengeogroep.gif
+<!-- <img loading="lazy" class="alignnone size-full wp-image-19" src="/uploads/2014/04/logo-opengeogroep.gif" alt="logo-opengeogroep" width="210" height="160" /> -->
+{{< a-img data-src="/uploads/2014/04/logo-opengeogroep.gif" data-href="http://geo-academie.nl/">}}

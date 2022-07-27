@@ -12,6 +12,4 @@ tags:
   - zilver
 
 ---
-[<img loading="lazy" class="size-full wp-image-21" src="/uploads/2014/04/logo-justobjects.png" alt="Just Objects" width="180" height="54" srcset="/uploads/2014/04/logo-justobjects.png 180w, /uploads/2014/04/logo-justobjects-160x48.png 160w" sizes="(max-width: 180px) 100vw, 180px" />][1]
-
- [1]: http://www.justobjects.nl/
+{{< a-img data-src="/uploads/2014/04/logo-justobjects.png" data-href="http://www.justobjects.nl/" data-caption="Just Objects" >}}
