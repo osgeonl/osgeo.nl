@@ -15,11 +15,14 @@ categories:
 Op de OpenTopo workshops door JW van Aalst bleek er behoefte te zijn aan workshops door OSGeo.nl rond basis tools: met name [PostGIS][1] en QGIS. Twee grote specialisten zijn bereid een PostGIS workshop te geven: Michel Sijmons ([Nibble IT][2]) en [Wouter Boasson][3] (RIVM/HAS). Organisator is [Just van den Broecke][4]. Vind hier de pagina met instructies, opgaven en data.  
 
 <!-- <img loading="lazy" class="alignleft wp-image-343" src="/uploads/2014/08/Logo_square_postgis-300x300.png" alt="Logo_square_postgis" width="112" height="112" srcset="/uploads/2014/08/Logo_square_postgis.png 300w, /uploads/2014/08/Logo_square_postgis-150x150.png 150w" sizes="(max-width: 112px) 100vw, 112px" /> -->
-{{< a-img data-src="/uploads/2014/08/Logo_square_postgis.png" data-caption="Logo square postgis" data-class="float_left" >}}
+{{< a-img data-src="/uploads/2014/08/Logo_square_postgis-150x150.png" data-caption="Logo square postgis" data-class="float_left" >}}
 
-Tijdstip/plaats:  do 9 oktober 2014 18:30-22:30 (soep en broodjes 18:30-19:30), in het [GeoFort][5] (met dank aan [Geo-Academie][6]!) Je kunt je vanaf nu opgeven via [onze Meetup][7] of via mail naar <events@osgeo.nl>.
+&nbsp;
 
+Tijdstip/plaats:  do 9 oktober 2014 18:30-22:30 (soep en broodjes 18:30-19:30), in het [GeoFort][5] (met dank aan [Geo-Academie][6]!) Je kunt je vanaf nu opgeven via [onze Meetup][7] of via mail naar <events@osgeo.nl>.  
 Wat zou je graag in zo&#8217;n workshop zien? Er staat een poll op de {{< broken-link data-href="http://www.meetup.com/OSGeoNL/polls/1111352" data-caption="OSGeoNL Meetup">}} <!-- {.moz-txt-link-freetext.broken_link} --> maar je kunt  ook direct max 6 van onderstaande opties mailen naar <events@osgeo.nl>.
+
+&nbsp;
 
   *  Installatie: hoe en wat: Mac/PC/Linux
   *  Beheer tools: PGAdmin III, PhpPgAdmin
