@@ -5,6 +5,9 @@ type: page
 date: 2014-05-12T17:52:45+00:00
 
 ---
+{{< gallery-slider dir="/home-slider/" width="100%" height="60vh">}}
+<!--  no-fa="true" no-jquery="true"  -->
+
 De missie van OSGeo.nl is het stimuleren van het gebruik en de ontwikkeling van 
 open source software voor geo-informatie in het Nederlandse taalgebied met als slogan: 
 "Wegwijs in Open Geo". Lees [wie we zijn en wat we doen][1] en bezoek ook ons [geoforum.nl][2]
