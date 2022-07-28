@@ -11,17 +11,18 @@ categories:
   - Verslag
 
 ---
-[<img loading="lazy" class="alignnone size-medium wp-image-307" src="/uploads/2013/06/osgeogent-300x262.jpg" alt="osgeogent" width="300" height="262" srcset="/uploads/2013/06/osgeogent-300x262.jpg 300w, /uploads/2013/06/osgeogent-171x150.jpg 171w, /uploads/2013/06/osgeogent-150x131.jpg 150w, /uploads/2013/06/osgeogent.jpg 820w" sizes="(max-width: 300px) 100vw, 300px" />][1]  
+<!-- [<img loading="lazy" class="alignnone size-medium wp-image-307" src="/uploads/2013/06/osgeogent-300x262.jpg" alt="osgeogent" width="300" height="262" srcset="/uploads/2013/06/osgeogent-300x262.jpg 300w, /uploads/2013/06/osgeogent-171x150.jpg 171w, /uploads/2013/06/osgeogent-150x131.jpg 150w, /uploads/2013/06/osgeogent.jpg 820w" sizes="(max-width: 300px) 100vw, 300px" />][1] -->
+{{< a-img data-href="http://www.geomajas.org/osgeogent2013" data-src="/uploads/2013/06/osgeogent.jpg" >}}
+
 De eerste Vlaamse editie van een OSGeo conferentie waarbij ook OSGeo.nl vertegenwoordiging. Thema was  
-&#8220;Today&#8217;s OSGeo market: experiences from users and suppliers. <span style="color: #231f20;">It will be an interesting opportunity to confront different points of view in order to establish the direction OSGeo is/should be heading for.</span>&#8221;
+&#8220;Today&#8217;s OSGeo market: experiences from users and suppliers. It will be an interesting opportunity to confront different points of view in order to establish the direction OSGeo is/should be heading for.&#8221;
 
 &nbsp;
 
-<!--more-->Vanuit OSGeo.nl sprak daar 
+<!--more-->
 
-[Just van den Broecke][2] over OSGeo.nl, [zie zijn slides hier][3]. Meer details, het programma en slides staan op [www.geomajas.org/osgeogent2013][1].
-
-&nbsp;
+Vanuit OSGeo.nl sprak daar [Just van den Broecke][2] over OSGeo.nl, [zie zijn slides hier][3].
+Meer details, het programma en slides staan op [www.geomajas.org/osgeogent2013][1].
 
  [1]: http://www.geomajas.org/osgeogent2013
  [2]: http://wiki.osgeo.org/wiki/User:Just

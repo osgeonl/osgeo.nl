@@ -11,9 +11,10 @@ categories:
   - Verslag
 
 ---
-Net als in 2012 organiseerde OSGeo.nl een [Open Source Seminar met nationale en internationale sprekers][1] op het Geospatial World Forum in het WTC in Rotterdam. Georganiseerd door: [Paul van Genuchten][2].
+Net als in 2012 organiseerde OSGeo.nl een [Open Source Seminar met nationale en internationale sprekers][1] op het Geospatial World Forum in het WTC in Rotterdam. Georganiseerd door: [Paul van Genuchten][2].
 
-[<img loading="lazy" class="alignnone wp-image-364 size-full" src="/uploads/2013/04/gwf13-foss.jpg" alt="gwf13-foss" width="800" height="691" srcset="/uploads/2013/04/gwf13-foss.jpg 800w, /uploads/2013/04/gwf13-foss-300x259.jpg 300w, /uploads/2013/04/gwf13-foss-173x150.jpg 173w, /uploads/2013/04/gwf13-foss-150x129.jpg 150w" sizes="(max-width: 800px) 100vw, 800px" />][1]
+<!-- [<img loading="lazy" class="alignnone wp-image-364 size-full" src="/uploads/2013/04/gwf13-foss.jpg" alt="gwf13-foss" width="800" height="691" srcset="/uploads/2013/04/gwf13-foss.jpg 800w, /uploads/2013/04/gwf13-foss-300x259.jpg 300w, /uploads/2013/04/gwf13-foss-173x150.jpg 173w, /uploads/2013/04/gwf13-foss-150x129.jpg 150w" sizes="(max-width: 800px) 100vw, 800px" />][1] -->
+{{< a-img data-href="http://www.geospatialworldforum.org/2013/open_pr.htm" data-src="/uploads/2013/04/gwf13-foss.jpg" >}}
 
  [1]: http://www.geospatialworldforum.org/2013/open_pr.htm
  [2]: http://wiki.osgeo.org/wiki/User:Genuchten
