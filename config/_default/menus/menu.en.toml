@@ -21,44 +21,49 @@
 [[main]]
   name = "Events"
   identifier = "Events"
-  url = "events/"
+  # url = "events/"
   weight = -108
+[[main]]
+  parent = "Events"
+  name = "Overzicht"
+  url = "events/"
+  weight = -99
 [[main]]
   parent = "Events"
   name = "FOSS4GNL 2021"
   # url = "writings/blog/"
   url = "https://foss4g.nl/"
-  weight = -99
+  weight = -98
 [[main]]
   parent = "Events"
   name = "FOSS4GNL 2019"
   url = "https://2019.foss4g.nl/"
-  weight = -98
+  weight = -97
 [[main]]
   parent = "Events"
   name = "FOSS4GNL 2018"
   url = "https://2018.foss4g.nl/"
-  weight = -97
+  weight = -96
 [[main]]
   parent = "Events"
   name = "FOSS4GNL 2017"
   url = "https://2017.foss4g.nl/"
-  weight = -96
+  weight = -95
 [[main]]
   parent = "Events"
   name = "QGIS Gebruikersdag 2018"
   url = "http://www.qgis.nl/2018/01/22/programma-gebruikersmiddag-compleet/"
-  weight = -95
+  weight = -94
 [[main]]
   parent = "Events"
   name = "GRASS GIS crash course"
   url = "grassgis-course/"
-  weight = -94
+  weight = -93
 [[main]]
   parent = "Events"
   name = "OSGeo.nl Dag 2017"
   url = "dag/"
-  weight = -93
+  weight = -92
 
 [[main]]
   name = "Nieuws"
@@ -75,18 +80,72 @@
 [[main]]
   name = "Community"
   identifier = "Community"
-  url = "community/"
+  # url = "community/"
   weight = -105
 [[main]]
   parent = "Community"
-  name = "Overview"
-  url = "projects/"
+  name = "Overzicht"
+  url = "community/"
   weight = -99
 [[main]]
   parent = "Community"
-  name = "Heron Mapping Client"
-  url = "http://heron-mc.org"
+  name = "Geoforum.nl"
+  url = "geoforum-nl/"
   weight = -98
+[[main]]
+  parent = "Community"
+  name = "Leer!"
+  url = "community/leer/"
+  weight = -97
+[[main]]
+  parent = "Community"
+  name = "Wiki"
+  url = "wiki/"
+  weight = -96
+[[main]]
+  parent = "Community"
+  name = "Blogs"
+  url = "blog/"
+  weight = -95
+[[main]]
+  parent = "Community"
+  name = "Aanbieders"
+  url = "aanbieders/"
+  weight = -94
+[[main]]
+  parent = "Community"
+  name = "Verslagen"
+  url = "verslagen/"
+  weight = -93
+[[main]]
+  parent = "Community"
+  identifier = "geoNetwork-gebruikersGroep"
+  name = "GeoNetwork GebruikersGroep"
+  # url = "verslagen/"
+  weight = -92
+[[main]]
+  parent = "geoNetwork-gebruikersGroep"
+  name = "Overzicht"
+  # url = "overzicht/"
+  url = "geonetwork-gebruikersgroep/"
+  weight = -99
+[[main]]
+  parent = "geoNetwork-gebruikersGroep"
+  name = "Best practices"
+  # url = "geonetwork-gebruikersgroep/best-practices/"
+  url = "best-practices/"
+  weight = -98
+[[main]]
+  parent = "geoNetwork-gebruikersGroep"
+  name = "Documentatie"
+  # url = "geonetwork-gebruikersgroep/documentatie/"
+  url = "documentatie/"
+  weight = -97
+[[main]]
+  parent = "Community"
+  name = "QGIS Gebruikersgroep"
+  url = "https://qgis.nl/"
+  weight = -91
 
 [[main]]
   name = "Sponsors"
