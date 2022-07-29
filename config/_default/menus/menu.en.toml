@@ -4,134 +4,99 @@
 #  weight = -110
 
 [[main]]
-  name = "About"
-  url = "about/"
+  name = "Thuis"
+  url = "/"
+  weight = -111
+
+[[main]]
+  name = "Over"
+  url = "over-ons/"
+  weight = -110
+
+[[main]]
+  name = "Meedoen"
+  url = "meedoen/"
   weight = -109
 
 [[main]]
-  name = "Writings"
-  identifier = "Writings"
-  # url = "writings/"
+  name = "Events"
+  identifier = "Events"
+  url = "events/"
   weight = -108
 [[main]]
-  parent = "Writings"
-  name = "Blog"
+  parent = "Events"
+  name = "FOSS4GNL 2021"
   # url = "writings/blog/"
-  # url = "blog/"
-  url = "posts/"
+  url = "https://foss4g.nl/"
   weight = -99
 [[main]]
-  parent = "Writings"
-  name = "Tweets"
-  # url = "writings/tweets/"
-  url = "tweets/"
+  parent = "Events"
+  name = "FOSS4GNL 2019"
+  url = "https://2019.foss4g.nl/"
   weight = -98
 [[main]]
-  parent = "Writings"
-  name = "Presentations"
-  # url = "writings/presentations/"
-  url = "presentations/"
+  parent = "Events"
+  name = "FOSS4GNL 2018"
+  url = "https://2018.foss4g.nl/"
   weight = -97
 [[main]]
-  parent = "Writings"
-  name = "Publications"
-  # url = "writings/publications/"
-  url = "publications/"
+  parent = "Events"
+  name = "FOSS4GNL 2017"
+  url = "https://2017.foss4g.nl/"
   weight = -96
+[[main]]
+  parent = "Events"
+  name = "QGIS Gebruikersdag 2018"
+  url = "http://www.qgis.nl/2018/01/22/programma-gebruikersmiddag-compleet/"
+  weight = -95
+[[main]]
+  parent = "Events"
+  name = "GRASS GIS crash course"
+  url = "grassgis-course/"
+  weight = -94
+[[main]]
+  parent = "Events"
+  name = "OSGeo.nl Dag 2017"
+  url = "dag/"
+  weight = -93
 
 [[main]]
-  name = "Projects"
-  identifier = "Projects"
-  url = "projects/"
+  name = "Nieuws"
+  identifier = "Nieuws"
+  url = "nieuws/"
   weight = -107
+
 [[main]]
-  parent = "Projects"
+  name = "Agenda"
+  identifier = "Agenda"
+  url = "agenda/"
+  weight = -106
+
+[[main]]
+  name = "Community"
+  identifier = "Community"
+  url = "community/"
+  weight = -105
+[[main]]
+  parent = "Community"
   name = "Overview"
   url = "projects/"
   weight = -99
 [[main]]
-  parent = "Projects"
-  # name = "Heron Mapping Client →"
+  parent = "Community"
   name = "Heron Mapping Client"
   url = "http://heron-mc.org"
   weight = -98
-[[main]]
-  parent = "Projects"
-  # name = "GeoHealthCheck – OGC GeoSpatial Web Service Monitoring →"
-  name = "GeoHealthCheck – OGC GeoSpatial Web Service Monitoring"
-  url = "https://geohealthcheck.org"
-  weight = -97
-[[main]]
-  parent = "Projects"
-  name = "Smart Emission – Open Sensor Web Platform"
-  url = "http://data.smartemission.nl"
-  weight = -96
-[[main]]
-  parent = "Projects"
-  name = "Stetl – Streaming ETL"
-  url = "http://stetl.org"
-  weight = -95
-[[main]]
-  parent = "Projects"
-  name = "NLExtract – Unlock Dutch Geodata"
-  url = "http://nlextract.nl"
-  weight = -94
-[[main]]
-  parent = "Projects"
-  name = "INSPIRE FOSS – Free and Open Source for INSPIRE"
-  url = "https://github.com/justb4/inspire-foss"
-  weight = -93
-[[main]]
-  parent = "Projects"
-  name = "7Scenes – create mobile games and tours"
-  url = "http://7scenes.com"
-  weight = -92
-[[main]]
-  parent = "Projects"
-  name = "MapGlow – heatmaps via WMS"
-  url = "https://github.com/justb4/mapglow"
-  weight = -91
-[[main]]
-  parent = "Projects"
-  name = "GeoSkating – map your inline skating tracks"
-  url = "http://geoskating.com"
-  weight = -90
-[[main]]
-  parent = "Projects"
-  name = "GeoRambling – Just’s Multimedial GPS Hikes"
-  url = "http://georambling.com"
-  weight = -89
-[[main]]
-  parent = "Projects"
-  name = "Pushlets – PubSub via HTTP"
-  url = "http://pushlets.com"
-  weight = -88
-[[main]]
-  parent = "Projects"
-  name = "CowCatcher – Free Java Training Materials"
-  url = "http://justobjects.org/cowcatcher"
-  weight = -87
 
 [[main]]
-  name = "Products"
-  identifier = "Products"
-  url = "products/"
-  weight = -102
-[[main]]
-  parent = "Products"
-  name = "map5.nl"
-  url = "map5/"
-  weight = -99
-[[main]]
-  parent = "Products"
-  name = "geoqos.com"
-  url = "geoqos/"
-  weight = -98
+  name = "Sponsors"
+  url = "sponsors/"
+  weight = -104
 
 [[main]]
   name = "Contact"
   url = "contact/"
-  weight = -101
+  weight = -103
 
 # [[main]]
 #  name = "Archives"
