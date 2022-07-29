@@ -6,3 +6,11 @@ h2
     margin-top: -50px
     top: auto
     left: calc(100% + 5px)
+  &_open + &_sub > &_sub::before
+    top: 20%
+    left: -0.5rem
+    transform: rotate(-90deg)
+  &_open + &_sub > &_sub > &_child:first-child::before
+    border: none
+  &_open + &_sub &_child
+    padding-top: 0

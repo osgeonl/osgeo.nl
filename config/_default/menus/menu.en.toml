@@ -120,7 +120,7 @@
 [[main]]
   parent = "Community"
   identifier = "geoNetwork-gebruikersGroep"
-  name = "GeoNetwork GebruikersGroep"
+  name = "GeoNetwork GebruikersGroep &#8227;"
   # url = "verslagen/"
   weight = -92
 [[main]]

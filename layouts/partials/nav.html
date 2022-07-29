@@ -30,7 +30,7 @@
           {{- $name = .Name }}
           {{- $url = absLangURL .URL }}
         {{- end }}
-        <a href="{{ $url }}" class="nav_child nav_item" title="{{ $name }}">{{ $name }}</a>
+        <a href="{{ $url }}" class="nav_child nav_item" title="{{ $name }}">{{ $name | safeHTML }}</a>
         {{- with $children }}
         <div class="nav_sub">
           <span class="nav_child"></span>
