@@ -37,6 +37,19 @@
             {{ end }}
           </div>
 
+          <div>
+            # RECENT POSTS
+            {{ range ( last 2 ( where .Site.Pages "Type" "in" site.Params.mainSections ).ByDate ) }}
+              <div style="display:flex;flex-direction:row;">
+                <div style="background-image:url({{ .Param "featured_image" }}); background-repeat:no-repeat;height:100px;width:100%;">&nbsp;</div>
+                <div>
+                  <a href="{{ .Permalink }}">{{ .Title }}</a>
+                </div>
+              </div>
+            {{ end }}
+            # RECENT POSTS+
+          </div>
+        
           {{- partial "sidebar" . }}
         </div>
     </main>
