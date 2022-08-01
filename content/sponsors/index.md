@@ -11,6 +11,35 @@ Wilt u ook OSGeo.nl sponsoren? Kijk dan [hier in ons sponsorplan][2].
 
 ## Goud sponsors
 
+{{< a-img data-href="http://www.opengeogroep.nl" data-src="/uploads/2014/04/logo-opengeogroep.gif" data-class="float_left" >}}
+{{< a-img data-href="https://www.geocat.net/" data-src="/uploads/2014/04/logo-geocat.png" data-class="float_right" >}}
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+## Zilver sponsors
+
+{{< a-img data-href="http://justobjects.nl/" data-src="/uploads/2014/04/logo-justobjects.png" data-class="float_left" >}}
+{{< a-img data-href="http://geo-academie.nl/" data-src="/uploads/2014/04/logo-geoacademie.png" data-class="float_right" >}}
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+{{< a-img data-href="https://www.steggink.it/" data-src="/uploads/2014/04/steggink_32px.png" data-class="float_right" >}}
+
+Uw logo hier?
+
+<!--
 <table>
   <tr>
     <td style="vertical-align: middle; border-color: #fff;">
@@ -49,26 +78,31 @@ Wilt u ook OSGeo.nl sponsoren? Kijk dan [hier in ons sponsorplan][2].
     </td>
   </tr>
 </table>
+-->
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ## Brons sponsor
 
-<a href="http://www.ruimteschepper.nl" target="_blank" rel="noopener"><img loading="lazy" class="alignnone wp-image-1242 size-medium" src="/uploads/2016/10/Ruimteschepper-logo-Donker-300x169.png" alt="Ruimteschepper" width="300" height="169" srcset="/uploads/2016/10/Ruimteschepper-logo-Donker-300x169.png 300w, /uploads/2016/10/Ruimteschepper-logo-Donker-768x432.png 768w, /uploads/2016/10/Ruimteschepper-logo-Donker-250x141.png 250w, /uploads/2016/10/Ruimteschepper-logo-Donker-150x84.png 150w, /uploads/2016/10/Ruimteschepper-logo-Donker.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<!-- <a href="http://www.ruimteschepper.nl" target="_blank" rel="noopener"><img loading="lazy" class="alignnone wp-image-1242 size-medium" src="/uploads/2016/10/Ruimteschepper-logo-Donker-300x169.png" alt="Ruimteschepper" width="300" height="169" srcset="/uploads/2016/10/Ruimteschepper-logo-Donker-300x169.png 300w, /uploads/2016/10/Ruimteschepper-logo-Donker-768x432.png 768w, /uploads/2016/10/Ruimteschepper-logo-Donker-250x141.png 250w, /uploads/2016/10/Ruimteschepper-logo-Donker-150x84.png 150w, /uploads/2016/10/Ruimteschepper-logo-Donker.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></a> -->
+{{< a-img data-href="http://www.ruimteschepper.nl/" data-src="/uploads/2016/10/Ruimteschepper-logo-Donker-800x100.png" >}}
+
+&nbsp;
+
+&nbsp;
 
 ## Aanvullende sponsoring
 
-<table>
-  <tr>
-    <td style="vertical-align: middle; border-color: #fff;">
-      Hosting en WordPress beheer door <a href="https://rwgc.nl/">Ron Wardenier GeoConsult</a>.
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="vertical-align: middle; border-color: #fff;">
-      <a href="http://webmapper.net" target="_blank" rel="noopener">WebMapper</a> bekostigt onze <a href="https://www.meetup.com/OSGeoNL">Meetup groep</a>.
-    </td>
-  </tr>
-</table>
+Hosting en WordPress beheer door [Ron Wardenier GeoConsult][3].
+
+[WebMapper][4] bekostigt onze [Meetup groep][5]
 
  [1]: http://osgeo.nl/dag
  [2]: http://wiki.osgeo.org/wiki/Nederlands/Sponsoring
+ [3]: https://rwgc.nl/
+ [4]: http://webmapper.net
+ [5]: https://www.meetup.com/OSGeoNL
