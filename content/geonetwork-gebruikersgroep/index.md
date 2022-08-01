@@ -5,11 +5,12 @@ type: page
 date: 2016-05-25T14:56:53+00:00
 
 ---
-<img loading="lazy" class="size-full wp-image-1110" src="/wp-content/uploads/2016/01/geonetwork-logo.gif" alt="GeoNetwork Community Logo" width="290" height="123" align="right" />Het Open Source Software product GeoNetwork wordt op vele plekken gebruikt binnen de Nederlandse Overheid. Binnen de GeoNetwork GebruikersGroep willen we het uitwisseling van kennis over het gebruik van GeoNetwork stimuleren. Daardoor kunnen we van elkaar kunnen leren en meer en beter samen optrekken in de ontwikkelingen om mogelijk hergebruik te stimuleren.
+<!-- <img loading="lazy" class="size-full wp-image-1110" src="/wp-content/uploads/2016/01/geonetwork-logo.gif" alt="GeoNetwork Community Logo" width="290" height="123" align="right" /> -->
+{{< a-img data-href="javascript:return false;" data-src="/uploads/2016/01/geonetwork-logo.gif" data-class="float_right" >}}
 
-<p style="text-align: left;">
-  Alle organisaties die met GeoNetwork (willen gaan) werken zijn van harte uitgenodigd om aan te schuiven.  We komen 4 keer per jaar bij elkaar.
-</p>
+Het Open Source Software product GeoNetwork wordt op vele plekken gebruikt binnen de Nederlandse Overheid. Binnen de GeoNetwork GebruikersGroep willen we het uitwisseling van kennis over het gebruik van GeoNetwork stimuleren. Daardoor kunnen we van elkaar kunnen leren en meer en beter samen optrekken in de ontwikkelingen om mogelijk hergebruik te stimuleren.
+
+Alle organisaties die met GeoNetwork (willen gaan) werken zijn van harte uitgenodigd om aan te schuiven.  We komen 4 keer per jaar bij elkaar.
 
 Er is een mailinglijst waarop je je kunt abonneren:
 
