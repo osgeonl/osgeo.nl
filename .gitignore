@@ -3,4 +3,5 @@ docs/
 resources/_gen/
 .coverage
 .cache
+.hugo_build.lock
 *~
