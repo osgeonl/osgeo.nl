@@ -25,39 +25,34 @@
   weight = -108
 [[main]]
   parent = "Events"
-  name = "Overzicht"
-  url = "events/"
-  weight = -99
-[[main]]
-  parent = "Events"
-  name = "Overzicht"
+  name = "Overzicht - Events"
   # url = "events/"
   url = "categories/event/"
   weight = -98
 [[main]]
   parent = "Events"
-  name = "FOSS4GNL 2021"
+  name = "FOSS4GNL 2021 &neArr;"
   # url = "writings/blog/"
   url = "https://foss4g.nl/"
   weight = -97
 [[main]]
   parent = "Events"
-  name = "FOSS4GNL 2019"
+  name = "FOSS4GNL 2019 &neArr;"
   url = "https://2019.foss4g.nl/"
   weight = -96
 [[main]]
   parent = "Events"
-  name = "FOSS4GNL 2018"
+  name = "FOSS4GNL 2018 &neArr;"
   url = "https://2018.foss4g.nl/"
   weight = -95
 [[main]]
   parent = "Events"
-  name = "FOSS4GNL 2017"
+  name = "FOSS4GNL 2017 &neArr;"
   url = "https://2017.foss4g.nl/"
   weight = -94
 [[main]]
   parent = "Events"
-  name = "QGIS Gebruikersdag 2018"
+  name = "QGIS Gebruikersdag 2018 &neArr;"
   url = "http://www.qgis.nl/2018/01/22/programma-gebruikersmiddag-compleet/"
   weight = -93
 [[main]]
@@ -92,7 +87,7 @@
   weight = -105
 [[main]]
   parent = "Community"
-  name = "Overzicht"
+  name = "Overzicht - Community"
   url = "community/"
   weight = -99
 [[main]]
@@ -155,7 +150,7 @@
   weight = -97
 [[main]]
   parent = "Community"
-  name = "QGIS Gebruikersgroep"
+  name = "QGIS Gebruikersgroep &neArr;"
   url = "https://qgis.nl/"
   weight = -91
 
