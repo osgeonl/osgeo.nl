@@ -31,7 +31,8 @@
 [[main]]
   parent = "Events"
   name = "Overzicht"
-  url = "events/"
+  # url = "events/"
+  url = "categories/event/"
   weight = -98
 [[main]]
   parent = "Events"
@@ -73,7 +74,9 @@
 [[main]]
   name = "Nieuws"
   identifier = "Nieuws"
-  url = "nieuws/"
+  # url = "nieuws/"
+  # url = "category/nieuws/"
+  url = "categories/nieuws/"
   weight = -107
 
 [[main]]
@@ -100,7 +103,8 @@
 [[main]]
   parent = "Community"
   name = "Leer!"
-  url = "community/leer/"
+  # url = "community/leer/"
+  url = "categories/educatief/"
   weight = -97
 [[main]]
   parent = "Community"
@@ -120,7 +124,8 @@
 [[main]]
   parent = "Community"
   name = "Verslagen"
-  url = "verslagen/"
+  # url = "verslagen/"
+  url = "categories/verslag/"
   weight = -93
 [[main]]
   parent = "Community"
@@ -130,7 +135,9 @@
   weight = -92
 [[main]]
   parent = "geoNetwork-gebruikersGroep"
-  name = "Overzicht"
+  ## Cant use this name as it is taken
+  # name = "Overzicht"
+  name = "Overzicht - GeoNetwork"
   # url = "overzicht/"
   url = "geonetwork-gebruikersgroep/"
   weight = -99
