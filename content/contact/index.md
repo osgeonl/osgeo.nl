@@ -10,7 +10,10 @@ Twitter: [@osgeo][2] [#osgeonl][3]
 Mailing lijst: [lists.osgeo.org/mailman/listinfo/dutch][4]  
 Wiki: [wiki.osgeo.org/wiki/Nederlands][5]  
 Agenda: [meetup.com/OSGeoNL][6]  
-Postadres: van der Hoochlaan 3, 1181PL Amstelveen
+Postadres: van der Hoochlaan 3, 1181PL Amstelveen  
+Bank: NL72 INGB 0006276370 t.n.v. STICHTING OSGEO.NL  
+SWIFT/BIC: INGBNL2A  
+Kamer van Koophandel: 58214763
 
 [1]: mailto:info@osgeo.nl "info@osgeo.nl"
 [2]: https://twitter.com/osgeonl "@osgeo"
