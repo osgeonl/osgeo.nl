@@ -42,7 +42,7 @@
                   <div class="excerpt">
                     <div class="excerpt_header">
                       <h3 class="post_link">
-                        <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title | markdownify  }}</a>
+                        <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title | markdownify | truncate 36 }}</a>
                       </h3>
 
                       <!-- the thumbnail portions somewhere below doesn't work so we devised our own as follows ... -->
