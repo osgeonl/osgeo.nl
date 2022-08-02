@@ -35,21 +35,58 @@
               <h1 class="post_title">{{ .Title }}</h1>
               {{ .Content }}
             {{ end }}
-          </div>
 
-          <div>
-            # RECENT POSTS
-            {{ range ( last 2 ( where .Site.Pages "Type" "in" site.Params.mainSections ).ByDate ) }}
-              <div style="display:flex;flex-direction:row;">
-                <div style="background-image:url({{ .Param "featured_image" }}); background-repeat:no-repeat;height:100px;width:100%;">&nbsp;</div>
-                <div>
-                  <a href="{{ .Permalink }}">{{ .Title }}</a>
-                </div>
+            <div class="homepage_recent_posts" >
+              {{ range ( first 2 ( where .Site.Pages "Type" "in" site.Params.mainSections ).ByDate.Reverse ) }}
+
+                  <div class="excerpt">
+                    <div class="excerpt_header">
+                      <h3 class="post_link">
+                        <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title | markdownify  }}</a>
+                      </h3>
+
+                      <!-- the thumbnail portions somewhere below doesn't work so we hacked purt own as follows ... -->
+                      <div style="background-image:url({{ .Param "featured_image" }}); background-size:contain;background-position:center;background-repeat:no-repeat;height:300px;width:100%;">&nbsp;</div>
+                    </div>
+                    {{- with .Params.thumbnail }}
+                    <div class="excerpt_footer partition">
+                      <div class="excerpt_thumbnail">
+                        {{- partial "image" (dict "file" . "alt" $.Title "type" "thumbnail" "Page" $.Page ) }}
+                      </div>
+                      {{ else }}
+                      <div class="excerpt_footer">
+                        {{- end }}
+                        <div class="pale">
+                          {{- $summary := truncate 320 .Summary }}
+                          {{- if .Params.summary }}
+                            {{- $summary = .Params.summary }}
+                          {{- else if .Params.abstract }}
+                            {{ $summary = .Params.abstract }}
+                          {{- end }}
+                          {{ if not ( strings.Contains $summary "<p>" ) }}
+                            <p>{{ $summary | markdownify }}</p>
+                          {{ else }}
+                            {{ $summary | markdownify }}
+                          {{ end }}
+                          <br>
+                          {{- $r := T "read_more" }}
+                          <a href="{{ .Permalink }}" title="{{ $r }}" class="excerpt_more button">{{ $r }}</a>
+                        </div>
+                      </div>
+
+                      {{ partial "post-meta" . }}
+
+                    </div>
+                
+              {{ end }}
               </div>
-            {{ end }}
-            # RECENT POSTS+
-          </div>
-        
+
+              <div class="homepage_more_posts">
+                <a href="{{ "categories/nieuws/" | relURL }}" class="excerpt_more button" >Meer berichten</a>
+              </div>
+
+            </div>
+         
           {{- partial "sidebar" . }}
         </div>
     </main>
