@@ -4,7 +4,8 @@ author: Just van den Broecke
 type: post
 date: 2018-02-13T22:33:25+00:00
 url: /2018/02/verslag-nieuwjaarsborrel-2018/
-featured_image: /uploads/2018/02/njborrel18-0-150x84.jpg
+# featured_image: /uploads/2018/02/njborrel18-0-150x84.jpg
+featured_image: /uploads/2018/02/njborrel18-0.jpg
 categories:
   - Actueel
   - Artikel

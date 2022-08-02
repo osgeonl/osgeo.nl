@@ -4,7 +4,8 @@ author: Frank Steggink
 type: post
 date: 2018-04-30T09:47:39+00:00
 url: /2018/04/verslag-nlextract-hacking-day/
-featured_image: /uploads/2018/04/IMG_5606-150x113.jpg
+# featured_image: /uploads/2018/04/IMG_5606-150x113.jpg
+featured_image: /uploads/2018/04/IMG_5606.jpg
 categories:
   - Actueel
   - Event
