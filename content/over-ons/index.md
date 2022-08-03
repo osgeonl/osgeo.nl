@@ -2,7 +2,7 @@
 title: Over ons
 author: wpadmin
 type: page
-date: 2014-04-16T06:52:35+00:00
+date: 2022-08-03T06:52:35+00:00
 
 ---
 Lees hieronder meer over OSGeo.nl.
@@ -26,14 +26,17 @@ Toch maar even voor de duidelijkheid: De stichting OSGeo.nl verricht géén comm
 
 ### Samenstelling Bestuur
 
-Op dit moment (10.07.2018) bestaat het bestuur van de stichting OSGeo.nl uit:
+Op dit moment (3.aug.2022) bestaat het bestuur van de stichting OSGeo.nl uit:
 
   * [Just van den Broecke][17] &#8211; voorzitter
-  * [Paulo van Breugel][18] &#8211; secretaris
-  * [Barend Köbben][19] &#8211; penningmeester
-  * Marketing en communicatie: we hebben een vacature, [laat ons weten][3]!
+  * [Paulo van Breugel][18] &#8211; secretaris en penningmeester
+  * we hebben een vacatures!, [laat ons weten][3]!
 
-Eerdere bestuursleden waren o.a. [Marc Vloemans][20] &#8211; communicatie (tot 1 juli 2017), [Gert-Jan van der Weijden][21] &#8211; voorzitter (tot 1 juli 2017) en [Steven Ottens][22]. Jasper Roest &#8211; communicatie (tot 14 maart 2019).
+Eerdere bestuursleden waren 
+o.a. [Marc Vloemans][20] &#8211; communicatie (tot 1 juli 2017),
+ [Gert-Jan van der Weijden][21] &#8211; voorzitter (tot 1 juli 2017), 
+[Barend Köbben][19] &#8211; penningmeester (tot 1 jan 2022).
+en [Steven Ottens][22]. Jasper Roest &#8211; communicatie (tot 14 maart 2019).
 
 Verslagen van de bestuursvergaderingen [staan op de Wiki][5].
 

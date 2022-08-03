@@ -172,14 +172,24 @@
   weight = 2
   url = "https://twitter.com/osgeonl"
 [[social]]
-  name = "flickr"
+  name = "youtube"
   type = "social"
   weight = 3
-  url = "https://www.flickr.com/groups/osgeonl"
+  url = "https://www.youtube.com/channel/UCvSAN6ur4RoGUqxtvmgsb8g"
 [[social]]
-  name = "rss"
-  url = "http://osgeo.nl/feed/"
+  name = "github"
+  type = "social"
   weight = 4
+  url = "https://github.com/osgeonl"
+#[[social]]
+#  name = "flickr"
+#  type = "social"
+#  weight = 3
+#  url = "https://www.flickr.com/groups/osgeonl"
+#[[social]]
+#  name = "rss"
+#  url = "http://osgeo.nl/feed/"
+#  weight = 4
 
 # other supported social links
 # name = "youtube"
