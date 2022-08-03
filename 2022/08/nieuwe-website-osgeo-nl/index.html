@@ -13,13 +13,6 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<script async src="https://www.googletagmanager.com/gtag/js?id=XXXXXXXXXX"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'XXXXXXXXXX');
-</script>
 
 
 
@@ -262,18 +255,22 @@ bijv <a href="https://tv.osgeo.nl">tv.osgeo.nl</a>, ook al een Hugo site.</p>
 <p>Hugo is een zogenaamde
 &lsquo;statische website generator&rsquo;. Er is geen database, PHP en andere hosting meer nodig.
 Je hoeft alleen wat &ldquo;markdown&rdquo; bestanden te maken.</p>
-<p>Hoe werkt dit dan met dat Hugo?</p>
+<p>Hoe werkt deze website dan met dat Hugo?</p>
 <ul>
 <li>alle &lsquo;content&rsquo; wordt beheerd in een <a href="https://github.com/osgeonl/osgeo.nl">GitHub repository</a></li>
-<li>de content is in &ldquo;markdown&rdquo;, <code>.md</code> files, <a href="https://github.com/osgeonl/osgeo.nl/blob/main/content/posts/2022-08-03-nieuwe-website-osgeo-nl.md">zoals deze pagina</a></li>
-<li>&ldquo;blog&rdquo; posts worden netjes gerangschikt</li>
+<li>de content is in &ldquo;markdown&rdquo;, <code>.md</code> files, <a href="https://raw.githubusercontent.com/osgeonl/osgeo.nl/main/content/posts/2022-08-03-nieuwe-website-osgeo-nl.md">zoals deze pagina</a></li>
+<li>&ldquo;blog&rdquo; posts (en pages) worden netjes gerangschikt (middels metadata in .md file!)</li>
 <li>binnen GitHub wordt via &lsquo;GitHub Pages&rsquo; statische content (HTML) geserveerd</li>
-<li>dit kan zelfs op eigen domein (dus osgeo.nl) en met SSL/HTTPS</li>
+<li>dit kan zelfs op eigen domein (dus hier osgeo.nl)</li>
+<li>ook SSL/HTTPS certificaten worden (door GitHub) automatisch gegenereerd en uptodate gehouden</li>
 <li>het genereren en publiceren gebeurt automagisch binnen een <a href="https://github.com/osgeonl/osgeo.nl/blob/main/.github/workflows/publish.yml">GitHub Workflow</a> op een &ldquo;commit/push&rdquo;</li>
+<li>geen &ldquo;dynamic content&rdquo; dus, maar anderzijds ook geen cookies/trackers/Google Analytics meer</li>
 </ul>
-<p>Het onderhoud aan de website komt dan neer op het beheren van een standaard
-GitHub Open Source repository. Het automatisch publiceren is in feite een vorm van CI/CD&hellip;.</p>
-<p>In eerste instantie is de &ldquo;content&rdquo; as-is gemigreerd. we zijn nu druk bezig alle
+<p>Het onderhoud aan de website komt (met Hugo) neer op het beheren van een standaard
+GitHub Open Source repository. Het automatisch publiceren is in feite een vorm van CI/CD&hellip;.
+Dit wordt ook wel &ldquo;GitOps&rdquo; genoemd. Ok, we doen dit nu op GitHub, maar gaat om technisch
+principe dat zo weer op ander Git-systeem als GitLab is over te zetten. Voor nu even GitHub.</p>
+<p>In eerste instantie is de &ldquo;content&rdquo; as-is gemigreerd. We zijn nu druk bezig alle
 &ldquo;glitches&rdquo; te repareren. Wil je meehelpen of een eigen hoekje hier? Laat ons weten!</p>
 
     </div>
