@@ -1,5 +1,5 @@
-# baseURL = "/"
-baseURL = "http://osgeo.nl/"
+baseURL = "/"
+# baseURL = "http://osgeo.nl/"
 languageCode = "en-us"
 title = "OSGeo.nl - Wegwijs in Open Geo"
 theme = "hugo-clarity"
