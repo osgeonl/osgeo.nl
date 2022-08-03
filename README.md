@@ -24,10 +24,30 @@ Followed latter steps:
 * Pick Upload Plugin and choose the ZIP file you just downloaded
 * Activate the plugin after installation
 * Once the plugin is installed, you can try to go to Tools > Export to Hugo. That page might take a while to load.
-  
 
 Using the [Hugo Clarity Theme](https://github.com/chipzoller/hugo-clarity).
 
 Added GitHub Workflows, hosting on GitHub. 
 
 Now maintaining the site is a breeze!
+
+## DNS and GitHub Custom Domain
+
+* DNS: new.osgeo.nl CNAME defined to osgeonl.github.io
+* in root of `gh-pages` branch have file CNAME containing new.osgeo.nl
+* later: replace with root domain osgeo.nl, then we need A records and CNAME for www
+
+## Maintain
+
+* clone or fork GitHub repo
+* make changes, commit and push
+* on any commit the GitHub Workflow [pubish.yml](.github/workflows/publish.yml) will run
+* site is then (re-)published on `gh-pages` branch in GitHub repo
+
+Test locally first:
+
+* have Hugo installed locally
+* `git submodule update --init --recursive`
+* `hugo server -D -w`  
+* In browser, visit the site at http://localhost:1313 (or whatever address printed out by Hugo in the command line)
+* push changes to GitHub with comments, e.g. `./push-git.sh comments`
