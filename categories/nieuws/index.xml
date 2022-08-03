@@ -6,7 +6,23 @@
     <description>Recent content in Nieuws on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Apr 2018 09:47:39 +0000</lastBuildDate><atom:link href="/categories/nieuws/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Aug 2022 19:47:39 +0000</lastBuildDate><atom:link href="/categories/nieuws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nieuwe website osgeo.nl</title>
+      <link>/2022/08/nieuwe-website-osgeo-nl/</link>
+      <pubDate>Wed, 03 Aug 2022 19:47:39 +0000</pubDate>
+      
+      <guid>/2022/08/nieuwe-website-osgeo-nl/</guid>
+      <description>
+        
+          
+            Op wo 3 augustus 2022, bij 30 graden, brachten we onze nieuwe website osgeo.nl online. Om kosten en gemak van onderhoud te faciliteren is de oude website gemigreerd van Wordpress naar Hugo. Met dank aan Ron Wardenier voor het jarenlang onderhouden van onze website en &amp;lsquo;Peter Govind&amp;rsquo; uit Maleisië (via freelancer.com) voor het opschonen van de WP export. Maar Ron is nog niet weg, we zijn allemaal &amp;lsquo;into Hugo&amp;rsquo;. Zie ook bijv tv.
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Verslag: NLExtract Hacking Day</title>
       <link>/2018/04/verslag-nlextract-hacking-day/</link>
