@@ -4,7 +4,7 @@
 #
 # Changes by Just van den Broecke:
 #  - use https://github.com/marketplace/actions/deploy-to-github-pages
-# TODO: GitHub provides a more modern version
+# TODO: GitHub provides a more modern version of Hugo Deploy Action
 name: publish-osgeonl-website
 
 on:
