@@ -8,91 +8,23 @@
   url = "/"
   weight = -111
 
-[[main]]
-  name = "Over"
-  url = "over-ons/"
-  weight = -110
-
-[[main]]
-  name = "Meedoen"
-  url = "meedoen/"
-  weight = -109
-
-[[main]]
-  name = "Events"
-  identifier = "Events"
-  # url = "events/"
-  weight = -108
-[[main]]
-  parent = "Events"
-  identifier = "Events-Overzicht"
-  name = "Overzicht"
-  # url = "events/"
-  url = "categories/event/"
-  weight = -98
-[[main]]
-  parent = "Events"
-  name = "FOSS4GNL 2021 &neArr;"
-  # url = "writings/blog/"
-  url = "https://foss4g.nl/"
-  weight = -97
-[[main]]
-  parent = "Events"
-  name = "FOSS4GNL 2019 &neArr;"
-  url = "https://2019.foss4g.nl/"
-  weight = -96
-[[main]]
-  parent = "Events"
-  name = "FOSS4GNL 2018 &neArr;"
-  url = "https://2018.foss4g.nl/"
-  weight = -95
-[[main]]
-  parent = "Events"
-  name = "FOSS4GNL 2017 &neArr;"
-  url = "https://2017.foss4g.nl/"
-  weight = -94
-[[main]]
-  parent = "Events"
-  name = "QGIS Gebruikersdag 2018 &neArr;"
-  url = "http://www.qgis.nl/2018/01/22/programma-gebruikersmiddag-compleet/"
-  weight = -93
-[[main]]
-  parent = "Events"
-  name = "GRASS GIS crash course"
-  url = "grassgis-course/"
-  weight = -92
-[[main]]
-  parent = "Events"
-  name = "OSGeo.nl Dag 2017"
-  url = "dag/"
-  weight = -91
-
-[[main]]
-  name = "Nieuws"
-  identifier = "Nieuws"
-  # url = "nieuws/"
-  # url = "category/nieuws/"
-  url = "categories/nieuws/"
-  weight = -107
-
-[[main]]
-  name = "Agenda &neArr;"
-  identifier = "Agenda"
-  # url = "agenda/"
-  url = "https://www.meetup.com/osgeonl/"
-  weight = -106
 
 [[main]]
   name = "Community"
   identifier = "Community"
   # url = "community/"
-  weight = -105
+  weight = -109
 [[main]]
   parent = "Community"
-  identifier = "Community-Overzicht"
-  name = "Overzicht"
-  url = "community/"
-  weight = -99
+  name = "Over"
+  url = "over-ons/"
+  weight = -107
+[[main]]
+  parent = "Community"
+  identifier = "Community-Meedoen"
+  name = "Sluit je aan!"
+  url = "meedoen/"
+  weight = -106
 [[main]]
   parent = "Community"
   name = "Geoforum.nl"
@@ -155,6 +87,69 @@
   name = "QGIS Gebruikersgroep &neArr;"
   url = "https://qgis.nl/"
   weight = -91
+
+[[main]]
+  name = "Events"
+  identifier = "Events"
+  # url = "events/"
+  weight = -108
+[[main]]
+  parent = "Events"
+  name = "Agenda &neArr;"
+  url = "https://www.meetup.com/osgeonl/"
+  weight = -99
+[[main]]
+  parent = "Events"
+  identifier = "Events-Overzicht"
+  name = "Overzicht"
+  # url = "events/"
+  url = "categories/event/"
+  weight = -98
+[[main]]
+  parent = "Events"
+  name = "FOSS4GNL 2021 &neArr;"
+  # url = "writings/blog/"
+  url = "https://foss4g.nl/"
+  weight = -97
+[[main]]
+  parent = "Events"
+  name = "FOSS4GNL 2019 &neArr;"
+  url = "https://2019.foss4g.nl/"
+  weight = -96
+[[main]]
+  parent = "Events"
+  name = "FOSS4GNL 2018 &neArr;"
+  url = "https://2018.foss4g.nl/"
+  weight = -95
+[[main]]
+  parent = "Events"
+  name = "FOSS4GNL 2017 &neArr;"
+  url = "https://2017.foss4g.nl/"
+  weight = -94
+[[main]]
+  parent = "Events"
+  name = "QGIS Gebruikersdag 2018 &neArr;"
+  url = "http://www.qgis.nl/2018/01/22/programma-gebruikersmiddag-compleet/"
+  weight = -93
+[[main]]
+  parent = "Events"
+  name = "GRASS GIS crash course"
+  url = "grassgis-course/"
+  weight = -92
+[[main]]
+  parent = "Events"
+  name = "OSGeo.nl Dag 2017"
+  url = "dag/"
+  weight = -91
+
+[[main]]
+  name = "Nieuws"
+  identifier = "Nieuws"
+  # url = "nieuws/"
+  # url = "category/nieuws/"
+  url = "categories/nieuws/"
+  weight = -107
+
 
 [[main]]
   name = "Sponsors"
