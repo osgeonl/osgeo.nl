@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nlextract on OSGeo.nl - Wegwijs in Open Geo</title>
-    <link>http://osgeo.nl/tags/nlextract/</link>
+    <link>/tags/nlextract/</link>
     <description>Recent content in nlextract on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Apr 2018 09:47:39 +0000</lastBuildDate><atom:link href="http://osgeo.nl/tags/nlextract/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Apr 2018 09:47:39 +0000</lastBuildDate><atom:link href="/tags/nlextract/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Verslag: NLExtract Hacking Day</title>
-      <link>http://osgeo.nl/2018/04/verslag-nlextract-hacking-day/</link>
+      <link>/2018/04/verslag-nlextract-hacking-day/</link>
       <pubDate>Mon, 30 Apr 2018 09:47:39 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2018/04/verslag-nlextract-hacking-day/</guid>
+      <guid>/2018/04/verslag-nlextract-hacking-day/</guid>
       <description>
         
           
@@ -25,10 +25,10 @@
     
     <item>
       <title>Verslag: OSGeo.nl en OpenStreetMap NL Nieuwjaarsborrel 2018</title>
-      <link>http://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</link>
+      <link>/2018/02/verslag-nieuwjaarsborrel-2018/</link>
       <pubDate>Tue, 13 Feb 2018 22:33:25 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</guid>
+      <guid>/2018/02/verslag-nieuwjaarsborrel-2018/</guid>
       <description>
         
           
@@ -42,10 +42,10 @@ Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakke
     
     <item>
       <title>25 november OSGeo.nl dag 2015 – programma en inschrijven</title>
-      <link>http://osgeo.nl/2015/10/25-november-osgeo-nl-dag-2015/</link>
+      <link>/2015/10/25-november-osgeo-nl-dag-2015/</link>
       <pubDate>Sun, 18 Oct 2015 16:18:43 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2015/10/25-november-osgeo-nl-dag-2015/</guid>
+      <guid>/2015/10/25-november-osgeo-nl-dag-2015/</guid>
       <description>
         
           
@@ -61,10 +61,10 @@ Dat gaat naar Den Bosch toe Congrescentrum “1931” is met de auto prima berei
     
     <item>
       <title>OSGeo.nl Dag 2014 – Verslag en Presentaties</title>
-      <link>http://osgeo.nl/2015/01/osgeo-nl-dag-2014-verslag-en-presentaties/</link>
+      <link>/2015/01/osgeo-nl-dag-2014-verslag-en-presentaties/</link>
       <pubDate>Fri, 23 Jan 2015 15:34:19 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2015/01/osgeo-nl-dag-2014-verslag-en-presentaties/</guid>
+      <guid>/2015/01/osgeo-nl-dag-2014-verslag-en-presentaties/</guid>
       <description>
         
           

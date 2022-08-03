@@ -2,450 +2,450 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://osgeo.nl/geoforum-nl/</loc>
+    <loc>/geoforum-nl/</loc>
     <lastmod>2019-02-08T11:30:37+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/categories/actueel/</loc>
+    <loc>/categories/actueel/</loc>
     <lastmod>2018-04-30T09:47:39+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/analyse/</loc>
+    <loc>/tags/analyse/</loc>
     <lastmod>2018-04-30T09:47:39+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/bag/</loc>
+    <loc>/tags/bag/</loc>
     <lastmod>2018-04-30T09:47:39+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/basisregistratie/</loc>
+    <loc>/tags/basisregistratie/</loc>
     <lastmod>2018-04-30T09:47:39+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/bgt/</loc>
+    <loc>/tags/bgt/</loc>
     <lastmod>2018-04-30T09:47:39+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/brk/</loc>
+    <loc>/tags/brk/</loc>
     <lastmod>2018-04-30T09:47:39+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/brt/</loc>
+    <loc>/tags/brt/</loc>
     <lastmod>2018-04-30T09:47:39+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2018-04-30T09:47:39+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/docker/</loc>
+    <loc>/tags/docker/</loc>
     <lastmod>2018-04-30T09:47:39+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/categories/event/</loc>
+    <loc>/categories/event/</loc>
     <lastmod>2018-04-30T09:47:39+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/geopackage/</loc>
+    <loc>/tags/geopackage/</loc>
     <lastmod>2018-04-30T09:47:39+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/categories/nieuws/</loc>
+    <loc>/categories/nieuws/</loc>
     <lastmod>2018-04-30T09:47:39+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/nlextract/</loc>
+    <loc>/tags/nlextract/</loc>
     <lastmod>2018-04-30T09:47:39+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/categories/osgeo/</loc>
+    <loc>/categories/osgeo/</loc>
     <lastmod>2018-04-30T09:47:39+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/</loc>
+    <loc>/</loc>
     <lastmod>2018-04-30T09:47:39+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2018-04-30T09:47:39+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2018-04-30T09:47:39+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/top10nl/</loc>
+    <loc>/tags/top10nl/</loc>
     <lastmod>2018-04-30T09:47:39+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/vector-tiles/</loc>
+    <loc>/tags/vector-tiles/</loc>
     <lastmod>2018-04-30T09:47:39+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/categories/verslag/</loc>
+    <loc>/categories/verslag/</loc>
     <lastmod>2018-04-30T09:47:39+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2018/04/verslag-nlextract-hacking-day/</loc>
+    <loc>/2018/04/verslag-nlextract-hacking-day/</loc>
     <lastmod>2018-04-30T09:47:39+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/bevestiging-van-geen-toestemming/</loc>
+    <loc>/bevestiging-van-geen-toestemming/</loc>
     <lastmod>2018-04-29T10:58:09+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/privacy-verklaring/</loc>
+    <loc>/privacy-verklaring/</loc>
     <lastmod>2018-04-29T10:37:59+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/categories/artikel/</loc>
+    <loc>/categories/artikel/</loc>
     <lastmod>2018-02-13T22:33:25+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/categories/blog-post/</loc>
+    <loc>/categories/blog-post/</loc>
     <lastmod>2018-02-13T22:33:25+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/categories/educatief/</loc>
+    <loc>/categories/educatief/</loc>
     <lastmod>2018-02-13T22:33:25+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/categories/featured/</loc>
+    <loc>/categories/featured/</loc>
     <lastmod>2018-02-13T22:33:25+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/openstreetmap/</loc>
+    <loc>/tags/openstreetmap/</loc>
     <lastmod>2018-02-13T22:33:25+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/osgeo/</loc>
+    <loc>/tags/osgeo/</loc>
     <lastmod>2018-02-13T22:33:25+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/qgis/</loc>
+    <loc>/tags/qgis/</loc>
     <lastmod>2018-02-13T22:33:25+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/categories/uncategorized/</loc>
+    <loc>/categories/uncategorized/</loc>
     <lastmod>2018-02-13T22:33:25+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</loc>
+    <loc>/2018/02/verslag-nieuwjaarsborrel-2018/</loc>
     <lastmod>2018-02-13T22:33:25+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/3d/</loc>
+    <loc>/tags/3d/</loc>
     <lastmod>2017-12-06T22:17:08+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/geobuzz/</loc>
+    <loc>/tags/geobuzz/</loc>
     <lastmod>2017-12-06T22:17:08+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/osgeo.nl-dag/</loc>
+    <loc>/tags/osgeo.nl-dag/</loc>
     <lastmod>2017-12-06T22:17:08+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2017/12/verslag-osgeonl-dag-2017/</loc>
+    <loc>/2017/12/verslag-osgeonl-dag-2017/</loc>
     <lastmod>2017-12-06T22:17:08+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/course/</loc>
+    <loc>/tags/course/</loc>
     <lastmod>2017-10-08T18:44:12+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2017/10/grass-gis-crash-course/</loc>
+    <loc>/2017/10/grass-gis-crash-course/</loc>
     <lastmod>2017-10-08T18:44:12+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/grassgis/</loc>
+    <loc>/tags/grassgis/</loc>
     <lastmod>2017-10-08T18:44:12+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/workshop/</loc>
+    <loc>/tags/workshop/</loc>
     <lastmod>2017-10-08T18:44:12+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/grassgis-course/</loc>
+    <loc>/grassgis-course/</loc>
     <lastmod>2017-10-08T18:11:01+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/dag/</loc>
+    <loc>/dag/</loc>
     <lastmod>2017-10-08T14:35:50+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/events/</loc>
+    <loc>/events/</loc>
     <lastmod>2017-10-08T14:31:06+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2017/10/osgeo-nl-dag-2017-geo-samen-doen/</loc>
+    <loc>/2017/10/osgeo-nl-dag-2017-geo-samen-doen/</loc>
     <lastmod>2017-10-04T21:53:48+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/logo/</loc>
+    <loc>/tags/logo/</loc>
     <lastmod>2017-09-29T15:38:03+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2017/09/nieuw-osgeo-nl-logo/</loc>
+    <loc>/2017/09/nieuw-osgeo-nl-logo/</loc>
     <lastmod>2017-09-29T15:38:03+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/rebranding/</loc>
+    <loc>/tags/rebranding/</loc>
     <lastmod>2017-09-29T15:38:03+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2017/04/bestuursverfrissingen-en-een-vacature/</loc>
+    <loc>/2017/04/bestuursverfrissingen-en-een-vacature/</loc>
     <lastmod>2017-04-28T14:45:37+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/geogig/</loc>
+    <loc>/tags/geogig/</loc>
     <lastmod>2016-11-20T17:55:44+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/git/</loc>
+    <loc>/tags/git/</loc>
     <lastmod>2016-11-20T17:55:44+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2016/11/huiswerk-voor-deelnemers-aan-de-workshop-versiebeheer-in-geoland/</loc>
+    <loc>/2016/11/huiswerk-voor-deelnemers-aan-de-workshop-versiebeheer-in-geoland/</loc>
     <lastmod>2016-11-20T17:55:44+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/versiebeheer/</loc>
+    <loc>/tags/versiebeheer/</loc>
     <lastmod>2016-11-20T17:55:44+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2016/11/een-kijkje-in-de-keuken-van-de-osgeo-nl-dag-agile-programmeren/</loc>
+    <loc>/2016/11/een-kijkje-in-de-keuken-van-de-osgeo-nl-dag-agile-programmeren/</loc>
     <lastmod>2016-11-15T07:35:42+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/sprekers-en-samenvattingen-osgeo-nl-dag-2016/</loc>
+    <loc>/sprekers-en-samenvattingen-osgeo-nl-dag-2016/</loc>
     <lastmod>2016-10-28T11:37:31+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/epsg/</loc>
+    <loc>/tags/epsg/</loc>
     <lastmod>2016-10-27T21:59:28+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/etrs89/</loc>
+    <loc>/tags/etrs89/</loc>
     <lastmod>2016-10-27T21:59:28+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/gdal/</loc>
+    <loc>/tags/gdal/</loc>
     <lastmod>2016-10-27T21:59:28+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/inspire/</loc>
+    <loc>/tags/inspire/</loc>
     <lastmod>2016-10-27T21:59:28+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/proj.4/</loc>
+    <loc>/tags/proj.4/</loc>
     <lastmod>2016-10-27T21:59:28+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/projecties/</loc>
+    <loc>/tags/projecties/</loc>
     <lastmod>2016-10-27T21:59:28+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/rd/</loc>
+    <loc>/tags/rd/</loc>
     <lastmod>2016-10-27T21:59:28+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2016/10/verslag-mini-seminar-rd/</loc>
+    <loc>/2016/10/verslag-mini-seminar-rd/</loc>
     <lastmod>2016-10-27T21:59:28+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2016/10/22-november-5e-osgeo-nl-dag-op-een-rij/</loc>
+    <loc>/2016/10/22-november-5e-osgeo-nl-dag-op-een-rij/</loc>
     <lastmod>2016-10-08T17:40:43+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/coordinatenstelsels/</loc>
+    <loc>/tags/coordinatenstelsels/</loc>
     <lastmod>2016-10-01T15:13:31+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2016/10/mini-seminar-rd-en-open-source-software-do-20-oktober-2016-hilversum/</loc>
+    <loc>/2016/10/mini-seminar-rd-en-open-source-software-do-20-oktober-2016-hilversum/</loc>
     <lastmod>2016-10-01T15:13:31+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/best-practices/</loc>
+    <loc>/best-practices/</loc>
     <lastmod>2016-08-24T15:24:34+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/documentatie/</loc>
+    <loc>/documentatie/</loc>
     <lastmod>2016-08-24T15:24:34+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/geonetwork-gebruikersgroep/</loc>
+    <loc>/geonetwork-gebruikersgroep/</loc>
     <lastmod>2016-05-25T14:56:53+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2016/04/come-in-were-open/</loc>
+    <loc>/2016/04/come-in-were-open/</loc>
     <lastmod>2016-04-15T10:51:48+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/categories/foss4g/</loc>
+    <loc>/categories/foss4g/</loc>
     <lastmod>2016-04-15T10:51:48+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2016/03/foss4g-kom-maar-op-met-de-presentaties/</loc>
+    <loc>/2016/03/foss4g-kom-maar-op-met-de-presentaties/</loc>
     <lastmod>2016-03-05T20:31:44+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2016/03/de-ideeenwand-voor-2016/</loc>
+    <loc>/2016/03/de-ideeenwand-voor-2016/</loc>
     <lastmod>2016-03-05T00:43:43+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/idea-wall/</loc>
+    <loc>/tags/idea-wall/</loc>
     <lastmod>2016-03-05T00:43:43+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/nieuwjaarsborrel/</loc>
+    <loc>/tags/nieuwjaarsborrel/</loc>
     <lastmod>2016-03-05T00:43:43+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/erfgoed/</loc>
+    <loc>/tags/erfgoed/</loc>
     <lastmod>2015-12-31T15:00:18+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/georefereren/</loc>
+    <loc>/tags/georefereren/</loc>
     <lastmod>2015-12-31T15:00:18+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/historisch/</loc>
+    <loc>/tags/historisch/</loc>
     <lastmod>2015-12-31T15:00:18+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/kadaster/</loc>
+    <loc>/tags/kadaster/</loc>
     <lastmod>2015-12-31T15:00:18+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/mapproxy/</loc>
+    <loc>/tags/mapproxy/</loc>
     <lastmod>2015-12-31T15:00:18+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/mapserver/</loc>
+    <loc>/tags/mapserver/</loc>
     <lastmod>2015-12-31T15:00:18+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/open-data/</loc>
+    <loc>/tags/open-data/</loc>
     <lastmod>2015-12-31T15:00:18+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/raster/</loc>
+    <loc>/tags/raster/</loc>
     <lastmod>2015-12-31T15:00:18+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/uva/</loc>
+    <loc>/tags/uva/</loc>
     <lastmod>2015-12-31T15:00:18+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2015/12/verslag-histwebcart-2015/</loc>
+    <loc>/2015/12/verslag-histwebcart-2015/</loc>
     <lastmod>2015-12-31T15:00:18+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2015/10/25-november-osgeo-nl-dag-2015/</loc>
+    <loc>/2015/10/25-november-osgeo-nl-dag-2015/</loc>
     <lastmod>2015-10-18T16:18:43+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/open-source-geo/</loc>
+    <loc>/tags/open-source-geo/</loc>
     <lastmod>2015-10-18T16:18:43+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/ahn2/</loc>
+    <loc>/tags/ahn2/</loc>
     <lastmod>2015-09-20T15:42:25+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2015/09/open-geodata-op-groot-formaat/</loc>
+    <loc>/2015/09/open-geodata-op-groot-formaat/</loc>
     <lastmod>2015-09-20T15:42:25+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/print/</loc>
+    <loc>/tags/print/</loc>
     <lastmod>2015-09-20T15:42:25+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2015/09/25-november-osgeo-nl-dag-op-geobuzz/</loc>
+    <loc>/2015/09/25-november-osgeo-nl-dag-op-geobuzz/</loc>
     <lastmod>2015-09-11T12:28:39+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2015/09/miniseminar-kiezen-of-delen-biedt-nieuwe-inzichten-in-volwassenheid-open-source-software/</loc>
+    <loc>/2015/09/miniseminar-kiezen-of-delen-biedt-nieuwe-inzichten-in-volwassenheid-open-source-software/</loc>
     <lastmod>2015-09-11T12:14:50+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/rce/</loc>
+    <loc>/tags/rce/</loc>
     <lastmod>2015-06-23T18:01:47+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2015/06/seminar-open-historische-web-cartografie-op-25-sept-2015/</loc>
+    <loc>/2015/06/seminar-open-historische-web-cartografie-op-25-sept-2015/</loc>
     <lastmod>2015-06-23T18:01:47+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/ordina/</loc>
+    <loc>/tags/ordina/</loc>
     <lastmod>2015-05-23T13:29:17+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/osmm/</loc>
+    <loc>/tags/osmm/</loc>
     <lastmod>2015-05-23T13:29:17+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2015/05/open-source-geo-kiezen-of-delen/</loc>
+    <loc>/2015/05/open-source-geo-kiezen-of-delen/</loc>
     <lastmod>2015-05-23T13:29:17+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2015/05/miniseminar-wegwijs-in-open-source-geo-bij-ruimteschepper/</loc>
+    <loc>/2015/05/miniseminar-wegwijs-in-open-source-geo-bij-ruimteschepper/</loc>
     <lastmod>2015-05-21T14:13:31+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/open-source/</loc>
+    <loc>/tags/open-source/</loc>
     <lastmod>2015-05-21T14:13:31+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/ruimteschepper/</loc>
+    <loc>/tags/ruimteschepper/</loc>
     <lastmod>2015-05-21T14:13:31+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/mozilla/</loc>
+    <loc>/tags/mozilla/</loc>
     <lastmod>2015-01-25T15:33:10+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2015/01/nieuwjaarsborrel-2015-de-presentaties/</loc>
+    <loc>/2015/01/nieuwjaarsborrel-2015-de-presentaties/</loc>
     <lastmod>2015-01-25T15:33:10+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/opentopo/</loc>
+    <loc>/tags/opentopo/</loc>
     <lastmod>2015-01-25T15:33:10+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2015/01/osgeo-nl-dag-2014-verslag-en-presentaties/</loc>
+    <loc>/2015/01/osgeo-nl-dag-2014-verslag-en-presentaties/</loc>
     <lastmod>2015-01-23T15:34:19+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/osgeonl2014/</loc>
+    <loc>/tags/osgeonl2014/</loc>
     <lastmod>2015-01-23T15:34:19+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/osgeonldag/</loc>
+    <loc>/tags/osgeonldag/</loc>
     <lastmod>2015-01-23T15:34:19+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/postgis/</loc>
+    <loc>/tags/postgis/</loc>
     <lastmod>2015-01-23T15:34:19+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2014/10/581/</loc>
+    <loc>/2014/10/581/</loc>
     <lastmod>2014-10-09T10:18:59+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/osgeo-nl-dag-2014/</loc>
+    <loc>/osgeo-nl-dag-2014/</loc>
     <lastmod>2014-09-30T19:18:11+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/nwb/</loc>
+    <loc>/tags/nwb/</loc>
     <lastmod>2014-09-21T16:22:13+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2014/09/opentopo-workshop-2014-video-beschikbaar/</loc>
+    <loc>/2014/09/opentopo-workshop-2014-video-beschikbaar/</loc>
     <lastmod>2014-09-21T16:22:13+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/pingdom/</loc>
+    <loc>/pingdom/</loc>
     <lastmod>2014-09-03T19:21:54+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2014/08/osgeo-nl-dag-2014-als-onderdeel-van-de-geobuzz/</loc>
+    <loc>/2014/08/osgeo-nl-dag-2014-als-onderdeel-van-de-geobuzz/</loc>
     <lastmod>2014-08-31T19:36:43+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/wiki/</loc>
+    <loc>/wiki/</loc>
     <lastmod>2014-08-30T11:30:32+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/mailinglijst/</loc>
+    <loc>/mailinglijst/</loc>
     <lastmod>2014-08-30T11:19:12+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/aanbieders/</loc>
+    <loc>/aanbieders/</loc>
     <lastmod>2014-08-28T11:02:52+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/community/</loc>
+    <loc>/community/</loc>
     <lastmod>2014-08-28T10:28:13+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tweets/</loc>
+    <loc>/tweets/</loc>
     <lastmod>2014-08-28T09:17:10+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2014/08/postgis-workshop-door-osgeo-nl/</loc>
+    <loc>/2014/08/postgis-workshop-door-osgeo-nl/</loc>
     <lastmod>2014-08-26T19:29:31+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/agenda/</loc>
+    <loc>/agenda/</loc>
     <lastmod>2014-08-16T12:23:22+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/home/</loc>
+    <loc>/home/</loc>
     <lastmod>2014-05-12T17:52:45+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/categories/sponsor/</loc>
+    <loc>/categories/sponsor/</loc>
     <lastmod>2014-04-29T15:51:50+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2014/04/terglobo/</loc>
+    <loc>/2014/04/terglobo/</loc>
     <lastmod>2014-04-29T15:51:50+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/tags/zilver/</loc>
+    <loc>/tags/zilver/</loc>
     <lastmod>2014-04-29T15:51:50+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2014/04/geo-academie/</loc>
+    <loc>/2014/04/geo-academie/</loc>
     <lastmod>2014-04-29T15:50:10+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2014/04/just-objects/</loc>
+    <loc>/2014/04/just-objects/</loc>
     <lastmod>2014-04-29T15:46:18+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2014/04/geocat/</loc>
+    <loc>/2014/04/geocat/</loc>
     <lastmod>2014-04-29T15:43:56+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2014/04/opengeogroup/</loc>
+    <loc>/2014/04/opengeogroup/</loc>
     <lastmod>2014-04-29T15:42:29+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/uber-uns/</loc>
+    <loc>/uber-uns/</loc>
     <lastmod>2014-04-19T10:02:51+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/about-us/</loc>
+    <loc>/about-us/</loc>
     <lastmod>2014-04-19T09:59:10+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/de-zandbak/</loc>
+    <loc>/de-zandbak/</loc>
     <lastmod>2014-04-19T09:44:02+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2014-04-16T19:46:00+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/contact/</loc>
+    <loc>/contact/</loc>
     <lastmod>2014-04-16T07:04:42+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/over-ons/</loc>
+    <loc>/over-ons/</loc>
     <lastmod>2014-04-16T06:52:35+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/meedoen/</loc>
+    <loc>/meedoen/</loc>
     <lastmod>2014-04-16T06:32:06+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/sponsors/</loc>
+    <loc>/sponsors/</loc>
     <lastmod>2014-04-14T17:49:12+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/sample-page/</loc>
+    <loc>/sample-page/</loc>
     <lastmod>2014-04-12T18:21:43+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2014/04/334/</loc>
+    <loc>/2014/04/334/</loc>
     <lastmod>2014-04-04T18:38:53+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2014/02/opentopo-workshops-1227-maart-2014/</loc>
+    <loc>/2014/02/opentopo-workshops-1227-maart-2014/</loc>
     <lastmod>2014-02-04T20:08:39+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2013/12/nieuwjaarsborrel-12-jan-2014/</loc>
+    <loc>/2013/12/nieuwjaarsborrel-12-jan-2014/</loc>
     <lastmod>2013-12-17T21:06:50+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2013/11/osgeo-nl-dag-2013-een-succes/</loc>
+    <loc>/2013/11/osgeo-nl-dag-2013-een-succes/</loc>
     <lastmod>2013-11-20T19:05:25+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2013/09/osgeo-nl-dag-op-13-november-2013/</loc>
+    <loc>/2013/09/osgeo-nl-dag-op-13-november-2013/</loc>
     <lastmod>2013-09-20T10:10:12+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2013/06/21-juni-2013-stichting-osgeo-nl-opgericht/</loc>
+    <loc>/2013/06/21-juni-2013-stichting-osgeo-nl-opgericht/</loc>
     <lastmod>2013-06-21T15:14:03+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2013/06/13-juni-2013-osgeo-dag-gent-b/</loc>
+    <loc>/2013/06/13-juni-2013-osgeo-dag-gent-b/</loc>
     <lastmod>2013-06-14T10:16:48+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2013/06/16-mei-2013-open-source-seminar-op-geospatial-world-forum/</loc>
+    <loc>/2013/06/16-mei-2013-open-source-seminar-op-geospatial-world-forum/</loc>
     <lastmod>2013-06-01T10:17:46+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2013/01/27-jan-2013-nieuwjaars-borrel-met-openstreetmap-nl/</loc>
+    <loc>/2013/01/27-jan-2013-nieuwjaars-borrel-met-openstreetmap-nl/</loc>
     <lastmod>2013-01-05T11:20:55+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2012/06/160-bezoekers-op-osgeo-nl-dag-2012/</loc>
+    <loc>/2012/06/160-bezoekers-op-osgeo-nl-dag-2012/</loc>
     <lastmod>2012-06-29T10:22:37+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/2012/05/verslag-osgeo-nl-op-geospatial-world-forum-2012/</loc>
+    <loc>/2012/05/verslag-osgeo-nl-op-geospatial-world-forum-2012/</loc>
     <lastmod>2012-05-01T11:35:00+00:00</lastmod>
   </url><url>
-    <loc>http://osgeo.nl/?p=563/</loc>
+    <loc>/?p=563/</loc>
   </url>
 </urlset>

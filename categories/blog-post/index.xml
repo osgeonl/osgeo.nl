@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog post on OSGeo.nl - Wegwijs in Open Geo</title>
-    <link>http://osgeo.nl/categories/blog-post/</link>
+    <link>/categories/blog-post/</link>
     <description>Recent content in Blog post on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Feb 2018 22:33:25 +0000</lastBuildDate><atom:link href="http://osgeo.nl/categories/blog-post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Feb 2018 22:33:25 +0000</lastBuildDate><atom:link href="/categories/blog-post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Verslag: OSGeo.nl en OpenStreetMap NL Nieuwjaarsborrel 2018</title>
-      <link>http://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</link>
+      <link>/2018/02/verslag-nieuwjaarsborrel-2018/</link>
       <pubDate>Tue, 13 Feb 2018 22:33:25 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</guid>
+      <guid>/2018/02/verslag-nieuwjaarsborrel-2018/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@ Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakke
     
     <item>
       <title>Verslag: OSGeo.nl Dag 2017</title>
-      <link>http://osgeo.nl/2017/12/verslag-osgeonl-dag-2017/</link>
+      <link>/2017/12/verslag-osgeonl-dag-2017/</link>
       <pubDate>Wed, 06 Dec 2017 22:17:08 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2017/12/verslag-osgeonl-dag-2017/</guid>
+      <guid>/2017/12/verslag-osgeonl-dag-2017/</guid>
       <description>
         
           
@@ -45,10 +45,10 @@ Dank aan allen die hieraan meegewerkt hebben, in bijzonder Winifred Broeder (pro
     
     <item>
       <title>Nieuw OSGeo.nl Logo</title>
-      <link>http://osgeo.nl/2017/09/nieuw-osgeo-nl-logo/</link>
+      <link>/2017/09/nieuw-osgeo-nl-logo/</link>
       <pubDate>Fri, 29 Sep 2017 15:38:03 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2017/09/nieuw-osgeo-nl-logo/</guid>
+      <guid>/2017/09/nieuw-osgeo-nl-logo/</guid>
       <description>
         
           
@@ -62,10 +62,10 @@ Als OSGeo.org Lokale Afdeling (Chapter) willen we als OSGeo.
     
     <item>
       <title>Een kijkje in de keuken van de OSGeo.nl dag: agile programmeren</title>
-      <link>http://osgeo.nl/2016/11/een-kijkje-in-de-keuken-van-de-osgeo-nl-dag-agile-programmeren/</link>
+      <link>/2016/11/een-kijkje-in-de-keuken-van-de-osgeo-nl-dag-agile-programmeren/</link>
       <pubDate>Tue, 15 Nov 2016 07:35:42 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2016/11/een-kijkje-in-de-keuken-van-de-osgeo-nl-dag-agile-programmeren/</guid>
+      <guid>/2016/11/een-kijkje-in-de-keuken-van-de-osgeo-nl-dag-agile-programmeren/</guid>
       <description>
         
           
@@ -78,10 +78,10 @@ Als OSGeo.org Lokale Afdeling (Chapter) willen we als OSGeo.
     
     <item>
       <title>22 november 2016: 5e OSGeo.nl Dag op een rij!</title>
-      <link>http://osgeo.nl/2016/10/22-november-5e-osgeo-nl-dag-op-een-rij/</link>
+      <link>/2016/10/22-november-5e-osgeo-nl-dag-op-een-rij/</link>
       <pubDate>Sat, 08 Oct 2016 17:40:43 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2016/10/22-november-5e-osgeo-nl-dag-op-een-rij/</guid>
+      <guid>/2016/10/22-november-5e-osgeo-nl-dag-op-een-rij/</guid>
       <description>
         
           
@@ -96,10 +96,10 @@ Aanmelden De OSGeo.
     
     <item>
       <title>Seminar “Open Historische Web Cartografie” 25 sept 2015</title>
-      <link>http://osgeo.nl/2015/06/seminar-open-historische-web-cartografie-op-25-sept-2015/</link>
+      <link>/2015/06/seminar-open-historische-web-cartografie-op-25-sept-2015/</link>
       <pubDate>Tue, 23 Jun 2015 18:01:47 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2015/06/seminar-open-historische-web-cartografie-op-25-sept-2015/</guid>
+      <guid>/2015/06/seminar-open-historische-web-cartografie-op-25-sept-2015/</guid>
       <description>
         
           

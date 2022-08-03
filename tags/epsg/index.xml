@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>epsg on OSGeo.nl - Wegwijs in Open Geo</title>
-    <link>http://osgeo.nl/tags/epsg/</link>
+    <link>/tags/epsg/</link>
     <description>Recent content in epsg on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Oct 2016 21:59:28 +0000</lastBuildDate><atom:link href="http://osgeo.nl/tags/epsg/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Oct 2016 21:59:28 +0000</lastBuildDate><atom:link href="/tags/epsg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Verslag: mini-seminar RD en Open Source Software – okt 2016</title>
-      <link>http://osgeo.nl/2016/10/verslag-mini-seminar-rd/</link>
+      <link>/2016/10/verslag-mini-seminar-rd/</link>
       <pubDate>Thu, 27 Oct 2016 21:59:28 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2016/10/verslag-mini-seminar-rd/</guid>
+      <guid>/2016/10/verslag-mini-seminar-rd/</guid>
       <description>
         
           

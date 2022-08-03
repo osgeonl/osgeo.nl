@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bgt on OSGeo.nl - Wegwijs in Open Geo</title>
-    <link>http://osgeo.nl/tags/bgt/</link>
+    <link>/tags/bgt/</link>
     <description>Recent content in bgt on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Apr 2018 09:47:39 +0000</lastBuildDate><atom:link href="http://osgeo.nl/tags/bgt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Apr 2018 09:47:39 +0000</lastBuildDate><atom:link href="/tags/bgt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Verslag: NLExtract Hacking Day</title>
-      <link>http://osgeo.nl/2018/04/verslag-nlextract-hacking-day/</link>
+      <link>/2018/04/verslag-nlextract-hacking-day/</link>
       <pubDate>Mon, 30 Apr 2018 09:47:39 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2018/04/verslag-nlextract-hacking-day/</guid>
+      <guid>/2018/04/verslag-nlextract-hacking-day/</guid>
       <description>
         
           

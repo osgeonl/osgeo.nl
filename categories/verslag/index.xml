@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Verslag on OSGeo.nl - Wegwijs in Open Geo</title>
-    <link>http://osgeo.nl/categories/verslag/</link>
+    <link>/categories/verslag/</link>
     <description>Recent content in Verslag on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Apr 2018 09:47:39 +0000</lastBuildDate><atom:link href="http://osgeo.nl/categories/verslag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Apr 2018 09:47:39 +0000</lastBuildDate><atom:link href="/categories/verslag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Verslag: NLExtract Hacking Day</title>
-      <link>http://osgeo.nl/2018/04/verslag-nlextract-hacking-day/</link>
+      <link>/2018/04/verslag-nlextract-hacking-day/</link>
       <pubDate>Mon, 30 Apr 2018 09:47:39 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2018/04/verslag-nlextract-hacking-day/</guid>
+      <guid>/2018/04/verslag-nlextract-hacking-day/</guid>
       <description>
         
           
@@ -25,10 +25,10 @@
     
     <item>
       <title>Verslag: OSGeo.nl en OpenStreetMap NL Nieuwjaarsborrel 2018</title>
-      <link>http://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</link>
+      <link>/2018/02/verslag-nieuwjaarsborrel-2018/</link>
       <pubDate>Tue, 13 Feb 2018 22:33:25 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</guid>
+      <guid>/2018/02/verslag-nieuwjaarsborrel-2018/</guid>
       <description>
         
           
@@ -42,10 +42,10 @@ Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakke
     
     <item>
       <title>Verslag: OSGeo.nl Dag 2017</title>
-      <link>http://osgeo.nl/2017/12/verslag-osgeonl-dag-2017/</link>
+      <link>/2017/12/verslag-osgeonl-dag-2017/</link>
       <pubDate>Wed, 06 Dec 2017 22:17:08 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2017/12/verslag-osgeonl-dag-2017/</guid>
+      <guid>/2017/12/verslag-osgeonl-dag-2017/</guid>
       <description>
         
           
@@ -61,10 +61,10 @@ Dank aan allen die hieraan meegewerkt hebben, in bijzonder Winifred Broeder (pro
     
     <item>
       <title>Verslag: mini-seminar RD en Open Source Software – okt 2016</title>
-      <link>http://osgeo.nl/2016/10/verslag-mini-seminar-rd/</link>
+      <link>/2016/10/verslag-mini-seminar-rd/</link>
       <pubDate>Thu, 27 Oct 2016 21:59:28 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2016/10/verslag-mini-seminar-rd/</guid>
+      <guid>/2016/10/verslag-mini-seminar-rd/</guid>
       <description>
         
           
@@ -77,10 +77,10 @@ Dank aan allen die hieraan meegewerkt hebben, in bijzonder Winifred Broeder (pro
     
     <item>
       <title>De oogst van de nieuwjaarsborrel: de ideeënwand voor 2016</title>
-      <link>http://osgeo.nl/2016/03/de-ideeenwand-voor-2016/</link>
+      <link>/2016/03/de-ideeenwand-voor-2016/</link>
       <pubDate>Sat, 05 Mar 2016 00:43:43 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2016/03/de-ideeenwand-voor-2016/</guid>
+      <guid>/2016/03/de-ideeenwand-voor-2016/</guid>
       <description>
         
           
@@ -94,10 +94,10 @@ We noteren dus als ideeën voor 2016, met wat contactpersonen:
     
     <item>
       <title>Verslag: Seminar “Open Historische Web Cartografie” sept 2015</title>
-      <link>http://osgeo.nl/2015/12/verslag-histwebcart-2015/</link>
+      <link>/2015/12/verslag-histwebcart-2015/</link>
       <pubDate>Thu, 31 Dec 2015 15:00:18 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2015/12/verslag-histwebcart-2015/</guid>
+      <guid>/2015/12/verslag-histwebcart-2015/</guid>
       <description>
         
           
@@ -113,10 +113,10 @@ Vijf sprekers, Menne Kosian (RCE), Jan Hartmann (UvA), Thijs de Boer (UvA), E
     
     <item>
       <title>Miniseminar “kiezen of delen” biedt nieuwe inzichten in volwassenheid open source software</title>
-      <link>http://osgeo.nl/2015/09/miniseminar-kiezen-of-delen-biedt-nieuwe-inzichten-in-volwassenheid-open-source-software/</link>
+      <link>/2015/09/miniseminar-kiezen-of-delen-biedt-nieuwe-inzichten-in-volwassenheid-open-source-software/</link>
       <pubDate>Fri, 11 Sep 2015 12:14:50 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2015/09/miniseminar-kiezen-of-delen-biedt-nieuwe-inzichten-in-volwassenheid-open-source-software/</guid>
+      <guid>/2015/09/miniseminar-kiezen-of-delen-biedt-nieuwe-inzichten-in-volwassenheid-open-source-software/</guid>
       <description>
         
           
@@ -130,10 +130,10 @@ Na een welkomstwoord van Harco de Jager (Business unit manager Geo-ICT bij Ordin
     
     <item>
       <title>Nieuwjaarsborrel 2015 – De Presentaties</title>
-      <link>http://osgeo.nl/2015/01/nieuwjaarsborrel-2015-de-presentaties/</link>
+      <link>/2015/01/nieuwjaarsborrel-2015-de-presentaties/</link>
       <pubDate>Sun, 25 Jan 2015 15:33:10 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2015/01/nieuwjaarsborrel-2015-de-presentaties/</guid>
+      <guid>/2015/01/nieuwjaarsborrel-2015-de-presentaties/</guid>
       <description>
         
           
@@ -148,10 +148,10 @@ Richard Duivenvoorde introduceerde Mozilla Location Services – Crowdsourcing 
     
     <item>
       <title>OSGeo.nl Dag 2014 – Verslag en Presentaties</title>
-      <link>http://osgeo.nl/2015/01/osgeo-nl-dag-2014-verslag-en-presentaties/</link>
+      <link>/2015/01/osgeo-nl-dag-2014-verslag-en-presentaties/</link>
       <pubDate>Fri, 23 Jan 2015 15:34:19 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2015/01/osgeo-nl-dag-2014-verslag-en-presentaties/</guid>
+      <guid>/2015/01/osgeo-nl-dag-2014-verslag-en-presentaties/</guid>
       <description>
         
           
@@ -164,10 +164,10 @@ Richard Duivenvoorde introduceerde Mozilla Location Services – Crowdsourcing 
     
     <item>
       <title>OSGeo.nl PostGIS Workshop</title>
-      <link>http://osgeo.nl/2014/10/581/</link>
+      <link>/2014/10/581/</link>
       <pubDate>Thu, 09 Oct 2014 10:18:59 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2014/10/581/</guid>
+      <guid>/2014/10/581/</guid>
       <description>
         
           
@@ -181,10 +181,10 @@ Na een inleiding en uitleg over PostGIS, waarbij Wouter duidelijk maakte dat Po
     
     <item>
       <title>OpenTopo Workshops in maart 2014</title>
-      <link>http://osgeo.nl/2014/04/334/</link>
+      <link>/2014/04/334/</link>
       <pubDate>Fri, 04 Apr 2014 18:38:53 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2014/04/334/</guid>
+      <guid>/2014/04/334/</guid>
       <description>
         
           
@@ -197,10 +197,10 @@ Na een inleiding en uitleg over PostGIS, waarbij Wouter duidelijk maakte dat Po
     
     <item>
       <title>OSGeo.nl Dag 2013 – Een succes!</title>
-      <link>http://osgeo.nl/2013/11/osgeo-nl-dag-2013-een-succes/</link>
+      <link>/2013/11/osgeo-nl-dag-2013-een-succes/</link>
       <pubDate>Wed, 20 Nov 2013 19:05:25 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2013/11/osgeo-nl-dag-2013-een-succes/</guid>
+      <guid>/2013/11/osgeo-nl-dag-2013-een-succes/</guid>
       <description>
         
           
@@ -215,10 +215,10 @@ De succesvolle eerste editie van 2012, met circa 150 bezoekers, maakte duidelijk
     
     <item>
       <title>13 juni 2013 – OSGeo Dag in Gent (B)</title>
-      <link>http://osgeo.nl/2013/06/13-juni-2013-osgeo-dag-gent-b/</link>
+      <link>/2013/06/13-juni-2013-osgeo-dag-gent-b/</link>
       <pubDate>Fri, 14 Jun 2013 10:16:48 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2013/06/13-juni-2013-osgeo-dag-gent-b/</guid>
+      <guid>/2013/06/13-juni-2013-osgeo-dag-gent-b/</guid>
       <description>
         
           
@@ -227,7 +227,7 @@ De succesvolle eerste editie van 2012, met circa 150 bezoekers, maakte duidelijk
 &lt;div class=&#34;&#34;&gt;
   &lt;a href=&#34;http://www.geomajas.org/osgeogent2013&#34;&gt;
     &lt;img class=&#34;lazy&#34;
-      src=&#34;http://osgeo.nl/uploads/2013/06/osgeogent.jpg&#34;
+      src=&#34;/uploads/2013/06/osgeogent.jpg&#34;
       alt=&#34;&#34; /&gt;
   &lt;/a&gt;
   
@@ -244,10 +244,10 @@ De succesvolle eerste editie van 2012, met circa 150 bezoekers, maakte duidelijk
     
     <item>
       <title>16 mei 2013 – Open Source Seminar op Geospatial World Forum</title>
-      <link>http://osgeo.nl/2013/06/16-mei-2013-open-source-seminar-op-geospatial-world-forum/</link>
+      <link>/2013/06/16-mei-2013-open-source-seminar-op-geospatial-world-forum/</link>
       <pubDate>Sat, 01 Jun 2013 10:17:46 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2013/06/16-mei-2013-open-source-seminar-op-geospatial-world-forum/</guid>
+      <guid>/2013/06/16-mei-2013-open-source-seminar-op-geospatial-world-forum/</guid>
       <description>
         
           
@@ -260,10 +260,10 @@ De succesvolle eerste editie van 2012, met circa 150 bezoekers, maakte duidelijk
     
     <item>
       <title>160 Bezoekers op OSGeo.nl Dag 2012!</title>
-      <link>http://osgeo.nl/2012/06/160-bezoekers-op-osgeo-nl-dag-2012/</link>
+      <link>/2012/06/160-bezoekers-op-osgeo-nl-dag-2012/</link>
       <pubDate>Fri, 29 Jun 2012 10:22:37 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2012/06/160-bezoekers-op-osgeo-nl-dag-2012/</guid>
+      <guid>/2012/06/160-bezoekers-op-osgeo-nl-dag-2012/</guid>
       <description>
         
           
@@ -279,10 +279,10 @@ In 2013 willen we het bezoekersaantal en de inhoud van 2012 overtreffen! De OSGe
     
     <item>
       <title>Verslag: OSGeo.nl op Geospatial World Forum 2012</title>
-      <link>http://osgeo.nl/2012/05/verslag-osgeo-nl-op-geospatial-world-forum-2012/</link>
+      <link>/2012/05/verslag-osgeo-nl-op-geospatial-world-forum-2012/</link>
       <pubDate>Tue, 01 May 2012 11:35:00 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2012/05/verslag-osgeo-nl-op-geospatial-world-forum-2012/</guid>
+      <guid>/2012/05/verslag-osgeo-nl-op-geospatial-world-forum-2012/</guid>
       <description>
         
           

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FOSS4G on OSGeo.nl - Wegwijs in Open Geo</title>
-    <link>http://osgeo.nl/categories/foss4g/</link>
+    <link>/categories/foss4g/</link>
     <description>Recent content in FOSS4G on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Apr 2016 10:51:48 +0000</lastBuildDate><atom:link href="http://osgeo.nl/categories/foss4g/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Apr 2016 10:51:48 +0000</lastBuildDate><atom:link href="/categories/foss4g/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Come in, we’re open! – Inschrijving voor FOSS4G (Bonn) start vandaag</title>
-      <link>http://osgeo.nl/2016/04/come-in-were-open/</link>
+      <link>/2016/04/come-in-were-open/</link>
       <pubDate>Fri, 15 Apr 2016 10:51:48 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2016/04/come-in-were-open/</guid>
+      <guid>/2016/04/come-in-were-open/</guid>
       <description>
         
           
@@ -25,10 +25,10 @@
     
     <item>
       <title>FOSS4G – Kom maar op met de presentaties</title>
-      <link>http://osgeo.nl/2016/03/foss4g-kom-maar-op-met-de-presentaties/</link>
+      <link>/2016/03/foss4g-kom-maar-op-met-de-presentaties/</link>
       <pubDate>Sat, 05 Mar 2016 20:31:44 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2016/03/foss4g-kom-maar-op-met-de-presentaties/</guid>
+      <guid>/2016/03/foss4g-kom-maar-op-met-de-presentaties/</guid>
       <description>
         
           

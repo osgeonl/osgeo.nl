@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>openstreetmap on OSGeo.nl - Wegwijs in Open Geo</title>
-    <link>http://osgeo.nl/tags/openstreetmap/</link>
+    <link>/tags/openstreetmap/</link>
     <description>Recent content in openstreetmap on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Feb 2018 22:33:25 +0000</lastBuildDate><atom:link href="http://osgeo.nl/tags/openstreetmap/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Feb 2018 22:33:25 +0000</lastBuildDate><atom:link href="/tags/openstreetmap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Verslag: OSGeo.nl en OpenStreetMap NL Nieuwjaarsborrel 2018</title>
-      <link>http://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</link>
+      <link>/2018/02/verslag-nieuwjaarsborrel-2018/</link>
       <pubDate>Tue, 13 Feb 2018 22:33:25 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</guid>
+      <guid>/2018/02/verslag-nieuwjaarsborrel-2018/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@ Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakke
     
     <item>
       <title>Verslag: Seminar “Open Historische Web Cartografie” sept 2015</title>
-      <link>http://osgeo.nl/2015/12/verslag-histwebcart-2015/</link>
+      <link>/2015/12/verslag-histwebcart-2015/</link>
       <pubDate>Thu, 31 Dec 2015 15:00:18 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2015/12/verslag-histwebcart-2015/</guid>
+      <guid>/2015/12/verslag-histwebcart-2015/</guid>
       <description>
         
           
@@ -45,10 +45,10 @@ Vijf sprekers, Menne Kosian (RCE), Jan Hartmann (UvA), Thijs de Boer (UvA), E
     
     <item>
       <title>OSGeo.nl Dag 2014 – Verslag en Presentaties</title>
-      <link>http://osgeo.nl/2015/01/osgeo-nl-dag-2014-verslag-en-presentaties/</link>
+      <link>/2015/01/osgeo-nl-dag-2014-verslag-en-presentaties/</link>
       <pubDate>Fri, 23 Jan 2015 15:34:19 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2015/01/osgeo-nl-dag-2014-verslag-en-presentaties/</guid>
+      <guid>/2015/01/osgeo-nl-dag-2014-verslag-en-presentaties/</guid>
       <description>
         
           
@@ -61,10 +61,10 @@ Vijf sprekers, Menne Kosian (RCE), Jan Hartmann (UvA), Thijs de Boer (UvA), E
     
     <item>
       <title>OpenTopo workshop 2014 video beschikbaar</title>
-      <link>http://osgeo.nl/2014/09/opentopo-workshop-2014-video-beschikbaar/</link>
+      <link>/2014/09/opentopo-workshop-2014-video-beschikbaar/</link>
       <pubDate>Sun, 21 Sep 2014 16:22:13 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2014/09/opentopo-workshop-2014-video-beschikbaar/</guid>
+      <guid>/2014/09/opentopo-workshop-2014-video-beschikbaar/</guid>
       <description>
         
           

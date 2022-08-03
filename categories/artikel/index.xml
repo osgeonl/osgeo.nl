@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artikel on OSGeo.nl - Wegwijs in Open Geo</title>
-    <link>http://osgeo.nl/categories/artikel/</link>
+    <link>/categories/artikel/</link>
     <description>Recent content in Artikel on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Feb 2018 22:33:25 +0000</lastBuildDate><atom:link href="http://osgeo.nl/categories/artikel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Feb 2018 22:33:25 +0000</lastBuildDate><atom:link href="/categories/artikel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Verslag: OSGeo.nl en OpenStreetMap NL Nieuwjaarsborrel 2018</title>
-      <link>http://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</link>
+      <link>/2018/02/verslag-nieuwjaarsborrel-2018/</link>
       <pubDate>Tue, 13 Feb 2018 22:33:25 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</guid>
+      <guid>/2018/02/verslag-nieuwjaarsborrel-2018/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@ Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakke
     
     <item>
       <title>Verslag: OSGeo.nl Dag 2017</title>
-      <link>http://osgeo.nl/2017/12/verslag-osgeonl-dag-2017/</link>
+      <link>/2017/12/verslag-osgeonl-dag-2017/</link>
       <pubDate>Wed, 06 Dec 2017 22:17:08 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2017/12/verslag-osgeonl-dag-2017/</guid>
+      <guid>/2017/12/verslag-osgeonl-dag-2017/</guid>
       <description>
         
           
@@ -45,10 +45,10 @@ Dank aan allen die hieraan meegewerkt hebben, in bijzonder Winifred Broeder (pro
     
     <item>
       <title>Verslag: Seminar “Open Historische Web Cartografie” sept 2015</title>
-      <link>http://osgeo.nl/2015/12/verslag-histwebcart-2015/</link>
+      <link>/2015/12/verslag-histwebcart-2015/</link>
       <pubDate>Thu, 31 Dec 2015 15:00:18 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2015/12/verslag-histwebcart-2015/</guid>
+      <guid>/2015/12/verslag-histwebcart-2015/</guid>
       <description>
         
           
@@ -64,10 +64,10 @@ Vijf sprekers, Menne Kosian (RCE), Jan Hartmann (UvA), Thijs de Boer (UvA), E
     
     <item>
       <title>Open Geodata op groot formaat</title>
-      <link>http://osgeo.nl/2015/09/open-geodata-op-groot-formaat/</link>
+      <link>/2015/09/open-geodata-op-groot-formaat/</link>
       <pubDate>Sun, 20 Sep 2015 15:42:25 +0000</pubDate>
       
-      <guid>http://osgeo.nl/2015/09/open-geodata-op-groot-formaat/</guid>
+      <guid>/2015/09/open-geodata-op-groot-formaat/</guid>
       <description>
         
           
