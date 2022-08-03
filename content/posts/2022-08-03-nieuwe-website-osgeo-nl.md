@@ -28,17 +28,21 @@ Hugo is een zogenaamde
 'statische website generator'. Er is geen database, PHP en andere hosting meer nodig.
 Je hoeft alleen wat "markdown" bestanden te maken.
 
-Hoe werkt dit dan met dat Hugo?
+Hoe werkt deze website dan met dat Hugo?
 
 * alle 'content' wordt beheerd in een [GitHub repository](https://github.com/osgeonl/osgeo.nl)
-* de content is in "markdown", `.md` files, [zoals deze pagina](https://github.com/osgeonl/osgeo.nl/blob/main/content/posts/2022-08-03-nieuwe-website-osgeo-nl.md)
-* "blog" posts worden netjes gerangschikt
+* de content is in "markdown", `.md` files, [zoals deze pagina](https://raw.githubusercontent.com/osgeonl/osgeo.nl/main/content/posts/2022-08-03-nieuwe-website-osgeo-nl.md)
+* "blog" posts (en pages) worden netjes gerangschikt (middels metadata in .md file!)
 * binnen GitHub wordt via 'GitHub Pages' statische content (HTML) geserveerd
-* dit kan zelfs op eigen domein (dus osgeo.nl) en met SSL/HTTPS
+* dit kan zelfs op eigen domein (dus hier osgeo.nl) 
+* ook SSL/HTTPS certificaten worden (door GitHub) automatisch gegenereerd en uptodate gehouden
 * het genereren en publiceren gebeurt automagisch binnen een [GitHub Workflow](https://github.com/osgeonl/osgeo.nl/blob/main/.github/workflows/publish.yml) op een "commit/push"
+* geen "dynamic content" dus, maar anderzijds ook geen cookies/trackers/Google Analytics meer 
 
-Het onderhoud aan de website komt dan neer op het beheren van een standaard
+Het onderhoud aan de website komt (met Hugo) neer op het beheren van een standaard
 GitHub Open Source repository. Het automatisch publiceren is in feite een vorm van CI/CD....
+Dit wordt ook wel "GitOps" genoemd. Ok, we doen dit nu op GitHub, maar gaat om technisch
+principe dat zo weer op ander Git-systeem als GitLab is over te zetten. Voor nu even GitHub.
 
-In eerste instantie is de "content" as-is gemigreerd. we zijn nu druk bezig alle
+In eerste instantie is de "content" as-is gemigreerd. We zijn nu druk bezig alle
 "glitches" te repareren. Wil je meehelpen of een eigen hoekje hier? Laat ons weten!
