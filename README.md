@@ -33,7 +33,10 @@ Now maintaining the site is a breeze!
 
 ## DNS and GitHub Custom Domain
 
-See e.g. https://www.geeksforgeeks.org/publish-websites-on-github-pages-with-a-custom-domain/
+See refs:
+ 
+* [GitHub Docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
+* https://www.geeksforgeeks.org/publish-websites-on-github-pages-with-a-custom-domain/
 
 * Hoster DNS: new.osgeo.nl CNAME defined to osgeonl.github.io
 * Hoster DNS: www.osgeo.nl CNAME defined to osgeonl.github.io
@@ -46,7 +49,15 @@ See e.g. https://www.geeksforgeeks.org/publish-websites-on-github-pages-with-a-c
 185.199.111.153
 
 ```
-* TODO: maybe also define AAAA records in Hoster DNS.
+* also define AAAA records in Hoster DNS.
+
+```
+ 2606:50c0:8000::153
+ 2606:50c0:8001::153 
+ 2606:50c0:8002::153 
+ 2606:50c0:8003::153
+
+```
 * in root of `gh-pages` branch have file CNAME containing osgeo.nl
 
 ## Maintain
