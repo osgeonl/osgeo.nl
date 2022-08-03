@@ -3,6 +3,12 @@ This is the https://osgeo.nl website.
 This site was migrated from Wordpress to Hugo in GitHub in 2022. 
 Some glitches still present!
 
+## Running locally
+git clone https://%username%@github.com/osgeonl/osgeo.nl git
+cd git
+git submodule update --init --recursive
+hugo server -D -w
+
 ## Migration from WP
 Links
 
