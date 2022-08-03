@@ -7,8 +7,9 @@ date: 2022-08-03T07:04:42+00:00
 ---
 Mail: [info@osgeo.nl][1]    
 Twitter: [@osgeo][2] [#osgeonl][3]   
-GeoForum: [geoforum][7]  
+GeoForum: [geoforum.nl][7]  
 Agenda: [meetup.com/OSGeoNL][6]  
+Video: [tv.osgeo.nl][8]    
 Wiki: [wiki.osgeo.org/wiki/Nederlands][5]    
 Mailing lijst: [lists.osgeo.org/mailman/listinfo/dutch][4]    
 
@@ -23,4 +24,6 @@ Kamer van Koophandel: 58214763
 [4]: https://lists.osgeo.org/mailman/listinfo/dutch
 [5]: https://wiki.osgeo.org/wiki/Nederlands "wiki.osgeo.org/wiki/Nederlands"
 [6]: https://meetup.com/OSGeoNL "meetup.com/OSGeoNL"
-[7]: https://geoforum.nl "geoforum"
+[7]: https://geoforum.nl "geoforum.nl"
+[8]: https://tv.osgeo.nl "tv.osgeo.nl"
+
