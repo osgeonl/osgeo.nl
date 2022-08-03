@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>openstreetmap on OSGeo.nl - Wegwijs in Open Geo</title>
+    <link>http://osgeo.nl/tags/openstreetmap/</link>
+    <description>Recent content in openstreetmap on OSGeo.nl - Wegwijs in Open Geo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Feb 2018 22:33:25 +0000</lastBuildDate><atom:link href="http://osgeo.nl/tags/openstreetmap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Verslag: OSGeo.nl en OpenStreetMap NL Nieuwjaarsborrel 2018</title>
+      <link>http://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</link>
+      <pubDate>Tue, 13 Feb 2018 22:33:25 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</guid>
+      <description>
+        
+          
+            Op zondag 14 januari 2018 werd de traditionele OSGeo.nl en OpenStreetMap NL nieuwjaarsborrel, in de inmiddels geheel gerenoveerde bovenzaal van Cafe Dudok in Hilversum, weer goed bezocht. Een van de weinige events waar deze twee communities tezamen komen (dat moeten we vaker doen!).
+Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakken zijn: niet alleen op gebied van de open data rond De Basis Registraties (BAG, BGT, BRK, Top10NL etc) en projecten die zich daar mee bezig houden zoals NLExtract, maar ook op het gebied van bijvoorbeeld Missing Maps en QGIS.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Verslag: Seminar “Open Historische Web Cartografie” sept 2015</title>
+      <link>http://osgeo.nl/2015/12/verslag-histwebcart-2015/</link>
+      <pubDate>Thu, 31 Dec 2015 15:00:18 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2015/12/verslag-histwebcart-2015/</guid>
+      <description>
+        
+          
+            Dit gezamenlijk event van OSGeo.nl, UvA en RCE was op vrijdag 25 sept 2015 (13:00-17:30, RCE Amersfoort). Hieronder het programma en achtergrond informatie. Er waren plm 50 deelnemers. Meer info op de OSGeo.nl Meetup.
+Het programma was als volgt:
+Voor het volledige programma en alle abstracts zie deze PDF.
+Vijf sprekers, Menne Kosian (RCE), Jan Hartmann (UvA), Thijs de Boer (UvA), Edward Mac Gillavry (Webmapper), Just van den Broecke (Just Objects), ontwikkelaars en dienstverleners uit het vakgebied gaven deze onderwerpen inhoud.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>OSGeo.nl Dag 2014 – Verslag en Presentaties</title>
+      <link>http://osgeo.nl/2015/01/osgeo-nl-dag-2014-verslag-en-presentaties/</link>
+      <pubDate>Fri, 23 Jan 2015 15:34:19 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2015/01/osgeo-nl-dag-2014-verslag-en-presentaties/</guid>
+      <description>
+        
+          
+            Op 25 november 2014 vond de derde OSGeo.nl Dag plaats. Dit keer als onderdeel van de GeoBuzz in de Brabanthallen in Den Bosch. Het organiserend team bestond uit Willy Bakker, Erik Meerburg en Paul van Genuchten. Zij stelden een uitdagend programma op met vooral aandacht voor het gebruik van Open Geo-ICT door eindgebruikers. Tussendoor waren er korte, 15 minuten durende “Feature Frenzies” waarin nieuwe ontwikkelingen van een product in korte tijd werd uitgelegd.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>OpenTopo workshop 2014 video beschikbaar</title>
+      <link>http://osgeo.nl/2014/09/opentopo-workshop-2014-video-beschikbaar/</link>
+      <pubDate>Sun, 21 Sep 2014 16:22:13 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2014/09/opentopo-workshop-2014-video-beschikbaar/</guid>
+      <description>
+        
+          
+            In het voorjaar van 2104 organiseerde OSGeo.nl samen met Jan-Willem van Aalst (Imergis) een tweetal OpenTopo workshops. Hierin presenteerde Jan-Willem hoe hij met behulp van open geodata (BAG, Top10nl, NWB, OpenStreetMap) en open source doftware (NLExtract, QGis, PostGIS) zijn op de OOV sector gerichte variatie op de klassieke Top25 kaart van het Kadaster maakt.
+Drie delen van die workshop (genummerd, 4-5-6) staan vanaf nu ondertiteld en wel online op het OSGeo.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

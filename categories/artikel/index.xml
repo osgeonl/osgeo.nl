@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artikel on OSGeo.nl - Wegwijs in Open Geo</title>
+    <link>http://osgeo.nl/categories/artikel/</link>
+    <description>Recent content in Artikel on OSGeo.nl - Wegwijs in Open Geo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Feb 2018 22:33:25 +0000</lastBuildDate><atom:link href="http://osgeo.nl/categories/artikel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Verslag: OSGeo.nl en OpenStreetMap NL Nieuwjaarsborrel 2018</title>
+      <link>http://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</link>
+      <pubDate>Tue, 13 Feb 2018 22:33:25 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</guid>
+      <description>
+        
+          
+            Op zondag 14 januari 2018 werd de traditionele OSGeo.nl en OpenStreetMap NL nieuwjaarsborrel, in de inmiddels geheel gerenoveerde bovenzaal van Cafe Dudok in Hilversum, weer goed bezocht. Een van de weinige events waar deze twee communities tezamen komen (dat moeten we vaker doen!).
+Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakken zijn: niet alleen op gebied van de open data rond De Basis Registraties (BAG, BGT, BRK, Top10NL etc) en projecten die zich daar mee bezig houden zoals NLExtract, maar ook op het gebied van bijvoorbeeld Missing Maps en QGIS.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Verslag: OSGeo.nl Dag 2017</title>
+      <link>http://osgeo.nl/2017/12/verslag-osgeonl-dag-2017/</link>
+      <pubDate>Wed, 06 Dec 2017 22:17:08 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2017/12/verslag-osgeonl-dag-2017/</guid>
+      <description>
+        
+          
+            De zesde OSGeo.nl Dag 2017 vond plaats op 22 November 2017 op de GeoBuzz in Den Bosch. Onder het motto &amp;ldquo;Samenwerking Versnelt&amp;rdquo; haakten wij in bij het GeoBuzz-thema: &amp;ldquo;Geo Versnelt&amp;rdquo;
+Hieronder een kort verslag, voor de TLDR; lezer: hier staan alle presentaties.
+Eng.: this is a report with slides (in Dutch) of the yearly “OSGeo.nl Day” organized by OSGeo.nl
+Dank aan allen die hieraan meegewerkt hebben, in bijzonder Winifred Broeder (programma, logo’s, promotie materiaal, foto’s) , Ynte de Wolf (programma), Steven Ottens (techniek) en uiteraard alle sprekers die zich merkbaar degelijk hadden voorbereid!
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Verslag: Seminar “Open Historische Web Cartografie” sept 2015</title>
+      <link>http://osgeo.nl/2015/12/verslag-histwebcart-2015/</link>
+      <pubDate>Thu, 31 Dec 2015 15:00:18 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2015/12/verslag-histwebcart-2015/</guid>
+      <description>
+        
+          
+            Dit gezamenlijk event van OSGeo.nl, UvA en RCE was op vrijdag 25 sept 2015 (13:00-17:30, RCE Amersfoort). Hieronder het programma en achtergrond informatie. Er waren plm 50 deelnemers. Meer info op de OSGeo.nl Meetup.
+Het programma was als volgt:
+Voor het volledige programma en alle abstracts zie deze PDF.
+Vijf sprekers, Menne Kosian (RCE), Jan Hartmann (UvA), Thijs de Boer (UvA), Edward Mac Gillavry (Webmapper), Just van den Broecke (Just Objects), ontwikkelaars en dienstverleners uit het vakgebied gaven deze onderwerpen inhoud.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Open Geodata op groot formaat</title>
+      <link>http://osgeo.nl/2015/09/open-geodata-op-groot-formaat/</link>
+      <pubDate>Sun, 20 Sep 2015 15:42:25 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2015/09/open-geodata-op-groot-formaat/</guid>
+      <description>
+        
+          
+            Architect Rob de Vries van DVUA uit Alkmaar (www.dvua.nl) heeft voor een interieuropdracht op originele wijze gebruik gemaakt van open geodata. De reliëfkaart van Jan-Willem van Aalst is een combinatie van de AHN2, de BAG (gebouwen) en de BRT (terreinvlakken). Deze is online te bekijken via www.map5.nl van Just van den Broecke, zie bijv. deze view
+Dit reliëfbeeld was precies wat Rob zocht voor deze interieuropdracht in Alkmaar. De provincie Noord-Holland werd op 1600 pix/km geleverd.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

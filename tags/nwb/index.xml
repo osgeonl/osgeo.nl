@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NWB on OSGeo.nl - Wegwijs in Open Geo</title>
+    <link>http://osgeo.nl/tags/nwb/</link>
+    <description>Recent content in NWB on OSGeo.nl - Wegwijs in Open Geo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Sep 2014 16:22:13 +0000</lastBuildDate><atom:link href="http://osgeo.nl/tags/nwb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenTopo workshop 2014 video beschikbaar</title>
+      <link>http://osgeo.nl/2014/09/opentopo-workshop-2014-video-beschikbaar/</link>
+      <pubDate>Sun, 21 Sep 2014 16:22:13 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2014/09/opentopo-workshop-2014-video-beschikbaar/</guid>
+      <description>
+        
+          
+            In het voorjaar van 2104 organiseerde OSGeo.nl samen met Jan-Willem van Aalst (Imergis) een tweetal OpenTopo workshops. Hierin presenteerde Jan-Willem hoe hij met behulp van open geodata (BAG, Top10nl, NWB, OpenStreetMap) en open source doftware (NLExtract, QGis, PostGIS) zijn op de OOV sector gerichte variatie op de klassieke Top25 kaart van het Kadaster maakt.
+Drie delen van die workshop (genummerd, 4-5-6) staan vanaf nu ondertiteld en wel online op het OSGeo.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

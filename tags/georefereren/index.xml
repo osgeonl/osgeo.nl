@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Georefereren on OSGeo.nl - Wegwijs in Open Geo</title>
+    <link>http://osgeo.nl/tags/georefereren/</link>
+    <description>Recent content in Georefereren on OSGeo.nl - Wegwijs in Open Geo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2015 15:00:18 +0000</lastBuildDate><atom:link href="http://osgeo.nl/tags/georefereren/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Verslag: Seminar “Open Historische Web Cartografie” sept 2015</title>
+      <link>http://osgeo.nl/2015/12/verslag-histwebcart-2015/</link>
+      <pubDate>Thu, 31 Dec 2015 15:00:18 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2015/12/verslag-histwebcart-2015/</guid>
+      <description>
+        
+          
+            Dit gezamenlijk event van OSGeo.nl, UvA en RCE was op vrijdag 25 sept 2015 (13:00-17:30, RCE Amersfoort). Hieronder het programma en achtergrond informatie. Er waren plm 50 deelnemers. Meer info op de OSGeo.nl Meetup.
+Het programma was als volgt:
+Voor het volledige programma en alle abstracts zie deze PDF.
+Vijf sprekers, Menne Kosian (RCE), Jan Hartmann (UvA), Thijs de Boer (UvA), Edward Mac Gillavry (Webmapper), Just van den Broecke (Just Objects), ontwikkelaars en dienstverleners uit het vakgebied gaven deze onderwerpen inhoud.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Seminar “Open Historische Web Cartografie” 25 sept 2015</title>
+      <link>http://osgeo.nl/2015/06/seminar-open-historische-web-cartografie-op-25-sept-2015/</link>
+      <pubDate>Tue, 23 Jun 2015 18:01:47 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2015/06/seminar-open-historische-web-cartografie-op-25-sept-2015/</guid>
+      <description>
+        
+          
+            Dit gezamenlijk event van OSGeo.nl, UvA en RCE is op vrijdag 25 sept 2015 (13:00-17:30, RCE Amersfoort). Hieronder het programma en achtergrond informatie. Opgeven kan via de OSGeo.nl Meetup:
+Download hier het volledige programma (PDF).
+Historische kaarten spreken velen tot de verbeelding. Het vakgebied Historische Cartografie kent dan ook een lange geschiedenis. Het ontsluiten van historische kaarten via het Web is sterk in opkomst.
+Als we naar Nederland kijken zien we op dit gebied verschillende projecten en initiatieven, met als terugkomend kenmerk het scannen en geo-refereren van papieren kaarten en verdere ontsluiting.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

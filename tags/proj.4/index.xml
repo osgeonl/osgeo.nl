@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>proj.4 on OSGeo.nl - Wegwijs in Open Geo</title>
+    <link>http://osgeo.nl/tags/proj.4/</link>
+    <description>Recent content in proj.4 on OSGeo.nl - Wegwijs in Open Geo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Oct 2016 21:59:28 +0000</lastBuildDate><atom:link href="http://osgeo.nl/tags/proj.4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Verslag: mini-seminar RD en Open Source Software – okt 2016</title>
+      <link>http://osgeo.nl/2016/10/verslag-mini-seminar-rd/</link>
+      <pubDate>Thu, 27 Oct 2016 21:59:28 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2016/10/verslag-mini-seminar-rd/</guid>
+      <description>
+        
+          
+            Op donderdag 20 oktober 2016 van 16:00-20:00 organiseerde OSGeo.nl het mini-seminar RD en Open Source Software. Het doel was tweeledig: allereerst om de bezoeker kennis bij te brengen over coördinatenstelsels in het algemeen en het Rijksdriehoeksstelsel in het bijzonder. Het tweede doel was om coördinatenstelsels op een juiste manier toe te passen binnen software, waarbij de focus natuurlijk ligt op open source software. Initiatiefnemer en samensteller voor dit event was Frank Steggink.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Mini-seminar “RD en open source software “- do. 20 oktober 2016 – Hilversum</title>
+      <link>http://osgeo.nl/2016/10/mini-seminar-rd-en-open-source-software-do-20-oktober-2016-hilversum/</link>
+      <pubDate>Sat, 01 Oct 2016 15:13:31 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2016/10/mini-seminar-rd-en-open-source-software-do-20-oktober-2016-hilversum/</guid>
+      <description>
+        
+          
+            Op donderdag 20 oktober a.s. organiseert OSGeo.nl het mini-seminar “RD en Open Source Software”. Het doel is tweeledig: allereerst om de bezoeker kennis bij te brengen over coördinatenstelsels in het algemeen en het Rijksdriehoeksstelsel in het bijzonder. Het tweede doel is om coördinatenstelsels op een juiste manier toe te passen binnen software, waarbij de focus natuurlijk ligt op open source software.
+Zie het verslag en links naar presentaties van dit seminar hier
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

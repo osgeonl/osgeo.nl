@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>osmm on OSGeo.nl - Wegwijs in Open Geo</title>
+    <link>http://osgeo.nl/tags/osmm/</link>
+    <description>Recent content in osmm on OSGeo.nl - Wegwijs in Open Geo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 May 2015 13:29:17 +0000</lastBuildDate><atom:link href="http://osgeo.nl/tags/osmm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workshop: “Open source geo: kiezen of delen?”</title>
+      <link>http://osgeo.nl/2015/05/open-source-geo-kiezen-of-delen/</link>
+      <pubDate>Sat, 23 May 2015 13:29:17 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2015/05/open-source-geo-kiezen-of-delen/</guid>
+      <description>
+        
+          
+            Op dinsdag 9 juni 2015 organiseren Ordina en de stichting OSGeo.nl onder de titel “Open source geo: kiezen of delen?” een workshop waarin wordt verkend welke softwarekeuzes je binnen open source geo kunt maken, en welke overwegingen je daarbij kunt hanteren. Wat is het beste softwarepakket? En wat is voor mijn organisatie het beste geschikt? Hoe zit de community achter een open source product in elkaar? En hoe kan ik daar een rol in spelen?
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

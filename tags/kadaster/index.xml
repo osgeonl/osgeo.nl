@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kadaster on OSGeo.nl - Wegwijs in Open Geo</title>
+    <link>http://osgeo.nl/tags/kadaster/</link>
+    <description>Recent content in Kadaster on OSGeo.nl - Wegwijs in Open Geo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2015 15:00:18 +0000</lastBuildDate><atom:link href="http://osgeo.nl/tags/kadaster/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Verslag: Seminar “Open Historische Web Cartografie” sept 2015</title>
+      <link>http://osgeo.nl/2015/12/verslag-histwebcart-2015/</link>
+      <pubDate>Thu, 31 Dec 2015 15:00:18 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2015/12/verslag-histwebcart-2015/</guid>
+      <description>
+        
+          
+            Dit gezamenlijk event van OSGeo.nl, UvA en RCE was op vrijdag 25 sept 2015 (13:00-17:30, RCE Amersfoort). Hieronder het programma en achtergrond informatie. Er waren plm 50 deelnemers. Meer info op de OSGeo.nl Meetup.
+Het programma was als volgt:
+Voor het volledige programma en alle abstracts zie deze PDF.
+Vijf sprekers, Menne Kosian (RCE), Jan Hartmann (UvA), Thijs de Boer (UvA), Edward Mac Gillavry (Webmapper), Just van den Broecke (Just Objects), ontwikkelaars en dienstverleners uit het vakgebied gaven deze onderwerpen inhoud.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Nieuwjaarsborrel 2015 – De Presentaties</title>
+      <link>http://osgeo.nl/2015/01/nieuwjaarsborrel-2015-de-presentaties/</link>
+      <pubDate>Sun, 25 Jan 2015 15:33:10 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2015/01/nieuwjaarsborrel-2015-de-presentaties/</guid>
+      <description>
+        
+          
+            Op de vierde opeenvolgende gezamenlijke nieuwjaarsborrel van OSGeo.nl en OpenStreetMap NL in cafe Dudok te Hilversum waren weer een aantal interessante presentaties. Hieronder ook de links naar de PDF-slides en een zeer fraaie 3D video.
+Jan-Willem van Aalst presenteerde OpenTopo op 1600px/km – Voortgang en Issues. Wat kom je allemaal tegen als je BAG/OSM en Top10NL combineert in toenemend detail.
+Richard Duivenvoorde introduceerde Mozilla Location Services – Crowdsourcing Location Wifi/GSM Location Data: een mooie open source/open data tegenhanger van de Google Location Service.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

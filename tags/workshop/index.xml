@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>workshop on OSGeo.nl - Wegwijs in Open Geo</title>
+    <link>http://osgeo.nl/tags/workshop/</link>
+    <description>Recent content in workshop on OSGeo.nl - Wegwijs in Open Geo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Oct 2017 18:44:12 +0000</lastBuildDate><atom:link href="http://osgeo.nl/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GRASS GIS crash course</title>
+      <link>http://osgeo.nl/2017/10/grass-gis-crash-course/</link>
+      <pubDate>Sun, 08 Oct 2017 18:44:12 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2017/10/grass-gis-crash-course/</guid>
+      <description>
+        
+          
+            On 3 November 2017 there will be a GRASS GIS crash course, organized by OSGeo.nl and the Faculty of Geo-Information Science and Earth Observation of ITC. The course will provide participants with an overview of the software capabilities and a hands-on experience in raster, vector and time series processing with the Open Source software GRASS GIS 7. For more information, go here. You can register on our Meetup page [update: maximum number of participants has been reached, registration closed].
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Huiswerk voor deelnemers aan de workshop “Versiebeheer in geoland”</title>
+      <link>http://osgeo.nl/2016/11/huiswerk-voor-deelnemers-aan-de-workshop-versiebeheer-in-geoland/</link>
+      <pubDate>Sun, 20 Nov 2016 17:55:44 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2016/11/huiswerk-voor-deelnemers-aan-de-workshop-versiebeheer-in-geoland/</guid>
+      <description>
+        
+          
+            Voorbereiding voor de workshopdeelnemers Als je wilt deelnemen aan de workshop “Versiebeheer in geoland” (om 14.15u op de OSGeo.nl dag op 22 november) vragen we je de volgende punten even door te lezen:
+Neem bij voorkeur een eigen laptop mee.
+Het maakt niet uit af dat een Mac, Linux of Windows exemplaar is *) Zorg dat je admin rechten op die laptop hebt Installeer van tevoren VirtualBox of VMWare (zelf even downloaden) op deze laptop Download van tevoren de kant-en-klare “virtual machine” (VM) vanuit de OSgeo.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>OSGeo.nl PostGIS Workshop</title>
+      <link>http://osgeo.nl/2014/10/581/</link>
+      <pubDate>Thu, 09 Oct 2014 10:18:59 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2014/10/581/</guid>
+      <description>
+        
+          
+            Op 9 oktober 2014 vond de OSGeo.nl PostGIS workshop plaats op het GeoFort (met dank aan GeoAcademie voor beschikbaar stellen deze locatie). Hoofddocent en PostGIS expert Wouter Boasson, gesecondeerd door PostgreSQL-expert Michel Sijmons verzorgden een inspirerende en vooral “hands-on” avond voor plm 20 enthousiaste deelnemers: van jonge WUR-studenten tot Kadaster-pensionado’s. Er stonden vier mensen op de wachtlijst. Hieronder foto tijdens de inloop.
+Na een inleiding en uitleg over PostGIS, waarbij Wouter duidelijk maakte dat PostGIS naast geo-data opslag vooral ook een systeem is voor ruimtelijke queries en analyse, was het de praktijk die middels een serie opklimmende opgaven ervaren kon worden op de eigen laptop.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

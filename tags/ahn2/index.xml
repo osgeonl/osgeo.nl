@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AHN2 on OSGeo.nl - Wegwijs in Open Geo</title>
+    <link>http://osgeo.nl/tags/ahn2/</link>
+    <description>Recent content in AHN2 on OSGeo.nl - Wegwijs in Open Geo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Sep 2015 15:42:25 +0000</lastBuildDate><atom:link href="http://osgeo.nl/tags/ahn2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Geodata op groot formaat</title>
+      <link>http://osgeo.nl/2015/09/open-geodata-op-groot-formaat/</link>
+      <pubDate>Sun, 20 Sep 2015 15:42:25 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2015/09/open-geodata-op-groot-formaat/</guid>
+      <description>
+        
+          
+            Architect Rob de Vries van DVUA uit Alkmaar (www.dvua.nl) heeft voor een interieuropdracht op originele wijze gebruik gemaakt van open geodata. De reliëfkaart van Jan-Willem van Aalst is een combinatie van de AHN2, de BAG (gebouwen) en de BRT (terreinvlakken). Deze is online te bekijken via www.map5.nl van Just van den Broecke, zie bijv. deze view
+Dit reliëfbeeld was precies wat Rob zocht voor deze interieuropdracht in Alkmaar. De provincie Noord-Holland werd op 1600 pix/km geleverd.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Nieuwjaarsborrel 2015 – De Presentaties</title>
+      <link>http://osgeo.nl/2015/01/nieuwjaarsborrel-2015-de-presentaties/</link>
+      <pubDate>Sun, 25 Jan 2015 15:33:10 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2015/01/nieuwjaarsborrel-2015-de-presentaties/</guid>
+      <description>
+        
+          
+            Op de vierde opeenvolgende gezamenlijke nieuwjaarsborrel van OSGeo.nl en OpenStreetMap NL in cafe Dudok te Hilversum waren weer een aantal interessante presentaties. Hieronder ook de links naar de PDF-slides en een zeer fraaie 3D video.
+Jan-Willem van Aalst presenteerde OpenTopo op 1600px/km – Voortgang en Issues. Wat kom je allemaal tegen als je BAG/OSM en Top10NL combineert in toenemend detail.
+Richard Duivenvoorde introduceerde Mozilla Location Services – Crowdsourcing Location Wifi/GSM Location Data: een mooie open source/open data tegenhanger van de Google Location Service.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

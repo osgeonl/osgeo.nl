@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BAG on OSGeo.nl - Wegwijs in Open Geo</title>
+    <link>http://osgeo.nl/tags/bag/</link>
+    <description>Recent content in BAG on OSGeo.nl - Wegwijs in Open Geo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Apr 2018 09:47:39 +0000</lastBuildDate><atom:link href="http://osgeo.nl/tags/bag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Verslag: NLExtract Hacking Day</title>
+      <link>http://osgeo.nl/2018/04/verslag-nlextract-hacking-day/</link>
+      <pubDate>Mon, 30 Apr 2018 09:47:39 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2018/04/verslag-nlextract-hacking-day/</guid>
+      <description>
+        
+          
+            Afgelopen donderdag (26 april) was de eerste NLExtract Hacking Day, ruim zes jaar nadat de huidige Github repo is aangemaakt en bijna zeven jaar nadat BAGExtract+ door Matthijs van der Deijl online is gezet. De opkomst was zeer goed te noemen, met 14 man en één dame, waaronder de voltallige bezetting van zowel Webmapper als Geogap. Een gevarieerd gezelschap, maar met de nadruk op ontwikkelaars. We werden gastvrij ontvangen door Webmapper bij de Social Impact Factory in Utrecht.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>25 november OSGeo.nl dag 2015 – programma en inschrijven</title>
+      <link>http://osgeo.nl/2015/10/25-november-osgeo-nl-dag-2015/</link>
+      <pubDate>Sun, 18 Oct 2015 16:18:43 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2015/10/25-november-osgeo-nl-dag-2015/</guid>
+      <description>
+        
+          
+            OSGeo.nl dag als onderdeel van de GeoBuzz: open source voor iedereen! De OSGeo.nl dag is dit net als vorig jaar onderdeel van de GeoBuzz en vindt plaats op woensdag 25 november in congrescentrum “1931” in Den Bosch.
+Het programma biedt voor zowel toekomstige als bestaande gebruikers van opensource-GIS interessante presentaties en workshops.
+Het thema is: open source – voor iedereen!
+Dat gaat naar Den Bosch toe Congrescentrum “1931” is met de auto prima bereikbaar.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Open Geodata op groot formaat</title>
+      <link>http://osgeo.nl/2015/09/open-geodata-op-groot-formaat/</link>
+      <pubDate>Sun, 20 Sep 2015 15:42:25 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2015/09/open-geodata-op-groot-formaat/</guid>
+      <description>
+        
+          
+            Architect Rob de Vries van DVUA uit Alkmaar (www.dvua.nl) heeft voor een interieuropdracht op originele wijze gebruik gemaakt van open geodata. De reliëfkaart van Jan-Willem van Aalst is een combinatie van de AHN2, de BAG (gebouwen) en de BRT (terreinvlakken). Deze is online te bekijken via www.map5.nl van Just van den Broecke, zie bijv. deze view
+Dit reliëfbeeld was precies wat Rob zocht voor deze interieuropdracht in Alkmaar. De provincie Noord-Holland werd op 1600 pix/km geleverd.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Nieuwjaarsborrel 2015 – De Presentaties</title>
+      <link>http://osgeo.nl/2015/01/nieuwjaarsborrel-2015-de-presentaties/</link>
+      <pubDate>Sun, 25 Jan 2015 15:33:10 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2015/01/nieuwjaarsborrel-2015-de-presentaties/</guid>
+      <description>
+        
+          
+            Op de vierde opeenvolgende gezamenlijke nieuwjaarsborrel van OSGeo.nl en OpenStreetMap NL in cafe Dudok te Hilversum waren weer een aantal interessante presentaties. Hieronder ook de links naar de PDF-slides en een zeer fraaie 3D video.
+Jan-Willem van Aalst presenteerde OpenTopo op 1600px/km – Voortgang en Issues. Wat kom je allemaal tegen als je BAG/OSM en Top10NL combineert in toenemend detail.
+Richard Duivenvoorde introduceerde Mozilla Location Services – Crowdsourcing Location Wifi/GSM Location Data: een mooie open source/open data tegenhanger van de Google Location Service.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>OpenTopo workshop 2014 video beschikbaar</title>
+      <link>http://osgeo.nl/2014/09/opentopo-workshop-2014-video-beschikbaar/</link>
+      <pubDate>Sun, 21 Sep 2014 16:22:13 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2014/09/opentopo-workshop-2014-video-beschikbaar/</guid>
+      <description>
+        
+          
+            In het voorjaar van 2104 organiseerde OSGeo.nl samen met Jan-Willem van Aalst (Imergis) een tweetal OpenTopo workshops. Hierin presenteerde Jan-Willem hoe hij met behulp van open geodata (BAG, Top10nl, NWB, OpenStreetMap) en open source doftware (NLExtract, QGis, PostGIS) zijn op de OOV sector gerichte variatie op de klassieke Top25 kaart van het Kadaster maakt.
+Drie delen van die workshop (genummerd, 4-5-6) staan vanaf nu ondertiteld en wel online op het OSGeo.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

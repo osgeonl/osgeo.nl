@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nieuws on OSGeo.nl - Wegwijs in Open Geo</title>
+    <link>http://osgeo.nl/categories/nieuws/</link>
+    <description>Recent content in Nieuws on OSGeo.nl - Wegwijs in Open Geo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Apr 2018 09:47:39 +0000</lastBuildDate><atom:link href="http://osgeo.nl/categories/nieuws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Verslag: NLExtract Hacking Day</title>
+      <link>http://osgeo.nl/2018/04/verslag-nlextract-hacking-day/</link>
+      <pubDate>Mon, 30 Apr 2018 09:47:39 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2018/04/verslag-nlextract-hacking-day/</guid>
+      <description>
+        
+          
+            Afgelopen donderdag (26 april) was de eerste NLExtract Hacking Day, ruim zes jaar nadat de huidige Github repo is aangemaakt en bijna zeven jaar nadat BAGExtract+ door Matthijs van der Deijl online is gezet. De opkomst was zeer goed te noemen, met 14 man en één dame, waaronder de voltallige bezetting van zowel Webmapper als Geogap. Een gevarieerd gezelschap, maar met de nadruk op ontwikkelaars. We werden gastvrij ontvangen door Webmapper bij de Social Impact Factory in Utrecht.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Verslag: OSGeo.nl en OpenStreetMap NL Nieuwjaarsborrel 2018</title>
+      <link>http://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</link>
+      <pubDate>Tue, 13 Feb 2018 22:33:25 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</guid>
+      <description>
+        
+          
+            Op zondag 14 januari 2018 werd de traditionele OSGeo.nl en OpenStreetMap NL nieuwjaarsborrel, in de inmiddels geheel gerenoveerde bovenzaal van Cafe Dudok in Hilversum, weer goed bezocht. Een van de weinige events waar deze twee communities tezamen komen (dat moeten we vaker doen!).
+Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakken zijn: niet alleen op gebied van de open data rond De Basis Registraties (BAG, BGT, BRK, Top10NL etc) en projecten die zich daar mee bezig houden zoals NLExtract, maar ook op het gebied van bijvoorbeeld Missing Maps en QGIS.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Verslag: OSGeo.nl Dag 2017</title>
+      <link>http://osgeo.nl/2017/12/verslag-osgeonl-dag-2017/</link>
+      <pubDate>Wed, 06 Dec 2017 22:17:08 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2017/12/verslag-osgeonl-dag-2017/</guid>
+      <description>
+        
+          
+            De zesde OSGeo.nl Dag 2017 vond plaats op 22 November 2017 op de GeoBuzz in Den Bosch. Onder het motto &amp;ldquo;Samenwerking Versnelt&amp;rdquo; haakten wij in bij het GeoBuzz-thema: &amp;ldquo;Geo Versnelt&amp;rdquo;
+Hieronder een kort verslag, voor de TLDR; lezer: hier staan alle presentaties.
+Eng.: this is a report with slides (in Dutch) of the yearly “OSGeo.nl Day” organized by OSGeo.nl
+Dank aan allen die hieraan meegewerkt hebben, in bijzonder Winifred Broeder (programma, logo’s, promotie materiaal, foto’s) , Ynte de Wolf (programma), Steven Ottens (techniek) en uiteraard alle sprekers die zich merkbaar degelijk hadden voorbereid!
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>GRASS GIS crash course</title>
+      <link>http://osgeo.nl/2017/10/grass-gis-crash-course/</link>
+      <pubDate>Sun, 08 Oct 2017 18:44:12 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2017/10/grass-gis-crash-course/</guid>
+      <description>
+        
+          
+            On 3 November 2017 there will be a GRASS GIS crash course, organized by OSGeo.nl and the Faculty of Geo-Information Science and Earth Observation of ITC. The course will provide participants with an overview of the software capabilities and a hands-on experience in raster, vector and time series processing with the Open Source software GRASS GIS 7. For more information, go here. You can register on our Meetup page [update: maximum number of participants has been reached, registration closed].
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>OSGeo.nl Dag 2017 – Geo.Samen.Doen.</title>
+      <link>http://osgeo.nl/2017/10/osgeo-nl-dag-2017-geo-samen-doen/</link>
+      <pubDate>Wed, 04 Oct 2017 21:53:48 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2017/10/osgeo-nl-dag-2017-geo-samen-doen/</guid>
+      <description>
+        
+          
+            Het is inmiddels traditie dat de jaarlijkse OSGeo.nl Dag op GeoBuzz plaatsvindt. De afgelopen jaren was ons programma altijd het drukst bezochte en best gewaardeerde onderdeel. Ook dit jaar wordt het natuurlijk weer geweldig! Zet dus 22 November 2017 in je agenda! Onder het motto “Samenwerking Versnelt” haken wij in bij het GeoBuzz-thema: “Geo Versnelt”.
+Wat gaan we doen? Het programma is nog in voorbereiding, maar de rode draad zal “Samenwerking” zijn.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Nieuw OSGeo.nl Logo</title>
+      <link>http://osgeo.nl/2017/09/nieuw-osgeo-nl-logo/</link>
+      <pubDate>Fri, 29 Sep 2017 15:38:03 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2017/09/nieuw-osgeo-nl-logo/</guid>
+      <description>
+        
+          
+            Het OSGeo.org Marketing Committee, voorgezeten door onze eigen Marc Vloemans, is afgelopen maanden druk bezig geweest met een algemene OSGeo.org “Rebranding”. Dit gaat verder dan veranderen van logo: het gaat om een complete vernieuwing van huisstijl, website en en veel meer. Het Nederlandse bedrijf Get Interactive heeft daarbij een groot deel van de uitvoering gedaan. Een en ander is al te zien op de OSGeo.org website.
+Als OSGeo.org Lokale Afdeling (Chapter) willen we als OSGeo.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Huiswerk voor deelnemers aan de workshop “Versiebeheer in geoland”</title>
+      <link>http://osgeo.nl/2016/11/huiswerk-voor-deelnemers-aan-de-workshop-versiebeheer-in-geoland/</link>
+      <pubDate>Sun, 20 Nov 2016 17:55:44 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2016/11/huiswerk-voor-deelnemers-aan-de-workshop-versiebeheer-in-geoland/</guid>
+      <description>
+        
+          
+            Voorbereiding voor de workshopdeelnemers Als je wilt deelnemen aan de workshop “Versiebeheer in geoland” (om 14.15u op de OSGeo.nl dag op 22 november) vragen we je de volgende punten even door te lezen:
+Neem bij voorkeur een eigen laptop mee.
+Het maakt niet uit af dat een Mac, Linux of Windows exemplaar is *) Zorg dat je admin rechten op die laptop hebt Installeer van tevoren VirtualBox of VMWare (zelf even downloaden) op deze laptop Download van tevoren de kant-en-klare “virtual machine” (VM) vanuit de OSgeo.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Een kijkje in de keuken van de OSGeo.nl dag: agile programmeren</title>
+      <link>http://osgeo.nl/2016/11/een-kijkje-in-de-keuken-van-de-osgeo-nl-dag-agile-programmeren/</link>
+      <pubDate>Tue, 15 Nov 2016 07:35:42 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2016/11/een-kijkje-in-de-keuken-van-de-osgeo-nl-dag-agile-programmeren/</guid>
+      <description>
+        
+          
+            Het lijkt ieder jaar zo simpel. Benader 15 mensen die leuke dingen doen op het gebied van open source geo. Daarvan is er 1 op vakantie, 1 blijkt zich permanent in een ver buitenland gevestigd te hebben, en 1 is er net vader geworden (ja, ook in open source geoland hebben mannen de numerieke overhand). Dan houd je 12 namen over waarmee je een programma rond hebt, en is de klus geklaard.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Verslag: mini-seminar RD en Open Source Software – okt 2016</title>
+      <link>http://osgeo.nl/2016/10/verslag-mini-seminar-rd/</link>
+      <pubDate>Thu, 27 Oct 2016 21:59:28 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2016/10/verslag-mini-seminar-rd/</guid>
+      <description>
+        
+          
+            Op donderdag 20 oktober 2016 van 16:00-20:00 organiseerde OSGeo.nl het mini-seminar RD en Open Source Software. Het doel was tweeledig: allereerst om de bezoeker kennis bij te brengen over coördinatenstelsels in het algemeen en het Rijksdriehoeksstelsel in het bijzonder. Het tweede doel was om coördinatenstelsels op een juiste manier toe te passen binnen software, waarbij de focus natuurlijk ligt op open source software. Initiatiefnemer en samensteller voor dit event was Frank Steggink.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>22 november 2016: 5e OSGeo.nl Dag op een rij!</title>
+      <link>http://osgeo.nl/2016/10/22-november-5e-osgeo-nl-dag-op-een-rij/</link>
+      <pubDate>Sat, 08 Oct 2016 17:40:43 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2016/10/22-november-5e-osgeo-nl-dag-op-een-rij/</guid>
+      <description>
+        
+          
+            In 2012 gestart op Hogeschool Larenstein in Velp, in 2013 in samenwerking met TU Delft en dit jaar voor de derde achtereenvolgende keer als onderdeel van de GeoBuzz in ‘s-Hertogenbosch (Brabanthallen) maakt bij elkaar alweer de vijfde achtereenvolgende jaarlijkse OSGeo.nl Dag.
+Op onze wiki kun je precies lezen hoe het zit met de voorbereiding van het programma en wat we nog aan “vacatures” voor de organisatie open hebben staan.
+Aanmelden De OSGeo.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Mini-seminar “RD en open source software “- do. 20 oktober 2016 – Hilversum</title>
+      <link>http://osgeo.nl/2016/10/mini-seminar-rd-en-open-source-software-do-20-oktober-2016-hilversum/</link>
+      <pubDate>Sat, 01 Oct 2016 15:13:31 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2016/10/mini-seminar-rd-en-open-source-software-do-20-oktober-2016-hilversum/</guid>
+      <description>
+        
+          
+            Op donderdag 20 oktober a.s. organiseert OSGeo.nl het mini-seminar “RD en Open Source Software”. Het doel is tweeledig: allereerst om de bezoeker kennis bij te brengen over coördinatenstelsels in het algemeen en het Rijksdriehoeksstelsel in het bijzonder. Het tweede doel is om coördinatenstelsels op een juiste manier toe te passen binnen software, waarbij de focus natuurlijk ligt op open source software.
+Zie het verslag en links naar presentaties van dit seminar hier
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Come in, we’re open! – Inschrijving voor FOSS4G (Bonn) start vandaag</title>
+      <link>http://osgeo.nl/2016/04/come-in-were-open/</link>
+      <pubDate>Fri, 15 Apr 2016 10:51:48 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2016/04/come-in-were-open/</guid>
+      <description>
+        
+          
+            Na enige maanden van voorbereiding is vandaag eindelijk de dag aangebroken dat de inschrijving voor FOSS4G in Bonn (D) van start gaat. Van 24 tot en met 26 augustus zullen honderden (wellicht zelfs duizend) gebruikers, ontwikkelaars, beleidsmakers en onderzoekers van over de hele wereld naar Bonn trekken om daar kennis te nemen van de state-of-the-art van free &amp;amp; open source software for geospatial (FOSS4G), om zich te laten inspireren door case studies waarin open source software en data worden gebruikt om maatschappelijke problemen op te lossen, en natuurlijk om oude vrienden te ontmoeten en nieuwe vriendschappen aan te gaan.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>De oogst van de nieuwjaarsborrel: de ideeënwand voor 2016</title>
+      <link>http://osgeo.nl/2016/03/de-ideeenwand-voor-2016/</link>
+      <pubDate>Sat, 05 Mar 2016 00:43:43 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2016/03/de-ideeenwand-voor-2016/</guid>
+      <description>
+        
+          
+            Het nieuwe jaar is al weer een flink eind op streek. Toch wil ik jullie nog de “oogst” van de OpenStreetMap &amp;amp; OSGeo.nl Nieuwjaarsborrel meegeven. Tijdens deze traditionele Nieuwjaarsborrel in café Dudok in Hilversum werden de circa 50 aanwezigen uit alle delen van Nederland en Vlaanderen gevraagd om hun ideeën en wensen voor het nieuwe open source jaar kenbaar te maken. Dat leverde deze ideeënwand op:
+We noteren dus als ideeën voor 2016, met wat contactpersonen:
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Verslag: Seminar “Open Historische Web Cartografie” sept 2015</title>
+      <link>http://osgeo.nl/2015/12/verslag-histwebcart-2015/</link>
+      <pubDate>Thu, 31 Dec 2015 15:00:18 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2015/12/verslag-histwebcart-2015/</guid>
+      <description>
+        
+          
+            Dit gezamenlijk event van OSGeo.nl, UvA en RCE was op vrijdag 25 sept 2015 (13:00-17:30, RCE Amersfoort). Hieronder het programma en achtergrond informatie. Er waren plm 50 deelnemers. Meer info op de OSGeo.nl Meetup.
+Het programma was als volgt:
+Voor het volledige programma en alle abstracts zie deze PDF.
+Vijf sprekers, Menne Kosian (RCE), Jan Hartmann (UvA), Thijs de Boer (UvA), Edward Mac Gillavry (Webmapper), Just van den Broecke (Just Objects), ontwikkelaars en dienstverleners uit het vakgebied gaven deze onderwerpen inhoud.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>25 november OSGeo.nl dag 2015 – programma en inschrijven</title>
+      <link>http://osgeo.nl/2015/10/25-november-osgeo-nl-dag-2015/</link>
+      <pubDate>Sun, 18 Oct 2015 16:18:43 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2015/10/25-november-osgeo-nl-dag-2015/</guid>
+      <description>
+        
+          
+            OSGeo.nl dag als onderdeel van de GeoBuzz: open source voor iedereen! De OSGeo.nl dag is dit net als vorig jaar onderdeel van de GeoBuzz en vindt plaats op woensdag 25 november in congrescentrum “1931” in Den Bosch.
+Het programma biedt voor zowel toekomstige als bestaande gebruikers van opensource-GIS interessante presentaties en workshops.
+Het thema is: open source – voor iedereen!
+Dat gaat naar Den Bosch toe Congrescentrum “1931” is met de auto prima bereikbaar.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Open Geodata op groot formaat</title>
+      <link>http://osgeo.nl/2015/09/open-geodata-op-groot-formaat/</link>
+      <pubDate>Sun, 20 Sep 2015 15:42:25 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2015/09/open-geodata-op-groot-formaat/</guid>
+      <description>
+        
+          
+            Architect Rob de Vries van DVUA uit Alkmaar (www.dvua.nl) heeft voor een interieuropdracht op originele wijze gebruik gemaakt van open geodata. De reliëfkaart van Jan-Willem van Aalst is een combinatie van de AHN2, de BAG (gebouwen) en de BRT (terreinvlakken). Deze is online te bekijken via www.map5.nl van Just van den Broecke, zie bijv. deze view
+Dit reliëfbeeld was precies wat Rob zocht voor deze interieuropdracht in Alkmaar. De provincie Noord-Holland werd op 1600 pix/km geleverd.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>25 november: OSGeo.nl dag op GeoBuzz</title>
+      <link>http://osgeo.nl/2015/09/25-november-osgeo-nl-dag-op-geobuzz/</link>
+      <pubDate>Fri, 11 Sep 2015 12:28:39 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2015/09/25-november-osgeo-nl-dag-op-geobuzz/</guid>
+      <description>
+        
+          
+            Inmiddels alweer voor het vierde opeenvolgende jaar organiseert de Stichting OSGeo.nl haar jaarlijkse OSGeo.nl dag. En net als vorig jaar zal dat ook dit jaar plaatsvinden op de GeoBuzz.
+Met als doel “het verspreiden van kennis over en het stimuleren van het gebruik van open source software voor geo” is voor de Stichting OSgeo.nl de GeoBuzz een prima plek om een brede doelgroep kennis te laten nemen van de mogelijkheden van het toepassen van open source software.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Miniseminar “kiezen of delen” biedt nieuwe inzichten in volwassenheid open source software</title>
+      <link>http://osgeo.nl/2015/09/miniseminar-kiezen-of-delen-biedt-nieuwe-inzichten-in-volwassenheid-open-source-software/</link>
+      <pubDate>Fri, 11 Sep 2015 12:14:50 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2015/09/miniseminar-kiezen-of-delen-biedt-nieuwe-inzichten-in-volwassenheid-open-source-software/</guid>
+      <description>
+        
+          
+            Op 9 juni jongstleden kwam een groep van circa 20 geïnteresseerden bijeen in het Ordina hoofdkantoor in Nieuwegein om met elkaar de discussie aan te gaan over de wijze waarop de volwassenheid van open source (geo-)projecten gemeten kan worden.
+Na een welkomstwoord van Harco de Jager (Business unit manager Geo-ICT bij Ordina) beet Ordina’s open source specialist Patrick Jenner het spits af met allereerst een introductie over de geschiedenis van open source software, licensies en verschijningsvormen.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Seminar “Open Historische Web Cartografie” 25 sept 2015</title>
+      <link>http://osgeo.nl/2015/06/seminar-open-historische-web-cartografie-op-25-sept-2015/</link>
+      <pubDate>Tue, 23 Jun 2015 18:01:47 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2015/06/seminar-open-historische-web-cartografie-op-25-sept-2015/</guid>
+      <description>
+        
+          
+            Dit gezamenlijk event van OSGeo.nl, UvA en RCE is op vrijdag 25 sept 2015 (13:00-17:30, RCE Amersfoort). Hieronder het programma en achtergrond informatie. Opgeven kan via de OSGeo.nl Meetup:
+Download hier het volledige programma (PDF).
+Historische kaarten spreken velen tot de verbeelding. Het vakgebied Historische Cartografie kent dan ook een lange geschiedenis. Het ontsluiten van historische kaarten via het Web is sterk in opkomst.
+Als we naar Nederland kijken zien we op dit gebied verschillende projecten en initiatieven, met als terugkomend kenmerk het scannen en geo-refereren van papieren kaarten en verdere ontsluiting.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Workshop: “Open source geo: kiezen of delen?”</title>
+      <link>http://osgeo.nl/2015/05/open-source-geo-kiezen-of-delen/</link>
+      <pubDate>Sat, 23 May 2015 13:29:17 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2015/05/open-source-geo-kiezen-of-delen/</guid>
+      <description>
+        
+          
+            Op dinsdag 9 juni 2015 organiseren Ordina en de stichting OSGeo.nl onder de titel “Open source geo: kiezen of delen?” een workshop waarin wordt verkend welke softwarekeuzes je binnen open source geo kunt maken, en welke overwegingen je daarbij kunt hanteren. Wat is het beste softwarepakket? En wat is voor mijn organisatie het beste geschikt? Hoe zit de community achter een open source product in elkaar? En hoe kan ik daar een rol in spelen?
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Miniseminar “Wegwijs in Open Source Geo” bij Ruimteschepper</title>
+      <link>http://osgeo.nl/2015/05/miniseminar-wegwijs-in-open-source-geo-bij-ruimteschepper/</link>
+      <pubDate>Thu, 21 May 2015 14:13:31 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2015/05/miniseminar-wegwijs-in-open-source-geo-bij-ruimteschepper/</guid>
+      <description>
+        
+          
+            Op donderdag 28 mei 2015 (13:30-17:30) is er een Ruimteschepper-kenniskring bijeenkomst bij Nieuwland in Wageningen met als thema “Wegwijs in Open Source Geo”. Dit is een co-productie met de Stichting OSGeo.nl. Vanuit OSGeo.nl zal voorzitter Gert-Jan van der Weijden als eerste spreker “Het Open Source Geo landschap” inzichtelijk maken. Zie het volledige programma hieronder en op de Meetup Event.
+In principe is dit event alleen voor Ruimteschepper-kenniskring-leden maar dat kun je zo worden of mogelijk alleen voor deze bijeenkomst.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Nieuwjaarsborrel 2015 – De Presentaties</title>
+      <link>http://osgeo.nl/2015/01/nieuwjaarsborrel-2015-de-presentaties/</link>
+      <pubDate>Sun, 25 Jan 2015 15:33:10 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2015/01/nieuwjaarsborrel-2015-de-presentaties/</guid>
+      <description>
+        
+          
+            Op de vierde opeenvolgende gezamenlijke nieuwjaarsborrel van OSGeo.nl en OpenStreetMap NL in cafe Dudok te Hilversum waren weer een aantal interessante presentaties. Hieronder ook de links naar de PDF-slides en een zeer fraaie 3D video.
+Jan-Willem van Aalst presenteerde OpenTopo op 1600px/km – Voortgang en Issues. Wat kom je allemaal tegen als je BAG/OSM en Top10NL combineert in toenemend detail.
+Richard Duivenvoorde introduceerde Mozilla Location Services – Crowdsourcing Location Wifi/GSM Location Data: een mooie open source/open data tegenhanger van de Google Location Service.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>OSGeo.nl Dag 2014 – Verslag en Presentaties</title>
+      <link>http://osgeo.nl/2015/01/osgeo-nl-dag-2014-verslag-en-presentaties/</link>
+      <pubDate>Fri, 23 Jan 2015 15:34:19 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2015/01/osgeo-nl-dag-2014-verslag-en-presentaties/</guid>
+      <description>
+        
+          
+            Op 25 november 2014 vond de derde OSGeo.nl Dag plaats. Dit keer als onderdeel van de GeoBuzz in de Brabanthallen in Den Bosch. Het organiserend team bestond uit Willy Bakker, Erik Meerburg en Paul van Genuchten. Zij stelden een uitdagend programma op met vooral aandacht voor het gebruik van Open Geo-ICT door eindgebruikers. Tussendoor waren er korte, 15 minuten durende “Feature Frenzies” waarin nieuwe ontwikkelingen van een product in korte tijd werd uitgelegd.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>OSGeo.nl PostGIS Workshop</title>
+      <link>http://osgeo.nl/2014/10/581/</link>
+      <pubDate>Thu, 09 Oct 2014 10:18:59 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2014/10/581/</guid>
+      <description>
+        
+          
+            Op 9 oktober 2014 vond de OSGeo.nl PostGIS workshop plaats op het GeoFort (met dank aan GeoAcademie voor beschikbaar stellen deze locatie). Hoofddocent en PostGIS expert Wouter Boasson, gesecondeerd door PostgreSQL-expert Michel Sijmons verzorgden een inspirerende en vooral “hands-on” avond voor plm 20 enthousiaste deelnemers: van jonge WUR-studenten tot Kadaster-pensionado’s. Er stonden vier mensen op de wachtlijst. Hieronder foto tijdens de inloop.
+Na een inleiding en uitleg over PostGIS, waarbij Wouter duidelijk maakte dat PostGIS naast geo-data opslag vooral ook een systeem is voor ruimtelijke queries en analyse, was het de praktijk die middels een serie opklimmende opgaven ervaren kon worden op de eigen laptop.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>OpenTopo workshop 2014 video beschikbaar</title>
+      <link>http://osgeo.nl/2014/09/opentopo-workshop-2014-video-beschikbaar/</link>
+      <pubDate>Sun, 21 Sep 2014 16:22:13 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2014/09/opentopo-workshop-2014-video-beschikbaar/</guid>
+      <description>
+        
+          
+            In het voorjaar van 2104 organiseerde OSGeo.nl samen met Jan-Willem van Aalst (Imergis) een tweetal OpenTopo workshops. Hierin presenteerde Jan-Willem hoe hij met behulp van open geodata (BAG, Top10nl, NWB, OpenStreetMap) en open source doftware (NLExtract, QGis, PostGIS) zijn op de OOV sector gerichte variatie op de klassieke Top25 kaart van het Kadaster maakt.
+Drie delen van die workshop (genummerd, 4-5-6) staan vanaf nu ondertiteld en wel online op het OSGeo.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>OSGeo.nl dag 2014 als onderdeel van de GeoBuzz</title>
+      <link>http://osgeo.nl/2014/08/osgeo-nl-dag-2014-als-onderdeel-van-de-geobuzz/</link>
+      <pubDate>Sun, 31 Aug 2014 19:36:43 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2014/08/osgeo-nl-dag-2014-als-onderdeel-van-de-geobuzz/</guid>
+      <description>
+        
+          
+            Na succesvolle edities in 2012 (Velp, ism Hogeschool Larenstein) en 2013 (Delft, ism de TU) gaan we met de OSGeo.nl dag 2014 wat nieuws proberen.
+De organisatie van het GeoBuzz congres heeft OSGeo.nl benaderd met het idee een OSGeo.nl event binnen de muren van het GeoBuzz congres (25 en 26 november, in ‘s Hertogenbosch) te organiseren.
+En dat gaan we doen, de gehele dag op 25 november 2014! Zo kunnen we een heel brede groep kennis laten maken met open source geo.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>PostGIS Workshop door OSGeo.nl op 9 okt 2014</title>
+      <link>http://osgeo.nl/2014/08/postgis-workshop-door-osgeo-nl/</link>
+      <pubDate>Tue, 26 Aug 2014 19:29:31 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2014/08/postgis-workshop-door-osgeo-nl/</guid>
+      <description>
+        
+          
+            Op de OpenTopo workshops door JW van Aalst bleek er behoefte te zijn aan workshops door OSGeo.nl rond basis tools: met name PostGIS en QGIS. Twee grote specialisten zijn bereid een PostGIS workshop te geven: Michel Sijmons (Nibble IT) en Wouter Boasson (RIVM/HAS). Organisator is Just van den Broecke. Vind hier de pagina met instructies, opgaven en data.
+Tijdstip/plaats: do 9 oktober 2014 18:30-22:30 (soep en broodjes 18:30-19:30), in het GeoFort (met dank aan Geo-Academie!
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>OpenTopo Workshops in maart 2014</title>
+      <link>http://osgeo.nl/2014/04/334/</link>
+      <pubDate>Fri, 04 Apr 2014 18:38:53 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2014/04/334/</guid>
+      <description>
+        
+          
+            Op woensdagavond 12 maart en donderdagmiddag 27 maart 2014 organiseerde OSGeo.nl workshops over de kaartbladen op www.OpenTopo.nl. De workshops werden gegeven door Jan-Willem van Aalst, initiatiefnemer en beheerder van de OpenTopo kaartbladen. Na een korte introductie over de aanleiding, het doel en het gebruik van de kaartbladen kijken we hoe ze zijn opgebouwd: welke (open) geo-data worden gebruikt; welke kleurkeuzes zijn gemaakt en waarom. Het grootste deel van de workshop bestond uit een demonstratie van QGIS2 waarin stap-voor-stap het OpenTopo kaartbeeld werd opgebouwd, waarbij dilemma’s besproken werden.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>OpenTopo Workshops 12&#43;27 maart 2014</title>
+      <link>http://osgeo.nl/2014/02/opentopo-workshops-1227-maart-2014/</link>
+      <pubDate>Tue, 04 Feb 2014 20:08:39 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2014/02/opentopo-workshops-1227-maart-2014/</guid>
+      <description>
+        
+          
+            Zie de OSGeo.nl Agenda voor alle events.
+Op woensdagavond 12 maart en donderdagmiddag 27 maart 2014 organiseert OSGeo.nl workshops over de kaartbladen op www.OpenTopo.nl. De workshops worden gegeven door Jan-Willem van Aalst, initiatiefnemer en beheerder van de OpenTopo kaartbladen. Na een korte introductie over de aanleiding, het doel en het gebruik van de kaartbladen kijken we hoe ze zijn opgebouwd: welke (open) geo-data worden gebruikt; welke kleurkeuzes zijn gemaakt en waarom.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Nieuwjaarsborrel 12 jan 2014</title>
+      <link>http://osgeo.nl/2013/12/nieuwjaarsborrel-12-jan-2014/</link>
+      <pubDate>Tue, 17 Dec 2013 21:06:50 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2013/12/nieuwjaarsborrel-12-jan-2014/</guid>
+      <description>
+        
+          
+            Onze traditionele nieuwjaarsborrel met OpenStreetMap-NL. Dit jaar in Cafe Dudok Hilversum (t/o Station NS) , bovenzaal zondag 12 jan, vanaf 15:00. Voor details en aanmelding zie de Meetup event.
+De middag wordt ook leerzaam. Er is ruimte voor een aantal korte presentaties, pitches (laat ons weten!). In ieder geval zal iets over de OSM-BAG import worden verteld, en verder zal Frank Steggink zijn visualisaties met NLExtract en TileMill presenteren.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>OSGeo.nl Dag 2013 – Een succes!</title>
+      <link>http://osgeo.nl/2013/11/osgeo-nl-dag-2013-een-succes/</link>
+      <pubDate>Wed, 20 Nov 2013 19:05:25 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2013/11/osgeo-nl-dag-2013-een-succes/</guid>
+      <description>
+        
+          
+            Ook de tweede OSGeo.nl Dag gehouden op 13 november 2013 in Delft was een succes. Klik op poster hieronder om het programma en de presentaties terug te zien.
+De stichting OSGeo.nl en het OTB van de TU Delft organiseerden op 13 november 2013 bij de Faculteit Bouwkunde de OSGeo.nl dag 2013.
+De succesvolle eerste editie van 2012, met circa 150 bezoekers, maakte duidelijk dat er een grote behoefte bestaat aan informatie over techniek, toepassingen op het gebied van open source geo software, de mogelijkheden die dat biedt voor het benutten van open data en de rol van open standaarden daarbij.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>OSGeo.nl Dag op 13 november 2013</title>
+      <link>http://osgeo.nl/2013/09/osgeo-nl-dag-op-13-november-2013/</link>
+      <pubDate>Fri, 20 Sep 2013 10:10:12 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2013/09/osgeo-nl-dag-op-13-november-2013/</guid>
+      <description>
+        
+          
+            Ons grote jaarlijkse event! Klik op poster hieronder:
+De stichting OSGeo.nl en het OTB van de TU Delft organiseren op 13 november bij de Faculteit Bouwkunde de OSGeo.nl dag 2013. De succesvolle eerste editie vorig jaar, met circa 150 bezoekers, maakte duidelijk dat er een grote behoefte bestaat aan informatie over techniek, toepassingen op het gebied van open source geo software, de mogelijkheden die dat biedt voor het benutten van open data en de rol van open standaarden daarbij.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>21 juni 2013 – Stichting OSGeo.nl Opgericht!</title>
+      <link>http://osgeo.nl/2013/06/21-juni-2013-stichting-osgeo-nl-opgericht/</link>
+      <pubDate>Fri, 21 Jun 2013 15:14:03 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2013/06/21-juni-2013-stichting-osgeo-nl-opgericht/</guid>
+      <description>
+        
+          
+            Op vrijdag 21 juni, om 11:42 werd de akte gepasseerd bij de notaris waardoor vanaf dat moment OSGeo.nl een Stichting is! Dit geeft OSGeo.nl meer ruimte om zaken structureel aan te pakken, zoals sponsoring. Zie ook het persbericht.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>13 juni 2013 – OSGeo Dag in Gent (B)</title>
+      <link>http://osgeo.nl/2013/06/13-juni-2013-osgeo-dag-gent-b/</link>
+      <pubDate>Fri, 14 Jun 2013 10:16:48 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2013/06/13-juni-2013-osgeo-dag-gent-b/</guid>
+      <description>
+        
+          
+            &lt;!-- raw HTML omitted --&gt;
+
+&lt;div class=&#34;&#34;&gt;
+  &lt;a href=&#34;http://www.geomajas.org/osgeogent2013&#34;&gt;
+    &lt;img class=&#34;lazy&#34;
+      src=&#34;http://osgeo.nl/uploads/2013/06/osgeogent.jpg&#34;
+      alt=&#34;&#34; /&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+
+&lt;p&gt;De eerste Vlaamse editie van een OSGeo conferentie waarbij ook OSGeo.nl vertegenwoordiging. Thema was&lt;br&gt;
+“Today’s OSGeo market: experiences from users and suppliers. It will be an interesting opportunity to confront different points of view in order to establish the direction OSGeo is/should be heading for.”&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>16 mei 2013 – Open Source Seminar op Geospatial World Forum</title>
+      <link>http://osgeo.nl/2013/06/16-mei-2013-open-source-seminar-op-geospatial-world-forum/</link>
+      <pubDate>Sat, 01 Jun 2013 10:17:46 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2013/06/16-mei-2013-open-source-seminar-op-geospatial-world-forum/</guid>
+      <description>
+        
+          
+            Net als in 2012 organiseerde OSGeo.nl een Open Source Seminar met nationale en internationale sprekers op het Geospatial World Forum in het WTC in Rotterdam. Georganiseerd door: Paul van Genuchten.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>27 jan 2013 – Nieuwjaars Borrel met OpenStreetMap NL</title>
+      <link>http://osgeo.nl/2013/01/27-jan-2013-nieuwjaars-borrel-met-openstreetmap-nl/</link>
+      <pubDate>Sat, 05 Jan 2013 11:20:55 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2013/01/27-jan-2013-nieuwjaars-borrel-met-openstreetmap-nl/</guid>
+      <description>
+        
+          
+            De bijna alweer traditionele Nieuwjaarsborrel met OpenStreetMap NL houden we dit jaar op zondag 27 januari 2013 in Utrecht (Grand Cafe Lebowski, nabij CS) vanaf 15:00. Ook als je nog niet bekend bent met OSGeo.nl maar nieuwsgierig bent raden we je aan om te komen. Zie alle details en aanmelding op onze Meetup groep.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>160 Bezoekers op OSGeo.nl Dag 2012!</title>
+      <link>http://osgeo.nl/2012/06/160-bezoekers-op-osgeo-nl-dag-2012/</link>
+      <pubDate>Fri, 29 Jun 2012 10:22:37 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2012/06/160-bezoekers-op-osgeo-nl-dag-2012/</guid>
+      <description>
+        
+          
+            Ons belangrijkste event is de jaarlijkse OSGeo.nl Dag. In 2012 hielden we de eerste op 28 juni 2012 tijdens de Open Source GIS Conferentie op de Hogeschool Larenstein (Velp).
+Vind hier het verslag, presentatie-slides of klik op plaatje hieronder.
+Ondanks het warme weer, de naderende zomervakantie en EK-voetbal, telden we zo’n 160 deelnemers!
+In 2013 willen we het bezoekersaantal en de inhoud van 2012 overtreffen! De OSGeo.nl Dag 2013 is gepland in najaar 2013.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Verslag: OSGeo.nl op Geospatial World Forum 2012</title>
+      <link>http://osgeo.nl/2012/05/verslag-osgeo-nl-op-geospatial-world-forum-2012/</link>
+      <pubDate>Tue, 01 May 2012 11:35:00 +0000</pubDate>
+      
+      <guid>http://osgeo.nl/2012/05/verslag-osgeo-nl-op-geospatial-world-forum-2012/</guid>
+      <description>
+        
+          
+            Op 25 April 2012 organiseerden wij namens OSGeo.org een Open Source Seminar op het Geospatial World Forum (RAI, Amsterdam)]
+OSGeo.nl (Just en Willy) stelden een aansprekend programma samen met name aansprekende sprekers, ook wel het DreamTeam genoemd.
+Zie hier het programma van het Open Source Seminar als PDF.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
