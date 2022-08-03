@@ -15,5 +15,5 @@ mkdir -p ${TARGET_DIR}
 # hugo - if using a theme, replace with `hugo -t <YOURTHEME>`
 hugo -D -t hugo-clarity
 
-echo "new.osgeo.nl" > ${TARGET_DIR}/CNAME
+echo "osgeo.nl" > ${TARGET_DIR}/CNAME
 echo "ALL DONE"
