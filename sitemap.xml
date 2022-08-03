@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/contact/</loc>
+    <lastmod>2022-08-03T07:04:42+00:00</lastmod>
+  </url><url>
+    <loc>/over-ons/</loc>
+    <lastmod>2022-08-03T06:52:35+00:00</lastmod>
+  </url><url>
     <loc>/geoforum-nl/</loc>
     <lastmod>2019-02-08T11:30:37+00:00</lastmod>
   </url><url>
@@ -394,12 +400,6 @@
   </url><url>
     <loc>/blog/</loc>
     <lastmod>2014-04-16T19:46:00+00:00</lastmod>
-  </url><url>
-    <loc>/contact/</loc>
-    <lastmod>2014-04-16T07:04:42+00:00</lastmod>
-  </url><url>
-    <loc>/over-ons/</loc>
-    <lastmod>2014-04-16T06:52:35+00:00</lastmod>
   </url><url>
     <loc>/meedoen/</loc>
     <lastmod>2014-04-16T06:32:06+00:00</lastmod>
