@@ -17,7 +17,7 @@
 [[main]]
   parent = "Community"
   name = "Over"
-  url = "over-ons/"
+  url = "about/"
   weight = -107
 [[main]]
   parent = "Community"

@@ -39,7 +39,7 @@ Je kunt zelf bepalen hoe actief je wilt worden binnen OSGeo.nl, een paar voorbee
  [2]: https://geoforum.nl/c/events
  [3]: https://geoforum.nl
  [4]: http://osgeo.nl/agenda/ "Agenda"
- [5]: http://osgeo.nl/over-ons/ "Over ons"
+ [5]: http://osgeo.nl/about/ "Over ons"
  [6]: https://osgeo.nl/geonetwork-gebruikersgroep/
  [7]: http://lists.osgeo.org/mailman/listinfo/dutch
  [8]: http://osgeo-org.1560.n6.nabble.com/OSGeo-Dutch-Local-Chapter-f4574635.html

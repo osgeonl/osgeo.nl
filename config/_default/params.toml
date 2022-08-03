@@ -1,6 +1,6 @@
 twitter = "@osgeonl"
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
-introDescription = "Stichting OSGeo.nl - Dutch OSGeo Chapter"
+introDescription = "The Dutch OSGeo Chapter"
 # introURL = "about/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
 # description = "" # set your site's description here. will be use for home page content meta tags (seo). Alternatively set this description in your homepage content file i.e content/_index.md. Whatever is set in the latter will take precedence
 
@@ -69,7 +69,7 @@ languageMenuName = "🌐"
 # comments = false
 
 # Maximum number of recent posts.
-numberOfRecentPosts = 3
+numberOfRecentPosts = 4
 
 # Maximum number of featured posts.
 # numberOfFeaturedPosts = 8
@@ -88,7 +88,7 @@ iconsDir = "icons/" # without a leading forward slash
 # website author
 [author]
 # name = "Just van den Broecke"
-name = "OSGeo NL"
+name = ""
 # photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sidebar
 
 [plausible_analytics]
