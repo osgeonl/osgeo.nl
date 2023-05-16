@@ -107,9 +107,15 @@
   weight = -98
 [[main]]
   parent = "Events"
-  name = "FOSS4GNL 2021 &neArr;"
+  name = "FOSS4GNL 2023 &neArr;"
   # url = "writings/blog/"
   url = "https://foss4g.nl/"
+  weight = -97
+[[main]]
+  parent = "Events"
+  name = "FOSS4GNL 2021 &neArr;"
+  # url = "writings/blog/"
+  url = "https://2021foss4g.nl/"
   weight = -97
 [[main]]
   parent = "Events"
