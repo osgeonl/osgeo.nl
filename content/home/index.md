@@ -2,7 +2,7 @@
 title: OSGeo.nl - Wegwijs in Open Geo
 author: osgeonl
 type: page
-date: 2014-05-12T17:52:45+00:00
+date: 2023-05-15T17:52:45+00:00
 ---
 
   
@@ -27,8 +27,8 @@ of auteur van artikelen wilt worden [laat het ons weten][2]
 
 ### Actueel
 
-- **Internationale FOSS4G Conferentie - Florence [2022.foss4g.org &neArr;](https://2022.foss4g.org/)**
-- **FOSS4G-NL 2022 - we zijn bezig**
+- **Internationale FOSS4G Conferentie - Kosovo [2023.foss4g.org &neArr;](https://2023.foss4g.org/)**
+- **FOSS4G-NL 2023 - [13/14 sept Middelburg](https://foss4g.nl) - we zijn bezig**
 
 ### Geweest
 * **19-20 Oktober 2021: onze jaarlijkse FOSS4G-NL conferentie. Zie ook: [foss4g.nl &neArr;](https://foss4g.nl) <span class="wpel-icon wpel-image wpel-icon-19"></span>**  
