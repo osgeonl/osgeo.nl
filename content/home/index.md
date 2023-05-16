@@ -28,7 +28,7 @@ of auteur van artikelen wilt worden [laat het ons weten][2]
 ### Actueel
 
 - **Internationale FOSS4G Conferentie - Kosovo [2023.foss4g.org &neArr;](https://2023.foss4g.org/)**
-- **FOSS4G-NL 2023 - [13/14 sept Middelburg](https://foss4g.nl) - we zijn bezig**
+- **FOSS4G-NL 2023 - [13/14 sept Middelburg &neArr;](https://foss4g.nl) - we zijn bezig**
 
 ### Geweest
 * **19-20 Oktober 2021: onze jaarlijkse FOSS4G-NL conferentie. Zie ook: [foss4g.nl &neArr;](https://foss4g.nl) <span class="wpel-icon wpel-image wpel-icon-19"></span>**  
