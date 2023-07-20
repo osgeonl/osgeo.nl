@@ -1,3 +1,11 @@
+---
+title: Sponsorplan
+author: osgeo.nl
+url: /sponsors/sponsorplan/
+date: 2023-07-20T10:49:12+00:00
+
+---
+
 # OSGeo.nl Sponsorplan
 
 ## Wat is de Stichting OSGeo.nl? 
