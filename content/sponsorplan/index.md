@@ -1,7 +1,7 @@
 ---
 title: Sponsorplan
 author: osgeo.nl
-url: /sponsors/sponsorplan/
+type: page
 date: 2023-07-20T10:49:12+00:00
 
 ---

@@ -159,8 +159,20 @@
 
 [[main]]
   name = "Sponsors"
+  identifier = "Sponsors"
+  weight = -80
+
+[[main]]
+  parent = "Sponsors"
+  name = "Huidige Sponsors"
   url = "sponsors/"
-  weight = -104
+  weight = -81
+
+[[main]]
+  parent = "Sponsors"
+  name = "Sponsorplan"
+  url = "sponsorplan/"
+  weight = -82
 
 [[main]]
   name = "Contact"
