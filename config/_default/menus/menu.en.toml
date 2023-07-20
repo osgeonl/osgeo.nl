@@ -160,24 +160,24 @@
 [[main]]
   name = "Sponsors"
   identifier = "Sponsors"
-  weight = -80
+  weight = -106
 
 [[main]]
   parent = "Sponsors"
   name = "Huidige Sponsors"
   url = "sponsors/"
-  weight = -81
+  weight = -90
 
 [[main]]
   parent = "Sponsors"
   name = "Sponsorplan"
   url = "sponsorplan/"
-  weight = -82
+  weight = -89
 
 [[main]]
   name = "Contact"
   url = "contact/"
-  weight = -103
+  weight = -105
 
 # social menu links
 

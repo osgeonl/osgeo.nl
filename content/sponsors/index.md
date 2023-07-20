@@ -8,7 +8,7 @@ date: 2023-07-20T10:49:12+00:00
 OSGeo.nl dankt al haar sponsors. 
 Door hun steun kunnen we o.a. events zoals de [FOSS4GNL][1] laagdrempelig aanbieden.
 
-Wilt u ook OSGeo.nl sponsoren? Bekijk dan ons [Sponsorplan](sponsorplan.html).
+Wilt u ook OSGeo.nl sponsoren? Bekijk dan ons [Sponsorplan](/sponsorplan/).
 
 ## Goud sponsors
 
