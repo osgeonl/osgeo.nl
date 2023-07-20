@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/sponsors/</loc>
+    <lastmod>2023-07-20T10:49:12+00:00</lastmod>
+  </url><url>
     <loc>/home/</loc>
     <lastmod>2023-05-15T17:52:45+00:00</lastmod>
   </url><url>
@@ -409,9 +412,6 @@
   </url><url>
     <loc>/meedoen/</loc>
     <lastmod>2014-04-16T06:32:06+00:00</lastmod>
-  </url><url>
-    <loc>/sponsors/</loc>
-    <lastmod>2014-04-14T17:49:12+00:00</lastmod>
   </url><url>
     <loc>/sample-page/</loc>
     <lastmod>2014-04-12T18:21:43+00:00</lastmod>
