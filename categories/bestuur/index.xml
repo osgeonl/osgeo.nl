@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bestuur on OSGeo.nl - Wegwijs in Open Geo</title>
+    <link>/categories/bestuur/</link>
+    <description>Recent content in Bestuur on OSGeo.nl - Wegwijs in Open Geo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Aug 2023 19:47:39 +0000</lastBuildDate><atom:link href="/categories/bestuur/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nieuw bestuur Stichting OSGeo.nl</title>
+      <link>/2023/08/nieuw-bestuur-osgeo-nl/</link>
+      <pubDate>Tue, 01 Aug 2023 19:47:39 +0000</pubDate>
+      
+      <guid>/2023/08/nieuw-bestuur-osgeo-nl/</guid>
+      <description>
+        
+          
+            Stichting OSGeo.nl heeft sinds juli 2023 een nieuw bestuur! Dit nieuwe bestuur kijkt onwijs uit om samen met jullie vol enthousiasme en plezier te zorgen dat we samen mensen nog meer bekend maken met het gebruik en de ontwikkeling van open source software voor geo-informatie.
+Als je benieuwd bent wat er allemaal besproken werd bij het debuut van dit nieuwe bestuur dan is de nota van deze laatste bestuursvergadering is te lezen op de wiki via: https://wiki.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
