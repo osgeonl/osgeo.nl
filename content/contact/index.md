@@ -9,7 +9,6 @@ Mail: [info@osgeo.nl][1]
 Twitter: [@osgeo][2] [#osgeonl][3]   
 GeoForum: [geoforum.nl][7]  
 Agenda: [meetup.com/OSGeoNL][6]  
-Video: [tv.osgeo.nl][8]    
 Wiki: [wiki.osgeo.org/wiki/Nederlands][5]    
 Mailing lijst: [lists.osgeo.org/mailman/listinfo/dutch][4]    
 

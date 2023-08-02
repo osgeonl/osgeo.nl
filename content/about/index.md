@@ -26,11 +26,15 @@ Toch maar even voor de duidelijkheid: De stichting OSGeo.nl verricht géén comm
 
 ### Samenstelling Bestuur
 
-Op dit moment (3.aug.2022) bestaat het bestuur van de stichting OSGeo.nl uit:
+Op dit moment (2.aug.2023) bestaat het bestuur van de stichting OSGeo.nl uit:
 
-  * [Just van den Broecke][17] &#8211; voorzitter
-  * [Paulo van Breugel][18] &#8211; secretaris en penningmeester
-  * we hebben een vacatures!, [laat ons weten][3]!
+
+* Algemeen bestuurslid: [Just van den Broecke][17] (duwbak)
+* Marketing en communicatie: Lars van Tol (Chef regelneef)
+* Voorzitter: Niene Boeijen (Miss Maps)
+* Penningmeester: [Paulo van Breugel][18] (mister money)
+* Secretaris: Erik Meerburg (Minister van Feest)
+
 
 Eerdere bestuursleden waren 
 o.a. [Marc Vloemans][20] &#8211; communicatie (tot 1 juli 2017),

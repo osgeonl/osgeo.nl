@@ -41,11 +41,11 @@
   name = "Wiki"
   url = "wiki/"
   weight = -96
-[[main]]
-  parent = "Community"
-  name = "Blogs"
-  url = "blog/"
-  weight = -95
+# [[main]]
+#   parent = "Community"
+#   name = "Blogs"
+#   url = "blog/"
+#   weight = -95
 [[main]]
   parent = "Community"
   name = "Aanbieders"
@@ -87,6 +87,11 @@
   name = "QGIS Gebruikersgroep &neArr;"
   url = "https://qgis.nl/"
   weight = -91
+[[main]]
+  parent = "Community"
+  name = "De Grote Geo Show  &neArr;"
+  url = "https://tv.osgeo.nl/"
+  weight = -90
 
 [[main]]
   name = "Events"
@@ -98,55 +103,55 @@
   name = "Agenda &neArr;"
   url = "https://www.meetup.com/osgeonl/"
   weight = -99
-[[main]]
-  parent = "Events"
-  identifier = "Events-Overzicht"
-  name = "Overzicht"
-  # url = "events/"
-  url = "categories/event/"
-  weight = -98
+# [[main]]
+#   parent = "Events"
+#   identifier = "Events-Overzicht"
+#   name = "Overzicht"
+#   # url = "events/"
+#   url = "categories/event/"
+#   weight = -98
 [[main]]
   parent = "Events"
   name = "FOSS4GNL 2023 &neArr;"
   # url = "writings/blog/"
   url = "https://foss4g.nl/"
-  weight = -97
+  weight = -97  
 [[main]]
   parent = "Events"
   name = "FOSS4GNL 2021 &neArr;"
   # url = "writings/blog/"
   url = "https://2021foss4g.nl/"
-  weight = -97
+  weight = -96
 [[main]]
   parent = "Events"
   name = "FOSS4GNL 2019 &neArr;"
   url = "https://2019.foss4g.nl/"
-  weight = -96
+  weight = -95
 [[main]]
   parent = "Events"
   name = "FOSS4GNL 2018 &neArr;"
   url = "https://2018.foss4g.nl/"
-  weight = -95
+  weight = -94
 [[main]]
   parent = "Events"
   name = "FOSS4GNL 2017 &neArr;"
   url = "https://2017.foss4g.nl/"
-  weight = -94
+  weight = -93
 [[main]]
   parent = "Events"
   name = "QGIS Gebruikersdag 2018 &neArr;"
   url = "http://www.qgis.nl/2018/01/22/programma-gebruikersmiddag-compleet/"
-  weight = -93
+  weight = -92
 [[main]]
   parent = "Events"
   name = "GRASS GIS crash course"
   url = "grassgis-course/"
-  weight = -92
+  weight = -91
 [[main]]
   parent = "Events"
   name = "OSGeo.nl Dag 2017"
   url = "dag/"
-  weight = -91
+  weight = -90
 
 [[main]]
   name = "Nieuws"

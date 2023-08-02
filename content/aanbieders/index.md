@@ -17,6 +17,6 @@ Er is een dynamische lijst van aanbieders in Nederland en België via de interna
 [Open Geo-ICT aanbieders in Nederland<][4]
 
  [1]: http://osgeo.nl/sponsors/ "Sponsors"
- [2]: http://wiki.osgeo.org/wiki/Nederlands/Sponsoring
+ [2]: http://osgeo.nl/sponsorplan/
  [3]: http://www.osgeo.org/search_profile?SET=1&MUL_COUNTRY%5B%5D=00053
  [4]: http://www.osgeo.org/search_profile?SET=1&MUL_COUNTRY%5B%5D=00005

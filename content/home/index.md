@@ -27,17 +27,14 @@ of auteur van artikelen wilt worden [laat het ons weten][2]
 
 ### Actueel
 
-- **FOSS4G-NL 2023 - [13/14 sept Middelburg](https://foss4g.nl) - we zijn bezig**
+- **FOSS4G-NL 2023 - [13/14 sept Middelburg](https://foss4g.nl)** Programma & Tickets op >> [Foss4g.nl](https://foss4g.nl) &neArr;
 
 ### Geweest
 
-* **Internationale FOSS4G Conferentie - Kosovo [2023.foss4g.org &neArr;](https://2023.foss4g.org/)**
-* **19-20 Oktober 2021: onze jaarlijkse FOSS4G-NL conferentie. Zie ook: [foss4g.nl &neArr;](https://foss4g.nl) <span class="wpel-icon wpel-image wpel-icon-19"></span>**  
-* **2020/2021: De Grote Geo Show - live webshow - 19 afleveringen - Terugkijken: [tv.osgeo.nl &neArr;](https://tv.osgeo.nl) <span class="wpel-icon wpel-image wpel-icon-19"></span>**   
+* **Internationale FOSS4G Conferentie - Kosovo** [2023.foss4g.org &neArr;](https://2023.foss4g.org/)
+* **19-20 Oktober 2021: FOSS4G-NL conferentie** [2021.foss4g.nl &neArr;](https://2021.foss4g.nl) <span class="wpel-icon wpel-image wpel-icon-19"></span>**  
+* **2020/2021: De Grote Geo Show** - live webshow - 19 afleveringen - Terugkijken: [tv.osgeo.nl &neArr;](https://tv.osgeo.nl) <span class="wpel-icon wpel-image wpel-icon-19"></span>   
 
-### Laatste Blogs
-
-Vind deze hieronder of via [alle blog posts][3]
 
  [1]: /about/
  [2]: /geoforum-nl/
