@@ -15,6 +15,7 @@ Contact leggen:
 
 - E-Mail: [info@osgeo.nl][1]
 - GeoForum: [geoforum.nl][7]
+- Praat mee op de: [Signal groep](https://signal.group/#CjQKIN4335T62rkIAB3tbZMrtTUrhzh_P-DH-ktv9zh-0YpXEhAjNB1GbZRjhPgleQ1WvkXi)
 
 Meer informatie :
 
