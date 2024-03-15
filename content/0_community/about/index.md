@@ -19,17 +19,17 @@ OSGeo.nl is formeel een stichting. Dit stelt ons in staat om evenementen te onde
 
 ### Missie
 
-De missie van OSgeo.nl is _&#8220;Het stimuleren van het gebruik en de ontwikkeling van open source software voor geo-informatie in het Nederlandse taalgebied.&#8221;_. Onze slogan: **&#8220;Wegwijs in open geo&#8221;**.
+De missie van OSgeo.nl is _&#8220;Het stimuleren van het gebruik en de ontwikkeling van opensourcesoftware voor geo-informatie in het Nederlandse taalgebied.&#8221;_. Onze slogan: **&#8220;Wegwijs in open geo&#8221;**.
 
-### Privacy verklaring
+### Privacyverklaring
 
-In onze [Privacy verklaring](/privacy-verklaring/) leggen we uit hoe wij omgaan met persoonsgegevens.
+In onze [Privacyverklaring](/privacy-verklaring/) leggen we uit hoe wij omgaan met persoonsgegevens.
 
 ### Statuten
 
-Zoals iedere stichting heeft OSGeo.nl ook echte statuten. Daarin staat formeel beschreven wat ons doel is, met welke middelen we dat hopen te bereiken, hoe het bestuur wordt gekozen, hoe een en ander gefinancierd wordt etc. Je kunt de volledige statuten [hier nalezen][/photos/2014/07/digitaal-afschrift-akte-van-oprichting.pdf]
+Zoals iedere stichting heeft OSGeo.nl ook echte statuten. Daarin staat formeel beschreven wat ons doel is, met welke middelen we dat hopen te bereiken, hoe het bestuur wordt gekozen, hoe een en ander gefinancierd wordt etc. Je kunt de volledige statuten [hier nalezen](/photos/2014/07/digitaal-afschrift-akte-van-oprichting.pdf)
 
-### Financien
+### Financiën
 
 De stichting heeft natuurlijk ook een bankrekening: NL72 INGB 0006276370 ten name van STICHTING OSGEO.NL (SWIFT/BIC: INGBNL2A), en is ingeschreven bij de Kamer van Koophandel onder nummer 58214763. De (geringe) kosten om de stichting &#8220;in de lucht&#8221; te houden worden gedekt uit de bijdragen van onze [sponsors](/0_sponsors/sponsors).
 
