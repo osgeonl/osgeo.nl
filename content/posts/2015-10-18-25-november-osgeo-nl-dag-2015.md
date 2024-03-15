@@ -4,7 +4,7 @@ author: Gert-Jan van der Weijden
 type: post
 date: 2015-10-18T16:18:43+00:00
 url: /2015/10/25-november-osgeo-nl-dag-2015/
-featured_image: /uploads/2015/01/osgeonl-dag-2014-800px-zaal-150x45.jpg
+featured_image: /photos/2015/01/osgeonl-dag-2014-800px-zaal-150x45.jpg
 categories:
   - Actueel
   - Event

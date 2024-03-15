@@ -4,7 +4,7 @@ author: Just van den Broecke
 type: post
 date: 2015-12-31T15:00:18+00:00
 url: /2015/12/verslag-histwebcart-2015/
-featured_image: /uploads/2015/06/leo-visscher-150x122.jpg
+featured_image: /photos/2015/06/leo-visscher-150x122.jpg
 categories:
   - Actueel
   - Artikel
@@ -29,19 +29,19 @@ tags:
 Dit gezamenlijk event van OSGeo.nl, [UvA][1] en [RCE][2] was op vrijdag 25 sept 2015 (13:00-17:30, RCE Amersfoort). Hieronder het programma en achtergrond informatie. Er waren plm 50 deelnemers. Meer info op de [OSGeo.nl Meetup][3].
 
 <!--
-<img loading="lazy" class=" wp-image-1012 alignleft" src="/uploads/2015/12/OpenHistWebCarto-5.jpg" alt="OpenHistWebCarto-5" width="356" height="215" srcset="/uploads/2015/12/OpenHistWebCarto-5.jpg 3057w, /uploads/2015/12/OpenHistWebCarto-5-300x181.jpg 300w, /uploads/2015/12/OpenHistWebCarto-5-1024x617.jpg 1024w, /uploads/2015/12/OpenHistWebCarto-5-250x150.jpg 250w, /uploads/2015/12/OpenHistWebCarto-5-150x90.jpg 150w" sizes="(max-width: 356px) 100vw, 356px" /><img loading="lazy" class="alignnone wp-image-1013" src="/uploads/2015/12/OpenHistWebCarto-6.jpg" alt="OpenHistWebCarto-6" width="363" height="219" srcset="/uploads/2015/12/OpenHistWebCarto-6.jpg 3264w, /uploads/2015/12/OpenHistWebCarto-6-300x181.jpg 300w, /uploads/2015/12/OpenHistWebCarto-6-1024x617.jpg 1024w, /uploads/2015/12/OpenHistWebCarto-6-250x150.jpg 250w, /uploads/2015/12/OpenHistWebCarto-6-150x90.jpg 150w" sizes="(max-width: 363px) 100vw, 363px" /> 
+<img loading="lazy" class=" wp-image-1012 alignleft" src="/photos/2015/12/OpenHistWebCarto-5.jpg" alt="OpenHistWebCarto-5" width="356" height="215" srcset="/photos/2015/12/OpenHistWebCarto-5.jpg 3057w, /photos/2015/12/OpenHistWebCarto-5-300x181.jpg 300w, /photos/2015/12/OpenHistWebCarto-5-1024x617.jpg 1024w, /photos/2015/12/OpenHistWebCarto-5-250x150.jpg 250w, /photos/2015/12/OpenHistWebCarto-5-150x90.jpg 150w" sizes="(max-width: 356px) 100vw, 356px" /><img loading="lazy" class="alignnone wp-image-1013" src="/photos/2015/12/OpenHistWebCarto-6.jpg" alt="OpenHistWebCarto-6" width="363" height="219" srcset="/photos/2015/12/OpenHistWebCarto-6.jpg 3264w, /photos/2015/12/OpenHistWebCarto-6-300x181.jpg 300w, /photos/2015/12/OpenHistWebCarto-6-1024x617.jpg 1024w, /photos/2015/12/OpenHistWebCarto-6-250x150.jpg 250w, /photos/2015/12/OpenHistWebCarto-6-150x90.jpg 150w" sizes="(max-width: 363px) 100vw, 363px" /> 
 -->
 
-![ OpenHistWebCarto-5 ](/uploads/2015/12/OpenHistWebCarto-5.jpg)
-![ OpenHistWebCarto-6 ](/uploads/2015/12/OpenHistWebCarto-6.jpg)
+![ OpenHistWebCarto-5 ](/photos/2015/12/OpenHistWebCarto-5.jpg)
+![ OpenHistWebCarto-6 ](/photos/2015/12/OpenHistWebCarto-6.jpg)
 
 Het programma was als volgt:
 
 <!-- 
-<img loading="lazy" class="alignnone wp-image-856 size-full" src="/uploads/2015/06/programma-e1441108140771.png" alt="programma" width="500" height="371" /> 
+<img loading="lazy" class="alignnone wp-image-856 size-full" src="/photos/2015/06/programma-e1441108140771.png" alt="programma" width="500" height="371" /> 
 -->
 
-![ programma ](/uploads/2015/06/programma-e1441108140771.png)
+![ programma ](/photos/2015/06/programma-e1441108140771.png)
 
 Voor het volledige programma en alle abstracts zie [deze PDF][4].
 
@@ -54,11 +54,11 @@ Vijf sprekers, [Menne Kosian (RCE)][5], Jan Hartmann (UvA), Thijs de Boer (UvA
   * [Menne Kosian (RCE)][5] &#8211; _&#8220;Historische zeekaarten vergelijken&#8221;_ &#8211; [Slides (7MB, PDF)][13] ; achtergrond: [Artikel Geo-Info 2013][14]
 
 <!--
-<img loading="lazy" class=" wp-image-1014 alignleft" src="/uploads/2015/12/OpenHistWebCarto-11.jpg" alt="OpenHistWebCarto-1" width="376" height="353" srcset="/uploads/2015/12/OpenHistWebCarto-11.jpg 650w, /uploads/2015/12/OpenHistWebCarto-11-300x282.jpg 300w, /uploads/2015/12/OpenHistWebCarto-11-160x150.jpg 160w, /uploads/2015/12/OpenHistWebCarto-11-150x141.jpg 150w" sizes="(max-width: 376px) 100vw, 376px" /><img loading="lazy" class="alignnone wp-image-1015" src="/uploads/2015/12/OpenHistWebCarto-21.jpg" alt="OpenHistWebCarto-2" width="402" height="357" srcset="/uploads/2015/12/OpenHistWebCarto-21.jpg 733w, /uploads/2015/12/OpenHistWebCarto-21-300x266.jpg 300w, /uploads/2015/12/OpenHistWebCarto-21-169x150.jpg 169w, /uploads/2015/12/OpenHistWebCarto-21-150x133.jpg 150w" sizes="(max-width: 402px) 100vw, 402px" /> 
+<img loading="lazy" class=" wp-image-1014 alignleft" src="/photos/2015/12/OpenHistWebCarto-11.jpg" alt="OpenHistWebCarto-1" width="376" height="353" srcset="/photos/2015/12/OpenHistWebCarto-11.jpg 650w, /photos/2015/12/OpenHistWebCarto-11-300x282.jpg 300w, /photos/2015/12/OpenHistWebCarto-11-160x150.jpg 160w, /photos/2015/12/OpenHistWebCarto-11-150x141.jpg 150w" sizes="(max-width: 376px) 100vw, 376px" /><img loading="lazy" class="alignnone wp-image-1015" src="/photos/2015/12/OpenHistWebCarto-21.jpg" alt="OpenHistWebCarto-2" width="402" height="357" srcset="/photos/2015/12/OpenHistWebCarto-21.jpg 733w, /photos/2015/12/OpenHistWebCarto-21-300x266.jpg 300w, /photos/2015/12/OpenHistWebCarto-21-169x150.jpg 169w, /photos/2015/12/OpenHistWebCarto-21-150x133.jpg 150w" sizes="(max-width: 402px) 100vw, 402px" /> 
 -->
 
-![ OpenHistWebCarto-1 ](/uploads/2015/12/OpenHistWebCarto-11.jpg)
-![ OpenHistWebCarto-2 ](/uploads/2015/12/OpenHistWebCarto-21.jpg)
+![ OpenHistWebCarto-1 ](/photos/2015/12/OpenHistWebCarto-11.jpg)
+![ OpenHistWebCarto-2 ](/photos/2015/12/OpenHistWebCarto-21.jpg)
 
 De afsluitende discussie _“Naar een Landelijke Webdienst voor Historische Kaarten? “_ had als als globale probleemstelling, gegeven dat:
 

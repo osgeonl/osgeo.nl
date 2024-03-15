@@ -4,7 +4,7 @@ author: OSGeo.nl
 type: post
 date: 2013-09-20T10:10:12+00:00
 url: /2013/09/osgeo-nl-dag-op-13-november-2013/
-featured_image: /uploads/2013/09/osgeonldag13-mini-poster-150x116.png
+featured_image: /photos/2013/09/osgeonldag13-mini-poster-150x116.png
 categories:
   - Event
   - Nieuws

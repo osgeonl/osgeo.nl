@@ -4,7 +4,7 @@ author: Just van den Broecke
 type: post
 date: 2014-08-26T19:29:31+00:00
 url: /2014/08/postgis-workshop-door-osgeo-nl/
-featured_image: /uploads/2014/08/Logo_square_postgis-150x150.png
+featured_image: /photos/2014/08/Logo_square_postgis-150x150.png
 categories:
   - Actueel
   - Event
@@ -14,8 +14,8 @@ categories:
 ---
 Op de OpenTopo workshops door JW van Aalst bleek er behoefte te zijn aan workshops door OSGeo.nl rond basis tools: met name [PostGIS][1] en QGIS. Twee grote specialisten zijn bereid een PostGIS workshop te geven: Michel Sijmons ([Nibble IT][2]) en [Wouter Boasson][3] (RIVM/HAS). Organisator is [Just van den Broecke][4]. Vind hier de pagina met instructies, opgaven en data.  
 
-<!-- <img loading="lazy" class="alignleft wp-image-343" src="/uploads/2014/08/Logo_square_postgis-300x300.png" alt="Logo_square_postgis" width="112" height="112" srcset="/uploads/2014/08/Logo_square_postgis.png 300w, /uploads/2014/08/Logo_square_postgis-150x150.png 150w" sizes="(max-width: 112px) 100vw, 112px" /> -->
-{{< a-img data-src="/uploads/2014/08/Logo_square_postgis-150x150.png" data-caption="Logo square postgis" data-class="float_left" >}}
+<!-- <img loading="lazy" class="alignleft wp-image-343" src="/photos/2014/08/Logo_square_postgis-300x300.png" alt="Logo_square_postgis" width="112" height="112" srcset="/photos/2014/08/Logo_square_postgis.png 300w, /photos/2014/08/Logo_square_postgis-150x150.png 150w" sizes="(max-width: 112px) 100vw, 112px" /> -->
+{{< a-img data-src="/photos/2014/08/Logo_square_postgis-150x150.png" data-caption="Logo square postgis" data-class="float_left" >}}
 
 &nbsp;
 

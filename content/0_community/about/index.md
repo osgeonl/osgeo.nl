@@ -11,8 +11,8 @@ Lees hieronder meer over OSGeo.nl.
 
 Open source geo (ook wel [FOSS4G &#8211; Free and Open Source Software for Geo][8]) wordt al sinds eind vorige eeuw in Nederland toegepast als bewezen alternatief voor [propriëtaire (&#8220;gesloten&#8221;) software][9]. In Nederland en Vlaanderen is een flinke groep van van oudsher met name ontwikkelaars en programmeurs betrokken bij internationale open source projecten zoals MapServer, GeoNetwork, QGIS en OpenLayers, en bij specifiek Nederlandse projecten zoals de Flamingo Map Viewer. Voor een deel is dat een &#8220;inner circle&#8221; van ontwikkelaars, maar ook buiten de klassieke geo-paden wordt er druk ontwikkeld; denk aan de wereld van hydrologie, bouw- en stedenbouw en verkeerskunde.
 
-<!-- <img loading="lazy" class="wp-image-347 size-full aligncenter" src="/uploads/2014/04/osgeonl-groepsfotos-breed.jpg" alt="osgeonl-groepsfotos-breed" width="800" height="176" srcset="/uploads/2014/04/osgeonl-groepsfotos-breed.jpg 800w, /uploads/2014/04/osgeonl-groepsfotos-breed-300x66.jpg 300w, /uploads/2014/04/osgeonl-groepsfotos-breed-250x55.jpg 250w, /uploads/2014/04/osgeonl-groepsfotos-breed-150x33.jpg 150w" sizes="(max-width: 800px) 100vw, 800px" /> -->
-![ ](/uploads/2014/04/osgeonl-groepsfotos-breed.jpg)
+<!-- <img loading="lazy" class="wp-image-347 size-full aligncenter" src="/photos/2014/04/osgeonl-groepsfotos-breed.jpg" alt="osgeonl-groepsfotos-breed" width="800" height="176" srcset="/photos/2014/04/osgeonl-groepsfotos-breed.jpg 800w, /photos/2014/04/osgeonl-groepsfotos-breed-300x66.jpg 300w, /photos/2014/04/osgeonl-groepsfotos-breed-250x55.jpg 250w, /photos/2014/04/osgeonl-groepsfotos-breed-150x33.jpg 150w" sizes="(max-width: 800px) 100vw, 800px" /> -->
+![ ](/photos/2014/04/osgeonl-groepsfotos-breed.jpg)
 
 Met OSGeo.nl willen we de reeds bestaande communities verbinden, omdat we denken dat de afzonderlijke projecten wat van elkaar op kunnen steken, en omdat er een grote groep van potentiële gebruikers bestaat die niet in één specifiek project geïnteresseerd is, maar in de manier waarop de diverse open source geo projecten samen een geo-infrastructuur kunnen vormen. De OSGeo.nl community is een niet scherp afgebakende, los-vaste gemeenschap van iedereen die open source software ontwerpt, ontwikkelt, documenteert gebruikt, wil gaan gebruiken, een warm hart toedraagt en kennis van en ervaring daarover met anderen wil delen. Waarschijnlijk zit de reden dat jij op deze pagina bent beland daar ook bij! (en anders [horen we graag][1] van je met welke specifieke jij je deel voelt van de OSGeo.nl community). Daarbij is de Nederlandse taal een bindmiddel: we richten ons daarmee met name op Nederland en Vlaanderen, maar OSGeo.nl-ers uit andere hoeken van de wereld zijn uiteraard ook van harte welkom. Het &#8220;.nl&#8221; in OSgeo.nl staat dus voor de ISO-code voor de Nederlandse taal. OSGeo.nl is ook een lokale afdeling, een [&#8220;Local Chapter&#8221;][10], van de wereldwijde Open Source Geospatial Foundation, [OSGeo.org][11], vooral bekend door haar [jaarlijkse FOSS4G Conferentie][12] en de vele open source projecten zoals hierboven genoemd.
 
@@ -23,26 +23,6 @@ Op 21 juni 2013 is een OSGeo.nl afvaardiging naar de notaris gegaan om de sticht
 ## (En wat we niet zijn)
 
 Toch maar even voor de duidelijkheid: De stichting OSGeo.nl verricht géén commerciële activiteiten; we zijn geen adviesbureau, we ontwikkelen of implementeren niet, en we zijn zelfs geen directe bemiddelaar om vraag naar en aanbod aan open source geo expertise bij elkaar te brengen. Daarvoor kun je terecht bij diverse grote en kleine adviesbureaus, waarbij we natuurlijk graag verwijzen naar onze [sponsors][16].
-
-### Samenstelling Bestuur
-
-Op dit moment (2.aug.2023) bestaat het bestuur van de stichting OSGeo.nl uit:
-
-
-* Algemeen bestuurslid: [Just van den Broecke][17] (duwbak)
-* Marketing en communicatie: Lars van Tol (Chef regelneef)
-* Voorzitter: Niene Boeijen (Miss Maps)
-* Penningmeester: [Paulo van Breugel][18] (mister money)
-* Secretaris: Erik Meerburg (Minister van Feest)
-
-
-Eerdere bestuursleden waren 
-o.a. [Marc Vloemans][20] &#8211; communicatie (tot 1 juli 2017),
- [Gert-Jan van der Weijden][21] &#8211; voorzitter (tot 1 juli 2017), 
-[Barend Köbben][19] &#8211; penningmeester (tot 1 jan 2022).
-en [Steven Ottens][22]. Jasper Roest &#8211; communicatie (tot 14 maart 2019).
-
-Verslagen van de bestuursvergaderingen [staan op de Wiki][5].
 
 ### Missie
 
@@ -63,7 +43,7 @@ De stichting heeft natuurlijk ook een bankrekening: NL72 INGB 0006276370 ten 
  [3]: mailto:bestuur@osgeo.nl
  [5]: http://wiki.osgeo.org/wiki/Nederlands/bijeenkomsten
  [6]: https://osgeo.nl/privacy-verklaring/
- [7]: /uploads/2014/07/digitaal-afschrift-akte-van-oprichting.pdf
+ [7]: /photos/2014/07/digitaal-afschrift-akte-van-oprichting.pdf
  [8]: http://wiki.osgeo.org/wiki/FOSS4G
  [9]: http://nl.wikipedia.org/wiki/Propri%C3%ABtaire_software
  [10]: https://www.osgeo.org/local-chapters/netherlands-local-chapter/

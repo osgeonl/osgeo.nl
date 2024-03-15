@@ -4,7 +4,7 @@ author: Gert-Jan van der Weijden
 type: post
 date: 2014-09-21T16:22:13+00:00
 url: /2014/09/opentopo-workshop-2014-video-beschikbaar/
-featured_image: /uploads/2014/09/opentopo_workshop-150x112.bmp
+featured_image: /photos/2014/09/opentopo_workshop-150x112.bmp
 categories:
   - Actueel
   - Educatief

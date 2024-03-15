@@ -4,7 +4,7 @@ author: Gert-Jan van der Weijden
 type: post
 date: 2016-03-05T20:31:44+00:00
 url: /2016/03/foss4g-kom-maar-op-met-de-presentaties/
-featured_image: /uploads/2016/03/foss4gwebsite-150x150.png
+featured_image: /photos/2016/03/foss4gwebsite-150x150.png
 categories:
   - FOSS4G
   - osgeo

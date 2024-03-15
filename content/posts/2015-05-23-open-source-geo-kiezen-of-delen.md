@@ -4,7 +4,7 @@ author: Gert-Jan van der Weijden
 type: post
 date: 2015-05-23T13:29:17+00:00
 url: /2015/05/open-source-geo-kiezen-of-delen/
-featured_image: /uploads/2015/05/Vlaggen_Ordina-150x113.jpg
+featured_image: /photos/2015/05/Vlaggen_Ordina-150x113.jpg
 categories:
   - Actueel
   - Event

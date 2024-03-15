@@ -4,7 +4,7 @@ author: Just van den Broecke
 type: post
 date: 2016-10-27T21:59:28+00:00
 url: /2016/10/verslag-mini-seminar-rd/
-featured_image: /uploads/2016/10/Projectieprincipe-150x100.png
+featured_image: /photos/2016/10/Projectieprincipe-150x100.png
 categories:
   - Educatief
   - Event
@@ -40,7 +40,7 @@ Na een korte inleiding van Just, met nog de uitnodiging om allen op de OSGeo.nl 
 
 <!--
 <div id="attachment_1256" style="width: 610px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-1256" loading="lazy" class="size-full wp-image-1256" src="/uploads/2016/10/steven-tweet.jpg" alt="Tweet/foto van Steve Ottens" width="600" height="384" srcset="/uploads/2016/10/steven-tweet.jpg 600w, /uploads/2016/10/steven-tweet-300x192.jpg 300w, /uploads/2016/10/steven-tweet-234x150.jpg 234w, /uploads/2016/10/steven-tweet-150x96.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" />
+  <img aria-describedby="caption-attachment-1256" loading="lazy" class="size-full wp-image-1256" src="/photos/2016/10/steven-tweet.jpg" alt="Tweet/foto van Steve Ottens" width="600" height="384" srcset="/photos/2016/10/steven-tweet.jpg 600w, /photos/2016/10/steven-tweet-300x192.jpg 300w, /photos/2016/10/steven-tweet-234x150.jpg 234w, /photos/2016/10/steven-tweet-150x96.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" />
   
   <p id="caption-attachment-1256" class="wp-caption-text">
     Tweet/foto van Steven Ottens
@@ -48,13 +48,13 @@ Na een korte inleiding van Just, met nog de uitnodiging om allen op de OSGeo.nl 
 </div>
 -->
 
-![ Tweet/foto van Steve Ottens ](/uploads/2016/10/steven-tweet.jpg)
+![ Tweet/foto van Steve Ottens ](/photos/2016/10/steven-tweet.jpg)
 
 Verder de diepte in gingen we met Lennard Huisman: zijn presentatie liet gedegen zien &#8220;waar het nu werkelijk om gaat&#8221; als we over de verschillende projecties en transformaties rond RD spreken: waarom WGS84 en Google/Web Mercator &#8220;niet kloppen&#8221;, bewegende aardschollen, GPS, ETRS89, RDNAPTRANS, en vooral RD en/vs EPSG:28992. Vooral in deze tijd waarin we op sub-meter-nivo bezig zijn, denk aan BGT en BIM, was zijn presentatie relevant. Niet alleen schetste Lennard de problematiek en de manier om correcte transformaties tussen RD, EPSG:28992, ETRS89 en WGS84 uit te voeren, maar toonde ook een oplossing die hij bijgedragen heeft in de vorm van [&#8220;NTV2&#8221; transformatie][11] in met name GDAL/OGR waarin de RD grid correctie wordt meegenomen.  Onderstaand plaatje [uit zijn presentatie][9] schetst de hoofdlijnen. Zijn [artikel in de Geo-Info oktober 2014][12] geeft een goed overzicht.
 
 <!--
 <div id="attachment_1255" style="width: 610px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-1255" loading="lazy" class="size-full wp-image-1255" src="/uploads/2016/10/LennardHuisman-Trans.jpg" alt="Transformaties tussen RD, EPSG:28992, ETRS89 en WGS84" width="600" height="332" srcset="/uploads/2016/10/LennardHuisman-Trans.jpg 600w, /uploads/2016/10/LennardHuisman-Trans-300x166.jpg 300w, /uploads/2016/10/LennardHuisman-Trans-250x138.jpg 250w, /uploads/2016/10/LennardHuisman-Trans-150x83.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" />
+  <img aria-describedby="caption-attachment-1255" loading="lazy" class="size-full wp-image-1255" src="/photos/2016/10/LennardHuisman-Trans.jpg" alt="Transformaties tussen RD, EPSG:28992, ETRS89 en WGS84" width="600" height="332" srcset="/photos/2016/10/LennardHuisman-Trans.jpg 600w, /photos/2016/10/LennardHuisman-Trans-300x166.jpg 300w, /photos/2016/10/LennardHuisman-Trans-250x138.jpg 250w, /photos/2016/10/LennardHuisman-Trans-150x83.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" />
   
   <p id="caption-attachment-1255" class="wp-caption-text">
     Transformaties tussen RD, EPSG:28992, ETRS89 en WGS84
@@ -62,7 +62,7 @@ Verder de diepte in gingen we met Lennard Huisman: zijn presentatie liet gedegen
 </div>
 -->
 
-![ Transformaties tussen RD, EPSG:28992, ETRS89 en WGS84 ](/uploads/2016/10/LennardHuisman-Trans.jpg)
+![ Transformaties tussen RD, EPSG:28992, ETRS89 en WGS84 ](/photos/2016/10/LennardHuisman-Trans.jpg)
 
 Na de pauze gaf Edward een overzicht van het praktisch gebruik van met name de [Open Source Proj][13].4 bibliotheek binnen toepassingen.
 

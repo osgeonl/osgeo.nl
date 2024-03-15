@@ -4,7 +4,7 @@ author: Gert-Jan van der Weijden
 type: post
 date: 2016-11-15T07:35:42+00:00
 url: /2016/11/een-kijkje-in-de-keuken-van-de-osgeo-nl-dag-agile-programmeren/
-featured_image: /uploads/2016/11/SAM_3380-150x113.jpg
+featured_image: /photos/2016/11/SAM_3380-150x113.jpg
 categories:
   - Actueel
   - Blog post
@@ -20,7 +20,7 @@ Het lijkt ieder jaar zo simpel. Benader 15 mensen die leuke dingen doen op het g
 
 <!--
 <div id="attachment_1384" style="width: 310px" class="wp-caption alignright">
-  <img aria-describedby="caption-attachment-1384" loading="lazy" class="size-medium wp-image-1384" src="/uploads/2016/11/SAM_3380-300x225.jpg" alt="puzzeltje" width="300" height="225" srcset="/uploads/2016/11/SAM_3380-300x225.jpg 300w, /uploads/2016/11/SAM_3380-768x576.jpg 768w, /uploads/2016/11/SAM_3380-1024x768.jpg 1024w, /uploads/2016/11/SAM_3380-200x150.jpg 200w, /uploads/2016/11/SAM_3380-150x113.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />
+  <img aria-describedby="caption-attachment-1384" loading="lazy" class="size-medium wp-image-1384" src="/photos/2016/11/SAM_3380-300x225.jpg" alt="puzzeltje" width="300" height="225" srcset="/photos/2016/11/SAM_3380-300x225.jpg 300w, /photos/2016/11/SAM_3380-768x576.jpg 768w, /photos/2016/11/SAM_3380-1024x768.jpg 1024w, /photos/2016/11/SAM_3380-200x150.jpg 200w, /photos/2016/11/SAM_3380-150x113.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />
   
   <p id="caption-attachment-1384" class="wp-caption-text">
     puzzeltje
@@ -28,7 +28,7 @@ Het lijkt ieder jaar zo simpel. Benader 15 mensen die leuke dingen doen op het g
 </div>
 -->
 
-{{< a-img data-href="javascript:return false;" data-src="/uploads/2016/11/SAM_3380-300x225.jpg" data-class="float_right" data-caption="puzzeltje" >}}
+{{< a-img data-href="javascript:return false;" data-src="/photos/2016/11/SAM_3380-300x225.jpg" data-class="float_right" data-caption="puzzeltje" >}}
 
 Maar dan. Die 12 moeten aan de slag om een titel te bedenken, eens naar de kapper te gaan om een knappe foto aan te leveren, hun CV op te poetsen en een beetje te bedenken waar hun verhaal over gaat en wie de doelgroep is. Want die informatie is nodig om de aankondiging op de [geobuzz website][1] en uiteraard onze eigen [OSGeo.nl][2] site op een rijtje te krijgen.
 
@@ -36,7 +36,7 @@ Ondertussen zit de programmacommissie te puzzelen om de 12 presentatoren in logi
 
 <!--
 <div id="attachment_1393" style="width: 310px" class="wp-caption alignleft">
-  <img aria-describedby="caption-attachment-1393" loading="lazy" class="size-medium wp-image-1393" src="/uploads/2016/11/dexter-kwartet-300x188.jpg" alt="Hier gaat het gebeuren" width="300" height="188" srcset="/uploads/2016/11/dexter-kwartet-300x188.jpg 300w, /uploads/2016/11/dexter-kwartet-239x150.jpg 239w, /uploads/2016/11/dexter-kwartet-150x94.jpg 150w, /uploads/2016/11/dexter-kwartet.jpg 478w" sizes="(max-width: 300px) 100vw, 300px" />
+  <img aria-describedby="caption-attachment-1393" loading="lazy" class="size-medium wp-image-1393" src="/photos/2016/11/dexter-kwartet-300x188.jpg" alt="Hier gaat het gebeuren" width="300" height="188" srcset="/photos/2016/11/dexter-kwartet-300x188.jpg 300w, /photos/2016/11/dexter-kwartet-239x150.jpg 239w, /photos/2016/11/dexter-kwartet-150x94.jpg 150w, /photos/2016/11/dexter-kwartet.jpg 478w" sizes="(max-width: 300px) 100vw, 300px" />
   
   <p id="caption-attachment-1393" class="wp-caption-text">
     Hier gaat het gebeuren
@@ -44,7 +44,7 @@ Ondertussen zit de programmacommissie te puzzelen om de 12 presentatoren in logi
 </div>
 -->
 
-{{< a-img data-href="javascript:return false;" data-src="/uploads/2016/11/dexter-kwartet.jpg" data-class="float_left" data-caption="Hier gaat het gebeuren" >}}
+{{< a-img data-href="javascript:return false;" data-src="/photos/2016/11/dexter-kwartet.jpg" data-class="float_left" data-caption="Hier gaat het gebeuren" >}}
 
 Verder verwachten we dat na een ochtend met inspirerende verhalen over open source geo ontwikkelingen en toepassingen er flink wat deelnemers zijn die er aan toe om zelf de handen uit de mouwen te steken. Daarom staat de [workshop over versiebeheer][3] van (geo-)data in de middag op het programma.
 

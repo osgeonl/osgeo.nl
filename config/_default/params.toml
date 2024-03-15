@@ -36,7 +36,7 @@ mainSections = ["post"] # see config details here https://gohugo.io/functions/wh
 centerLogo = false # Set to "true" for centering or "false" for left aligned.
 
 # logo = "logos/header.png"
-logo = "uploads/2017/09/osgeonl-logo-263x70.png"
+logo = "photos/2017/09/osgeonl-logo-263x70.png"
 
 # Label Non inline images on an article body
 figurePositionShow = false # toggle on or off globally
@@ -57,7 +57,7 @@ enforceLightMode = false
 
 # customize footer icon. see issue https://github.com/chipzoller/hugo-clarity/issues/77
 # footerLogo = "logos/footer.png"
-footerLogo = "uploads/2017/09/osgeonl-icon.png"
+footerLogo = "photos/2017/09/osgeonl-icon.png"
 
 # Text for the languages menu.
 languageMenuName = "🌐"

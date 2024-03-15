@@ -4,7 +4,7 @@ author: Paulo van Breugel
 type: post
 date: 2017-10-08T18:44:12+00:00
 url: /2017/10/grass-gis-crash-course/
-featured_image: /uploads/2017/10/grassgis_logo_colorlogo_text_alphabg-117x150.png
+featured_image: /photos/2017/10/grassgis_logo_colorlogo_text_alphabg-117x150.png
 categories:
   - Actueel
   - Educatief
@@ -19,7 +19,7 @@ tags:
 ---
 On 3 November 2017 there will be a GRASS GIS crash course, organized by OSGeo.nl and the Faculty of Geo-Information Science and Earth Observation of ITC.  The course will provide participants with an overview of the software capabilities and a hands-on experience in raster, vector and time series processing with the Open Source software GRASS GIS 7. For more information, go [here][1]. You can register on our Meetup page [update: maximum number of participants has been reached, registration closed].
 
-![ ](/uploads/2017/10/GRASSLOGO.png)
+![ ](/photos/2017/10/GRASSLOGO.png)
 
 ## Course structure/contents
 
