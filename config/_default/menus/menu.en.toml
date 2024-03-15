@@ -5,39 +5,45 @@
 
 
 [[main]]
-  name = "Community"
-  identifier = "Community"
-  weight = -109
+  name = "Over"
+  identifier = "Over"
+  weight = -107
 [[main]]
-  parent = "Community"
+  parent = "Over"
   name = "Over"
   url = "0_community/about/"
   weight = -107
   [[main]]
-  parent = "Community"
+  parent = "Over"
   name = "Bestuur"
   url = "0_community/bestuur/"
   weight = -106
   [[main]]
-  parent = "Community"
+  parent = "Over"
   name = "OSGeo Internationaal"
   url = "0_community/internationaal/"
   weight = -105
 [[main]]
-  parent = "Community"
+  parent = "Over"
   name = "Geoforum.nl"
   url = "0_community/geoforum-nl/"
   weight = -98
 [[main]]
-  parent = "Community"
+  parent = "Over"
   name = "Wiki"
   url = "0_community/wiki/"
   weight = -96
+[[main]]
+  parent = "Over"
+  name = "Community"
+  url = "0_community/community/"
+  weight = -96
+
 
 [[main]]
   name = "Events"
   identifier = "Events"
-  weight = -108
+  weight = -106
 [[main]]
   parent = "Events"
   name = "Agenda &neArr;"
@@ -108,7 +114,7 @@
   name = "Nieuws"
   identifier = "Nieuws"
   url = "posts/"
-  weight = -107
+  weight = -106
 
 [[main]]
   name = "Sponsors"
@@ -131,7 +137,6 @@
   weight = -105
 
 # social menu links
-
 [[social]]
   name = "mail"
   weight = 1

@@ -5,4 +5,4 @@ title = "OSGeo.nl - Wegwijs in Open Geo"
 theme = "hugo-clarity"
 
 [params]
-  mainSections = ["0_nieuws"]
+  mainSections = ["posts"]
