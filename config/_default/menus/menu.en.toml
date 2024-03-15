@@ -10,7 +10,7 @@
   weight = -107
 [[main]]
   parent = "Over"
-  name = "Over"
+  name = "Over OSGeo.nl"
   url = "0_community/about/"
   weight = -107
   [[main]]
