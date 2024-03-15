@@ -38,6 +38,28 @@
   name = "Community"
   url = "0_community/community/"
   weight = -96
+[[main]]
+  parent = "Community"
+  name = "QGIS Gebruikersgroep &neArr;"
+  url = "https://qgis.nl/"
+  weight = -91
+[[main]]
+  parent = "Community"
+  name = "OpenStreetMap Nederland &neArr;"
+  url = "http://openstreetmap.nl/"
+  weight = -91
+[[main]]
+  parent = "Community"
+  name = "OpenStreetMap Nederland &neArr;"
+  url = "http://openstreetmap.nl/"
+  weight = -91
+  [[main]]
+  parent = "Community"
+  identifier = "geoNetwork-gebruikersGroep"
+  name = "GeoNetwork GebruikersGroep &#8227;"
+  url = "0_community/geonetwork/"
+  weight = -92
+
 
 
 [[main]]
