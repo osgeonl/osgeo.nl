@@ -1,13 +1,11 @@
 ---
-title: OSGeo.nl - Wegwijs in Open Geo
+title: Welkom bij OSGeo.NL
 author: osgeonl
 type: page
 date: 2023-05-15T17:52:45+00:00
 ---
 
-  
-{{< gallery-slider dir="/home-photo-slider/" width="100%" height="60vh">}}
-<!--  no-fa="true" no-jquery="true"  -->
+![](/photos/2023/groeps.jpg)
 
 ### Onze missie
 

@@ -2,12 +2,12 @@ $light: #fff
 $haze: #fafafa
 $xhaze: darken($haze, 11%)
 $bg: #002538
-$theme: #0077b8
+$theme: #4CB05B
 $mobile-menu-breakpoint: 769px
 $single-column-breakpoint: 42rem
 
 @mixin  content()
-  --maxWidth: 1440px
+  --maxWidth: 100vw
   max-width: var(--maxWidth)
   margin-left: auto
   margin-right: auto
@@ -26,14 +26,14 @@ html
   --color-mode: 'lit'
   --light: #fff
   --dark: #000
-  --bg: #002538
+  --bg: #00393F
   --haze: #f2f2f2
   --gray: #020202
   --accent: var(--gray)
   --text: #575757
   --header-text: var(--dark)
-  --font: Metropolis, sans-serif
-  --theme: #0077b8
+  --font: Miriam Libre, sans-serif
+  --theme: #87E991
   --ease: cubic-bezier(.19,1,.22,1)
   --code-bg: var(--bg)
   --table-bg: var(--light)
@@ -48,7 +48,7 @@ html
   --ease: cubic-bezier(0.39, 0.575, 0.565, 1)
   --easing: cubic-bezier(.19,1,.22,1)
   --notice-code-bg: var(--bg)
-  --notice-info-border-color: #6AB0DE
+  --notice-info-border-color: #4A797F
   --notice-info-background: #E7F2FA
   --notice-note-border-color: #F0B37E
   --notice-note-background: #FFF2DB
@@ -87,10 +87,6 @@ html
         background: none
       svg
         fill: #fafafa
-    .sidebar
-      &_inner
-        &::before
-          display: none
     .color
       &_choice
         &::after
