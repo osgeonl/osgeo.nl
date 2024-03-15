@@ -2,7 +2,7 @@ baseURL = "/"
 # baseURL = "http://osgeo.nl/"
 languageCode = "en-us"
 title = "OSGeo.nl - Wegwijs in Open Geo"
-theme = "hugo-clarity"
+theme = "hugo-clarity-custom"
 
 [params]
   mainSections = ["posts"]
