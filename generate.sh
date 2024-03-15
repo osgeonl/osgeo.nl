@@ -13,7 +13,7 @@ mkdir -p ${TARGET_DIR}
 
 # Build the project.
 # hugo - if using a theme, replace with `hugo -t <YOURTHEME>`
-hugo -D -t hugo-clarity
+hugo -D -t hugo-clarity-custom2
 
 echo "osgeo.nl" > ${TARGET_DIR}/CNAME
 echo "ALL DONE"
