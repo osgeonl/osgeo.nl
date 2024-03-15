@@ -35,10 +35,13 @@
     <loc>/tags/</loc>
     <lastmod>2023-08-01T19:47:39+00:00</lastmod>
   </url><url>
-    <loc>/sponsorplan/</loc>
+    <loc>/0_sponsors/</loc>
     <lastmod>2023-07-20T10:49:12+00:00</lastmod>
   </url><url>
-    <loc>/sponsors/</loc>
+    <loc>/0_sponsors/sponsorplan/</loc>
+    <lastmod>2023-07-20T10:49:12+00:00</lastmod>
+  </url><url>
+    <loc>/0_sponsors/sponsors/</loc>
     <lastmod>2023-07-20T10:49:12+00:00</lastmod>
   </url><url>
     <loc>/home/</loc>
@@ -50,13 +53,19 @@
     <loc>/2022/08/nieuwe-website-osgeo-nl/</loc>
     <lastmod>2022-08-03T19:47:39+00:00</lastmod>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>/0_contact/</loc>
     <lastmod>2022-08-03T07:04:42+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>/0_community/</loc>
     <lastmod>2022-08-03T06:52:35+00:00</lastmod>
   </url><url>
-    <loc>/geoforum-nl/</loc>
+    <loc>/0_community/bestuur/</loc>
+    <lastmod>2022-08-03T06:52:35+00:00</lastmod>
+  </url><url>
+    <loc>/0_community/about/</loc>
+    <lastmod>2022-08-03T06:52:35+00:00</lastmod>
+  </url><url>
+    <loc>/0_community/geoforum-nl/</loc>
     <lastmod>2019-02-08T11:30:37+00:00</lastmod>
   </url><url>
     <loc>/tags/analyse/</loc>
@@ -97,12 +106,6 @@
   </url><url>
     <loc>/2018/04/verslag-nlextract-hacking-day/</loc>
     <lastmod>2018-04-30T09:47:39+00:00</lastmod>
-  </url><url>
-    <loc>/bevestiging-van-geen-toestemming/</loc>
-    <lastmod>2018-04-29T10:58:09+00:00</lastmod>
-  </url><url>
-    <loc>/privacy-verklaring/</loc>
-    <lastmod>2018-04-29T10:37:59+00:00</lastmod>
   </url><url>
     <loc>/categories/artikel/</loc>
     <lastmod>2018-02-13T22:33:25+00:00</lastmod>
@@ -155,14 +158,14 @@
     <loc>/tags/workshop/</loc>
     <lastmod>2017-10-08T18:44:12+00:00</lastmod>
   </url><url>
-    <loc>/grassgis-course/</loc>
+    <loc>/0_events/</loc>
     <lastmod>2017-10-08T18:11:01+00:00</lastmod>
   </url><url>
-    <loc>/dag/</loc>
-    <lastmod>2017-10-08T14:35:50+00:00</lastmod>
+    <loc>/0_events/grassgis-course/</loc>
+    <lastmod>2017-10-08T18:11:01+00:00</lastmod>
   </url><url>
-    <loc>/events/</loc>
-    <lastmod>2017-10-08T14:31:06+00:00</lastmod>
+    <loc>/0_events/dag/</loc>
+    <lastmod>2017-10-08T14:35:50+00:00</lastmod>
   </url><url>
     <loc>/2017/10/osgeo-nl-dag-2017-geo-samen-doen/</loc>
     <lastmod>2017-10-04T21:53:48+00:00</lastmod>
@@ -193,9 +196,6 @@
   </url><url>
     <loc>/2016/11/een-kijkje-in-de-keuken-van-de-osgeo-nl-dag-agile-programmeren/</loc>
     <lastmod>2016-11-15T07:35:42+00:00</lastmod>
-  </url><url>
-    <loc>/sprekers-en-samenvattingen-osgeo-nl-dag-2016/</loc>
-    <lastmod>2016-10-28T11:37:31+00:00</lastmod>
   </url><url>
     <loc>/tags/epsg/</loc>
     <lastmod>2016-10-27T21:59:28+00:00</lastmod>
@@ -229,15 +229,6 @@
   </url><url>
     <loc>/2016/10/mini-seminar-rd-en-open-source-software-do-20-oktober-2016-hilversum/</loc>
     <lastmod>2016-10-01T15:13:31+00:00</lastmod>
-  </url><url>
-    <loc>/best-practices/</loc>
-    <lastmod>2016-08-24T15:24:34+00:00</lastmod>
-  </url><url>
-    <loc>/documentatie/</loc>
-    <lastmod>2016-08-24T15:24:34+00:00</lastmod>
-  </url><url>
-    <loc>/geonetwork-gebruikersgroep/</loc>
-    <lastmod>2016-05-25T14:56:53+00:00</lastmod>
   </url><url>
     <loc>/2016/04/come-in-were-open/</loc>
     <lastmod>2016-04-15T10:51:48+00:00</lastmod>
@@ -356,38 +347,20 @@
     <loc>/2014/10/581/</loc>
     <lastmod>2014-10-09T10:18:59+00:00</lastmod>
   </url><url>
-    <loc>/osgeo-nl-dag-2014/</loc>
-    <lastmod>2014-09-30T19:18:11+00:00</lastmod>
-  </url><url>
     <loc>/tags/nwb/</loc>
     <lastmod>2014-09-21T16:22:13+00:00</lastmod>
   </url><url>
     <loc>/2014/09/opentopo-workshop-2014-video-beschikbaar/</loc>
     <lastmod>2014-09-21T16:22:13+00:00</lastmod>
   </url><url>
-    <loc>/pingdom/</loc>
-    <lastmod>2014-09-03T19:21:54+00:00</lastmod>
-  </url><url>
     <loc>/2014/08/osgeo-nl-dag-2014-als-onderdeel-van-de-geobuzz/</loc>
     <lastmod>2014-08-31T19:36:43+00:00</lastmod>
   </url><url>
-    <loc>/wiki/</loc>
+    <loc>/0_community/wiki/</loc>
     <lastmod>2014-08-30T11:30:32+00:00</lastmod>
-  </url><url>
-    <loc>/mailinglijst/</loc>
-    <lastmod>2014-08-30T11:19:12+00:00</lastmod>
-  </url><url>
-    <loc>/aanbieders/</loc>
-    <lastmod>2014-08-28T11:02:52+00:00</lastmod>
-  </url><url>
-    <loc>/tweets/</loc>
-    <lastmod>2014-08-28T09:17:10+00:00</lastmod>
   </url><url>
     <loc>/2014/08/postgis-workshop-door-osgeo-nl/</loc>
     <lastmod>2014-08-26T19:29:31+00:00</lastmod>
-  </url><url>
-    <loc>/agenda/</loc>
-    <lastmod>2014-08-16T12:23:22+00:00</lastmod>
   </url><url>
     <loc>/categories/sponsor/</loc>
     <lastmod>2014-04-29T15:51:50+00:00</lastmod>
@@ -409,24 +382,6 @@
   </url><url>
     <loc>/2014/04/opengeogroup/</loc>
     <lastmod>2014-04-29T15:42:29+00:00</lastmod>
-  </url><url>
-    <loc>/uber-uns/</loc>
-    <lastmod>2014-04-19T10:02:51+00:00</lastmod>
-  </url><url>
-    <loc>/about-us/</loc>
-    <lastmod>2014-04-19T09:59:10+00:00</lastmod>
-  </url><url>
-    <loc>/de-zandbak/</loc>
-    <lastmod>2014-04-19T09:44:02+00:00</lastmod>
-  </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2014-04-16T19:46:00+00:00</lastmod>
-  </url><url>
-    <loc>/meedoen/</loc>
-    <lastmod>2014-04-16T06:32:06+00:00</lastmod>
-  </url><url>
-    <loc>/sample-page/</loc>
-    <lastmod>2014-04-12T18:21:43+00:00</lastmod>
   </url><url>
     <loc>/2014/04/334/</loc>
     <lastmod>2014-04-04T18:38:53+00:00</lastmod>
@@ -460,6 +415,8 @@
   </url><url>
     <loc>/2012/05/verslag-osgeo-nl-op-geospatial-world-forum-2012/</loc>
     <lastmod>2012-05-01T11:35:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/2024-03-15-test-post/</loc>
   </url><url>
     <loc>/?p=563/</loc>
   </url>
