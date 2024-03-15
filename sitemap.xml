@@ -62,9 +62,6 @@
     <loc>/0_community/bestuur/</loc>
     <lastmod>2022-08-03T06:52:35+00:00</lastmod>
   </url><url>
-    <loc>/0_community/about/</loc>
-    <lastmod>2022-08-03T06:52:35+00:00</lastmod>
-  </url><url>
     <loc>/0_community/geoforum-nl/</loc>
     <lastmod>2019-02-08T11:30:37+00:00</lastmod>
   </url><url>
@@ -422,5 +419,7 @@
     <loc>/posts/2024-03-15-test-post/</loc>
   </url><url>
     <loc>/?p=563/</loc>
+  </url><url>
+    <loc>/0_community/about/</loc>
   </url>
 </urlset>
