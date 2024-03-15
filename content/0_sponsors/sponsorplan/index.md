@@ -85,6 +85,11 @@ Sponsoring is per heel kalenderjaar en is mogelijk op 3 niveaus.
 - Uw logo op promotionele uitingen, zoals presentaties, flyers en posters van OSGeo.nl.
 - Gezamenlijk persbericht aan de geo-vakpers om de sponsoring aan te kondigen 
 - Het recht om het OSGeo.nl sponsor logo te voeren in eigen uitingen
+- 
+
+**Internationaal**
+
+Is uw bedrijf zilver of goud sponsor van OSGeo.nl óf sponsort uw bedrijf naast OSGeo.nl bijvoorbeeld individuele OSGeo projecten of lokale FOSS4G evenementen voor een totaalbedrag van 500 USD of meer, dan komt uw bedrijf in aanmerking voor vermelding op de internationale OSGeo website en promotiemateriaal.  Ga voor meer informatie naar [how to become a sponsor](https://www.osgeo.org/about/how-to-become-a-sponsor/) of neem contact met ons op.
 
 ## Hoe te sponsoren?
 
