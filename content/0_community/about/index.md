@@ -3,8 +3,6 @@
 title: Over ons
 author: wpadmin
 type: page
-date: 2022-08-03T06:52:35+00:00
-
 ---
 
 ### De OSGeo.nl Community
