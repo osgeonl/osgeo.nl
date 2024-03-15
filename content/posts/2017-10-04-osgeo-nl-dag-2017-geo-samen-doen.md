@@ -4,7 +4,7 @@ author: Just van den Broecke
 type: post
 date: 2017-10-04T21:53:48+00:00
 url: /2017/10/osgeo-nl-dag-2017-geo-samen-doen/
-featured_image: /uploads/2017/07/Geobuzz-Thema-150x62.png
+featured_image: /photos/2017/07/Geobuzz-Thema-150x62.png
 categories:
   - Actueel
   - Event

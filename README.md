@@ -74,3 +74,26 @@ Test locally first:
 * `hugo server -D -w`  
 * In browser, visit the site at http://localhost:1313 (or whatever address printed out by Hugo in the command line)
 * push changes to GitHub with comments, e.g. `./push-git.sh comments`
+
+
+
+# Content
+
+## Photo slider op home
+
+Locatie: `static/home-photo-slider` 
+Formaat images: 360px x 600px? 
+
+## Home page
+
+`content/home/index.md`
+
+## Nieuws en posts
+
+`content/posts` 
+
+
+## Adding photos 
+
+1. Upload to `static/photos` in the current year
+2. Add in document as `![altname](/photos/year/filename.jpg)`

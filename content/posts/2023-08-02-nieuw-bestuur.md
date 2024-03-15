@@ -4,7 +4,7 @@ author: Niene Boeijen
 type: post
 date: 2023-08-01T19:47:39+00:00
 url: /2023/08/nieuw-bestuur-osgeo-nl/
-featured_image: /uploads/2023/bestuur.jpeg
+featured_image: /photos/2023/bestuur.jpeg
 categories:
   - Actueel
   - Nieuws
@@ -21,7 +21,7 @@ Als je benieuwd bent wat er allemaal besproken werd bij het debuut van dit nieuw
 
 Graag stellen we het nieuwe bestuur aan u voor (van links naar rechts): 
 
-![ ](/uploads/2023/bestuur.jpeg)
+![ ](/photos/2023/bestuur.jpeg)
 
 
 * Algemeen bestuurslid: Just van den Broecke (duwbak)

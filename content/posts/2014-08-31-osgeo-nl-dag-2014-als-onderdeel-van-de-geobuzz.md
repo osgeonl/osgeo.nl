@@ -4,7 +4,7 @@ author: Gert-Jan van der Weijden
 type: post
 date: 2014-08-31T19:36:43+00:00
 url: /2014/08/osgeo-nl-dag-2014-als-onderdeel-van-de-geobuzz/
-featured_image: /uploads/2014/08/LogoGeoBuzz_def-datum-01.jpg
+featured_image: /photos/2014/08/LogoGeoBuzz_def-datum-01.jpg
 categories:
   - Actueel
   - Event

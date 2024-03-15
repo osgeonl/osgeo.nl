@@ -4,7 +4,7 @@ author: Just van den Broecke
 type: post
 date: 2022-08-03T19:47:39+00:00
 url: /2022/08/nieuwe-website-osgeo-nl/
-featured_image: /uploads/2022/08/new-website-osgeo-nl.jpg
+featured_image: /photos/2022/08/new-website-osgeo-nl.jpg
 categories:
   - Actueel
   - Event
@@ -22,7 +22,7 @@ uit Maleisië (via freelancer.com) voor het opschonen van de WP export.
 Maar Ron is nog niet weg, we zijn allemaal 'into Hugo'. Zie ook
 bijv [tv.osgeo.nl](https://tv.osgeo.nl), ook al een Hugo site.
 
-![ ]( /uploads/2022/08/new-website-osgeo-nl.jpg)
+![ ]( /photos/2022/08/new-website-osgeo-nl.jpg)
 
 Hugo is een zogenaamde
 'statische website generator'. Er is geen database, PHP en andere hosting meer nodig.

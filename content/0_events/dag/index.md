@@ -9,8 +9,8 @@ Het is inmiddels traditie dat de jaarlijkse [OSGeo.nl Dag op GeoBuzz][8] plaatsv
 
 Hieronder ons programma en [tijdlijn op GeoBuzz website][9] of klik op plaatje of [Download Programma als PDF][10]. HIER [HET VERSLAG VAN DEZE DAG][11]
 
-<!-- [<img loading="lazy" class="alignnone wp-image-1787 size-large" src="/uploads/2017/10/osgeonldag-2017-gb-1-1024x650.png" alt="" width="900" height="571" srcset="/uploads/2017/10/osgeonldag-2017-gb-1-1024x650.png 1024w, /uploads/2017/10/osgeonldag-2017-gb-1-300x191.png 300w, /uploads/2017/10/osgeonldag-2017-gb-1-768x488.png 768w, /uploads/2017/10/osgeonldag-2017-gb-1-150x95.png 150w, /uploads/2017/10/osgeonldag-2017-gb-1-318x201.png 318w, /uploads/2017/10/osgeonldag-2017-gb-1.png 1464w" sizes="(max-width: 900px) 100vw, 900px" />][1] -->
-{{< a-img data-href="http://geobuzz.nl/programma/#1508092859841-0d246462-f7fa" data-src="/uploads/2017/10/osgeonldag-2017-gb-1.png" >}}
+<!-- [<img loading="lazy" class="alignnone wp-image-1787 size-large" src="/photos/2017/10/osgeonldag-2017-gb-1-1024x650.png" alt="" width="900" height="571" srcset="/photos/2017/10/osgeonldag-2017-gb-1-1024x650.png 1024w, /photos/2017/10/osgeonldag-2017-gb-1-300x191.png 300w, /photos/2017/10/osgeonldag-2017-gb-1-768x488.png 768w, /photos/2017/10/osgeonldag-2017-gb-1-150x95.png 150w, /photos/2017/10/osgeonldag-2017-gb-1-318x201.png 318w, /photos/2017/10/osgeonldag-2017-gb-1.png 1464w" sizes="(max-width: 900px) 100vw, 900px" />][1] -->
+{{< a-img data-href="http://geobuzz.nl/programma/#1508092859841-0d246462-f7fa" data-src="/photos/2017/10/osgeonldag-2017-gb-1.png" >}}
 
 &nbsp;
 

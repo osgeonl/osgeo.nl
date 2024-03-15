@@ -4,7 +4,7 @@ author: Gert-Jan van der Weijden
 type: post
 date: 2016-03-05T00:43:43+00:00
 url: /2016/03/de-ideeenwand-voor-2016/
-featured_image: /uploads/2016/03/ideeenwand-150x113.jpg
+featured_image: /photos/2016/03/ideeenwand-150x113.jpg
 categories:
   - Event
   - Nieuws
@@ -18,10 +18,10 @@ tags:
 Het nieuwe jaar is al weer een flink eind op streek. Toch wil ik jullie nog de &#8220;oogst&#8221; van de OpenStreetMap & OSGeo.nl Nieuwjaarsborrel meegeven. Tijdens deze traditionele Nieuwjaarsborrel in café Dudok in Hilversum werden de circa 50 aanwezigen uit alle delen van Nederland en Vlaanderen gevraagd om hun ideeën en wensen voor het nieuwe open source jaar kenbaar te maken. Dat leverde deze ideeënwand op:
 
 <!--
-<img loading="lazy" class="alignnone wp-image-1063 size-large" src="/uploads/2016/03/ideeenwand-1024x768.jpg" alt="Ideeënwand OSM/OSGeo.nl Nieuwjaarsborrel 2016" width="900" height="675" srcset="/uploads/2016/03/ideeenwand-1024x768.jpg 1024w, /uploads/2016/03/ideeenwand-300x225.jpg 300w, /uploads/2016/03/ideeenwand-768x576.jpg 768w, /uploads/2016/03/ideeenwand-200x150.jpg 200w, /uploads/2016/03/ideeenwand-150x113.jpg 150w" sizes="(max-width: 900px) 100vw, 900px" />
+<img loading="lazy" class="alignnone wp-image-1063 size-large" src="/photos/2016/03/ideeenwand-1024x768.jpg" alt="Ideeënwand OSM/OSGeo.nl Nieuwjaarsborrel 2016" width="900" height="675" srcset="/photos/2016/03/ideeenwand-1024x768.jpg 1024w, /photos/2016/03/ideeenwand-300x225.jpg 300w, /photos/2016/03/ideeenwand-768x576.jpg 768w, /photos/2016/03/ideeenwand-200x150.jpg 200w, /photos/2016/03/ideeenwand-150x113.jpg 150w" sizes="(max-width: 900px) 100vw, 900px" />
 -->
 
-![ Ideeënwand OSM/OSGeo.nl Nieuwjaarsborrel 2016 ](/uploads/2016/03/ideeenwand.jpg)
+![ Ideeënwand OSM/OSGeo.nl Nieuwjaarsborrel 2016 ](/photos/2016/03/ideeenwand.jpg)
 
 We noteren dus als ideeën voor 2016, met wat contactpersonen:
 
@@ -34,10 +34,10 @@ We noteren dus als ideeën voor 2016, met wat contactpersonen:
   * Studiemiddag over archiveren van geo-informatie, aangezwengeld door Willy Bakker en Ron Wardenier
   * Reproduceerbare analyses, bijvoorbeeld met Jupyter, ook gesuggereerd door Willy
 
-{{< a-img data-href="javascript:return false;" data-src="/uploads/2016/03/jwvaalst-nlborrel2016-300x225.jpg" data-class="float_left" data-caption="jwvaalst-nlborrel2016" >}}
+{{< a-img data-href="javascript:return false;" data-src="/photos/2016/03/jwvaalst-nlborrel2016-300x225.jpg" data-class="float_left" data-caption="jwvaalst-nlborrel2016" >}}
 
 <!--
-<img loading="lazy" class="alignleft size-medium wp-image-1067" src="/uploads/2016/03/jwvaalst-nlborrel2016-300x225.jpg" alt="jwvaalst-nlborrel2016" width="300" height="225" srcset="/uploads/2016/03/jwvaalst-nlborrel2016-300x225.jpg 300w, /uploads/2016/03/jwvaalst-nlborrel2016-768x576.jpg 768w, /uploads/2016/03/jwvaalst-nlborrel2016-1024x768.jpg 1024w, /uploads/2016/03/jwvaalst-nlborrel2016-200x150.jpg 200w, /uploads/2016/03/jwvaalst-nlborrel2016-150x113.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />
+<img loading="lazy" class="alignleft size-medium wp-image-1067" src="/photos/2016/03/jwvaalst-nlborrel2016-300x225.jpg" alt="jwvaalst-nlborrel2016" width="300" height="225" srcset="/photos/2016/03/jwvaalst-nlborrel2016-300x225.jpg 300w, /photos/2016/03/jwvaalst-nlborrel2016-768x576.jpg 768w, /photos/2016/03/jwvaalst-nlborrel2016-1024x768.jpg 1024w, /photos/2016/03/jwvaalst-nlborrel2016-200x150.jpg 200w, /photos/2016/03/jwvaalst-nlborrel2016-150x113.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />
 -->
 
 Interesse om hier -in wat voor vorm dan ook- een bijdrage aan te leveren?  

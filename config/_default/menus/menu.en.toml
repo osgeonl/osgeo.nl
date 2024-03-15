@@ -3,185 +3,131 @@
 #  url = ""
 #  weight = -110
 
-[[main]]
-  name = "Thuis"
-  url = "/"
-  weight = -111
-
 
 [[main]]
   name = "Community"
   identifier = "Community"
-  # url = "community/"
   weight = -109
 [[main]]
   parent = "Community"
   name = "Over"
-  url = "about/"
+  url = "0_community/about/"
   weight = -107
-[[main]]
+  [[main]]
   parent = "Community"
-  identifier = "Community-Meedoen"
-  name = "Sluit je aan!"
-  url = "meedoen/"
+  name = "Bestuur"
+  url = "0_community/bestuur/"
   weight = -106
+  [[main]]
+  parent = "Community"
+  name = "OSGeo Internationaal"
+  url = "0_community/internationaal/"
+  weight = -105
 [[main]]
   parent = "Community"
   name = "Geoforum.nl"
-  url = "geoforum-nl/"
+  url = "0_community/geoforum-nl/"
   weight = -98
-[[main]]
-  parent = "Community"
-  name = "Leer!"
-  # url = "community/leer/"
-  url = "categories/educatief/"
-  weight = -97
 [[main]]
   parent = "Community"
   name = "Wiki"
-  url = "wiki/"
+  url = "0_community/wiki/"
   weight = -96
-# [[main]]
-#   parent = "Community"
-#   name = "Blogs"
-#   url = "blog/"
-#   weight = -95
-[[main]]
-  parent = "Community"
-  name = "Aanbieders"
-  url = "aanbieders/"
-  weight = -94
-[[main]]
-  parent = "Community"
-  name = "Verslagen"
-  # url = "verslagen/"
-  url = "categories/verslag/"
-  weight = -93
-[[main]]
-  parent = "Community"
-  identifier = "geoNetwork-gebruikersGroep"
-  name = "GeoNetwork GebruikersGroep &#8227;"
-  # url = "verslagen/"
-  weight = -92
-[[main]]
-  parent = "geoNetwork-gebruikersGroep"
-  identifier = "GeoNetwork-Overzicht"
-  name = "Overzicht"
-  # url = "overzicht/"
-  url = "geonetwork-gebruikersgroep/"
-  weight = -99
-[[main]]
-  parent = "geoNetwork-gebruikersGroep"
-  name = "Best practices"
-  # url = "geonetwork-gebruikersgroep/best-practices/"
-  url = "best-practices/"
-  weight = -98
-[[main]]
-  parent = "geoNetwork-gebruikersGroep"
-  name = "Documentatie"
-  # url = "geonetwork-gebruikersgroep/documentatie/"
-  url = "documentatie/"
-  weight = -97
-[[main]]
-  parent = "Community"
-  name = "QGIS Gebruikersgroep &neArr;"
-  url = "https://qgis.nl/"
-  weight = -91
-[[main]]
-  parent = "Community"
-  name = "De Grote Geo Show  &neArr;"
-  url = "https://tv.osgeo.nl/"
-  weight = -90
 
 [[main]]
   name = "Events"
   identifier = "Events"
-  # url = "events/"
   weight = -108
 [[main]]
   parent = "Events"
   name = "Agenda &neArr;"
   url = "https://www.meetup.com/osgeonl/"
   weight = -99
-# [[main]]
-#   parent = "Events"
-#   identifier = "Events-Overzicht"
-#   name = "Overzicht"
-#   # url = "events/"
-#   url = "categories/event/"
-#   weight = -98
 [[main]]
   parent = "Events"
-  name = "FOSS4GNL 2023 &neArr;"
-  # url = "writings/blog/"
+  name = "FOSS4GNL 2024 &neArr;"
   url = "https://foss4g.nl/"
   weight = -97  
 [[main]]
   parent = "Events"
+  name = "PostGIS dag &neArr;"
+  url = "https://postgisdag.nl/"
+  weight = -97  
+[[main]]
+  parent = "Events"
+  name = "De Grote Geo Show  &neArr;"
+  url = "https://tv.osgeo.nl/"
+  weight = -90
+
+[[main]]
+  parent = "Events"
+  name = "Afgelopen events"
+   weight = -80
+ [[main]]
+  parent = "Afgelopen events"
+  name = "FOSS4GNL 2023 &neArr;"
+  url = "https://2023.foss4g.nl/"
+  weight = -97  
+[[main]]
+  parent = "Afgelopen events"
   name = "FOSS4GNL 2021 &neArr;"
-  # url = "writings/blog/"
   url = "https://2021foss4g.nl/"
   weight = -96
 [[main]]
-  parent = "Events"
+  parent = "Afgelopen events"
   name = "FOSS4GNL 2019 &neArr;"
   url = "https://2019.foss4g.nl/"
   weight = -95
 [[main]]
-  parent = "Events"
+  parent = "Afgelopen events"
   name = "FOSS4GNL 2018 &neArr;"
   url = "https://2018.foss4g.nl/"
   weight = -94
 [[main]]
-  parent = "Events"
+  parent = "Afgelopen events"
   name = "FOSS4GNL 2017 &neArr;"
   url = "https://2017.foss4g.nl/"
   weight = -93
 [[main]]
-  parent = "Events"
+  parent = "Afgelopen events"
   name = "QGIS Gebruikersdag 2018 &neArr;"
   url = "http://www.qgis.nl/2018/01/22/programma-gebruikersmiddag-compleet/"
   weight = -92
 [[main]]
-  parent = "Events"
+  parent = "Afgelopen events"
   name = "GRASS GIS crash course"
-  url = "grassgis-course/"
+  url = "0_events/grassgis-course/"
   weight = -91
 [[main]]
-  parent = "Events"
+  parent = "Afgelopen events"
   name = "OSGeo.nl Dag 2017"
-  url = "dag/"
+  url = "0_events/dag/"
   weight = -90
 
 [[main]]
   name = "Nieuws"
   identifier = "Nieuws"
-  # url = "nieuws/"
-  # url = "category/nieuws/"
-  url = "categories/nieuws/"
+  url = "posts/"
   weight = -107
-
 
 [[main]]
   name = "Sponsors"
   identifier = "Sponsors"
   weight = -106
-
 [[main]]
   parent = "Sponsors"
   name = "Huidige Sponsors"
-  url = "sponsors/"
+  url = "0_sponsors/sponsors/"
   weight = -90
-
 [[main]]
   parent = "Sponsors"
   name = "Sponsorplan"
-  url = "sponsorplan/"
+  url = "0_sponsors/sponsorplan/"
   weight = -89
 
 [[main]]
   name = "Contact"
-  url = "contact/"
+  url = "0_contact/"
   weight = -105
 
 # social menu links
@@ -204,24 +150,3 @@
   type = "social"
   weight = 4
   url = "https://github.com/osgeonl"
-#[[social]]
-#  name = "flickr"
-#  type = "social"
-#  weight = 3
-#  url = "https://www.flickr.com/groups/osgeonl"
-#[[social]]
-#  name = "rss"
-#  url = "http://osgeo.nl/feed/"
-#  weight = 4
-
-# other supported social links
-# name = "youtube"
-# url = "https://www.youtube.com/#"
-# name = "facebook"
-# url = "https://facebook.com/#"
-# name = "instagram"
-# url = "https://instagram.com/#"
-# name = "stackoverflow"
-# url = "https://stackoverflow.com/#"
-# name = "gitlab"
-# url = "https://gitlab.com/#"

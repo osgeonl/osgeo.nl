@@ -4,7 +4,7 @@ author: Gert-Jan van der Weijden
 type: post
 date: 2016-10-01T15:13:31+00:00
 url: /2016/10/mini-seminar-rd-en-open-source-software-do-20-oktober-2016-hilversum/
-featured_image: /uploads/2016/10/Projectieprincipe-150x100.png
+featured_image: /photos/2016/10/Projectieprincipe-150x100.png
 categories:
   - Actueel
   - Event

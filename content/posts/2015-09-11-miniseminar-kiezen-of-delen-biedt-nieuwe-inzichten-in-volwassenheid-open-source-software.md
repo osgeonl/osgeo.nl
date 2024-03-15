@@ -4,7 +4,7 @@ author: Gert-Jan van der Weijden
 type: post
 date: 2015-09-11T12:14:50+00:00
 url: /2015/09/miniseminar-kiezen-of-delen-biedt-nieuwe-inzichten-in-volwassenheid-open-source-software/
-featured_image: /uploads/2015/09/20150609_165608-150x84.jpg
+featured_image: /photos/2015/09/20150609_165608-150x84.jpg
 categories:
   - Actueel
   - Featured
@@ -27,6 +27,6 @@ De afsluitende borrel bood nog ruimschoots gelegenheid om de inzichten verder 
 
 We danken Ordina voor de hosting, de sprekers voor hun inspiratie en natuurlijk alle deelnemers voor hun bijdrage aan de discussie!
 
- [1]: /uploads/2015/09/Open-Source-een-goede-keuze.pdf
- [2]: /uploads/2015/09/Open-Source-keuze-met-OSMM-en-OPSP.pdf
- [3]: /uploads/2015/09/OSMM-OSGeo-9-6-2015.pdf
+ [1]: /photos/2015/09/Open-Source-een-goede-keuze.pdf
+ [2]: /photos/2015/09/Open-Source-keuze-met-OSMM-en-OPSP.pdf
+ [3]: /photos/2015/09/OSMM-OSGeo-9-6-2015.pdf

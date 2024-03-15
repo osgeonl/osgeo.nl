@@ -4,7 +4,7 @@ author: Just van den Broecke
 type: post
 date: 2015-06-23T18:01:47+00:00
 url: /2015/06/seminar-open-historische-web-cartografie-op-25-sept-2015/
-featured_image: /uploads/2015/06/leo-visscher-150x122.jpg
+featured_image: /photos/2015/06/leo-visscher-150x122.jpg
 categories:
   - Actueel
   - Blog post
@@ -26,10 +26,10 @@ tags:
 Dit gezamenlijk event van OSGeo.nl, [UvA][1] en [RCE][2] is op vrijdag 25 sept 2015 (13:00-17:30, RCE Amersfoort). Hieronder het programma en achtergrond informatie. Opgeven kan via de [OSGeo.nl Meetup][3]:
 
 <!--
-<img loading="lazy" class="alignnone wp-image-856 size-full" src="/uploads/2015/06/programma-e1441108140771.png" alt="programma" width="500" height="371" /> 
+<img loading="lazy" class="alignnone wp-image-856 size-full" src="/photos/2015/06/programma-e1441108140771.png" alt="programma" width="500" height="371" /> 
 -->
 
-![ programma ](/uploads/2015/06/programma-e1441108140771.png)
+![ programma ](/photos/2015/06/programma-e1441108140771.png)
 
 Download hier het volledige [programma][4] (PDF).
 
@@ -37,7 +37,7 @@ Historische kaarten spreken velen tot de verbeelding. Het vakgebied Historische 
 
 <!--
 <div id="attachment_804" style="width: 510px" class="wp-caption aligncenter">
-  <img aria-describedby="caption-attachment-804" loading="lazy" class="size-full wp-image-804" src="/uploads/2015/06/screenshot-histmaps-uva.jpg" alt="Zoekresultaat Hist Kaarten UvA" width="500" height="296" srcset="/uploads/2015/06/screenshot-histmaps-uva.jpg 500w, /uploads/2015/06/screenshot-histmaps-uva-300x178.jpg 300w, /uploads/2015/06/screenshot-histmaps-uva-250x148.jpg 250w, /uploads/2015/06/screenshot-histmaps-uva-150x89.jpg 150w" sizes="(max-width: 500px) 100vw, 500px" />
+  <img aria-describedby="caption-attachment-804" loading="lazy" class="size-full wp-image-804" src="/photos/2015/06/screenshot-histmaps-uva.jpg" alt="Zoekresultaat Hist Kaarten UvA" width="500" height="296" srcset="/photos/2015/06/screenshot-histmaps-uva.jpg 500w, /photos/2015/06/screenshot-histmaps-uva-300x178.jpg 300w, /photos/2015/06/screenshot-histmaps-uva-250x148.jpg 250w, /photos/2015/06/screenshot-histmaps-uva-150x89.jpg 150w" sizes="(max-width: 500px) 100vw, 500px" />
   
   <p id="caption-attachment-804" class="wp-caption-text">
     Zoekresultaat Hist Kaarten UvA
@@ -45,7 +45,7 @@ Historische kaarten spreken velen tot de verbeelding. Het vakgebied Historische 
 </div>
 -->
 
-![ Zoekresultaat Hist Kaarten UvA ](/uploads/2015/06/screenshot-histmaps-uva.jpg)
+![ Zoekresultaat Hist Kaarten UvA ](/photos/2015/06/screenshot-histmaps-uva.jpg)
 
 Als we naar Nederland kijken zien we op dit gebied verschillende projecten en initiatieven, met als terugkomend kenmerk het scannen en geo-refereren van papieren kaarten en verdere ontsluiting. Dit laatste gebeurt steeds vaker en bij voorkeur via het Web.
 
@@ -55,7 +55,7 @@ Net als Publieke Dienstverlening Op de Kaart (PDOK) dit verzorgt voor reguliere
 
 <!--
 <div id="attachment_805" style="width: 430px" class="wp-caption aligncenter">
-  <a href="http://map5.nl"><img aria-describedby="caption-attachment-805" loading="lazy" class="size-full wp-image-805" src="/uploads/2015/06/nltopo-3phones-s.jpg" alt="TMK 1850, Bonne en OpenTopo mobiel" width="420" height="263" srcset="/uploads/2015/06/nltopo-3phones-s.jpg 420w, /uploads/2015/06/nltopo-3phones-s-300x188.jpg 300w, /uploads/2015/06/nltopo-3phones-s-240x150.jpg 240w, /uploads/2015/06/nltopo-3phones-s-150x94.jpg 150w" sizes="(max-width: 420px) 100vw, 420px" /></a>
+  <a href="http://map5.nl"><img aria-describedby="caption-attachment-805" loading="lazy" class="size-full wp-image-805" src="/photos/2015/06/nltopo-3phones-s.jpg" alt="TMK 1850, Bonne en OpenTopo mobiel" width="420" height="263" srcset="/photos/2015/06/nltopo-3phones-s.jpg 420w, /photos/2015/06/nltopo-3phones-s-300x188.jpg 300w, /photos/2015/06/nltopo-3phones-s-240x150.jpg 240w, /photos/2015/06/nltopo-3phones-s-150x94.jpg 150w" sizes="(max-width: 420px) 100vw, 420px" /></a>
   
   <p id="caption-attachment-805" class="wp-caption-text">
     TMK 1850, Bonne en OpenTopo mobiel
@@ -63,7 +63,7 @@ Net als Publieke Dienstverlening Op de Kaart (PDOK) dit verzorgt voor reguliere
 </div>
 -->
 
-![ TMK 1850, Bonne en OpenTopo mobiel ](/uploads/2015/06/nltopo-3phones-s.jpg)
+![ TMK 1850, Bonne en OpenTopo mobiel ](/photos/2015/06/nltopo-3phones-s.jpg)
 
 We willen middels dit seminar vooral kijken waar we staan:
 
@@ -90,5 +90,5 @@ hebben net een nieuwe zaal dus capaciteit is nu verhoogd van 30 naar 60, maar he
 [1]: http://www.uva.nl/
 [2]: http://cultureelerfgoed.nl/
 [3]: http://www.meetup.com/OSGeoNL/events/223443171/
-[4]: /uploads/2015/09/programma.pdf
+[4]: /photos/2015/09/programma.pdf
 [5]: http://www.meetup.com/OSGeoNL/events/223443171/

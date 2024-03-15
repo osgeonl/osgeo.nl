@@ -4,7 +4,7 @@ author: OSGeo.nl
 type: post
 date: 2012-06-29T10:22:37+00:00
 url: /2012/06/160-bezoekers-op-osgeo-nl-dag-2012/
-featured_image: /uploads/2012/06/osgeonldag-poster-excerpt-150x133.jpg
+featured_image: /photos/2012/06/osgeonldag-poster-excerpt-150x133.jpg
 categories:
   - Event
   - Nieuws
@@ -16,8 +16,8 @@ Ons belangrijkste event is de jaarlijkse [OSGeo.nl Dag][1]. In 2012 hielden we 
 
 [Vind hier het verslag, presentatie-slides][1] of klik op plaatje hieronder.
 
-<!-- [<img loading="lazy" class="alignleft wp-image-315 size-medium" src="/uploads/2012/06/osgeonldag-poster-excerpt-300x267.jpg" alt="osgeonldag-poster-excerpt" width="300" height="267" srcset="/uploads/2012/06/osgeonldag-poster-excerpt-300x267.jpg 300w, /uploads/2012/06/osgeonldag-poster-excerpt-168x150.jpg 168w, /uploads/2012/06/osgeonldag-poster-excerpt-150x133.jpg 150w, /uploads/2012/06/osgeonldag-poster-excerpt.jpg 728w" sizes="(max-width: 300px) 100vw, 300px" />][1] -->
-{{< a-img data-href="http://io.osgeo.nl/sitecontent/osgeonl_dag/osgeonl_dag_2012.html" data-src="/uploads/2012/06/osgeonldag-poster-excerpt-300x267.jpg" data-class="float_left" >}}
+<!-- [<img loading="lazy" class="alignleft wp-image-315 size-medium" src="/photos/2012/06/osgeonldag-poster-excerpt-300x267.jpg" alt="osgeonldag-poster-excerpt" width="300" height="267" srcset="/photos/2012/06/osgeonldag-poster-excerpt-300x267.jpg 300w, /photos/2012/06/osgeonldag-poster-excerpt-168x150.jpg 168w, /photos/2012/06/osgeonldag-poster-excerpt-150x133.jpg 150w, /photos/2012/06/osgeonldag-poster-excerpt.jpg 728w" sizes="(max-width: 300px) 100vw, 300px" />][1] -->
+{{< a-img data-href="http://io.osgeo.nl/sitecontent/osgeonl_dag/osgeonl_dag_2012.html" data-src="/photos/2012/06/osgeonldag-poster-excerpt-300x267.jpg" data-class="float_left" >}}
 
 &nbsp;
 
