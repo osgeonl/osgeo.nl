@@ -1,39 +1,100 @@
 # osgeo.nl
-This is the https://osgeo.nl website. 
-This site was migrated from Wordpress to Hugo in GitHub in 2022. 
-Some glitches still present!
+This repo contains the OSGeo.nl website: https://osgeo.nl. 
+It is generated with [Hugo](https://gohugo.io/). 
+Hugo is a static website generator.
+The (Hugo) content is developed in and hosted by GitHub. 
+ 
 
-## Running locally
-git clone https://%username%@github.com/osgeonl/osgeo.nl git  
+## Quickstart - Running locally
+
+Install Hugo for your system, see: https://gohugo.io/installation/.
+
+```
+git clone https://github.com/osgeonl/osgeo.nl.git git
 cd git  
-git submodule update --init --recursive  
 hugo server -D -w  
+```
 
-## Migration from WP
-Links
+## How the site works
+      
+Global setup is as follows:
 
-* https://gohugo.io/tools/migrations/#wordpress
-* https://ma.ttias.be/step-by-step-guide-migrating-wordpress-to-hugo/
+* Website (Hugo-) content is maintained in the default [main branch](https://github.com/osgeonl/osgeo.nl/tree/main).
+* The generated (static) HTML website is published in the [gh-pages branch](https://github.com/osgeonl/osgeo.nl/tree/gh-pages).
+* On push/commit to the `main` branch a [the GitHub Action publish.yml](.github/workflows/publish.yml) will build and publish the website.
+* Through a CNAME in DNS and the root of `gh-pages` the domain name osgeo.nl is resolved to the GitHub deployment (in gh-pages).
+* SSL certificates are generated through GitHub (who uses Let's Encrypt)
+* So no need to ever commit/push directly to the `gh-pages` branch!
 
-Followed latter steps:
+## Maintaining and Contributing
 
-* backup WP and MySQL 
-* install the SchumacherFM/wordpress-to-hugo-exporter plugin. 
-* https://github.com/SchumacherFM/wordpress-to-hugo-exporter/releases v2.0.1 
-* Go to your WordPress, Plugins > Add New
-* Pick Upload Plugin and choose the ZIP file you just downloaded
-* Activate the plugin after installation
-* Once the plugin is installed, you can try to go to Tools > Export to Hugo. That page might take a while to load.
+We love receiving updates. You see a mistake? Open an issue or create a Pull Request (PR).
 
-Using the [Hugo Clarity Theme](https://github.com/chipzoller/hugo-clarity).
+This is how to make changes yourself.
 
-Added GitHub Workflows, hosting on GitHub. 
+* clone the GitHub repo: `git clone https://github.com/osgeonl/osgeo.nl.git git`
+* make changes, commit and push
+* on any commit the GitHub Workflow [pubish.yml](.github/workflows/publish.yml) will run
+* site is then (re-)published on `gh-pages` branch in GitHub repo
 
-Now maintaining the site is a breeze!
+Test locally first:
 
-## DNS and GitHub Custom Domain
+* have Hugo installed locally
+* `hugo server -D -w`  
+* In browser, visit the site at http://localhost:1313 (or whatever address printed out by Hugo in the command line)
+* push changes to GitHub with comments, e.g. `./push-git.sh comments`
 
-See refs:
+First time contributors: best is to submit Pull Requests. 
+Regular maintainers familiar with the site, will push directly to `main`.
+
+### Home page
+
+Is at `content/home/index.md`
+
+### Nieuws en posts
+ 
+Posts is in feite een blog. Volg deze conventies om een nieuwe Post te maken:
+ 
+* maak Markdown text bestand aan onder content/posts, gemakkelijkst is copie van laatste Post
+* de naam van bestand moet beginnen met datum in "mutad": `YYYY-MM-15-<postnaam>.md` bijv. `2024-03-15-nieuw-bestuur.md`
+
+De 'kop' van het bestand moet 'meta-data' bevatten met begin-eind door `---`, hier voorbeeld:
+
+```
+---
+title: 'Nieuw bestuur Stichting OSGeo.nl'
+author: Niene Boeijen
+type: post
+date: 2023-08-01T19:47:39+00:00
+url: /2023/08/nieuw-bestuur-osgeo-nl/
+featured_image: /photos/2023/bestuur.jpeg
+categories:
+  - Actueel
+  - Nieuws
+  - osgeo
+  - Bestuur
+tags:
+  - osgeonl
+
+---
+
+```
+ 
+Zie compleet voorbeeld deze post: 
+[content/posts/2023-08-02-nieuw-bestuur.md](content/posts/2023-08-02-nieuw-bestuur.md).
+`date:` is publicatie datum, kan in theorie in toekomst zitten.
+
+### Adding photos 
+
+To include photos in your post or other content:
+
+1. Upload to `static/photos` in the current year
+2. Add in document as `![altname](/photos/year/filename.jpg)`
+
+
+## For reference: DNS and GitHub Custom Domain
+
+Just for reference:
  
 * [GitHub Docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
 * https://www.geeksforgeeks.org/publish-websites-on-github-pages-with-a-custom-domain/
@@ -60,40 +121,26 @@ See refs:
 ```
 * in root of `gh-pages` branch have file CNAME containing osgeo.nl
 
-## Maintain
+## History: Migration from WP
+This website was migrated from Wordpress in 2022. After that some big cleanup in march 2024.
 
-* clone or fork GitHub repo
-* make changes, commit and push
-* on any commit the GitHub Workflow [pubish.yml](.github/workflows/publish.yml) will run
-* site is then (re-)published on `gh-pages` branch in GitHub repo
+Links
 
-Test locally first:
+* https://gohugo.io/tools/migrations/#wordpress
+* https://ma.ttias.be/step-by-step-guide-migrating-wordpress-to-hugo/
 
-* have Hugo installed locally
-* `git submodule update --init --recursive`
-* `hugo server -D -w`  
-* In browser, visit the site at http://localhost:1313 (or whatever address printed out by Hugo in the command line)
-* push changes to GitHub with comments, e.g. `./push-git.sh comments`
+Followed latter steps:
 
+* backup WP and MySQL 
+* install the SchumacherFM/wordpress-to-hugo-exporter plugin. 
+* https://github.com/SchumacherFM/wordpress-to-hugo-exporter/releases v2.0.1 
+* Go to your WordPress, Plugins > Add New
+* Pick Upload Plugin and choose the ZIP file you just downloaded
+* Activate the plugin after installation
+* Once the plugin is installed, you can try to go to Tools > Export to Hugo. That page might take a while to load.
 
+Using the [Hugo Clarity Theme](https://github.com/chipzoller/hugo-clarity).
 
-# Content
+Added GitHub Workflows, hosting on GitHub. 
 
-## Photo slider op home
-
-Locatie: `static/home-photo-slider` 
-Formaat images: 360px x 600px? 
-
-## Home page
-
-`content/home/index.md`
-
-## Nieuws en posts
-
-`content/posts` 
-
-
-## Adding photos 
-
-1. Upload to `static/photos` in the current year
-2. Add in document as `![altname](/photos/year/filename.jpg)`
+Now maintaining the site is a breeze!
