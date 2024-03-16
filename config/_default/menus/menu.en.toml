@@ -46,21 +46,14 @@
 [[main]]
   parent = "Community"
   name = "OpenStreetMap Nederland &neArr;"
-  url = "http://openstreetmap.nl/"
+  url = "https://www.openstreetmap.app/"
   weight = -91
 [[main]]
-  parent = "Community"
-  name = "OpenStreetMap Nederland &neArr;"
-  url = "http://openstreetmap.nl/"
-  weight = -91
-  [[main]]
   parent = "Community"
   identifier = "geoNetwork-gebruikersGroep"
   name = "GeoNetwork GebruikersGroep &#8227;"
   url = "0_community/geonetwork/"
   weight = -92
-
-
 
 [[main]]
   name = "Events"
