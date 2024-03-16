@@ -34,7 +34,7 @@ This is how to make changes yourself.
 
 * clone the GitHub repo: `git clone https://github.com/osgeonl/osgeo.nl.git git`
 * make changes, commit and push
-* on any commit the GitHub Workflow [pubish.yml](.github/workflows/publish.yml) will run
+* on any commit the GitHub Workflow [publish.yml](.github/workflows/publish.yml) will run
 * site is then (re-)published on `gh-pages` branch in GitHub repo
 
 Test locally first:
@@ -56,7 +56,7 @@ Is at `content/home/index.md`
 Posts is in feite een blog. Volg deze conventies om een nieuwe Post te maken:
  
 * maak Markdown text bestand aan onder content/posts, gemakkelijkst is copie van laatste Post
-* de naam van bestand moet beginnen met datum in "mutad": `YYYY-MM-15-<postnaam>.md` bijv. `2024-03-15-nieuw-bestuur.md`
+* de naam van bestand moet beginnen met omgekeerde datum in deze conventie: `YYYY-MM-DD-<postnaam>.md` bijv. `2024-03-15-nieuw-bestuur.md`
 
 De 'kop' van het bestand moet 'meta-data' bevatten met begin-eind door `---`, hier voorbeeld:
 
@@ -119,17 +119,18 @@ Just for reference:
  2606:50c0:8003::153
 
 ```
-* in root of `gh-pages` branch have file CNAME containing osgeo.nl
+* in root of `gh-pages` branch the file CNAME contains osgeo.nl
 
 ## History: Migration from WP
 This website was migrated from Wordpress in 2022. After that some big cleanup in march 2024.
+Below some info for reference.
 
 Links
 
 * https://gohugo.io/tools/migrations/#wordpress
 * https://ma.ttias.be/step-by-step-guide-migrating-wordpress-to-hugo/
 
-Followed latter steps:
+Followed steps from last link:
 
 * backup WP and MySQL 
 * install the SchumacherFM/wordpress-to-hugo-exporter plugin. 
