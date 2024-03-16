@@ -1,8 +1,8 @@
 ---
 title: Contact
-author: wpadmin
+author: osgeonl
 type: page
-date: 2022-08-03T07:04:42+00:00
+date: 2024-03-15T07:04:42+00:00
 
 ---
 Mail: [info@osgeo.nl][1]    
@@ -12,7 +12,6 @@ Agenda: [meetup.com/OSGeoNL][6]
 Wiki: [wiki.osgeo.org/wiki/Nederlands][5]    
 Mailing lijst: [lists.osgeo.org/mailman/listinfo/dutch][4]    
 
-Postadres: van der Hoochlaan 3, 1181PL Amstelveen  
 Bank: NL72 INGB 0006276370 t.n.v. STICHTING OSGEO.NL  
 SWIFT/BIC: INGBNL2A  
 Kamer van Koophandel: 58214763

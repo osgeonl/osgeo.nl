@@ -83,8 +83,8 @@
 [[main]]
   parent = "Events"
   name = "Afgelopen events"
-   weight = -80
- [[main]]
+  weight = -80
+[[main]]
   parent = "Afgelopen events"
   name = "FOSS4GNL 2023 &neArr;"
   url = "https://2023.foss4g.nl/"
