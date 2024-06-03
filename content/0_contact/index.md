@@ -2,11 +2,11 @@
 title: Contact
 author: osgeonl
 type: page
-date: 2024-03-15T07:04:42+00:00
+date: 2024-06-03T07:04:42+00:00
 
 ---
 Mail: [info@osgeo.nl][1]    
-Twitter: [@osgeo][2] [#osgeonl][3]   
+Mastodon: [@osgeo][2] [#osgeonl][3]   
 GeoForum: [geoforum.nl][7]  
 Agenda: [meetup.com/OSGeoNL][6]  
 Wiki: [wiki.osgeo.org/wiki/Nederlands][5]    
@@ -17,8 +17,8 @@ SWIFT/BIC: INGBNL2A
 Kamer van Koophandel: 58214763
 
 [1]: mailto:info@osgeo.nl "info@osgeo.nl"
-[2]: https://twitter.com/osgeonl "@osgeo"
-[3]: https://twitter.com/search?q=%23osgeonl "#osgeonl"
+[2]: https://fosstodon.org/osgeonl "@osgeo"
+[3]: https://fosstodon.org/tags/osgeonl "#osgeonl"
 [4]: https://lists.osgeo.org/mailman/listinfo/dutch
 [5]: https://wiki.osgeo.org/wiki/Nederlands "wiki.osgeo.org/wiki/Nederlands"
 [6]: https://meetup.com/OSGeoNL "meetup.com/OSGeoNL"
