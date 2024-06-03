@@ -2,7 +2,7 @@
 title: Welkom bij OSGeo.NL
 author: osgeonl
 type: page
-date: 2023-05-15T17:52:45+00:00
+date: 2023-06-03T10:52:45+00:00
 ---
 
 ![](/photos/2023/groeps.jpg)
