@@ -157,9 +157,9 @@
   weight = 1
   url = "mailto:info@osgeo.nl"
 [[social]]
-  name = "twitter"
+  name = "mastodon"
   weight = 2
-  url = "https://twitter.com/osgeonl"
+  url = "https://fosstodon.org/@osgeonl"
 [[social]]
   name = "youtube"
   type = "social"
@@ -170,3 +170,7 @@
   type = "social"
   weight = 4
   url = "https://github.com/osgeonl"
+[[social]]
+  name = "rss"
+  url = "https://osgeo.nl/index.xml"
+  weight = 5
