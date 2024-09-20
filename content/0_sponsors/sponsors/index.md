@@ -2,13 +2,13 @@
 title: Sponsors
 author: osgeo.nl
 type: page
-date: 2023-07-20T10:49:12+00:00
+date: 2024-09-20T10:49:12+00:00
 
 ---
 OSGeo.nl dankt al haar sponsors. 
 Door hun steun kunnen we o.a. events zoals de [FOSS4GNL][1] laagdrempelig aanbieden.
 
-Wilt u ook OSGeo.nl sponsoren? Bekijk dan ons [Sponsorplan](/sponsorplan/).
+Wilt u ook OSGeo.nl sponsoren? Bekijk dan ons [Sponsorplan][2].
 
 ## Goud sponsors
 
@@ -31,7 +31,7 @@ Al onze bestuursleden besteden onbezoldigd tijd aan OSGeo.nl.
 [WebMapper][4] bekostigt onze [Meetup groep][5]
 
  [1]: https://foss4g.nl
- [2]: https://osgeo.nl/sponsorplan
+ [2]: https://osgeo.nl/0_sponsors/sponsorplan
  [3]: https://rwgc.nl/
  [4]: https://webmapper.net
- [5]: https://www.meetup.com/OSGeoNL
+ [5]: https://meetup.com/OSGeoNL
