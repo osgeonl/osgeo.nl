@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/home/</loc>
+    <lastmod>2024-09-20T10:52:45+00:00</lastmod>
+  </url><url>
     <loc>/0_sponsors/</loc>
     <lastmod>2024-09-20T10:49:12+00:00</lastmod>
   </url><url>
@@ -61,9 +64,6 @@
   </url><url>
     <loc>/0_sponsors/sponsorplan/</loc>
     <lastmod>2023-07-20T10:49:12+00:00</lastmod>
-  </url><url>
-    <loc>/home/</loc>
-    <lastmod>2023-06-03T10:52:45+00:00</lastmod>
   </url><url>
     <loc>/categories/event/</loc>
     <lastmod>2022-08-03T19:47:39+00:00</lastmod>
