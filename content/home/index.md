@@ -2,7 +2,7 @@
 title: Welkom bij OSGeo.NL
 author: osgeonl
 type: page
-date: 2023-06-03T10:52:45+00:00
+date: 2024-09-20T10:52:45+00:00
 ---
 
 ![](/photos/2023/groeps.jpg)
@@ -23,11 +23,12 @@ of auteur van artikelen wilt worden [laat het ons weten][1]
 
 ### Binnenkort
 
-* **[OSGeo.nl Open Zomerpodium - Utrecht 19 juni 2024](https://www.meetup.com/osgeonl/events/301222258/)** 
 * **[FOSS4G-NL Conferentie 2024 i.s.m. OSGeo-BE! - Baarle Hertog 25-27 sept 2024](https://foss4g.nl)** 
+* **[PostGIS Dag - Utrecht 21 nov 2024](https://postgisdag.nl)** 
 
 ### Geweest
 
+* **[OSGeo.nl Open Zomerpodium - Utrecht 19 juni 2024](https://www.meetup.com/osgeonl/events/301222258/)** 
 * **[FOSS4G-NL Conferentie 2023 - Middelburg - 2023.foss4g.nl](https://2023.foss4g.nl)** 
 * **[FOSS4G Intl. 2023 - Kosovo - 2023.foss4g.org](https://2023.foss4g.org/)** 
 * **[FOSS4G-NL Conferentie 2021 - Enschede - 2021.foss4g.nl](https://2021.foss4g.nl)**
