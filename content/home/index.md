@@ -13,9 +13,10 @@ date: 2024-09-20T10:52:45+00:00
 open source software voor geo-informatie in het Nederlandse taalgebied**.  
 Onze slogan: **"Wegwijs in Open Geo"**.
 
-OSGeo.nl is een lokale afdeling binnen de internationale [OSGeo Foundation](https://osgeo.org). We richten ons op de Nederlandse open source geo community. Lees [wie we zijn en wat we doen](/about/) en bezoek ons op [geoforum.nl][2]  
+OSGeo.nl is een lokale afdeling binnen de internationale [OSGeo Foundation](https://osgeo.org). We richten ons op de Nederlandse open source geo community. 
+Lees [wie we zijn en wat we doen](/0_community/about/) en bezoek ons op [geoforum.nl](https://geoforum.nl/tag/osgeonl).
 
-De belangrijkste zaken rond Open Geo vinden plaats via [onze community](/about/).
+De belangrijkste zaken rond Open Geo vinden plaats via [onze community](/0_community/about/) e.
 We proberen als OSGeo.nl daarin te faciliteren en een wegwijzer te zijn. 
 Daarom vind je in het menu &#8216;Community&#8217; een verzameling van wat er 
 bruist, leeft en beschikbaar is. Als je nog suggesties hebt, 
