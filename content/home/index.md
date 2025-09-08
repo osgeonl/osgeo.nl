@@ -24,8 +24,8 @@ of auteur van artikelen wilt worden [laat het ons weten][1]
 
 ### Binnenkort
 * **[OSGeo.nl Open Zomerpodium - Amsterdamse Bos 9 september 2025](https://www.meetup.com/osgeonl/events/310079241/)** 
-* **[PostGIS Dag - Utrecht 20 nov 2025] (https://pretix.eu/foss4gnl/postgisdag2025/)**
-* **[Nieuwjaarsbijeenkomst - Utrecht 18 januari 2026] (https://osgeo.nl/)**
+* **[PostGIS Dag - Utrecht 20 nov 2025](https://pretix.eu/foss4gnl/postgisdag2025/)**
+* **[Nieuwjaarsbijeenkomst - Utrecht 18 januari 2026](https://osgeo.nl/)**
 
 ### Geweest
 
