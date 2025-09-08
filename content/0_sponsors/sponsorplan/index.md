@@ -20,10 +20,10 @@ tijdens evenementen. Dat kunnen conferenties en symposia zijn die worden georgan
 zoals in 2012 en 2013 op het Geospatial World Forum (GWF) en tijdens de GIS@HBO dag. 
 Daarnaast organiseert de stichting zélf (al dan niet in samenwerking met andere partijen) evenementen. 
 De evenementen variëren van kleinschalige technische workshops en lokale stammtisches tot 
-de jaarlijkse [FOSS4GNL](https://foss4g.nl) conferentie met circa 150 mensen. 
+de jaarlijkse [FOSS4GNL](https://foss4g.nl) conferentie met een kleine 200 mensen. 
 
 De activiteiten van OSGeo.nl, zowel het bestuurswerk als de uitvoerende werkzaamheden, worden uitgevoerd door 
-vrijwilligers. Naast de 5 bestuursleden is er op dit moment een kerngroep van circa 10 enthousiaste OSGeo.nl-ers. 
+vrijwilligers. Naast de bestuursleden is er op dit moment een kerngroep van circa 10 enthousiaste OSGeo.nl-ers. 
 Via onze diverse mediakanalen bereiken we daarnaast 100-en professionals in het Geo-werkveld. 
  
 De stichting OSGeo.nl is als "Local Chapter" erkend door de internationale organisatie [OSGeo.org](https://osgeo.org). 
@@ -36,7 +36,7 @@ vrijwilligers, maar met name de kosten die gemaakt worden om grote en kleine eve
 Om de toegang tot evenementen financieel zo laagdrempelig mogelijk te maken streven 
 we ernaar een deel van deze vaste lasten via sponsoring te dekken. 
 
-## Waarom zou mijn organisatie OSGeo.nl sponsosren? 
+## Waarom zou mijn organisatie OSGeo.nl sponsoren? 
 
 Uw organisatie maakt gebruik van (Nederlandstalige) Open Geo-ICT software: Uw organisatie kan, door het gebruik 
 van deze software, doelmatiger en efficiënter zijn werk doen. Door het sponsoren van de stichting OSGeo.nl 
