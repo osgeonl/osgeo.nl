@@ -24,7 +24,7 @@ of auteur van artikelen wilt worden [laat het ons weten][1]
 
 ### Binnenkort
 
-* **[Nieuwjaarsbijeenkomst - Utrecht 18 januari 2026](https://pretix.eu/foss4gnl/nieuwjaar/))**
+* **[Nieuwjaarsbijeenkomst - Utrecht 18 januari 2026](https://pretix.eu/foss4gnl/nieuwjaar/)**
 
 ### Geweest
 
