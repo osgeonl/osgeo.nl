@@ -23,12 +23,13 @@ bruist, leeft en beschikbaar is. Als je nog suggesties hebt,
 of auteur van artikelen wilt worden [laat het ons weten][1]
 
 ### Binnenkort
-* **[OSGeo.nl Open Zomerpodium - Amsterdamse Bos 9 september 2025](https://www.meetup.com/osgeonl/events/310079241/)** 
-* **[PostGIS Dag - Utrecht 20 nov 2025](https://pretix.eu/foss4gnl/postgisdag2025/)**
+
 * **[Nieuwjaarsbijeenkomst - Utrecht 18 januari 2026](https://pretix.eu/foss4gnl/nieuwjaar/))**
 
 ### Geweest
 
+* **[PostGIS Dag - Utrecht 20 nov 2025](https://pretix.eu/foss4gnl/postgisdag2025/)**
+* **[OSGeo.nl Open Zomerpodium - Amsterdamse Bos 9 september 2025](https://www.meetup.com/osgeonl/events/310079241/)** 
 * **[FOSS4GNL Conferentie 2025 - Wageningen 2 & 3 juli 2025](https://foss4g.nl)** 
 * **[Open GIS 3D studiedag - Amsterdam 28 maart 2025](https://talks.osgeo.org/open-gis-3d-studiedag-2025)**  
 * **[PostGIS Dag - Utrecht 21 nov 2024](https://postgisdag.nl)** 
