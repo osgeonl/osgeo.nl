@@ -12,7 +12,6 @@ Wilt u ook OSGeo.nl sponsoren? Bekijk dan ons [Sponsorplan][2].
 
 ## Goud sponsors
 
-{{< a-img data-href="https://opengeogroep.nl" data-src="/photos/2014/04/logo-opengeogroep.gif" >}}
 {{< a-img data-href="https://geocat.net/" data-src="/photos/sponsors/geocat_logo_colour.svg" >}}
 {{< a-img data-href="https://www.geosquare.nl/" data-src="/photos/sponsors/GSQ Logo.png" >}}
 
@@ -21,7 +20,7 @@ Wilt u ook OSGeo.nl sponsoren? Bekijk dan ons [Sponsorplan][2].
 
 ## Brons sponsor
 
-{{< a-img data-href="https://ruimteschepper.nl/" data-src="/photos/2016/10/Ruimteschepper-logo-Donker-800x100.png" >}}
+{{< a-img data-href="https://www.idgis.nl/" data-src="/photos/sponsors/ID_GIS.png" >}}
 
 ## In Natura Sponsoring
 
