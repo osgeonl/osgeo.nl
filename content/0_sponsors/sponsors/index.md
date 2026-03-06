@@ -12,11 +12,11 @@ Wilt u ook OSGeo.nl sponsoren? Bekijk dan ons [Sponsorplan][2].
 
 ## Goud sponsors
 
-{{< a-img data-href="https://geocat.net/" data-src="/photos/sponsors/geocat_logo_colour.svg"  height="200" >}}
-{{< a-img data-href="https://www.geosquare.nl/" data-src="/photos/sponsors/GSQ Logo.png"  height="200" >}}
+{{< a-img data-href="https://geocat.net/" data-src="/photos/sponsors/geocat_logo_colour.svg"  height="150" >}}
+{{< a-img data-href="https://www.geosquare.nl/" data-src="/photos/sponsors/GSQ Logo.png"  height="150" >}}
 
 ## Zilver sponsors
-{{< a-img data-href="https://www.tomtom.com/" data-src="/photos/sponsors/TomTom-logo-RGB_lockup.png" height="200" >}}
+{{< a-img data-href="https://www.tomtom.com/" data-src="/photos/sponsors/TomTom-logo-RGB_lockup.png" height="150" >}}
 
 ## Brons sponsor
 
