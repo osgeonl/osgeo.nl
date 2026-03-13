@@ -11,7 +11,7 @@
 {{- $bg := absLangURL (path.Join "images" $image) }}
 <div class="{{ if ne $p.singleColumn true }}grid-inverse {{ end }}wrap content">
   <article class="post_content">
-    {{- $t := .Title }}
+    {{- $t := .Title }} 
     <h1 class="post_title">{{ $t | markdownify }}</h1>
     {{- partial "post-meta" . }}
     {{- with .Params.featureImage -}}

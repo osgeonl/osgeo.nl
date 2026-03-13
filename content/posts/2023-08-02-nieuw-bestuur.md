@@ -12,10 +12,11 @@ categories:
   - Bestuur
 tags:
   - osgeonl
-
 ---
 
 Stichting OSGeo.nl heeft sinds juli 2023 een nieuw bestuur! Dit nieuwe bestuur kijkt onwijs uit om samen met jullie vol enthousiasme en plezier te zorgen dat we samen mensen nog meer bekend maken met het gebruik en de ontwikkeling van open source software voor geo-informatie.
+
+<!--more-->
 
 Als je benieuwd bent wat er allemaal besproken werd bij het debuut van dit nieuwe bestuur dan is de nota van deze laatste bestuursvergadering is te lezen op de wiki via: https://wiki.osgeo.org/wiki/Nederland/bijeenkomsten/bestuur-67
 
