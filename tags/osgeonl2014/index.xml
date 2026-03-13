@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>osgeonl2014 on OSGeo.nl - Wegwijs in Open Geo</title>
+    <title>Osgeonl2014 on OSGeo.nl - Wegwijs in Open Geo</title>
     <link>/tags/osgeonl2014/</link>
-    <description>Recent content in osgeonl2014 on OSGeo.nl - Wegwijs in Open Geo</description>
+    <description>Recent content in Osgeonl2014 on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Jan 2015 15:34:19 +0000</lastBuildDate><atom:link href="/tags/osgeonl2014/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +16,32 @@
       <description>
         
           
-            Op 25 november 2014 vond de derde OSGeo.nl Dag plaats. Dit keer als onderdeel van de GeoBuzz in de Brabanthallen in Den Bosch. Het organiserend team bestond uit Willy Bakker, Erik Meerburg en Paul van Genuchten. Zij stelden een uitdagend programma op met vooral aandacht voor het gebruik van Open Geo-ICT door eindgebruikers. Tussendoor waren er korte, 15 minuten durende “Feature Frenzies” waarin nieuwe ontwikkelingen van een product in korte tijd werd uitgelegd.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; osgeonl-dag-2014-800px-zaal &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2015/01/osgeonl-dag-2014-800px-zaal.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Op 25 november 2014 vond de derde OSGeo.nl Dag plaats. Dit keer als onderdeel van de &lt;a href=&#34;http://geobuzz.nl/&#34;&gt;GeoBuzz&lt;/a&gt; in de &lt;a href=&#34;http://www.brabanthallen.nl/&#34;&gt;Brabanthallen&lt;/a&gt; in Den Bosch. Het organiserend team bestond uit Willy Bakker, Erik Meerburg en Paul van Genuchten. Zij stelden een &lt;a href=&#34;http://io.osgeo.nl/sitecontent/osgeonl_dag/osgeonl_dag_2014.html&#34;&gt;uitdagend programma&lt;/a&gt; op met vooral aandacht voor het gebruik van Open Geo-ICT door eindgebruikers. Tussendoor waren er korte, 15 minuten durende “Feature Frenzies” waarin nieuwe ontwikkelingen van een product in korte tijd werd uitgelegd. Hieronder het programma.&lt;/p&gt;
           
           
         
@@ -32,9 +57,9 @@
       <description>
         
           
-            Na succesvolle edities in 2012 (Velp, ism Hogeschool Larenstein) en 2013 (Delft, ism de TU) gaan we met de OSGeo.nl dag 2014 wat nieuws proberen.
-De organisatie van het GeoBuzz congres heeft OSGeo.nl benaderd met het idee een OSGeo.nl event binnen de muren van het GeoBuzz congres (25 en 26 november, in ‘s Hertogenbosch) te organiseren.
-En dat gaan we doen, de gehele dag op 25 november 2014! Zo kunnen we een heel brede groep kennis laten maken met open source geo.
+            &lt;p&gt;Na succesvolle edities in &lt;a href=&#34;http://osgeo.nl/2012/06/160-bezoekers-op-osgeo-nl-dag-2012/&#34; title=&#34;160 Bezoekers op OSGeo.nl Dag 2012!&#34;&gt;2012&lt;/a&gt; (Velp, ism Hogeschool Larenstein) en &lt;a href=&#34;http://osgeo.nl/2013/11/osgeo-nl-dag-2013-een-succes/&#34; title=&#34;OSGeo.nl Dag 2013 – Een succes!&#34;&gt;2013&lt;/a&gt; (Delft, ism de TU) gaan we met de OSGeo.nl dag 2014 wat nieuws proberen.&lt;/p&gt;
+&lt;p&gt;De organisatie van het &lt;a href=&#34;#ZgotmplZ&#34; title=&#34;GeoBuzz congres&#34;&gt;GeoBuzz&lt;/a&gt; congres heeft OSGeo.nl benaderd met het idee een OSGeo.nl event binnen de muren van het GeoBuzz congres (25 en 26 november,  in ‘s Hertogenbosch) te organiseren.&lt;/p&gt;
+&lt;p&gt;En dat gaan we doen, de gehele dag op 25 november 2014! Zo kunnen we een heel brede groep kennis laten maken met open source geo.&lt;/p&gt;
           
           
         

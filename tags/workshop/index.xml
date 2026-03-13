@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>workshop on OSGeo.nl - Wegwijs in Open Geo</title>
+    <title>Workshop on OSGeo.nl - Wegwijs in Open Geo</title>
     <link>/tags/workshop/</link>
-    <description>Recent content in workshop on OSGeo.nl - Wegwijs in Open Geo</description>
+    <description>Recent content in Workshop on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Oct 2017 18:44:12 +0000</lastBuildDate><atom:link href="/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +16,7 @@
       <description>
         
           
-            On 3 November 2017 there will be a GRASS GIS crash course, organized by OSGeo.nl and the Faculty of Geo-Information Science and Earth Observation of ITC. The course will provide participants with an overview of the software capabilities and a hands-on experience in raster, vector and time series processing with the Open Source software GRASS GIS 7. For more information, go here. You can register on our Meetup page [update: maximum number of participants has been reached, registration closed].
+            &lt;p&gt;On 3 November 2017 there will be a GRASS GIS crash course, organized by OSGeo.nl and the Faculty of Geo-Information Science and Earth Observation of ITC.  The course will provide participants with an overview of the software capabilities and a hands-on experience in raster, vector and time series processing with the Open Source software GRASS GIS 7. For more information, go &lt;a href=&#34;https://osgeo.nl/grassgis-course/&#34;&gt;here&lt;/a&gt;. You can register on our Meetup page [update: maximum number of participants has been reached, registration closed].&lt;/p&gt;
           
           
         
@@ -32,9 +32,17 @@
       <description>
         
           
-            Voorbereiding voor de workshopdeelnemers Als je wilt deelnemen aan de workshop “Versiebeheer in geoland” (om 14.15u op de OSGeo.nl dag op 22 november) vragen we je de volgende punten even door te lezen:
-Neem bij voorkeur een eigen laptop mee.
-Het maakt niet uit af dat een Mac, Linux of Windows exemplaar is *) Zorg dat je admin rechten op die laptop hebt Installeer van tevoren VirtualBox of VMWare (zelf even downloaden) op deze laptop Download van tevoren de kant-en-klare “virtual machine” (VM) vanuit de OSgeo.
+            &lt;h2 id=&#34;voorbereiding-voor-de-workshopdeelnemers&#34;&gt;Voorbereiding voor de workshopdeelnemers&lt;/h2&gt;
+&lt;p&gt;Als je wilt deelnemen aan de &lt;a href=&#34;https://osgeo.nl/sprekers-en-samenvattingen-osgeo-nl-dag-2016/#workshop&#34;&gt;workshop “Versiebeheer in geoland”&lt;/a&gt; (om 14.15u op de OSGeo.nl dag op 22 november) vragen we je de volgende punten even door te lezen:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Neem bij voorkeur een eigen laptop mee.&lt;br&gt;
+Het maakt niet uit af dat een Mac, Linux of Windows exemplaar is *)&lt;/li&gt;
+&lt;li&gt;Zorg dat je admin rechten op die laptop hebt&lt;/li&gt;
+&lt;li&gt;Installeer &lt;strong&gt;van tevoren&lt;/strong&gt; &lt;a href=&#34;https://www.virtualbox.org/wiki/Downloads&#34;&gt;VirtualBox&lt;/a&gt; of VMWare (zelf even downloaden) op deze laptop&lt;/li&gt;
+&lt;li&gt;Download &lt;strong&gt;van tevoren&lt;/strong&gt; de &lt;a href=&#34;https://drive.google.com/file/d/0B5z2aUudJQxlWkhVWXBYLVFjdjg&#34;&gt;kant-en-klare “virtual machine”&lt;/a&gt; (VM) vanuit de OSgeo.nl Google Drive.&lt;br&gt;
+Die virtual machine kun je in VirtualBox  of VMWare openen.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Door dit van tevoren te regelen kunnen we om 14.15u gelijk met de inhoud beginnen. Bovendien voorkomt dit dat de workshopdeelnemers met het downloaden van 2,6 Gb de aanwezige WiFi bandbreedte geheel opsnoepen.&lt;/p&gt;
           
           
         
@@ -50,8 +58,33 @@ Het maakt niet uit af dat een Mac, Linux of Windows exemplaar is *) Zorg dat je 
       <description>
         
           
-            Op 9 oktober 2014 vond de OSGeo.nl PostGIS workshop plaats op het GeoFort (met dank aan GeoAcademie voor beschikbaar stellen deze locatie). Hoofddocent en PostGIS expert Wouter Boasson, gesecondeerd door PostgreSQL-expert Michel Sijmons verzorgden een inspirerende en vooral “hands-on” avond voor plm 20 enthousiaste deelnemers: van jonge WUR-studenten tot Kadaster-pensionado’s. Er stonden vier mensen op de wachtlijst. Hieronder foto tijdens de inloop.
-Na een inleiding en uitleg over PostGIS, waarbij Wouter duidelijk maakte dat PostGIS naast geo-data opslag vooral ook een systeem is voor ruimtelijke queries en analyse, was het de praktijk die middels een serie opklimmende opgaven ervaren kon worden op de eigen laptop.
+            &lt;p&gt;Op 9 oktober 2014 vond de OSGeo.nl PostGIS workshop plaats op het &lt;a href=&#34;http://www.geofort.nl&#34;&gt;GeoFort&lt;/a&gt; (met dank aan &lt;a href=&#34;http://geo-academie.nl/&#34;&gt;GeoAcademie&lt;/a&gt; voor beschikbaar stellen deze locatie). Hoofddocent en PostGIS expert &lt;a href=&#34;https://www.linkedin.com/pub/wouter-boasson/5/471/606&#34;&gt;Wouter Boasson&lt;/a&gt;, gesecondeerd  door PostgreSQL-expert &lt;a href=&#34;https://www.linkedin.com/in/michelsijmons&#34;&gt;Michel Sijmons&lt;/a&gt; verzorgden een inspirerende en vooral “hands-on” avond voor plm 20 enthousiaste deelnemers: van jonge WUR-studenten tot Kadaster-pensionado’s. Er stonden vier mensen op de wachtlijst. Hieronder foto tijdens de inloop.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2014/10/postgis-ws-inloop1.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Na een inleiding en uitleg over PostGIS, waarbij Wouter duidelijk maakte dat PostGIS naast geo-data opslag vooral ook een systeem is voor ruimtelijke queries en analyse, was het de praktijk die middels een serie opklimmende opgaven ervaren kon worden op de eigen laptop. Er was een PostGIS instantie van OSGeo.nl “in the Cloud” beschikbaar voor degenen die geen PostGIS op hun systeem hadden.&lt;/p&gt;
           
           
         

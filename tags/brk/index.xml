@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>brk on OSGeo.nl - Wegwijs in Open Geo</title>
+    <title>Brk on OSGeo.nl - Wegwijs in Open Geo</title>
     <link>/tags/brk/</link>
-    <description>Recent content in brk on OSGeo.nl - Wegwijs in Open Geo</description>
+    <description>Recent content in Brk on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Apr 2018 09:47:39 +0000</lastBuildDate><atom:link href="/tags/brk/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +16,7 @@
       <description>
         
           
-            Afgelopen donderdag (26 april) was de eerste NLExtract Hacking Day, ruim zes jaar nadat de huidige Github repo is aangemaakt en bijna zeven jaar nadat BAGExtract+ door Matthijs van der Deijl online is gezet. De opkomst was zeer goed te noemen, met 14 man en één dame, waaronder de voltallige bezetting van zowel Webmapper als Geogap. Een gevarieerd gezelschap, maar met de nadruk op ontwikkelaars. We werden gastvrij ontvangen door Webmapper bij de Social Impact Factory in Utrecht.
+            &lt;p&gt;Afgelopen donderdag (26 april) was de eerste &lt;a href=&#34;http://www.nlextract.nl/&#34;&gt;NLExtract&lt;/a&gt; Hacking Day, ruim zes jaar nadat de huidige &lt;a href=&#34;https://github.com/nlextract/NLExtract&#34;&gt;Github repo&lt;/a&gt; is aangemaakt en bijna zeven jaar nadat BAGExtract+ door Matthijs van der Deijl online is gezet. De opkomst was zeer goed te noemen, met 14 man en één dame, waaronder de voltallige bezetting van zowel Webmapper als Geogap. Een gevarieerd gezelschap, maar met de nadruk op ontwikkelaars. We werden gastvrij ontvangen door &lt;a href=&#34;http://www.webmapper.net/&#34;&gt;Webmapper&lt;/a&gt; bij de &lt;a href=&#34;https://sifutrecht.nl/&#34;&gt;Social Impact Factory&lt;/a&gt; in Utrecht. De lunch en borrel werden gefinancierd uit het bedrag dat NLExtract won bij de OGT-Award in 2016.&lt;/p&gt;
           
           
         

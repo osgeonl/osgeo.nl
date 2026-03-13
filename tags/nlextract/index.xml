@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>nlextract on OSGeo.nl - Wegwijs in Open Geo</title>
+    <title>Nlextract on OSGeo.nl - Wegwijs in Open Geo</title>
     <link>/tags/nlextract/</link>
-    <description>Recent content in nlextract on OSGeo.nl - Wegwijs in Open Geo</description>
+    <description>Recent content in Nlextract on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Apr 2018 09:47:39 +0000</lastBuildDate><atom:link href="/tags/nlextract/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +16,7 @@
       <description>
         
           
-            Afgelopen donderdag (26 april) was de eerste NLExtract Hacking Day, ruim zes jaar nadat de huidige Github repo is aangemaakt en bijna zeven jaar nadat BAGExtract+ door Matthijs van der Deijl online is gezet. De opkomst was zeer goed te noemen, met 14 man en één dame, waaronder de voltallige bezetting van zowel Webmapper als Geogap. Een gevarieerd gezelschap, maar met de nadruk op ontwikkelaars. We werden gastvrij ontvangen door Webmapper bij de Social Impact Factory in Utrecht.
+            &lt;p&gt;Afgelopen donderdag (26 april) was de eerste &lt;a href=&#34;http://www.nlextract.nl/&#34;&gt;NLExtract&lt;/a&gt; Hacking Day, ruim zes jaar nadat de huidige &lt;a href=&#34;https://github.com/nlextract/NLExtract&#34;&gt;Github repo&lt;/a&gt; is aangemaakt en bijna zeven jaar nadat BAGExtract+ door Matthijs van der Deijl online is gezet. De opkomst was zeer goed te noemen, met 14 man en één dame, waaronder de voltallige bezetting van zowel Webmapper als Geogap. Een gevarieerd gezelschap, maar met de nadruk op ontwikkelaars. We werden gastvrij ontvangen door &lt;a href=&#34;http://www.webmapper.net/&#34;&gt;Webmapper&lt;/a&gt; bij de &lt;a href=&#34;https://sifutrecht.nl/&#34;&gt;Social Impact Factory&lt;/a&gt; in Utrecht. De lunch en borrel werden gefinancierd uit het bedrag dat NLExtract won bij de OGT-Award in 2016.&lt;/p&gt;
           
           
         
@@ -32,8 +32,33 @@
       <description>
         
           
-            Op zondag 14 januari 2018 werd de traditionele OSGeo.nl en OpenStreetMap NL nieuwjaarsborrel, in de inmiddels geheel gerenoveerde bovenzaal van Cafe Dudok in Hilversum, weer goed bezocht. Een van de weinige events waar deze twee communities tezamen komen (dat moeten we vaker doen!).
-Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakken zijn: niet alleen op gebied van de open data rond De Basis Registraties (BAG, BGT, BRK, Top10NL etc) en projecten die zich daar mee bezig houden zoals NLExtract, maar ook op het gebied van bijvoorbeeld Missing Maps en QGIS.
+            &lt;p&gt;Op zondag 14 januari 2018 werd de traditionele &lt;a href=&#34;https://www.meetup.com/OSGeoNL/events/245501440/&#34;&gt;OSGeo.nl en OpenStreetMap NL nieuwjaarsborrel&lt;/a&gt;, in de inmiddels geheel gerenoveerde bovenzaal van &lt;a href=&#34;http://www.cafedudok.com/&#34;&gt;Cafe Dudok in Hilversum&lt;/a&gt;, weer goed bezocht. Een van de weinige events waar deze twee communities tezamen komen (dat moeten we vaker doen!).&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2018/02/njborrel18-0.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakken zijn: niet alleen op gebied van de open data rond De Basis Registraties (BAG, BGT, BRK, Top10NL etc) en projecten die zich daar mee bezig houden zoals &lt;a href=&#34;http://www.nlextract.nl/&#34;&gt;NLExtract&lt;/a&gt;, maar ook op het gebied van bijvoorbeeld &lt;a href=&#34;http://www.missingmaps.org/&#34;&gt;Missing Maps&lt;/a&gt; en &lt;a href=&#34;https://qgis.org/&#34;&gt;QGIS&lt;/a&gt;. Dit smaakt ook naar meer events in 2018 om gezamenlijk Open Source en Open Data voor geo-informatie in Nederland te versterken.&lt;/p&gt;
           
           
         
@@ -49,10 +74,12 @@ Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakke
       <description>
         
           
-            OSGeo.nl dag als onderdeel van de GeoBuzz: open source voor iedereen! De OSGeo.nl dag is dit net als vorig jaar onderdeel van de GeoBuzz en vindt plaats op woensdag 25 november in congrescentrum “1931” in Den Bosch.
-Het programma biedt voor zowel toekomstige als bestaande gebruikers van opensource-GIS interessante presentaties en workshops.
-Het thema is: open source – voor iedereen!
-Dat gaat naar Den Bosch toe Congrescentrum “1931” is met de auto prima bereikbaar.
+            &lt;h2 id=&#34;osgeonl-dag-als-onderdeel-van-de-geobuzz-open-source-voor-iedereen&#34;&gt;OSGeo.nl dag als onderdeel van de GeoBuzz: &lt;em&gt;open source voor iedereen!&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;De OSGeo.nl dag is dit net als vorig jaar onderdeel van de &lt;a href=&#34;/2015/10/25-november-osgeo-nl-dag-2015/#programma&#34;&gt;GeoBuzz&lt;/a&gt; en vindt plaats op woensdag 25 november in congrescentrum “1931” in Den Bosch.&lt;br&gt;
+Het &lt;a href=&#34;/2015/10/25-november-osgeo-nl-dag-2015/#programma&#34;&gt;programma&lt;/a&gt; biedt voor zowel  toekomstige als bestaande gebruikers van opensource-GIS interessante presentaties en workshops.&lt;br&gt;
+Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;dat-gaat-naar-den-bosch-toe&#34;&gt;Dat gaat naar Den Bosch toe&lt;/h2&gt;
+&lt;p&gt;Congrescentrum &lt;a href=&#34;http://www.1931.nl/&#34;&gt;“1931”&lt;/a&gt; is met de auto prima bereikbaar. Op pakweg 5 minuten van de snelweg A59, met een zee aan parkeerruimte direct voor de deur. Met het OV reis je naar station ‘s-Hertogenbosch en wandel je in 10 minuten naar “1931”. Waarschijnlijk laat de GeoBuzz organisatie net als vorig jaar een pendelbus rijden. Opstappen bij de uitgang Paleiskwartier/Brabanthallen. Carpoolen kan natuurlijk ook, daarvoor doe je het beste een oproep op de &lt;a href=&#34;http://www.meetup.com/OSGeoNL/events/225281140/&#34;&gt;osgeo.nl -meetup-site&lt;/a&gt;.&lt;/p&gt;
           
           
         
@@ -68,7 +95,32 @@ Dat gaat naar Den Bosch toe Congrescentrum “1931” is met de auto prima berei
       <description>
         
           
-            Op 25 november 2014 vond de derde OSGeo.nl Dag plaats. Dit keer als onderdeel van de GeoBuzz in de Brabanthallen in Den Bosch. Het organiserend team bestond uit Willy Bakker, Erik Meerburg en Paul van Genuchten. Zij stelden een uitdagend programma op met vooral aandacht voor het gebruik van Open Geo-ICT door eindgebruikers. Tussendoor waren er korte, 15 minuten durende “Feature Frenzies” waarin nieuwe ontwikkelingen van een product in korte tijd werd uitgelegd.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; osgeonl-dag-2014-800px-zaal &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2015/01/osgeonl-dag-2014-800px-zaal.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Op 25 november 2014 vond de derde OSGeo.nl Dag plaats. Dit keer als onderdeel van de &lt;a href=&#34;http://geobuzz.nl/&#34;&gt;GeoBuzz&lt;/a&gt; in de &lt;a href=&#34;http://www.brabanthallen.nl/&#34;&gt;Brabanthallen&lt;/a&gt; in Den Bosch. Het organiserend team bestond uit Willy Bakker, Erik Meerburg en Paul van Genuchten. Zij stelden een &lt;a href=&#34;http://io.osgeo.nl/sitecontent/osgeonl_dag/osgeonl_dag_2014.html&#34;&gt;uitdagend programma&lt;/a&gt; op met vooral aandacht voor het gebruik van Open Geo-ICT door eindgebruikers. Tussendoor waren er korte, 15 minuten durende “Feature Frenzies” waarin nieuwe ontwikkelingen van een product in korte tijd werd uitgelegd. Hieronder het programma.&lt;/p&gt;
           
           
         

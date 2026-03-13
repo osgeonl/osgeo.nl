@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>git on OSGeo.nl - Wegwijs in Open Geo</title>
+    <title>Git on OSGeo.nl - Wegwijs in Open Geo</title>
     <link>/tags/git/</link>
-    <description>Recent content in git on OSGeo.nl - Wegwijs in Open Geo</description>
+    <description>Recent content in Git on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Nov 2016 17:55:44 +0000</lastBuildDate><atom:link href="/tags/git/index.xml" rel="self" type="application/rss+xml" />
@@ -16,9 +16,17 @@
       <description>
         
           
-            Voorbereiding voor de workshopdeelnemers Als je wilt deelnemen aan de workshop “Versiebeheer in geoland” (om 14.15u op de OSGeo.nl dag op 22 november) vragen we je de volgende punten even door te lezen:
-Neem bij voorkeur een eigen laptop mee.
-Het maakt niet uit af dat een Mac, Linux of Windows exemplaar is *) Zorg dat je admin rechten op die laptop hebt Installeer van tevoren VirtualBox of VMWare (zelf even downloaden) op deze laptop Download van tevoren de kant-en-klare “virtual machine” (VM) vanuit de OSgeo.
+            &lt;h2 id=&#34;voorbereiding-voor-de-workshopdeelnemers&#34;&gt;Voorbereiding voor de workshopdeelnemers&lt;/h2&gt;
+&lt;p&gt;Als je wilt deelnemen aan de &lt;a href=&#34;https://osgeo.nl/sprekers-en-samenvattingen-osgeo-nl-dag-2016/#workshop&#34;&gt;workshop “Versiebeheer in geoland”&lt;/a&gt; (om 14.15u op de OSGeo.nl dag op 22 november) vragen we je de volgende punten even door te lezen:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Neem bij voorkeur een eigen laptop mee.&lt;br&gt;
+Het maakt niet uit af dat een Mac, Linux of Windows exemplaar is *)&lt;/li&gt;
+&lt;li&gt;Zorg dat je admin rechten op die laptop hebt&lt;/li&gt;
+&lt;li&gt;Installeer &lt;strong&gt;van tevoren&lt;/strong&gt; &lt;a href=&#34;https://www.virtualbox.org/wiki/Downloads&#34;&gt;VirtualBox&lt;/a&gt; of VMWare (zelf even downloaden) op deze laptop&lt;/li&gt;
+&lt;li&gt;Download &lt;strong&gt;van tevoren&lt;/strong&gt; de &lt;a href=&#34;https://drive.google.com/file/d/0B5z2aUudJQxlWkhVWXBYLVFjdjg&#34;&gt;kant-en-klare “virtual machine”&lt;/a&gt; (VM) vanuit de OSgeo.nl Google Drive.&lt;br&gt;
+Die virtual machine kun je in VirtualBox  of VMWare openen.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Door dit van tevoren te regelen kunnen we om 14.15u gelijk met de inhoud beginnen. Bovendien voorkomt dit dat de workshopdeelnemers met het downloaden van 2,6 Gb de aanwezige WiFi bandbreedte geheel opsnoepen.&lt;/p&gt;
           
           
         

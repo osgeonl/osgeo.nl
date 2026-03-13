@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>opentopo on OSGeo.nl - Wegwijs in Open Geo</title>
+    <title>Opentopo on OSGeo.nl - Wegwijs in Open Geo</title>
     <link>/tags/opentopo/</link>
-    <description>Recent content in opentopo on OSGeo.nl - Wegwijs in Open Geo</description>
+    <description>Recent content in Opentopo on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Jan 2015 15:33:10 +0000</lastBuildDate><atom:link href="/tags/opentopo/index.xml" rel="self" type="application/rss+xml" />
@@ -16,9 +16,36 @@
       <description>
         
           
-            Op de vierde opeenvolgende gezamenlijke nieuwjaarsborrel van OSGeo.nl en OpenStreetMap NL in cafe Dudok te Hilversum waren weer een aantal interessante presentaties. Hieronder ook de links naar de PDF-slides en een zeer fraaie 3D video.
-Jan-Willem van Aalst presenteerde OpenTopo op 1600px/km – Voortgang en Issues. Wat kom je allemaal tegen als je BAG/OSM en Top10NL combineert in toenemend detail.
-Richard Duivenvoorde introduceerde Mozilla Location Services – Crowdsourcing Location Wifi/GSM Location Data: een mooie open source/open data tegenhanger van de Google Location Service.
+            &lt;p&gt;Op de vierde opeenvolgende gezamenlijke nieuwjaarsborrel van OSGeo.nl en OpenStreetMap NL in cafe Dudok te Hilversum waren weer een aantal interessante presentaties. Hieronder ook de links naar de PDF-slides en een zeer fraaie &lt;a href=&#34;https://www.youtube.com/watch?v=u7wNP1fi0IY&#34;&gt;3D video&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&#34;float_left&#34;&gt;
+  &lt;a href=&#34;http://osgeonl.github.io/sitecontent/events/nieuwjaarsborrel2015/presentaties/OpenTopo_1600px_issues_JW_van_Aalst.pdf&#34;&gt;
+    &lt;img class=&#34;lazy&#34;
+      src=&#34;/photos/2015/01/jw-slide.png&#34;
+      alt=&#34; &#34; /&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Jan-Willem van Aalst&lt;/strong&gt;&lt;/em&gt; presenteerde &lt;a href=&#34;http://osgeonl.github.io/sitecontent/events/nieuwjaarsborrel2015/presentaties/OpenTopo_1600px_issues_JW_van_Aalst.pdf&#34;&gt;OpenTopo op 1600px/km – Voortgang en Issues&lt;/a&gt;. Wat kom je allemaal tegen als je BAG/OSM en Top10NL combineert in toenemend detail.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr&gt;
+
+&lt;div class=&#34;float_right&#34;&gt;
+  &lt;a href=&#34;http://osgeonl.github.io/sitecontent/events/nieuwjaarsborrel2015/presentaties/MozillaLocationService_Richard_Duivenvoorde_Zuidt.pdf&#34;&gt;
+    &lt;img class=&#34;lazy&#34;
+      src=&#34;/photos/2015/01/rd.png&#34;
+      alt=&#34; &#34; /&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Richard Duivenvoorde&lt;/strong&gt;&lt;/em&gt; introduceerde &lt;a href=&#34;http://osgeonl.github.io/sitecontent/events/nieuwjaarsborrel2015/presentaties/MozillaLocationService_Richard_Duivenvoorde_Zuidt.pdf&#34;&gt;Mozilla Location Services – Crowdsourcing Location Wifi/GSM Location Data&lt;/a&gt;: een mooie open source/open data tegenhanger van de Google Location Service. Zie ook Richard’s &lt;a href=&#34;http://zuidt.nl/blog/html/2014/07/04/tinkering_with_mozilla_location_services.html&#34;&gt;verhelderende blog over MLS&lt;/a&gt;.&lt;/p&gt;
           
           
         
@@ -34,8 +61,8 @@ Richard Duivenvoorde introduceerde Mozilla Location Services – Crowdsourcing 
       <description>
         
           
-            In het voorjaar van 2104 organiseerde OSGeo.nl samen met Jan-Willem van Aalst (Imergis) een tweetal OpenTopo workshops. Hierin presenteerde Jan-Willem hoe hij met behulp van open geodata (BAG, Top10nl, NWB, OpenStreetMap) en open source doftware (NLExtract, QGis, PostGIS) zijn op de OOV sector gerichte variatie op de klassieke Top25 kaart van het Kadaster maakt.
-Drie delen van die workshop (genummerd, 4-5-6) staan vanaf nu ondertiteld en wel online op het OSGeo.
+            &lt;p&gt;In het voorjaar van 2104 organiseerde OSGeo.nl samen met Jan-Willem van Aalst (Imergis) een tweetal OpenTopo workshops.  Hierin presenteerde Jan-Willem hoe hij met behulp van open geodata (BAG, Top10nl, NWB, OpenStreetMap) en open source doftware (NLExtract, QGis, PostGIS) zijn op de OOV sector gerichte variatie op de klassieke Top25 kaart van het Kadaster maakt.&lt;/p&gt;
+&lt;p&gt;Drie delen van die workshop (genummerd, 4-5-6) staan vanaf nu ondertiteld en wel online op het &lt;a href=&#34;https://www.youtube.com/channel/UCK1e8j68uZZOw1Wpzc8qubA/videos&#34;&gt;OSGeo.nl YouTube kanaal&lt;/a&gt;&lt;/p&gt;
           
           
         

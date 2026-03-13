@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>osgeo on OSGeo.nl - Wegwijs in Open Geo</title>
+    <title>Osgeo on OSGeo.nl - Wegwijs in Open Geo</title>
     <link>/categories/osgeo/</link>
-    <description>Recent content in osgeo on OSGeo.nl - Wegwijs in Open Geo</description>
+    <description>Recent content in Osgeo on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Aug 2023 19:47:39 +0000</lastBuildDate><atom:link href="/categories/osgeo/index.xml" rel="self" type="application/rss+xml" />
@@ -16,8 +16,7 @@
       <description>
         
           
-            Stichting OSGeo.nl heeft sinds juli 2023 een nieuw bestuur! Dit nieuwe bestuur kijkt onwijs uit om samen met jullie vol enthousiasme en plezier te zorgen dat we samen mensen nog meer bekend maken met het gebruik en de ontwikkeling van open source software voor geo-informatie.
-Als je benieuwd bent wat er allemaal besproken werd bij het debuut van dit nieuwe bestuur dan is de nota van deze laatste bestuursvergadering is te lezen op de wiki via: https://wiki.
+            &lt;p&gt;Stichting OSGeo.nl heeft sinds juli 2023 een nieuw bestuur! Dit nieuwe bestuur kijkt onwijs uit om samen met jullie vol enthousiasme en plezier te zorgen dat we samen mensen nog meer bekend maken met het gebruik en de ontwikkeling van open source software voor geo-informatie.&lt;/p&gt;
           
           
         
@@ -33,7 +32,13 @@ Als je benieuwd bent wat er allemaal besproken werd bij het debuut van dit nieuw
       <description>
         
           
-            Op wo 3 augustus 2022, bij 30 graden, brachten we onze nieuwe website osgeo.nl online. Om kosten en gemak van onderhoud te faciliteren is de oude website gemigreerd van Wordpress naar Hugo. Met dank aan Ron Wardenier voor het jarenlang onderhouden van onze website en &amp;lsquo;Peter Govind&amp;rsquo; uit Maleisië (via freelancer.com) voor het opschonen van de WP export. Maar Ron is nog niet weg, we zijn allemaal &amp;lsquo;into Hugo&amp;rsquo;. Zie ook bijv tv.
+            &lt;p&gt;Op wo 3 augustus 2022, bij 30 graden, brachten we onze nieuwe website &lt;a href=&#34;https://osgeo.nl&#34;&gt;osgeo.nl&lt;/a&gt;
+online. Om kosten en gemak van onderhoud te faciliteren is de oude website
+gemigreerd van Wordpress naar &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.
+Met dank aan Ron Wardenier voor het jarenlang onderhouden van onze website en &amp;lsquo;Peter Govind&amp;rsquo;
+uit Maleisië (via freelancer.com) voor het opschonen van de WP export.
+Maar Ron is nog niet weg, we zijn allemaal &amp;lsquo;into Hugo&amp;rsquo;. Zie ook
+bijv &lt;a href=&#34;https://tv.osgeo.nl&#34;&gt;tv.osgeo.nl&lt;/a&gt;, ook al een Hugo site.&lt;/p&gt;
           
           
         
@@ -49,7 +54,7 @@ Als je benieuwd bent wat er allemaal besproken werd bij het debuut van dit nieuw
       <description>
         
           
-            Afgelopen donderdag (26 april) was de eerste NLExtract Hacking Day, ruim zes jaar nadat de huidige Github repo is aangemaakt en bijna zeven jaar nadat BAGExtract+ door Matthijs van der Deijl online is gezet. De opkomst was zeer goed te noemen, met 14 man en één dame, waaronder de voltallige bezetting van zowel Webmapper als Geogap. Een gevarieerd gezelschap, maar met de nadruk op ontwikkelaars. We werden gastvrij ontvangen door Webmapper bij de Social Impact Factory in Utrecht.
+            &lt;p&gt;Afgelopen donderdag (26 april) was de eerste &lt;a href=&#34;http://www.nlextract.nl/&#34;&gt;NLExtract&lt;/a&gt; Hacking Day, ruim zes jaar nadat de huidige &lt;a href=&#34;https://github.com/nlextract/NLExtract&#34;&gt;Github repo&lt;/a&gt; is aangemaakt en bijna zeven jaar nadat BAGExtract+ door Matthijs van der Deijl online is gezet. De opkomst was zeer goed te noemen, met 14 man en één dame, waaronder de voltallige bezetting van zowel Webmapper als Geogap. Een gevarieerd gezelschap, maar met de nadruk op ontwikkelaars. We werden gastvrij ontvangen door &lt;a href=&#34;http://www.webmapper.net/&#34;&gt;Webmapper&lt;/a&gt; bij de &lt;a href=&#34;https://sifutrecht.nl/&#34;&gt;Social Impact Factory&lt;/a&gt; in Utrecht. De lunch en borrel werden gefinancierd uit het bedrag dat NLExtract won bij de OGT-Award in 2016.&lt;/p&gt;
           
           
         
@@ -65,8 +70,33 @@ Als je benieuwd bent wat er allemaal besproken werd bij het debuut van dit nieuw
       <description>
         
           
-            Op zondag 14 januari 2018 werd de traditionele OSGeo.nl en OpenStreetMap NL nieuwjaarsborrel, in de inmiddels geheel gerenoveerde bovenzaal van Cafe Dudok in Hilversum, weer goed bezocht. Een van de weinige events waar deze twee communities tezamen komen (dat moeten we vaker doen!).
-Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakken zijn: niet alleen op gebied van de open data rond De Basis Registraties (BAG, BGT, BRK, Top10NL etc) en projecten die zich daar mee bezig houden zoals NLExtract, maar ook op het gebied van bijvoorbeeld Missing Maps en QGIS.
+            &lt;p&gt;Op zondag 14 januari 2018 werd de traditionele &lt;a href=&#34;https://www.meetup.com/OSGeoNL/events/245501440/&#34;&gt;OSGeo.nl en OpenStreetMap NL nieuwjaarsborrel&lt;/a&gt;, in de inmiddels geheel gerenoveerde bovenzaal van &lt;a href=&#34;http://www.cafedudok.com/&#34;&gt;Cafe Dudok in Hilversum&lt;/a&gt;, weer goed bezocht. Een van de weinige events waar deze twee communities tezamen komen (dat moeten we vaker doen!).&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2018/02/njborrel18-0.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakken zijn: niet alleen op gebied van de open data rond De Basis Registraties (BAG, BGT, BRK, Top10NL etc) en projecten die zich daar mee bezig houden zoals &lt;a href=&#34;http://www.nlextract.nl/&#34;&gt;NLExtract&lt;/a&gt;, maar ook op het gebied van bijvoorbeeld &lt;a href=&#34;http://www.missingmaps.org/&#34;&gt;Missing Maps&lt;/a&gt; en &lt;a href=&#34;https://qgis.org/&#34;&gt;QGIS&lt;/a&gt;. Dit smaakt ook naar meer events in 2018 om gezamenlijk Open Source en Open Data voor geo-informatie in Nederland te versterken.&lt;/p&gt;
           
           
         
@@ -82,10 +112,85 @@ Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakke
       <description>
         
           
-            De zesde OSGeo.nl Dag 2017 vond plaats op 22 November 2017 op de GeoBuzz in Den Bosch. Onder het motto &amp;ldquo;Samenwerking Versnelt&amp;rdquo; haakten wij in bij het GeoBuzz-thema: &amp;ldquo;Geo Versnelt&amp;rdquo;
-Hieronder een kort verslag, voor de TLDR; lezer: hier staan alle presentaties.
-Eng.: this is a report with slides (in Dutch) of the yearly “OSGeo.nl Day” organized by OSGeo.nl
-Dank aan allen die hieraan meegewerkt hebben, in bijzonder Winifred Broeder (programma, logo’s, promotie materiaal, foto’s) , Ynte de Wolf (programma), Steven Ottens (techniek) en uiteraard alle sprekers die zich merkbaar degelijk hadden voorbereid!
+            &lt;p&gt;De zesde OSGeo.nl Dag 2017 vond plaats op &lt;strong&gt;22 November 2017 op de GeoBuzz in Den Bosch&lt;/strong&gt;. Onder het motto &lt;strong&gt;&amp;ldquo;Samenwerking Versnelt&amp;rdquo;&lt;/strong&gt; haakten wij in bij het GeoBuzz-thema: &lt;strong&gt;&amp;ldquo;Geo Versnelt&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hieronder een kort verslag, voor de TLDR; lezer: &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/osgeonl_dag/presentaties/2017&#34;&gt;hier staan alle presentaties&lt;/a&gt;.&lt;br&gt;
+Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/osgeonl_dag/presentaties/2017&#34;&gt;with slides&lt;/a&gt; (in Dutch) of the yearly “OSGeo.nl Day” organized by &lt;a href=&#34;https://osgeo.nl&#34;&gt;OSGeo.nl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2017/12/IMG_2017.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2017/12/IMG_2029.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2017/12/IMG_2022.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Dank aan allen die hieraan meegewerkt hebben, in bijzonder Winifred Broeder (programma, logo’s, promotie materiaal, foto’s) , Ynte de Wolf (programma), Steven Ottens (techniek) en uiteraard alle sprekers die zich merkbaar degelijk hadden voorbereid!&lt;/p&gt;
           
           
         
@@ -101,7 +206,7 @@ Dank aan allen die hieraan meegewerkt hebben, in bijzonder Winifred Broeder (pro
       <description>
         
           
-            On 3 November 2017 there will be a GRASS GIS crash course, organized by OSGeo.nl and the Faculty of Geo-Information Science and Earth Observation of ITC. The course will provide participants with an overview of the software capabilities and a hands-on experience in raster, vector and time series processing with the Open Source software GRASS GIS 7. For more information, go here. You can register on our Meetup page [update: maximum number of participants has been reached, registration closed].
+            &lt;p&gt;On 3 November 2017 there will be a GRASS GIS crash course, organized by OSGeo.nl and the Faculty of Geo-Information Science and Earth Observation of ITC.  The course will provide participants with an overview of the software capabilities and a hands-on experience in raster, vector and time series processing with the Open Source software GRASS GIS 7. For more information, go &lt;a href=&#34;https://osgeo.nl/grassgis-course/&#34;&gt;here&lt;/a&gt;. You can register on our Meetup page [update: maximum number of participants has been reached, registration closed].&lt;/p&gt;
           
           
         
@@ -117,8 +222,8 @@ Dank aan allen die hieraan meegewerkt hebben, in bijzonder Winifred Broeder (pro
       <description>
         
           
-            Het is inmiddels traditie dat de jaarlijkse OSGeo.nl Dag op GeoBuzz plaatsvindt. De afgelopen jaren was ons programma altijd het drukst bezochte en best gewaardeerde onderdeel. Ook dit jaar wordt het natuurlijk weer geweldig! Zet dus 22 November 2017 in je agenda! Onder het motto “Samenwerking Versnelt” haken wij in bij het GeoBuzz-thema: “Geo Versnelt”.
-Wat gaan we doen? Het programma is nog in voorbereiding, maar de rode draad zal “Samenwerking” zijn.
+            &lt;p&gt;Het is inmiddels traditie dat de jaarlijkse OSGeo.nl Dag op GeoBuzz plaatsvindt. De afgelopen jaren was ons programma altijd het drukst bezochte en best gewaardeerde onderdeel. Ook dit jaar wordt het natuurlijk weer geweldig! Zet dus 22 November 2017 in je agenda! Onder het motto “Samenwerking Versnelt” haken wij in bij het GeoBuzz-thema: “Geo Versnelt”.&lt;/p&gt;
+&lt;p&gt;Wat gaan we doen? Het programma is nog in voorbereiding, maar de rode draad zal “Samenwerking” zijn. In grote lijnen kun je het volgende verwachten:&lt;/p&gt;
           
           
         
@@ -134,8 +239,8 @@ Wat gaan we doen? Het programma is nog in voorbereiding, maar de rode draad zal 
       <description>
         
           
-            Het OSGeo.org Marketing Committee, voorgezeten door onze eigen Marc Vloemans, is afgelopen maanden druk bezig geweest met een algemene OSGeo.org “Rebranding”. Dit gaat verder dan veranderen van logo: het gaat om een complete vernieuwing van huisstijl, website en en veel meer. Het Nederlandse bedrijf Get Interactive heeft daarbij een groot deel van de uitvoering gedaan. Een en ander is al te zien op de OSGeo.org website.
-Als OSGeo.org Lokale Afdeling (Chapter) willen we als OSGeo.
+            &lt;p&gt;Het OSGeo.org Marketing Committee,  voorgezeten door onze eigen Marc Vloemans, is afgelopen maanden druk bezig geweest met een algemene OSGeo.org “Rebranding”. Dit gaat verder dan veranderen van logo: het gaat om een complete vernieuwing van huisstijl, website en en veel meer. Het Nederlandse bedrijf &lt;a href=&#34;https://www.getinteractive.nl/&#34;&gt;Get Interactive&lt;/a&gt; heeft daarbij een groot deel van de uitvoering gedaan. Een en ander is al te zien op de OSGeo.org website.&lt;/p&gt;
+&lt;p&gt;Als OSGeo.org Lokale Afdeling (Chapter) willen we als OSGeo.nl natuurlijk graag volgen. Gelukkig heeft OSGeo.org zgn “SubBranding” gemakkelijk gemaakt door de &lt;a href=&#34;https://github.com/OSGeo/osgeo/tree/master/marketing/branding&#34;&gt;design-bestanden te delen via GitHub&lt;/a&gt; en een &lt;a href=&#34;https://github.com/OSGeo/osgeo/blob/master/marketing/branding/styleguide-osgeo.pdf&#34;&gt;stijlgids&lt;/a&gt; te leveren. Daardoor kon &lt;a href=&#34;http://landkaartje.nl/&#34;&gt;Winifred Broeder&lt;/a&gt; snel een toepasselijk nieuw logo voor OSGeo.nl maken, waarvoor dank! Zie hieronder en natuurlijk op onze website:&lt;/p&gt;
           
           
         
@@ -151,8 +256,9 @@ Als OSGeo.org Lokale Afdeling (Chapter) willen we als OSGeo.
       <description>
         
           
-            Tijd om terug te treden Zoals bij velen wellicht al bekend verlaten Marc Vloemans en Gert-Jan van der Weijden per 1 juli het OSGeo.nl bestuur. Marc heeft 1 termijn de PR-trom geroerd, Gert-Jan is dan 2 termijnen voorzitter geweest. Dat biedt ruimte voor vers bloed (ideeën, inzichten en werkwijzen) en het leidt tot wat verschuivingen in het stichtingsbestuur!
-Om met dat eerste te beginnen: we zijn blij dat Paulo van Breugel zich als bestuurslid heeft aangemeld.
+            &lt;h2 id=&#34;tijd-om-terug-te-treden&#34;&gt;Tijd om terug te treden&lt;/h2&gt;
+&lt;p&gt;Zoals bij velen wellicht al bekend verlaten Marc Vloemans en Gert-Jan van der Weijden per 1 juli het OSGeo.nl bestuur. Marc heeft 1 termijn de PR-trom geroerd, Gert-Jan is dan 2 termijnen voorzitter geweest. Dat biedt ruimte voor vers bloed (ideeën, inzichten en werkwijzen) en het leidt tot wat verschuivingen in het stichtingsbestuur!&lt;/p&gt;
+&lt;p&gt;Om met dat eerste te beginnen: we zijn blij dat Paulo van Breugel zich als bestuurslid heeft aangemeld.&lt;/p&gt;
           
           
         
@@ -168,9 +274,17 @@ Om met dat eerste te beginnen: we zijn blij dat Paulo van Breugel zich als bestu
       <description>
         
           
-            Voorbereiding voor de workshopdeelnemers Als je wilt deelnemen aan de workshop “Versiebeheer in geoland” (om 14.15u op de OSGeo.nl dag op 22 november) vragen we je de volgende punten even door te lezen:
-Neem bij voorkeur een eigen laptop mee.
-Het maakt niet uit af dat een Mac, Linux of Windows exemplaar is *) Zorg dat je admin rechten op die laptop hebt Installeer van tevoren VirtualBox of VMWare (zelf even downloaden) op deze laptop Download van tevoren de kant-en-klare “virtual machine” (VM) vanuit de OSgeo.
+            &lt;h2 id=&#34;voorbereiding-voor-de-workshopdeelnemers&#34;&gt;Voorbereiding voor de workshopdeelnemers&lt;/h2&gt;
+&lt;p&gt;Als je wilt deelnemen aan de &lt;a href=&#34;https://osgeo.nl/sprekers-en-samenvattingen-osgeo-nl-dag-2016/#workshop&#34;&gt;workshop “Versiebeheer in geoland”&lt;/a&gt; (om 14.15u op de OSGeo.nl dag op 22 november) vragen we je de volgende punten even door te lezen:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Neem bij voorkeur een eigen laptop mee.&lt;br&gt;
+Het maakt niet uit af dat een Mac, Linux of Windows exemplaar is *)&lt;/li&gt;
+&lt;li&gt;Zorg dat je admin rechten op die laptop hebt&lt;/li&gt;
+&lt;li&gt;Installeer &lt;strong&gt;van tevoren&lt;/strong&gt; &lt;a href=&#34;https://www.virtualbox.org/wiki/Downloads&#34;&gt;VirtualBox&lt;/a&gt; of VMWare (zelf even downloaden) op deze laptop&lt;/li&gt;
+&lt;li&gt;Download &lt;strong&gt;van tevoren&lt;/strong&gt; de &lt;a href=&#34;https://drive.google.com/file/d/0B5z2aUudJQxlWkhVWXBYLVFjdjg&#34;&gt;kant-en-klare “virtual machine”&lt;/a&gt; (VM) vanuit de OSgeo.nl Google Drive.&lt;br&gt;
+Die virtual machine kun je in VirtualBox  of VMWare openen.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Door dit van tevoren te regelen kunnen we om 14.15u gelijk met de inhoud beginnen. Bovendien voorkomt dit dat de workshopdeelnemers met het downloaden van 2,6 Gb de aanwezige WiFi bandbreedte geheel opsnoepen.&lt;/p&gt;
           
           
         
@@ -186,7 +300,7 @@ Het maakt niet uit af dat een Mac, Linux of Windows exemplaar is *) Zorg dat je 
       <description>
         
           
-            Het lijkt ieder jaar zo simpel. Benader 15 mensen die leuke dingen doen op het gebied van open source geo. Daarvan is er 1 op vakantie, 1 blijkt zich permanent in een ver buitenland gevestigd te hebben, en 1 is er net vader geworden (ja, ook in open source geoland hebben mannen de numerieke overhand). Dan houd je 12 namen over waarmee je een programma rond hebt, en is de klus geklaard.
+            &lt;p&gt;Het lijkt ieder jaar zo simpel. Benader 15 mensen die leuke dingen doen op het gebied van open source geo. Daarvan is er 1 op vakantie, 1  blijkt zich permanent in een ver buitenland gevestigd te hebben, en 1 is er net vader geworden (ja, ook in open source geoland hebben mannen de numerieke overhand). Dan houd je 12 namen over waarmee je een programma rond hebt, en is de klus geklaard.&lt;/p&gt;
           
           
         
@@ -202,7 +316,9 @@ Het maakt niet uit af dat een Mac, Linux of Windows exemplaar is *) Zorg dat je 
       <description>
         
           
-            Op donderdag 20 oktober 2016 van 16:00-20:00 organiseerde OSGeo.nl het mini-seminar RD en Open Source Software. Het doel was tweeledig: allereerst om de bezoeker kennis bij te brengen over coördinatenstelsels in het algemeen en het Rijksdriehoeksstelsel in het bijzonder. Het tweede doel was om coördinatenstelsels op een juiste manier toe te passen binnen software, waarbij de focus natuurlijk ligt op open source software. Initiatiefnemer en samensteller voor dit event was Frank Steggink.
+            &lt;p&gt;Op donderdag 20 oktober 2016 van 16:00-20:00 organiseerde OSGeo.nl het mini-seminar &lt;a href=&#34;https://www.meetup.com/OSGeoNL/events/234546607/&#34;&gt;RD en Open Source Software&lt;/a&gt;. Het doel was tweeledig: allereerst om de bezoeker kennis bij te brengen over coördinatenstelsels in het algemeen en het &lt;a href=&#34;https://nl.wikipedia.org/wiki/Rijksdriehoeksco%C3%B6rdinaten&#34;&gt;Rijksdriehoeksstelsel&lt;/a&gt; in het bijzonder. Het tweede doel was om coördinatenstelsels op een juiste manier toe te passen binnen software, waarbij de focus natuurlijk ligt op open source software. Initiatiefnemer en samensteller voor dit event was &lt;a href=&#34;https://www.steggink.it&#34;&gt;Frank Steggink&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In 
+&lt;a style=&#34;text-decoration:line-through&#34; href=&#34;http://www.cafedudok.com/&#34;&gt;Cafe Dudok Hilversum&lt;/a&gt;  genoten ruim 30 aanwezigen van onderstaand programma (en de maaltijd in Dudok tijdens pauze). Klik op de links voor de presentatie-slides en weblinks.&lt;/p&gt;
           
           
         
@@ -218,9 +334,10 @@ Het maakt niet uit af dat een Mac, Linux of Windows exemplaar is *) Zorg dat je 
       <description>
         
           
-            In 2012 gestart op Hogeschool Larenstein in Velp, in 2013 in samenwerking met TU Delft en dit jaar voor de derde achtereenvolgende keer als onderdeel van de GeoBuzz in ‘s-Hertogenbosch (Brabanthallen) maakt bij elkaar alweer de vijfde achtereenvolgende jaarlijkse OSGeo.nl Dag.
-Op onze wiki kun je precies lezen hoe het zit met de voorbereiding van het programma en wat we nog aan “vacatures” voor de organisatie open hebben staan.
-Aanmelden De OSGeo.
+            &lt;p&gt;In 2012 gestart op Hogeschool Larenstein in Velp, in 2013 in samenwerking met TU Delft en dit jaar voor de derde achtereenvolgende keer als onderdeel van de &lt;a href=&#34;http://geobuzz.nl&#34;&gt;GeoBuzz&lt;/a&gt; in ‘s-Hertogenbosch (Brabanthallen) maakt bij elkaar alweer de vijfde achtereenvolgende jaarlijkse OSGeo.nl Dag.&lt;/p&gt;
+&lt;p&gt;Op onze &lt;a href=&#34;https://wiki.osgeo.org/wiki/OSGeo.nl_dag_2016&#34;&gt;wiki&lt;/a&gt; kun je precies lezen hoe het zit met de voorbereiding van het programma en wat we nog aan “vacatures” voor de organisatie open hebben staan.&lt;/p&gt;
+&lt;h2 id=&#34;aanmelden&#34;&gt;Aanmelden&lt;/h2&gt;
+&lt;p&gt;De OSGeo.nl Dag 2016 is een onderdeel van de GeoBuzz. Kijk daar voor het &lt;a href=&#34;http://geobuzz.nl/programma/&#34;&gt;volledige programma&lt;/a&gt; (klik in schema rechts op “OSGeo.nl dag”) en hoe je je daar kunt aanmelden (slechts EUR 30,-!). Toegang tot de GeoBuzz geeft automatisch toegang tot OSGeo.nl Dag. Zie ook onder.&lt;/p&gt;
           
           
         
@@ -236,8 +353,8 @@ Aanmelden De OSGeo.
       <description>
         
           
-            Zoals de meesten van jullie wellicht weten vindt het wereldwijde open source geospatial congres FOSS4G dit jaar eind augustus in Bonn plaats.
-De Call for Presentations is al enige tijd open, dus kom maar op met de presentaties of workshops die je graag voor dit internationale publiek zou willen houden. Het inschrijfformulier vind je op de FOSS4G 2016 website. Je hebt nog bijna 3 weken de tijd om je voorstel voor presentatie of workshop in te sturen.
+            &lt;p&gt;Zoals de meesten van jullie wellicht weten vindt het wereldwijde open source geospatial congres FOSS4G dit jaar eind augustus in Bonn plaats.&lt;/p&gt;
+&lt;p&gt;De Call for Presentations is al enige tijd open, dus kom maar op met de presentaties of workshops die je graag voor dit internationale publiek zou willen houden. Het inschrijfformulier vind je op de &lt;a href=&#34;http://2016.foss4g.org/news-entry/call-for-submissions.html&#34;&gt;FOSS4G 2016 website&lt;/a&gt;. Je hebt nog bijna 3 weken de tijd om je voorstel voor presentatie of workshop in te sturen.&lt;/p&gt;
           
           
         
@@ -253,10 +370,85 @@ De Call for Presentations is al enige tijd open, dus kom maar op met de presenta
       <description>
         
           
-            Dit gezamenlijk event van OSGeo.nl, UvA en RCE was op vrijdag 25 sept 2015 (13:00-17:30, RCE Amersfoort). Hieronder het programma en achtergrond informatie. Er waren plm 50 deelnemers. Meer info op de OSGeo.nl Meetup.
-Het programma was als volgt:
-Voor het volledige programma en alle abstracts zie deze PDF.
-Vijf sprekers, Menne Kosian (RCE), Jan Hartmann (UvA), Thijs de Boer (UvA), Edward Mac Gillavry (Webmapper), Just van den Broecke (Just Objects), ontwikkelaars en dienstverleners uit het vakgebied gaven deze onderwerpen inhoud.
+            &lt;p&gt;Dit gezamenlijk event van OSGeo.nl, &lt;a href=&#34;http://www.uva.nl/&#34;&gt;UvA&lt;/a&gt; en &lt;a href=&#34;http://cultureelerfgoed.nl/&#34;&gt;RCE&lt;/a&gt; was op vrijdag 25 sept 2015 (13:00-17:30, RCE Amersfoort). Hieronder het programma en achtergrond informatie. Er waren plm 50 deelnemers. Meer info op de &lt;a href=&#34;http://www.meetup.com/OSGeoNL/events/223443171/&#34;&gt;OSGeo.nl Meetup&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; OpenHistWebCarto-5 &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2015/12/OpenHistWebCarto-5.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; OpenHistWebCarto-6 &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2015/12/OpenHistWebCarto-6.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Het programma was als volgt:&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; programma &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2015/06/programma-e1441108140771.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Voor het volledige programma en alle abstracts zie &lt;a href=&#34;http://io.osgeo.nl/sitecontent/events/OpenHistWebCarto2015/programma.pdf&#34;&gt;deze PDF&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Vijf sprekers, &lt;a href=&#34;https://www.linkedin.com/pub/menne-kosian/25/7a7/284&#34;&gt;Menne Kosian (RCE)&lt;/a&gt;, Jan Hartmann (UvA), Thijs de Boer (UvA), &lt;a href=&#34;https://www.linkedin.com/in/emacgillavry&#34;&gt;Edward Mac Gillavry&lt;/a&gt; (Webmapper), &lt;a href=&#34;https://www.linkedin.com/in/justb4&#34;&gt;Just van den Broecke&lt;/a&gt; (Just Objects), ontwikkelaars en dienstverleners uit het vakgebied gaven deze onderwerpen inhoud. De dag werd afgesloten met een panel discussie.  Bram Vannieuwenhuyze, de kersverse bijzonder hoogleraar Historische cartografie (UvA), vervulde deze middag het dagvoorzitterschap met verve. Ook dank aan &lt;a href=&#34;https://www.linkedin.com/in/erik-meerburg-53a8055&#34;&gt;Erik Meerburg&lt;/a&gt; (Geo Academie) die bereid was op laatste moment de moderatie van de afsluitende discussie te leiden. Hieronder links naar presentaties en artikelen.&lt;/p&gt;
           
           
         
@@ -272,10 +464,12 @@ Vijf sprekers, Menne Kosian (RCE), Jan Hartmann (UvA), Thijs de Boer (UvA), E
       <description>
         
           
-            OSGeo.nl dag als onderdeel van de GeoBuzz: open source voor iedereen! De OSGeo.nl dag is dit net als vorig jaar onderdeel van de GeoBuzz en vindt plaats op woensdag 25 november in congrescentrum “1931” in Den Bosch.
-Het programma biedt voor zowel toekomstige als bestaande gebruikers van opensource-GIS interessante presentaties en workshops.
-Het thema is: open source – voor iedereen!
-Dat gaat naar Den Bosch toe Congrescentrum “1931” is met de auto prima bereikbaar.
+            &lt;h2 id=&#34;osgeonl-dag-als-onderdeel-van-de-geobuzz-open-source-voor-iedereen&#34;&gt;OSGeo.nl dag als onderdeel van de GeoBuzz: &lt;em&gt;open source voor iedereen!&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;De OSGeo.nl dag is dit net als vorig jaar onderdeel van de &lt;a href=&#34;/2015/10/25-november-osgeo-nl-dag-2015/#programma&#34;&gt;GeoBuzz&lt;/a&gt; en vindt plaats op woensdag 25 november in congrescentrum “1931” in Den Bosch.&lt;br&gt;
+Het &lt;a href=&#34;/2015/10/25-november-osgeo-nl-dag-2015/#programma&#34;&gt;programma&lt;/a&gt; biedt voor zowel  toekomstige als bestaande gebruikers van opensource-GIS interessante presentaties en workshops.&lt;br&gt;
+Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;dat-gaat-naar-den-bosch-toe&#34;&gt;Dat gaat naar Den Bosch toe&lt;/h2&gt;
+&lt;p&gt;Congrescentrum &lt;a href=&#34;http://www.1931.nl/&#34;&gt;“1931”&lt;/a&gt; is met de auto prima bereikbaar. Op pakweg 5 minuten van de snelweg A59, met een zee aan parkeerruimte direct voor de deur. Met het OV reis je naar station ‘s-Hertogenbosch en wandel je in 10 minuten naar “1931”. Waarschijnlijk laat de GeoBuzz organisatie net als vorig jaar een pendelbus rijden. Opstappen bij de uitgang Paleiskwartier/Brabanthallen. Carpoolen kan natuurlijk ook, daarvoor doe je het beste een oproep op de &lt;a href=&#34;http://www.meetup.com/OSGeoNL/events/225281140/&#34;&gt;osgeo.nl -meetup-site&lt;/a&gt;.&lt;/p&gt;
           
           
         

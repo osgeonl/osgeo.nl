@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>openstreetmap on OSGeo.nl - Wegwijs in Open Geo</title>
+    <title>Openstreetmap on OSGeo.nl - Wegwijs in Open Geo</title>
     <link>/tags/openstreetmap/</link>
-    <description>Recent content in openstreetmap on OSGeo.nl - Wegwijs in Open Geo</description>
+    <description>Recent content in Openstreetmap on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Feb 2018 22:33:25 +0000</lastBuildDate><atom:link href="/tags/openstreetmap/index.xml" rel="self" type="application/rss+xml" />
@@ -16,8 +16,33 @@
       <description>
         
           
-            Op zondag 14 januari 2018 werd de traditionele OSGeo.nl en OpenStreetMap NL nieuwjaarsborrel, in de inmiddels geheel gerenoveerde bovenzaal van Cafe Dudok in Hilversum, weer goed bezocht. Een van de weinige events waar deze twee communities tezamen komen (dat moeten we vaker doen!).
-Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakken zijn: niet alleen op gebied van de open data rond De Basis Registraties (BAG, BGT, BRK, Top10NL etc) en projecten die zich daar mee bezig houden zoals NLExtract, maar ook op het gebied van bijvoorbeeld Missing Maps en QGIS.
+            &lt;p&gt;Op zondag 14 januari 2018 werd de traditionele &lt;a href=&#34;https://www.meetup.com/OSGeoNL/events/245501440/&#34;&gt;OSGeo.nl en OpenStreetMap NL nieuwjaarsborrel&lt;/a&gt;, in de inmiddels geheel gerenoveerde bovenzaal van &lt;a href=&#34;http://www.cafedudok.com/&#34;&gt;Cafe Dudok in Hilversum&lt;/a&gt;, weer goed bezocht. Een van de weinige events waar deze twee communities tezamen komen (dat moeten we vaker doen!).&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2018/02/njborrel18-0.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakken zijn: niet alleen op gebied van de open data rond De Basis Registraties (BAG, BGT, BRK, Top10NL etc) en projecten die zich daar mee bezig houden zoals &lt;a href=&#34;http://www.nlextract.nl/&#34;&gt;NLExtract&lt;/a&gt;, maar ook op het gebied van bijvoorbeeld &lt;a href=&#34;http://www.missingmaps.org/&#34;&gt;Missing Maps&lt;/a&gt; en &lt;a href=&#34;https://qgis.org/&#34;&gt;QGIS&lt;/a&gt;. Dit smaakt ook naar meer events in 2018 om gezamenlijk Open Source en Open Data voor geo-informatie in Nederland te versterken.&lt;/p&gt;
           
           
         
@@ -33,10 +58,85 @@ Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakke
       <description>
         
           
-            Dit gezamenlijk event van OSGeo.nl, UvA en RCE was op vrijdag 25 sept 2015 (13:00-17:30, RCE Amersfoort). Hieronder het programma en achtergrond informatie. Er waren plm 50 deelnemers. Meer info op de OSGeo.nl Meetup.
-Het programma was als volgt:
-Voor het volledige programma en alle abstracts zie deze PDF.
-Vijf sprekers, Menne Kosian (RCE), Jan Hartmann (UvA), Thijs de Boer (UvA), Edward Mac Gillavry (Webmapper), Just van den Broecke (Just Objects), ontwikkelaars en dienstverleners uit het vakgebied gaven deze onderwerpen inhoud.
+            &lt;p&gt;Dit gezamenlijk event van OSGeo.nl, &lt;a href=&#34;http://www.uva.nl/&#34;&gt;UvA&lt;/a&gt; en &lt;a href=&#34;http://cultureelerfgoed.nl/&#34;&gt;RCE&lt;/a&gt; was op vrijdag 25 sept 2015 (13:00-17:30, RCE Amersfoort). Hieronder het programma en achtergrond informatie. Er waren plm 50 deelnemers. Meer info op de &lt;a href=&#34;http://www.meetup.com/OSGeoNL/events/223443171/&#34;&gt;OSGeo.nl Meetup&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; OpenHistWebCarto-5 &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2015/12/OpenHistWebCarto-5.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; OpenHistWebCarto-6 &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2015/12/OpenHistWebCarto-6.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Het programma was als volgt:&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; programma &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2015/06/programma-e1441108140771.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Voor het volledige programma en alle abstracts zie &lt;a href=&#34;http://io.osgeo.nl/sitecontent/events/OpenHistWebCarto2015/programma.pdf&#34;&gt;deze PDF&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Vijf sprekers, &lt;a href=&#34;https://www.linkedin.com/pub/menne-kosian/25/7a7/284&#34;&gt;Menne Kosian (RCE)&lt;/a&gt;, Jan Hartmann (UvA), Thijs de Boer (UvA), &lt;a href=&#34;https://www.linkedin.com/in/emacgillavry&#34;&gt;Edward Mac Gillavry&lt;/a&gt; (Webmapper), &lt;a href=&#34;https://www.linkedin.com/in/justb4&#34;&gt;Just van den Broecke&lt;/a&gt; (Just Objects), ontwikkelaars en dienstverleners uit het vakgebied gaven deze onderwerpen inhoud. De dag werd afgesloten met een panel discussie.  Bram Vannieuwenhuyze, de kersverse bijzonder hoogleraar Historische cartografie (UvA), vervulde deze middag het dagvoorzitterschap met verve. Ook dank aan &lt;a href=&#34;https://www.linkedin.com/in/erik-meerburg-53a8055&#34;&gt;Erik Meerburg&lt;/a&gt; (Geo Academie) die bereid was op laatste moment de moderatie van de afsluitende discussie te leiden. Hieronder links naar presentaties en artikelen.&lt;/p&gt;
           
           
         
@@ -52,7 +152,32 @@ Vijf sprekers, Menne Kosian (RCE), Jan Hartmann (UvA), Thijs de Boer (UvA), E
       <description>
         
           
-            Op 25 november 2014 vond de derde OSGeo.nl Dag plaats. Dit keer als onderdeel van de GeoBuzz in de Brabanthallen in Den Bosch. Het organiserend team bestond uit Willy Bakker, Erik Meerburg en Paul van Genuchten. Zij stelden een uitdagend programma op met vooral aandacht voor het gebruik van Open Geo-ICT door eindgebruikers. Tussendoor waren er korte, 15 minuten durende “Feature Frenzies” waarin nieuwe ontwikkelingen van een product in korte tijd werd uitgelegd.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; osgeonl-dag-2014-800px-zaal &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2015/01/osgeonl-dag-2014-800px-zaal.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Op 25 november 2014 vond de derde OSGeo.nl Dag plaats. Dit keer als onderdeel van de &lt;a href=&#34;http://geobuzz.nl/&#34;&gt;GeoBuzz&lt;/a&gt; in de &lt;a href=&#34;http://www.brabanthallen.nl/&#34;&gt;Brabanthallen&lt;/a&gt; in Den Bosch. Het organiserend team bestond uit Willy Bakker, Erik Meerburg en Paul van Genuchten. Zij stelden een &lt;a href=&#34;http://io.osgeo.nl/sitecontent/osgeonl_dag/osgeonl_dag_2014.html&#34;&gt;uitdagend programma&lt;/a&gt; op met vooral aandacht voor het gebruik van Open Geo-ICT door eindgebruikers. Tussendoor waren er korte, 15 minuten durende “Feature Frenzies” waarin nieuwe ontwikkelingen van een product in korte tijd werd uitgelegd. Hieronder het programma.&lt;/p&gt;
           
           
         
@@ -68,8 +193,8 @@ Vijf sprekers, Menne Kosian (RCE), Jan Hartmann (UvA), Thijs de Boer (UvA), E
       <description>
         
           
-            In het voorjaar van 2104 organiseerde OSGeo.nl samen met Jan-Willem van Aalst (Imergis) een tweetal OpenTopo workshops. Hierin presenteerde Jan-Willem hoe hij met behulp van open geodata (BAG, Top10nl, NWB, OpenStreetMap) en open source doftware (NLExtract, QGis, PostGIS) zijn op de OOV sector gerichte variatie op de klassieke Top25 kaart van het Kadaster maakt.
-Drie delen van die workshop (genummerd, 4-5-6) staan vanaf nu ondertiteld en wel online op het OSGeo.
+            &lt;p&gt;In het voorjaar van 2104 organiseerde OSGeo.nl samen met Jan-Willem van Aalst (Imergis) een tweetal OpenTopo workshops.  Hierin presenteerde Jan-Willem hoe hij met behulp van open geodata (BAG, Top10nl, NWB, OpenStreetMap) en open source doftware (NLExtract, QGis, PostGIS) zijn op de OOV sector gerichte variatie op de klassieke Top25 kaart van het Kadaster maakt.&lt;/p&gt;
+&lt;p&gt;Drie delen van die workshop (genummerd, 4-5-6) staan vanaf nu ondertiteld en wel online op het &lt;a href=&#34;https://www.youtube.com/channel/UCK1e8j68uZZOw1Wpzc8qubA/videos&#34;&gt;OSGeo.nl YouTube kanaal&lt;/a&gt;&lt;/p&gt;
           
           
         

@@ -16,8 +16,8 @@
       <description>
         
           
-            Architect Rob de Vries van DVUA uit Alkmaar (www.dvua.nl) heeft voor een interieuropdracht op originele wijze gebruik gemaakt van open geodata. De reliëfkaart van Jan-Willem van Aalst is een combinatie van de AHN2, de BAG (gebouwen) en de BRT (terreinvlakken). Deze is online te bekijken via www.map5.nl van Just van den Broecke, zie bijv. deze view
-Dit reliëfbeeld was precies wat Rob zocht voor deze interieuropdracht in Alkmaar. De provincie Noord-Holland werd op 1600 pix/km geleverd.
+            &lt;p&gt;Architect Rob de Vries van DVUA uit Alkmaar (&lt;a href=&#34;http://www.dvua.nl&#34;&gt;www.dvua.nl&lt;/a&gt;) heeft voor een interieuropdracht op originele wijze gebruik gemaakt van open geodata. De reliëfkaart van Jan-Willem van Aalst is een combinatie van de AHN2, de BAG (gebouwen) en de BRT (terreinvlakken). Deze is online te bekijken via &lt;a href=&#34;http://www.map5.nl&#34;&gt;www.map5.nl&lt;/a&gt; van Just van den Broecke, zie bijv. &lt;a href=&#34;http://app.map5.nl/nltopo/#rd/relief_struct/6/113739.2/496089.3&#34;&gt;deze view&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dit reliëfbeeld was precies wat Rob zocht voor deze interieuropdracht in Alkmaar. De provincie Noord-Holland werd op 1600 pix/km geleverd. Deze kaart werd vervolgens in delen aan de muren bevestigd. Door de gekantelde oriëntatie lijken het werkelijk 3D-prints, of zoals Frank Steggink het uitdrukte: “het cement lijkt van de muren te druipen…”. Kortom, de &lt;a href=&#34;http://blog.okfn.org/2010/03/15/the-cake-test-of-freedom/&#34;&gt;Caketest&lt;/a&gt; is geslaagd.&lt;/p&gt;
           
           
         
@@ -33,9 +33,36 @@ Dit reliëfbeeld was precies wat Rob zocht voor deze interieuropdracht in Alkmaa
       <description>
         
           
-            Op de vierde opeenvolgende gezamenlijke nieuwjaarsborrel van OSGeo.nl en OpenStreetMap NL in cafe Dudok te Hilversum waren weer een aantal interessante presentaties. Hieronder ook de links naar de PDF-slides en een zeer fraaie 3D video.
-Jan-Willem van Aalst presenteerde OpenTopo op 1600px/km – Voortgang en Issues. Wat kom je allemaal tegen als je BAG/OSM en Top10NL combineert in toenemend detail.
-Richard Duivenvoorde introduceerde Mozilla Location Services – Crowdsourcing Location Wifi/GSM Location Data: een mooie open source/open data tegenhanger van de Google Location Service.
+            &lt;p&gt;Op de vierde opeenvolgende gezamenlijke nieuwjaarsborrel van OSGeo.nl en OpenStreetMap NL in cafe Dudok te Hilversum waren weer een aantal interessante presentaties. Hieronder ook de links naar de PDF-slides en een zeer fraaie &lt;a href=&#34;https://www.youtube.com/watch?v=u7wNP1fi0IY&#34;&gt;3D video&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&#34;float_left&#34;&gt;
+  &lt;a href=&#34;http://osgeonl.github.io/sitecontent/events/nieuwjaarsborrel2015/presentaties/OpenTopo_1600px_issues_JW_van_Aalst.pdf&#34;&gt;
+    &lt;img class=&#34;lazy&#34;
+      src=&#34;/photos/2015/01/jw-slide.png&#34;
+      alt=&#34; &#34; /&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Jan-Willem van Aalst&lt;/strong&gt;&lt;/em&gt; presenteerde &lt;a href=&#34;http://osgeonl.github.io/sitecontent/events/nieuwjaarsborrel2015/presentaties/OpenTopo_1600px_issues_JW_van_Aalst.pdf&#34;&gt;OpenTopo op 1600px/km – Voortgang en Issues&lt;/a&gt;. Wat kom je allemaal tegen als je BAG/OSM en Top10NL combineert in toenemend detail.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr&gt;
+
+&lt;div class=&#34;float_right&#34;&gt;
+  &lt;a href=&#34;http://osgeonl.github.io/sitecontent/events/nieuwjaarsborrel2015/presentaties/MozillaLocationService_Richard_Duivenvoorde_Zuidt.pdf&#34;&gt;
+    &lt;img class=&#34;lazy&#34;
+      src=&#34;/photos/2015/01/rd.png&#34;
+      alt=&#34; &#34; /&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Richard Duivenvoorde&lt;/strong&gt;&lt;/em&gt; introduceerde &lt;a href=&#34;http://osgeonl.github.io/sitecontent/events/nieuwjaarsborrel2015/presentaties/MozillaLocationService_Richard_Duivenvoorde_Zuidt.pdf&#34;&gt;Mozilla Location Services – Crowdsourcing Location Wifi/GSM Location Data&lt;/a&gt;: een mooie open source/open data tegenhanger van de Google Location Service. Zie ook Richard’s &lt;a href=&#34;http://zuidt.nl/blog/html/2014/07/04/tinkering_with_mozilla_location_services.html&#34;&gt;verhelderende blog over MLS&lt;/a&gt;.&lt;/p&gt;
           
           
         

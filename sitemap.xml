@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/</loc>
+    <lastmod>2024-09-20T10:52:45+00:00</lastmod>
+  </url><url>
     <loc>/home/</loc>
     <lastmod>2024-09-20T10:52:45+00:00</lastmod>
   </url><url>
     <loc>/0_sponsors/</loc>
-    <lastmod>2024-09-20T10:49:12+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2024-09-20T10:49:12+00:00</lastmod>
   </url><url>
     <loc>/0_sponsors/sponsors/</loc>
@@ -426,5 +426,6 @@
     <lastmod>2012-05-01T11:35:00+00:00</lastmod>
   </url><url>
     <loc>/?p=563/</loc>
+    <lastmod>2001-11-30T00:00:00+00:00</lastmod>
   </url>
 </urlset>

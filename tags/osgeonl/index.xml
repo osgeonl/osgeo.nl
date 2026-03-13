@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>osgeonl on OSGeo.nl - Wegwijs in Open Geo</title>
+    <title>Osgeonl on OSGeo.nl - Wegwijs in Open Geo</title>
     <link>/tags/osgeonl/</link>
-    <description>Recent content in osgeonl on OSGeo.nl - Wegwijs in Open Geo</description>
+    <description>Recent content in Osgeonl on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Aug 2023 19:47:39 +0000</lastBuildDate><atom:link href="/tags/osgeonl/index.xml" rel="self" type="application/rss+xml" />
@@ -16,8 +16,7 @@
       <description>
         
           
-            Stichting OSGeo.nl heeft sinds juli 2023 een nieuw bestuur! Dit nieuwe bestuur kijkt onwijs uit om samen met jullie vol enthousiasme en plezier te zorgen dat we samen mensen nog meer bekend maken met het gebruik en de ontwikkeling van open source software voor geo-informatie.
-Als je benieuwd bent wat er allemaal besproken werd bij het debuut van dit nieuwe bestuur dan is de nota van deze laatste bestuursvergadering is te lezen op de wiki via: https://wiki.
+            &lt;p&gt;Stichting OSGeo.nl heeft sinds juli 2023 een nieuw bestuur! Dit nieuwe bestuur kijkt onwijs uit om samen met jullie vol enthousiasme en plezier te zorgen dat we samen mensen nog meer bekend maken met het gebruik en de ontwikkeling van open source software voor geo-informatie.&lt;/p&gt;
           
           
         
@@ -33,7 +32,13 @@ Als je benieuwd bent wat er allemaal besproken werd bij het debuut van dit nieuw
       <description>
         
           
-            Op wo 3 augustus 2022, bij 30 graden, brachten we onze nieuwe website osgeo.nl online. Om kosten en gemak van onderhoud te faciliteren is de oude website gemigreerd van Wordpress naar Hugo. Met dank aan Ron Wardenier voor het jarenlang onderhouden van onze website en &amp;lsquo;Peter Govind&amp;rsquo; uit Maleisië (via freelancer.com) voor het opschonen van de WP export. Maar Ron is nog niet weg, we zijn allemaal &amp;lsquo;into Hugo&amp;rsquo;. Zie ook bijv tv.
+            &lt;p&gt;Op wo 3 augustus 2022, bij 30 graden, brachten we onze nieuwe website &lt;a href=&#34;https://osgeo.nl&#34;&gt;osgeo.nl&lt;/a&gt;
+online. Om kosten en gemak van onderhoud te faciliteren is de oude website
+gemigreerd van Wordpress naar &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.
+Met dank aan Ron Wardenier voor het jarenlang onderhouden van onze website en &amp;lsquo;Peter Govind&amp;rsquo;
+uit Maleisië (via freelancer.com) voor het opschonen van de WP export.
+Maar Ron is nog niet weg, we zijn allemaal &amp;lsquo;into Hugo&amp;rsquo;. Zie ook
+bijv &lt;a href=&#34;https://tv.osgeo.nl&#34;&gt;tv.osgeo.nl&lt;/a&gt;, ook al een Hugo site.&lt;/p&gt;
           
           
         

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>qgis on OSGeo.nl - Wegwijs in Open Geo</title>
+    <title>Qgis on OSGeo.nl - Wegwijs in Open Geo</title>
     <link>/tags/qgis/</link>
-    <description>Recent content in qgis on OSGeo.nl - Wegwijs in Open Geo</description>
+    <description>Recent content in Qgis on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Feb 2018 22:33:25 +0000</lastBuildDate><atom:link href="/tags/qgis/index.xml" rel="self" type="application/rss+xml" />
@@ -16,8 +16,33 @@
       <description>
         
           
-            Op zondag 14 januari 2018 werd de traditionele OSGeo.nl en OpenStreetMap NL nieuwjaarsborrel, in de inmiddels geheel gerenoveerde bovenzaal van Cafe Dudok in Hilversum, weer goed bezocht. Een van de weinige events waar deze twee communities tezamen komen (dat moeten we vaker doen!).
-Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakken zijn: niet alleen op gebied van de open data rond De Basis Registraties (BAG, BGT, BRK, Top10NL etc) en projecten die zich daar mee bezig houden zoals NLExtract, maar ook op het gebied van bijvoorbeeld Missing Maps en QGIS.
+            &lt;p&gt;Op zondag 14 januari 2018 werd de traditionele &lt;a href=&#34;https://www.meetup.com/OSGeoNL/events/245501440/&#34;&gt;OSGeo.nl en OpenStreetMap NL nieuwjaarsborrel&lt;/a&gt;, in de inmiddels geheel gerenoveerde bovenzaal van &lt;a href=&#34;http://www.cafedudok.com/&#34;&gt;Cafe Dudok in Hilversum&lt;/a&gt;, weer goed bezocht. Een van de weinige events waar deze twee communities tezamen komen (dat moeten we vaker doen!).&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2018/02/njborrel18-0.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakken zijn: niet alleen op gebied van de open data rond De Basis Registraties (BAG, BGT, BRK, Top10NL etc) en projecten die zich daar mee bezig houden zoals &lt;a href=&#34;http://www.nlextract.nl/&#34;&gt;NLExtract&lt;/a&gt;, maar ook op het gebied van bijvoorbeeld &lt;a href=&#34;http://www.missingmaps.org/&#34;&gt;Missing Maps&lt;/a&gt; en &lt;a href=&#34;https://qgis.org/&#34;&gt;QGIS&lt;/a&gt;. Dit smaakt ook naar meer events in 2018 om gezamenlijk Open Source en Open Data voor geo-informatie in Nederland te versterken.&lt;/p&gt;
           
           
         
@@ -33,10 +58,85 @@ Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakke
       <description>
         
           
-            De zesde OSGeo.nl Dag 2017 vond plaats op 22 November 2017 op de GeoBuzz in Den Bosch. Onder het motto &amp;ldquo;Samenwerking Versnelt&amp;rdquo; haakten wij in bij het GeoBuzz-thema: &amp;ldquo;Geo Versnelt&amp;rdquo;
-Hieronder een kort verslag, voor de TLDR; lezer: hier staan alle presentaties.
-Eng.: this is a report with slides (in Dutch) of the yearly “OSGeo.nl Day” organized by OSGeo.nl
-Dank aan allen die hieraan meegewerkt hebben, in bijzonder Winifred Broeder (programma, logo’s, promotie materiaal, foto’s) , Ynte de Wolf (programma), Steven Ottens (techniek) en uiteraard alle sprekers die zich merkbaar degelijk hadden voorbereid!
+            &lt;p&gt;De zesde OSGeo.nl Dag 2017 vond plaats op &lt;strong&gt;22 November 2017 op de GeoBuzz in Den Bosch&lt;/strong&gt;. Onder het motto &lt;strong&gt;&amp;ldquo;Samenwerking Versnelt&amp;rdquo;&lt;/strong&gt; haakten wij in bij het GeoBuzz-thema: &lt;strong&gt;&amp;ldquo;Geo Versnelt&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hieronder een kort verslag, voor de TLDR; lezer: &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/osgeonl_dag/presentaties/2017&#34;&gt;hier staan alle presentaties&lt;/a&gt;.&lt;br&gt;
+Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/osgeonl_dag/presentaties/2017&#34;&gt;with slides&lt;/a&gt; (in Dutch) of the yearly “OSGeo.nl Day” organized by &lt;a href=&#34;https://osgeo.nl&#34;&gt;OSGeo.nl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2017/12/IMG_2017.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2017/12/IMG_2029.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2017/12/IMG_2022.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Dank aan allen die hieraan meegewerkt hebben, in bijzonder Winifred Broeder (programma, logo’s, promotie materiaal, foto’s) , Ynte de Wolf (programma), Steven Ottens (techniek) en uiteraard alle sprekers die zich merkbaar degelijk hadden voorbereid!&lt;/p&gt;
           
           
         
@@ -52,9 +152,36 @@ Dank aan allen die hieraan meegewerkt hebben, in bijzonder Winifred Broeder (pro
       <description>
         
           
-            Op de vierde opeenvolgende gezamenlijke nieuwjaarsborrel van OSGeo.nl en OpenStreetMap NL in cafe Dudok te Hilversum waren weer een aantal interessante presentaties. Hieronder ook de links naar de PDF-slides en een zeer fraaie 3D video.
-Jan-Willem van Aalst presenteerde OpenTopo op 1600px/km – Voortgang en Issues. Wat kom je allemaal tegen als je BAG/OSM en Top10NL combineert in toenemend detail.
-Richard Duivenvoorde introduceerde Mozilla Location Services – Crowdsourcing Location Wifi/GSM Location Data: een mooie open source/open data tegenhanger van de Google Location Service.
+            &lt;p&gt;Op de vierde opeenvolgende gezamenlijke nieuwjaarsborrel van OSGeo.nl en OpenStreetMap NL in cafe Dudok te Hilversum waren weer een aantal interessante presentaties. Hieronder ook de links naar de PDF-slides en een zeer fraaie &lt;a href=&#34;https://www.youtube.com/watch?v=u7wNP1fi0IY&#34;&gt;3D video&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&#34;float_left&#34;&gt;
+  &lt;a href=&#34;http://osgeonl.github.io/sitecontent/events/nieuwjaarsborrel2015/presentaties/OpenTopo_1600px_issues_JW_van_Aalst.pdf&#34;&gt;
+    &lt;img class=&#34;lazy&#34;
+      src=&#34;/photos/2015/01/jw-slide.png&#34;
+      alt=&#34; &#34; /&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Jan-Willem van Aalst&lt;/strong&gt;&lt;/em&gt; presenteerde &lt;a href=&#34;http://osgeonl.github.io/sitecontent/events/nieuwjaarsborrel2015/presentaties/OpenTopo_1600px_issues_JW_van_Aalst.pdf&#34;&gt;OpenTopo op 1600px/km – Voortgang en Issues&lt;/a&gt;. Wat kom je allemaal tegen als je BAG/OSM en Top10NL combineert in toenemend detail.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr&gt;
+
+&lt;div class=&#34;float_right&#34;&gt;
+  &lt;a href=&#34;http://osgeonl.github.io/sitecontent/events/nieuwjaarsborrel2015/presentaties/MozillaLocationService_Richard_Duivenvoorde_Zuidt.pdf&#34;&gt;
+    &lt;img class=&#34;lazy&#34;
+      src=&#34;/photos/2015/01/rd.png&#34;
+      alt=&#34; &#34; /&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Richard Duivenvoorde&lt;/strong&gt;&lt;/em&gt; introduceerde &lt;a href=&#34;http://osgeonl.github.io/sitecontent/events/nieuwjaarsborrel2015/presentaties/MozillaLocationService_Richard_Duivenvoorde_Zuidt.pdf&#34;&gt;Mozilla Location Services – Crowdsourcing Location Wifi/GSM Location Data&lt;/a&gt;: een mooie open source/open data tegenhanger van de Google Location Service. Zie ook Richard’s &lt;a href=&#34;http://zuidt.nl/blog/html/2014/07/04/tinkering_with_mozilla_location_services.html&#34;&gt;verhelderende blog over MLS&lt;/a&gt;.&lt;/p&gt;
           
           
         
@@ -70,7 +197,32 @@ Richard Duivenvoorde introduceerde Mozilla Location Services – Crowdsourcing 
       <description>
         
           
-            Op 25 november 2014 vond de derde OSGeo.nl Dag plaats. Dit keer als onderdeel van de GeoBuzz in de Brabanthallen in Den Bosch. Het organiserend team bestond uit Willy Bakker, Erik Meerburg en Paul van Genuchten. Zij stelden een uitdagend programma op met vooral aandacht voor het gebruik van Open Geo-ICT door eindgebruikers. Tussendoor waren er korte, 15 minuten durende “Feature Frenzies” waarin nieuwe ontwikkelingen van een product in korte tijd werd uitgelegd.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; osgeonl-dag-2014-800px-zaal &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2015/01/osgeonl-dag-2014-800px-zaal.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Op 25 november 2014 vond de derde OSGeo.nl Dag plaats. Dit keer als onderdeel van de &lt;a href=&#34;http://geobuzz.nl/&#34;&gt;GeoBuzz&lt;/a&gt; in de &lt;a href=&#34;http://www.brabanthallen.nl/&#34;&gt;Brabanthallen&lt;/a&gt; in Den Bosch. Het organiserend team bestond uit Willy Bakker, Erik Meerburg en Paul van Genuchten. Zij stelden een &lt;a href=&#34;http://io.osgeo.nl/sitecontent/osgeonl_dag/osgeonl_dag_2014.html&#34;&gt;uitdagend programma&lt;/a&gt; op met vooral aandacht voor het gebruik van Open Geo-ICT door eindgebruikers. Tussendoor waren er korte, 15 minuten durende “Feature Frenzies” waarin nieuwe ontwikkelingen van een product in korte tijd werd uitgelegd. Hieronder het programma.&lt;/p&gt;
           
           
         
@@ -86,8 +238,8 @@ Richard Duivenvoorde introduceerde Mozilla Location Services – Crowdsourcing 
       <description>
         
           
-            In het voorjaar van 2104 organiseerde OSGeo.nl samen met Jan-Willem van Aalst (Imergis) een tweetal OpenTopo workshops. Hierin presenteerde Jan-Willem hoe hij met behulp van open geodata (BAG, Top10nl, NWB, OpenStreetMap) en open source doftware (NLExtract, QGis, PostGIS) zijn op de OOV sector gerichte variatie op de klassieke Top25 kaart van het Kadaster maakt.
-Drie delen van die workshop (genummerd, 4-5-6) staan vanaf nu ondertiteld en wel online op het OSGeo.
+            &lt;p&gt;In het voorjaar van 2104 organiseerde OSGeo.nl samen met Jan-Willem van Aalst (Imergis) een tweetal OpenTopo workshops.  Hierin presenteerde Jan-Willem hoe hij met behulp van open geodata (BAG, Top10nl, NWB, OpenStreetMap) en open source doftware (NLExtract, QGis, PostGIS) zijn op de OOV sector gerichte variatie op de klassieke Top25 kaart van het Kadaster maakt.&lt;/p&gt;
+&lt;p&gt;Drie delen van die workshop (genummerd, 4-5-6) staan vanaf nu ondertiteld en wel online op het &lt;a href=&#34;https://www.youtube.com/channel/UCK1e8j68uZZOw1Wpzc8qubA/videos&#34;&gt;OSGeo.nl YouTube kanaal&lt;/a&gt;&lt;/p&gt;
           
           
         

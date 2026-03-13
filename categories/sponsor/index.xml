@@ -16,7 +16,31 @@
       <description>
         
           
-             
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; Terglobo is zilver sponsor &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2014/04/logo-terglobo2.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
           
           
         
@@ -32,7 +56,14 @@
       <description>
         
           
-             
+            &lt;div class=&#34;&#34;&gt;
+  &lt;a href=&#34;http://geo-academie.nl/&#34;&gt;
+    &lt;img class=&#34;lazy&#34;
+      src=&#34;/photos/2014/04/logo-geoacademie.png&#34;
+      alt=&#34;Geo Academie&#34; /&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
           
           
         
@@ -48,7 +79,14 @@
       <description>
         
           
-             
+            &lt;div class=&#34;&#34;&gt;
+  &lt;a href=&#34;http://www.justobjects.nl/&#34;&gt;
+    &lt;img class=&#34;lazy&#34;
+      src=&#34;/photos/2014/04/logo-justobjects.png&#34;
+      alt=&#34;Just Objects&#34; /&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
           
           
         
@@ -64,7 +102,14 @@
       <description>
         
           
-             
+            &lt;div class=&#34;&#34;&gt;
+  &lt;a href=&#34;http://www.geocat.net/&#34;&gt;
+    &lt;img class=&#34;lazy&#34;
+      src=&#34;/photos/2014/04/logo-geocat.png&#34;
+      alt=&#34;GeoCat&#34; /&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
           
           
         
@@ -80,7 +125,14 @@
       <description>
         
           
-             
+            &lt;div class=&#34;&#34;&gt;
+  &lt;a href=&#34;http://geo-academie.nl/&#34;&gt;
+    &lt;img class=&#34;lazy&#34;
+      src=&#34;/photos/2014/04/logo-opengeogroep.gif&#34;
+      alt=&#34;&#34; /&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
           
           
         

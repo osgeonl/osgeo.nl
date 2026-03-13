@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>osgeo on OSGeo.nl - Wegwijs in Open Geo</title>
+    <title>Osgeo on OSGeo.nl - Wegwijs in Open Geo</title>
     <link>/tags/osgeo/</link>
-    <description>Recent content in osgeo on OSGeo.nl - Wegwijs in Open Geo</description>
+    <description>Recent content in Osgeo on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Feb 2018 22:33:25 +0000</lastBuildDate><atom:link href="/tags/osgeo/index.xml" rel="self" type="application/rss+xml" />
@@ -16,8 +16,33 @@
       <description>
         
           
-            Op zondag 14 januari 2018 werd de traditionele OSGeo.nl en OpenStreetMap NL nieuwjaarsborrel, in de inmiddels geheel gerenoveerde bovenzaal van Cafe Dudok in Hilversum, weer goed bezocht. Een van de weinige events waar deze twee communities tezamen komen (dat moeten we vaker doen!).
-Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakken zijn: niet alleen op gebied van de open data rond De Basis Registraties (BAG, BGT, BRK, Top10NL etc) en projecten die zich daar mee bezig houden zoals NLExtract, maar ook op het gebied van bijvoorbeeld Missing Maps en QGIS.
+            &lt;p&gt;Op zondag 14 januari 2018 werd de traditionele &lt;a href=&#34;https://www.meetup.com/OSGeoNL/events/245501440/&#34;&gt;OSGeo.nl en OpenStreetMap NL nieuwjaarsborrel&lt;/a&gt;, in de inmiddels geheel gerenoveerde bovenzaal van &lt;a href=&#34;http://www.cafedudok.com/&#34;&gt;Cafe Dudok in Hilversum&lt;/a&gt;, weer goed bezocht. Een van de weinige events waar deze twee communities tezamen komen (dat moeten we vaker doen!).&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2018/02/njborrel18-0.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakken zijn: niet alleen op gebied van de open data rond De Basis Registraties (BAG, BGT, BRK, Top10NL etc) en projecten die zich daar mee bezig houden zoals &lt;a href=&#34;http://www.nlextract.nl/&#34;&gt;NLExtract&lt;/a&gt;, maar ook op het gebied van bijvoorbeeld &lt;a href=&#34;http://www.missingmaps.org/&#34;&gt;Missing Maps&lt;/a&gt; en &lt;a href=&#34;https://qgis.org/&#34;&gt;QGIS&lt;/a&gt;. Dit smaakt ook naar meer events in 2018 om gezamenlijk Open Source en Open Data voor geo-informatie in Nederland te versterken.&lt;/p&gt;
           
           
         
@@ -33,10 +58,85 @@ Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakke
       <description>
         
           
-            De zesde OSGeo.nl Dag 2017 vond plaats op 22 November 2017 op de GeoBuzz in Den Bosch. Onder het motto &amp;ldquo;Samenwerking Versnelt&amp;rdquo; haakten wij in bij het GeoBuzz-thema: &amp;ldquo;Geo Versnelt&amp;rdquo;
-Hieronder een kort verslag, voor de TLDR; lezer: hier staan alle presentaties.
-Eng.: this is a report with slides (in Dutch) of the yearly “OSGeo.nl Day” organized by OSGeo.nl
-Dank aan allen die hieraan meegewerkt hebben, in bijzonder Winifred Broeder (programma, logo’s, promotie materiaal, foto’s) , Ynte de Wolf (programma), Steven Ottens (techniek) en uiteraard alle sprekers die zich merkbaar degelijk hadden voorbereid!
+            &lt;p&gt;De zesde OSGeo.nl Dag 2017 vond plaats op &lt;strong&gt;22 November 2017 op de GeoBuzz in Den Bosch&lt;/strong&gt;. Onder het motto &lt;strong&gt;&amp;ldquo;Samenwerking Versnelt&amp;rdquo;&lt;/strong&gt; haakten wij in bij het GeoBuzz-thema: &lt;strong&gt;&amp;ldquo;Geo Versnelt&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hieronder een kort verslag, voor de TLDR; lezer: &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/osgeonl_dag/presentaties/2017&#34;&gt;hier staan alle presentaties&lt;/a&gt;.&lt;br&gt;
+Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/osgeonl_dag/presentaties/2017&#34;&gt;with slides&lt;/a&gt; (in Dutch) of the yearly “OSGeo.nl Day” organized by &lt;a href=&#34;https://osgeo.nl&#34;&gt;OSGeo.nl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2017/12/IMG_2017.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2017/12/IMG_2029.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34; &#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;/photos/2017/12/IMG_2022.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Dank aan allen die hieraan meegewerkt hebben, in bijzonder Winifred Broeder (programma, logo’s, promotie materiaal, foto’s) , Ynte de Wolf (programma), Steven Ottens (techniek) en uiteraard alle sprekers die zich merkbaar degelijk hadden voorbereid!&lt;/p&gt;
           
           
         
@@ -52,7 +152,7 @@ Dank aan allen die hieraan meegewerkt hebben, in bijzonder Winifred Broeder (pro
       <description>
         
           
-            On 3 November 2017 there will be a GRASS GIS crash course, organized by OSGeo.nl and the Faculty of Geo-Information Science and Earth Observation of ITC. The course will provide participants with an overview of the software capabilities and a hands-on experience in raster, vector and time series processing with the Open Source software GRASS GIS 7. For more information, go here. You can register on our Meetup page [update: maximum number of participants has been reached, registration closed].
+            &lt;p&gt;On 3 November 2017 there will be a GRASS GIS crash course, organized by OSGeo.nl and the Faculty of Geo-Information Science and Earth Observation of ITC.  The course will provide participants with an overview of the software capabilities and a hands-on experience in raster, vector and time series processing with the Open Source software GRASS GIS 7. For more information, go &lt;a href=&#34;https://osgeo.nl/grassgis-course/&#34;&gt;here&lt;/a&gt;. You can register on our Meetup page [update: maximum number of participants has been reached, registration closed].&lt;/p&gt;
           
           
         
@@ -68,10 +168,12 @@ Dank aan allen die hieraan meegewerkt hebben, in bijzonder Winifred Broeder (pro
       <description>
         
           
-            OSGeo.nl dag als onderdeel van de GeoBuzz: open source voor iedereen! De OSGeo.nl dag is dit net als vorig jaar onderdeel van de GeoBuzz en vindt plaats op woensdag 25 november in congrescentrum “1931” in Den Bosch.
-Het programma biedt voor zowel toekomstige als bestaande gebruikers van opensource-GIS interessante presentaties en workshops.
-Het thema is: open source – voor iedereen!
-Dat gaat naar Den Bosch toe Congrescentrum “1931” is met de auto prima bereikbaar.
+            &lt;h2 id=&#34;osgeonl-dag-als-onderdeel-van-de-geobuzz-open-source-voor-iedereen&#34;&gt;OSGeo.nl dag als onderdeel van de GeoBuzz: &lt;em&gt;open source voor iedereen!&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;De OSGeo.nl dag is dit net als vorig jaar onderdeel van de &lt;a href=&#34;/2015/10/25-november-osgeo-nl-dag-2015/#programma&#34;&gt;GeoBuzz&lt;/a&gt; en vindt plaats op woensdag 25 november in congrescentrum “1931” in Den Bosch.&lt;br&gt;
+Het &lt;a href=&#34;/2015/10/25-november-osgeo-nl-dag-2015/#programma&#34;&gt;programma&lt;/a&gt; biedt voor zowel  toekomstige als bestaande gebruikers van opensource-GIS interessante presentaties en workshops.&lt;br&gt;
+Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;dat-gaat-naar-den-bosch-toe&#34;&gt;Dat gaat naar Den Bosch toe&lt;/h2&gt;
+&lt;p&gt;Congrescentrum &lt;a href=&#34;http://www.1931.nl/&#34;&gt;“1931”&lt;/a&gt; is met de auto prima bereikbaar. Op pakweg 5 minuten van de snelweg A59, met een zee aan parkeerruimte direct voor de deur. Met het OV reis je naar station ‘s-Hertogenbosch en wandel je in 10 minuten naar “1931”. Waarschijnlijk laat de GeoBuzz organisatie net als vorig jaar een pendelbus rijden. Opstappen bij de uitgang Paleiskwartier/Brabanthallen. Carpoolen kan natuurlijk ook, daarvoor doe je het beste een oproep op de &lt;a href=&#34;http://www.meetup.com/OSGeoNL/events/225281140/&#34;&gt;osgeo.nl -meetup-site&lt;/a&gt;.&lt;/p&gt;
           
           
         
@@ -87,8 +189,8 @@ Dat gaat naar Den Bosch toe Congrescentrum “1931” is met de auto prima berei
       <description>
         
           
-            Op donderdag 28 mei 2015 (13:30-17:30) is er een Ruimteschepper-kenniskring bijeenkomst bij Nieuwland in Wageningen met als thema “Wegwijs in Open Source Geo”. Dit is een co-productie met de Stichting OSGeo.nl. Vanuit OSGeo.nl zal voorzitter Gert-Jan van der Weijden als eerste spreker “Het Open Source Geo landschap” inzichtelijk maken. Zie het volledige programma hieronder en op de Meetup Event.
-In principe is dit event alleen voor Ruimteschepper-kenniskring-leden maar dat kun je zo worden of mogelijk alleen voor deze bijeenkomst.
+            &lt;p&gt;Op donderdag 28 mei 2015 (13:30-17:30) is er een &lt;a href=&#34;http://ruimteschepper.nl/kenniskring&#34;&gt;Ruimteschepper-kenniskring&lt;/a&gt; bijeenkomst bij Nieuwland in Wageningen met als thema “Wegwijs in Open Source Geo”. Dit is een co-productie met de Stichting OSGeo.nl. Vanuit OSGeo.nl zal voorzitter Gert-Jan van der Weijden als eerste spreker “Het Open Source Geo landschap” inzichtelijk maken. Zie het volledige programma hieronder en op de &lt;a href=&#34;http://www.meetup.com/OSGeoNL/events/222686244/&#34;&gt;Meetup Event&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In principe is dit event alleen voor Ruimteschepper-kenniskring-leden maar dat kun je zo worden of mogelijk alleen voor deze bijeenkomst. Zie ruimteschepper.nl en/of mail &lt;a href=&#34;mailto:info@ruimteschepper.nl&#34;&gt;info@ruimteschepper.nl&lt;/a&gt; voor opgeven. Dus: de RSVP op de &lt;a href=&#34;http://www.meetup.com/OSGeoNL/events/222686244/&#34;&gt;Meetup Event&lt;/a&gt; is alleen bedoeld om aan te geven dat je via Ruimteschepper naar het seminar gaat! Opgeven dus via Ruimteschepper.&lt;/p&gt;
           
           
         
