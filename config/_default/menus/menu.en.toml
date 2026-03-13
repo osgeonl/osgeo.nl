@@ -40,18 +40,18 @@
   weight = -96
 [[main]]
   parent = "Community"
-  name = "QGIS Gebruikersgroep &neArr;"
+  name = "QGIS Gebruikersgroep "
   url = "https://qgis.nl/"
   weight = -91
 [[main]]
   parent = "Community"
-  name = "OpenStreetMap Nederland &neArr;"
-  url = "https://www.openstreetmap.app/"
+  name = "OpenStreetMap Nederland "
+  url = "https://www.openstreetmap.nl/"
   weight = -91
 [[main]]
   parent = "Community"
   identifier = "geoNetwork-gebruikersGroep"
-  name = "GeoNetwork GebruikersGroep &#8227;"
+  name = "GeoNetwork GebruikersGroep"
   url = "0_community/geonetwork/"
   weight = -92
 
@@ -73,6 +73,11 @@
   parent = "Events"
   name = "PostGIS dag &neArr;"
   url = "https://postgisdag.nl/"
+  weight = -97  
+[[main]]
+  parent = "Events"
+  name = "OSGeoNL Beginnersdag"
+  url = "0_events/beginnersdag"
   weight = -97  
 [[main]]
   parent = "Events"

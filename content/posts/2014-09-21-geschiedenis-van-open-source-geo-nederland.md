@@ -2,7 +2,7 @@
 title: Geschiedenis van Open source geo in Nederland
 author: Gert-Jan van der Weijden
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2001-11-30T00:00:00+00:00
 draft: true
 url: /?p=563
 categories:

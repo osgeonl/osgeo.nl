@@ -14,7 +14,6 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
@@ -31,14 +30,15 @@ jobs:
 
       - name: 🔧 Install tools
         run: |
-          sudo apt install curl jq
+          sudo apt update
+          sudo apt install -y curl jq
           npm install postcss-cli autoprefixer
 
       - name: 🤵 Install Hugo
         run: |
-          HUGO_VERSION=0.101.0
-          mkdir tmp/ && cd tmp/
-          curl -sSL https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz | tar -xvzf-
+          HUGO_VERSION=0.157.0 
+          mkdir -p tmp && cd tmp
+          curl -sSL https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz | tar -xz
           sudo mv hugo /usr/local/bin/
           cd .. && rm -rf tmp/
           hugo version
@@ -51,6 +51,7 @@ jobs:
         with:
           branch: gh-pages # The branch the action should deploy to.
           folder: public # The folder the action should deploy.
+
 
 #      - name: 🚀 Deploy build
 #        run: |
