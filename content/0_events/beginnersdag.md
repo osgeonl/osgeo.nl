@@ -26,7 +26,8 @@ Ben je nieuwsgierig naar geo, maar weet je niet waar te beginnen? Of wil je over
 Kom ontdekken wat open source geo-software voor jou kan betekenen, maak nieuwe connecties en laat je inspireren!
 
 **Locatie:** Grasso, Den Bosch
-De locatie wordt aangeboden door .... @paulo 2 zinnen over wat en waarom?
+De workshops vinden plaats in het prachtige [GRASSO](https://degrasso.nl) in het Innovatie Kwartier Den Bosch ([IKDB](https://www.ik-db.nl/)), een plek waar innovatieve bedrijven en organisaties de ruimte, voorzieningen en infrastructuur vinden om samen aan een duurzame toekomst te werken.
+
 
 **Wanneer:** 17 april - 9:30-16:30
 
@@ -39,7 +40,7 @@ De locatie wordt aangeboden door .... @paulo 2 zinnen over wat en waarom?
 | 13:30 - 16:00 | Workshop Ronde 2 |
 | 16:00 - 16:30 | Gezamenlijke afsluiting |
 
-Meer informatie over de workshops volgt snel.
+Meer informatie over de workshops staat hieronder.
 
 ---
 
@@ -50,27 +51,34 @@ Studenten kunnen gratis deelnemen (max. 10 tickets).
 
 ---
 
+De dag wordt georganiseerd door OSGeo.NL en de [HAS green academy](https://www.has.nl/).
+
+![](/img/HAS-green-academy_S_RGB_Light-dark-green(1).png)
+
+----
+
 # De workshops
 
 Gedurende de dag kan je 2 workshops volgen; één in de ochtend en één in de middag. Ben jij een absolute beginner? Dan raden we je aan in de ochtend de [GIS Essenties: Basiskennis om te werken met GIS](#gis-essenties-basiskennis-om-te-werken-met-gis) te volgen en in de middag jouw software naar keuze. 
 
 Inschrijven moet van te vore (dit doe je bij ticket aanschaf). Inschrijven op de dag of wisselen is helaas niet te garanderen. Vol = vol en plaatsen zijn gelimiteerd. Zie de [ticket](https://pretix.eu/foss4gnl/Startersdag/) verkoop voor meer informatie en inschrijven.
 
-| Ronde           | Wat                                                                               | Waar                              |
+| Ronde           | Workshop                                                                               | Ruimte *                              |
 | --------------- | --------------------------------------------------------------------------------- | --------------------------------- |
-| Ochtend Ronde 1 | [GIS Essenties: Basiskennis om te werken met GIS](#gis-essenties-basiskennis-om-te-werken-met-gis)                                                          | Space for digital minds           |
-| Ochtend Ronde 1 | [Maplibre](#maplibre)                                                                          | VergaderruimteHA0.08              |
-| Ochtend Ronde 1 | [Quick intro QGIS](#quick-intro-qgis)                                                                     | Vergaderruimte HA0.16             |
-| Ochtend Ronde 1 | [De kracht van PostGIS: haal meer uit een GIS database](#de-kracht-van-postgis-haal-meer-uit-een-gis-database)                                                                           | Vergaderruimte HA1.18             |
-| Ochtend Ronde 1 | [Van data naar kaart met open data & open source](#van-data-naar-kaart-met-open-data--open-source)  |Vergaderruimte HA1.19                            |
-| Ochtend Ronde 1 | [3D Tiles](#3d-tiles)                                                                          | Vergaderruimte A114               |
-|---|---|---|GIS Essenties: Basiskennis om te werken met GIS
-| Middag Ronde 2  | [Quick intro QGIS](#quick-intro-qgis)                                                      | Space for digital minds           |
-| Middag Ronde 2  | [Velddatacollectie met QGIS en Mergin Maps](#velddatacollectie-met-qgis-en-mergin-maps) & [QLekker buiten je eigen geodata verzamelen met QField](#lekker-buiten-je-eigen-geodata-verzamelen-met-qfield)                                                              | Vergaderruimte HA0.08             |
-| Middag Ronde 2  | [Architecturen met OSGeo-componenten voor web-applicaties](#architecturen-met-osgeo-componenten-voor-web-applicaties)                          | Vergaderruimte HA0.16             |
-| Middag Ronde 2  |[De kracht van PostGIS: haal meer uit een GIS database](#de-kracht-van-postgis-haal-meer-uit-een-gis-database)                                                                    | VergaderruimteHA1.18              |
-| Middag Ronde 2  | [Van data naar kaart met open data & open source](#van-data-naar-kaart-met-open-data--open-source)                | Vergaderruimte HA1.19             |
-| Middag Ronde 2  | [GrassGIS](#grassgis)                                                                          | Vergaderruimte A114               |
+| Ochtend  | [GIS Essenties: Basiskennis om te werken met GIS](#gis-essenties-basiskennis-om-te-werken-met-gis)                                                          | Space for digital minds           |
+| Ochtend  | [Quick intro QGIS](#quick-intro-qgis)                                                                     | Vergaderruimte HA0.16             |
+| Ochtend  | [De kracht van PostGIS: haal meer uit een GIS database](#de-kracht-van-postgis-haal-meer-uit-een-gis-database)                                                                           | Vergaderruimte HA1.18             |
+| Ochtend  | [Van data naar kaart met open data & open source](#van-data-naar-kaart-met-open-data--open-source)  |Vergaderruimte HA1.19                            |
+| Ochtend  | [3D Tiles](#3d-tiles)                                                                          | Vergaderruimte A114               |
+|---|---|---|
+| Middag   | [Quick intro QGIS](#quick-intro-qgis)                                                      | Space for digital minds           |
+| Middag   | [Velddatacollectie met QGIS en Mergin Maps](#velddatacollectie-met-qgis-en-mergin-maps) & [Lekker buiten je eigen geodata verzamelen met QField](#lekker-buiten-je-eigen-geodata-verzamelen-met-qfield)                                                              | Vergaderruimte HA0.08             |
+| Middag   | [De kracht van PostGIS: haal meer uit een GIS database](#de-kracht-van-postgis-haal-meer-uit-een-gis-database)                                                                    | VergaderruimteHA1.18              |
+| Middag   | [Van data naar kaart met open data & open source](#van-data-naar-kaart-met-open-data--open-source)                | Vergaderruimte HA1.19             |
+| Middag   | [GRASS in de stad: hoe groen is de stad eigenlijk?](#grass-in-de-stad-hoe-groen-is-de-stad-eigenlijk)                          | Vergaderruimte A114               |
+
+\* Zaal kan nog wijzigen, kijk altijd op de dag zelf waar je moet zijn.
+
 --------------
 
 ## GIS Essenties: Basiskennis om te werken met GIS
@@ -87,20 +95,6 @@ Als je nieuw bent in de GIS wereld kunnen alle termen en jargon het best moeilij
 
 ---
 
-## MapLibre
-
--
-
-**Doelgroep:**  - 
-
-**Voorbereiding:** -
-
-| Tijd    | Organisatie       | Wie          |
-| ------- | ----------------- | ------------ |
-| Ronde 1 | Maplibre | Bart Louwers |
-
----
-
 ## Quick intro QGIS
 
 Je krijgt een indruk van de mogelijkheden van QGIS aan de hand van een praktijkvoorbeeld met open data. 
@@ -111,6 +105,7 @@ Je leert:
 - een nieuwe kaartlaag berekenen met een overlay-analyse
 - een layout maken van je kaart
 
+![](/img/qgis_tool.jpeg)
 
 **Doelgroep:** Iedereen die wil leren geo-data te gebruiken bij het oplossen van vraagstukken. Geen voorkennis van QGIS nodig.
 
@@ -150,6 +145,7 @@ In deze workshop gaan we ruimtelijke gegevens in een database inladen, en deze i
 
 Voor het tijdschrift [Geografie](https://geografie.nl/tijdschrift) maak ik regelmatig kaarten, en vaak is dat een (stads)plattegrond van het gebied waar een artikel over gaat. Voor dit soort kaarten kun je een workflow gebruiken gebaseerd op Open Data die je verwerkt in Open Source tools en publiceert voor drukwerk of voor gebruik in websites. Welke data je gebruikt hangt af van de gewenste schaal van je kaart, de software kan ook variëren. In deze workshop staat QGIS centraal en gebruiken we EuroGeoGraphics data voor kleinschalige en OpenStreetMap data voor grootschalige kaarten, en maken we zowel webplaatjes als drukwerk kaarten:
 ![](/img/img-c34c0954-e0ee-4a5b-b9c3-f1f1d4fc6b00.png)
+
 **Doelgroep:** Iedereen met een beperkte basiskennis van geo-data kan meedoen.
 
 **Voorbereiding:** Wij zorgen voor de data, maar we verwachten wel dat je een versie van QGIS op je laptop hebt draaien (zie https://qgis.org voor downloads etc.).
@@ -218,27 +214,22 @@ In de workshop leg ik uit wat QField en QFieldCloud is, hoe het samenwerkt met Q
 
 ---
 
-## Architecturen met OSGeo componenten voor web applicaties
+## GRASS in de stad: hoe groen is de stad eigenlijk?
 
--
-**Doelgroep:** -
+**GRASS** is een open source GIS dat al jaren bekend staat om zijn sterke analysemogelijkheden, vooral wanneer je met rasterdata werkt. Veel GIS-gebruikers zijn GRASS waarschijnlijk al eens tegengekomen zonder het te weten: in de processing toolbox van QGIS zitten namelijk veel analysetools die eigenlijk uit GRASS komen.
+In deze workshop werken we direct met GRASS zelf aan de hand van een actuele vraag; hoe groen is de stad eigenlijk? Je maakt daarbij op een praktische manier kennis met de mogelijkheden van het programma.
 
-**Voorbereiding:** -
+Met behulp van open geodata analyseren we een stedelijk gebied. Je leert hoe je rasterdata inlaadt en gebruikt voor eenvoudige ruimtelijke analyses. We combineren verschillende datasets en berekenen hoeveel bomen en struiken er eigenlijk in de stad te vinden zijn. Zo krijg je een eerste indruk van hoe GRASS gebruikt kan worden voor ruimtelijke analyse.
 
-| Tijd    | Organisatie          | Wie          |
-| ------- | -------------------- | ------------ |
-| Ronde 2 | Webmapper | Edward MacGillvary |
+Tijdens de workshop laten we ook zien hoe wat je in de grafische interface doet direct overeenkomt met de onderliggende commando’s. Zo zie je dat de stap naar het automatiseren van analyses verrassend klein is.
 
----
+**Doelgroep:** 
+Iedereen die wil kennismaken met GRASS en wil zien wat je met rasterdata kunt analyseren. Basiskennis van geo-data is handig, maar ervaring met GRASS is niet nodig.
 
-## GrassGIS
-
--
-**Doelgroep:** -
-
-**Voorbereiding:** -
+**Voorbereiding:** 
+Zorg dat je een laptop met GRASS (versie 8.4.2) hebt geïnstalleerd. Downloads zijn te vinden op: [https://grass.osgeo.org](https://grass.osgeo.org). 
 
 | Tijd    | Organisatie          | Wie   |
 | ------- | -------------------- | ----- |
-| Ronde 2 | HAS | Paulo |
+| Ronde 2 | HAS green academy  | Paulo van Breugel |
 
