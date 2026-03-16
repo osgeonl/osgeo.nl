@@ -76,8 +76,8 @@
   weight = -97  
 [[main]]
   parent = "Events"
-  name = "OSGeoNL Beginnersdag"
-  url = "0_events/beginnersdag"
+  name = "OSGeoNL Startersdag 2026"
+  url = "0_events/beginnersdag/"
   weight = -97  
 [[main]]
   parent = "Events"
