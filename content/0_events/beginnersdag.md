@@ -28,17 +28,17 @@ Kom ontdekken wat open source geo-software voor jou kan betekenen, maak nieuwe c
 **Locatie:** Grasso, Den Bosch
 De workshops vinden plaats in het prachtige [GRASSO](https://degrasso.nl) in het Innovatie Kwartier Den Bosch ([IKDB](https://www.ik-db.nl/)), een plek waar innovatieve bedrijven en organisaties de ruimte, voorzieningen en infrastructuur vinden om samen aan een duurzame toekomst te werken.
 
-
 **Wanneer:** 17 april - 9:30-16:30
 
 **Programma:**
-| Tijd | Onderdeel |
-|-----| ----- |
-| 09:30 - 10:00 | Plenaire opening |
-| 10:00 - 12:30 | Workshop Ronde 1 |
-| 12:30 - 13:30 | Lunch |
-| 13:30 - 16:00 | Workshop Ronde 2 |
-| 16:00 - 16:30 | Gezamenlijke afsluiting |
+| Tijd | Duur | Onderdeel |
+|-----| ----- |--- |
+| 09:30 - 10:00 | 30 min | Plenaire opening |
+| 10:00 - 12:00 | 2 uur | Workshop Ronde 1 |
+| 12:00 - 13:00 | 1 uur | Lunch |
+| 13:00 - 14:30 | 1 uur 30 min | Workshop Ronde 2 |
+| 14:30 - 16:00 | 1 uur 30 min | Workshop Ronde 3 |
+| 16:00 - 16:30 | 30 min | Gezamenlijke afsluiting |
 
 Meer informatie over de workshops staat hieronder.
 
@@ -46,40 +46,57 @@ Meer informatie over de workshops staat hieronder.
 
 # Meld je [hier](https://pretix.eu/foss4gnl/Startersdag/) aan
 
-**Kosten:** Pay-what-you-want (€25 aanbevolen), inclusief lunch en toegang tot de hele dag met 2 workshops naar keuze.
+**Kosten:** Pay-what-you-want (€25 aanbevolen), inclusief lunch en toegang tot de hele dag met 3 workshops naar keuze.
 Studenten kunnen gratis deelnemen (max. 10 tickets).
 
 ---
 
 De dag wordt georganiseerd door OSGeo.NL en de [HAS green academy](https://www.has.nl/).
 
-![](/img/HAS-green-academy_S_RGB_Light-dark-green(1).png)
+![](</img/HAS-green-academy_S_RGB_Light-dark-green(1).png>)
 
-----
+---
 
 # De workshops
 
-Gedurende de dag kan je 2 workshops volgen; één in de ochtend en één in de middag. Ben jij een absolute beginner? Dan raden we je aan in de ochtend de [GIS Essenties: Basiskennis om te werken met GIS](#gis-essenties-basiskennis-om-te-werken-met-gis) te volgen en in de middag jouw software naar keuze. 
+Gedurende de dag kan je 2 of 3 workshops volgen; één in de ochtend en twee in de middag. Ben jij een absolute beginner? Dan raden we je aan in de ochtend de [GIS Essenties: Basiskennis om te werken met GIS](#gis-essenties-basiskennis-om-te-werken-met-gis) te volgen en in de middag jouw software naar keuze.
 
 Inschrijven moet van te vore (dit doe je bij ticket aanschaf). Inschrijven op de dag of wisselen is helaas niet te garanderen. Vol = vol en plaatsen zijn gelimiteerd. Zie de [ticket](https://pretix.eu/foss4gnl/Startersdag/) verkoop voor meer informatie en inschrijven.
 
-| Ronde           | Workshop                                                                               | Ruimte *                              |
-| --------------- | --------------------------------------------------------------------------------- | --------------------------------- |
-| Ochtend  | [GIS Essenties: Basiskennis om te werken met GIS](#gis-essenties-basiskennis-om-te-werken-met-gis)                                                          | Space for digital minds           |
-| Ochtend  | [Quick intro QGIS](#quick-intro-qgis)                                                                     | Vergaderruimte HA0.16             |
-| Ochtend  | [De kracht van PostGIS: haal meer uit een GIS database](#de-kracht-van-postgis-haal-meer-uit-een-gis-database)                                                                           | Vergaderruimte HA1.18             |
-| Ochtend  | [Van data naar kaart met open data & open source](#van-data-naar-kaart-met-open-data--open-source)  |Vergaderruimte HA1.19                            |
-| Ochtend  | [3D Tiles](#3d-tiles)                                                                          | Vergaderruimte A114               |
-|---|---|---|
-| Middag   | [Quick intro QGIS](#quick-intro-qgis)                                                      | Space for digital minds           |
-| Middag   | [Velddatacollectie met QGIS en Mergin Maps](#velddatacollectie-met-qgis-en-mergin-maps) & [Lekker buiten je eigen geodata verzamelen met QField](#lekker-buiten-je-eigen-geodata-verzamelen-met-qfield)                                                              | Vergaderruimte HA0.08             |
-| Middag   | [De kracht van PostGIS: haal meer uit een GIS database](#de-kracht-van-postgis-haal-meer-uit-een-gis-database)                                                                    | VergaderruimteHA1.18              |
-| Middag   | [Van data naar kaart met open data & open source](#van-data-naar-kaart-met-open-data--open-source)                | Vergaderruimte HA1.19             |
-| Middag   | [GRASS in de stad: hoe groen is de stad eigenlijk?](#grass-in-de-stad-hoe-groen-is-de-stad-eigenlijk)                          | Vergaderruimte A114               |
+Kijk zelf goed of jouw workshop keuze te combineren is. Sommige workshops worden meermaals gegeven op de dag.
+
+| Ronde 1       | Workshop                                                                                                       | Ruimte \*                         |
+| ------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| 10:00 - 12:00 | [GIS Essenties: Basiskennis om te werken met GIS](#gis-essenties-basiskennis-om-te-werken-met-gis)             | Space for digital minds           |
+| 10:00 - 12:00 | [Maplibre]()                                                                                                   | Vergaderruimte HA0.08             |
+| 10:00 - 12:00 | [Quick intro QGIS](#quick-intro-qgis)                                                                          | Vergaderruimte HA0.16             |
+| 10:00 - 12:00 | [De kracht van PostGIS: haal meer uit een GIS database](#de-kracht-van-postgis-haal-meer-uit-een-gis-database) | Vergaderruimte HA1.18             |
+| 10:00 - 12:00 | [Van data naar kaart met open data & open source](#van-data-naar-kaart-met-open-data--open-source)             | Vergaderruimte HA1.19             |
+| 10:00 - 12:00 |                                                                                                                | Vergaderruimte A114               |
+
+| Ronde 2       | Workshop                                                                                                       | Ruimte \*                        |
+| ------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| 13:00 - 14:30 | [Quick intro QGIS](#quick-intro-qgis)                                                                          | Space for digital minds          |
+| 13:00 - 14:30 | [Maplibre]()                                                                                                   | Vergaderruimte HA0.08            |
+| 13:00 - 14:30 | []()                                                                                                           | Vergaderruimte HA0.16            |
+| 13:00 - 14:30 | [De kracht van PostGIS: haal meer uit een GIS database](#de-kracht-van-postgis-haal-meer-uit-een-gis-database) | VergaderruimteHA1.18             |
+| 13:00 - 14:30 | [Van data naar kaart met open data & open source](#van-data-naar-kaart-met-open-data--open-source)             | Vergaderruimte HA1.19            |
+
+| Ronde 3       | Workshop                                                                                                                                                            | Ruimte \*                                   |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| 14:30 - 16:00 | [Geoserver](#)                                                                                                                                                      | Space for digital minds                     |
+| 14:30 - 16:00 | [Works hop 3D Tiles – Efficient Visualisatie en Streaming van 3D Geospatiale Data](#workshop-3d-tiles--efficient-visualisatie-en-streaming-van-3d-geospatiale-data) | Vergaderruimte HA0.08                       |
+| 14:30 - 16:00 |                                                                                                                                                                     | Vergaderruimte HA0.16                       |
+| 14:30 - 16:00 | [GRASS in de stad: hoe groen is de stad eigenlijk?](#grass-in-de-stad-hoe-groen-is-de-stad-eigenlijk)                                                               | Vergaderruimte HA1.18                       |
+| 14:30 - 16:00 |                                                                                                                                                                     | Vergaderruimte HA1.19                       |
+
+| Ronde 2 & 3 doorlopend | Workshop                                                                                                                                                                                                | Ruimte \*                        |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| 13:00 - 16:00 | [Velddatacollectie met QGIS en Mergin Maps](#velddatacollectie-met-qgis-en-mergin-maps) & [Lekker buiten je eigen geodata verzamelen met QField](#lekker-buiten-je-eigen-geodata-verzamelen-met-qfield) | Vergaderruimte HA0.08            |
 
 \* Zaal kan nog wijzigen, kijk altijd op de dag zelf waar je moet zijn.
 
---------------
+---
 
 ## GIS Essenties: Basiskennis om te werken met GIS
 
@@ -97,9 +114,10 @@ Als je nieuw bent in de GIS wereld kunnen alle termen en jargon het best moeilij
 
 ## Quick intro QGIS
 
-Je krijgt een indruk van de mogelijkheden van QGIS aan de hand van een praktijkvoorbeeld met open data. 
+Je krijgt een indruk van de mogelijkheden van QGIS aan de hand van een praktijkvoorbeeld met open data.
 
 Je leert:
+
 - kaartlagen toevoegen aan je project
 - symbologie aanpassen en teksten plaatsen
 - een nieuwe kaartlaag berekenen met een overlay-analyse
@@ -109,35 +127,36 @@ Je leert:
 
 **Doelgroep:** Iedereen die wil leren geo-data te gebruiken bij het oplossen van vraagstukken. Geen voorkennis van QGIS nodig.
 
-
 **Voorbereiding:** QGIS kun je hier gratis downloaden voor je eigen OS: https://qgis.org/download/
 En vergeet je muis niet!
 
+| Tijd              | Organisatie                     | Wie                                    |
+| ----------------- | ------------------------------- | -------------------------------------- |
+| Ronde 1 & Ronde 2 | [OpenGeoGroep](opengeogroep.nl) | Raymond Nijssen & Richard Duivenvoorde |
 
-| Tijd    | Organisatie       | Wie          |
-| ------- | ----------------- | ------------ |
-| Ronde 1 & Ronde 2 | OpenGeoGroep  | Raymond Nijssen  & Richard Duivenvoorde 
-|
+![](/img/startersdag_2026/OGG-logo2012_mettekst_nomargin.svg)
 
 ---
 
 ## De kracht van PostGIS: haal meer uit een GIS database
-PostgreSQL is een volwaardige enterprise database met alle features die je van zo’n database kan verwachten. Met de eenvoudig te installeren extensie PostGIS maak je er een ruimtelijke database van. Zo’n database is onmisbaar voor organisaties waar veel medewerkers met geodata werken: je kan de data geordend opslaan en het beheer en gebruik optimaal regelen. 
-Maar ook voor een kleine organisatie of ZZP’er is zo’n PostGIS database ideaal. Je kan ‘m eenvoudig lokaal installeren en direct gebruiken. 
+
+PostgreSQL is een volwaardige enterprise database met alle features die je van zo’n database kan verwachten. Met de eenvoudig te installeren extensie PostGIS maak je er een ruimtelijke database van. Zo’n database is onmisbaar voor organisaties waar veel medewerkers met geodata werken: je kan de data geordend opslaan en het beheer en gebruik optimaal regelen.
+Maar ook voor een kleine organisatie of ZZP’er is zo’n PostGIS database ideaal. Je kan ‘m eenvoudig lokaal installeren en direct gebruiken.
 En, PostGIS is niet alleen fijn om gegevens geordend op te slaan en te raadplegen, je kan er ook uitstekend GIS-analyses in doen. Sterker nog: PostGIS is daarin flexibeler en krachtiger dan welk standaard GIS-pakket dan ook.
 
-In deze workshop gaan we ruimtelijke gegevens in een database inladen, en deze in QGIS bekijken. Daarna gaan we bevragingen doen: een filter zetten op een dataset, en wat zaken manipuleren. En vervolgens gaan we verschillende datasets combineren in een GIS analyse. 
+In deze workshop gaan we ruimtelijke gegevens in een database inladen, en deze in QGIS bekijken. Daarna gaan we bevragingen doen: een filter zetten op een dataset, en wat zaken manipuleren. En vervolgens gaan we verschillende datasets combineren in een GIS analyse.
 
 **Doelgroep:** In deze workshop werken we bij voorkeur met een database verbinding in QGIS. Basiskennis van QGIS is hiervoor wel nodig: je moet in ieder geval weten hoe je een dataset inlaadt en visualiseert. Het is leuk als je al wat ervaring hebt met het zetten van een filter of het maken van een selectie (expressie) in GIS, maar als dat niet zo is ga je dat zeker in deze workshop leren.
 
-**Voorbereiding:** 
-* Zorg dat je een laptop met QGIS hebt. 
-* Installeer vooraf ook PostgreSQL en PostGIS. Een instructie hiervoor kun je hier vinden.
-* Als alternatief kun je ook een bestaande PostGIS database van je organisatie gebruiken, mits je voldoende rechten hebt (leesrechten sowieso, schrijfrechten is beter).
+**Voorbereiding:**
 
-| Tijd              | Organisatie       | Wie    |
-| ----------------- | ----------------- | ------ |
-| Ronde 1 & Ronde 2 | Ruimtemaatwerk / Geo Academie | Willem Hoffmans  |
+- Zorg dat je een laptop met QGIS hebt.
+- Installeer vooraf ook PostgreSQL en PostGIS. Een instructie hiervoor kun je hier vinden.
+- Als alternatief kun je ook een bestaande PostGIS database van je organisatie gebruiken, mits je voldoende rechten hebt (leesrechten sowieso, schrijfrechten is beter).
+
+| Tijd              | Organisatie                   | Wie             |
+| ----------------- | ----------------------------- | --------------- |
+| Ronde 1 & Ronde 2 | Ruimtemaatwerk / Geo Academie | Willem Hoffmans |
 
 ---
 
@@ -150,67 +169,75 @@ Voor het tijdschrift [Geografie](https://geografie.nl/tijdschrift) maak ik regel
 
 **Voorbereiding:** Wij zorgen voor de data, maar we verwachten wel dat je een versie van QGIS op je laptop hebt draaien (zie https://qgis.org voor downloads etc.).
 
-| Tijd              | Organisatie                      | Wie           |
-| ----------------- | -------------------------------- | ------------- |
-| Ronde 1 & Ronde 2 | Universiteit Twente – Geoversity | Barend Köbben |
+| Tijd              | Organisatie                                               | Wie           |
+| ----------------- | --------------------------------------------------------- | ------------- |
+| Ronde 1 & Ronde 2 | Universiteit Twente – [Geoversity](Https://geoversity.io) | Barend Köbben |
+
+![](/img/starterdag_2026/)
 
 ---
 
-## 3D Tiles
+## Workshop 3D Tiles – Efficient Visualisatie en Streaming van 3D Geospatiale Data
 
--
-**Doelgroep:** -
+**Tooling**: Docker, QGIS, Pg2b3dm, I3dm.export, CesiumJS/Giro3D en de OGC 3D Tiles standaard
 
-**Voorbereiding:** -
+De workshop behandelt wat 3D Tiles is en hoe je grote 3D-geospatiale datasets efficiënt kunt streamen en visualiseren. Inclusief uitleg over de 3D Tiles standaard, tileset-architectuur, tileformaten, het ecosysteem van tools voor genereren en bekijken van 3D Tiles, en hands-on oefeningen met voorbeelddata zoals een Digital Twin van Andijk. Doel is inzicht krijgen in toepassing van 3D Tiles in projecten met 3D-data en praktisch werken met Docker en QGIS.
 
-| Tijd    | Organisatie       | Wie          |
-| ------- | ----------------- | ------------ |
-| Ronde 1 | Sogelink | Ricardo |
+**Doelgroep:** GIS-professionals, geo-developers en data engineers die met 3D visualisatie werken; basiskennis van GIS en 3D-data gewenst; ervaring met command-line tools en Docker aanbevolen.
+
+**Voorbereiding:** Docker Desktop, QGIS 3.44, workshopmaterialen via GitHub.
+
+| Tijd    | Organisatie | Wie        |
+| ------- | ----------- | ---------- |
+| Ronde 3 | [Sogelink]()    | Bert Temme |
 
 ---
 
 ## Velddatacollectie met QGIS en Mergin Maps
-Mergin Maps is een gebruiksvriendelijk platform voor het verzamelen, bewerken en beheren van geografische data in het veld. Het werkt naadloos samen met QGIS, waardoor teams kaarten en datasets kunnen synchroniseren tussen desktop en mobiele apparaten. Gebruikers kunnen offline werken, wijzigingen automatisch laten samenvoegen en projecten veilig delen met collega’s. Het is vooral populair bij landmeters, ecologen, ingenieurs en andere professionals die betrouwbare velddata nodig hebben. 
+
+Mergin Maps is een gebruiksvriendelijk platform voor het verzamelen, bewerken en beheren van geografische data in het veld. Het werkt naadloos samen met QGIS, waardoor teams kaarten en datasets kunnen synchroniseren tussen desktop en mobiele apparaten. Gebruikers kunnen offline werken, wijzigingen automatisch laten samenvoegen en projecten veilig delen met collega’s. Het is vooral populair bij landmeters, ecologen, ingenieurs en andere professionals die betrouwbare velddata nodig hebben.
 Tijdens de workshop leer je stap voor stap hoe je een complete workflow voor velddatacollectie opzet met QGIS en Mergin Maps. Je gaat praktisch aan de slag met:
-* Opzetten van een surveyproject in QGIS: Je maakt formulieren met widgets en configureert kaartlagen die geschikt zijn voor gebruik in het veld.
-* Achtergrondkaarten en survey-lagen configureren: Je leert hoe je zowel online als offline kaartlagen voorbereidt, zodat je ook zonder internetverbinding kunt werken.
-* Project synchronisatie met Mergin Maps: Je koppelt je QGIS‑project aan Mergin Maps en test hoe wijzigingen tussen desktop en mobiele app worden gesynchroniseerd.
-* Werken met de Mergin Maps app in het veld: Je probeert de app uit op een mobiel toestel (Android of iOS) en verzamelt echte velddata met de door jou gemaakte formulieren.
-* Samenwerken binnen een project: Je ontdekt hoe je projecten deelt met collega’s en hoe meerdere gebruikers tegelijk aan dezelfde dataset kunnen werken.
+
+- Opzetten van een surveyproject in QGIS: Je maakt formulieren met widgets en configureert kaartlagen die geschikt zijn voor gebruik in het veld.
+- Achtergrondkaarten en survey-lagen configureren: Je leert hoe je zowel online als offline kaartlagen voorbereidt, zodat je ook zonder internetverbinding kunt werken.
+- Project synchronisatie met Mergin Maps: Je koppelt je QGIS‑project aan Mergin Maps en test hoe wijzigingen tussen desktop en mobiele app worden gesynchroniseerd.
+- Werken met de Mergin Maps app in het veld: Je probeert de app uit op een mobiel toestel (Android of iOS) en verzamelt echte velddata met de door jou gemaakte formulieren.
+- Samenwerken binnen een project: Je ontdekt hoe je projecten deelt met collega’s en hoe meerdere gebruikers tegelijk aan dezelfde dataset kunnen werken.
 
 **Doelgroep:** In de workshop ga je zelf een Mergin Maps project maken. Daarom is basiskennis van QGIS nodig. Je moet in ieder geval een nieuw project kunnen starten en opslaan, lagen uit PDOK kunnen toevoegen, een nieuwe lege datalaag maken en opslaan in een geopackage.
 
+**Voorbereiding:**
 
-**Voorbereiding:**     
-* Zorg dat je een laptop met QGIS bij je hebt.
-* Installeer Mergin Maps op je mobiele telefoon en maak van te voren een account aan. Een gratis trial account werkt prima voor deze workshop. [Instructies hier](https://courses.gisopencourseware.org/mod/book/view.php?id=1405&chapterid=3534) 
-* Aangezien je met Mergin Maps buiten data gaat verzamelen is een mobiele internet-verbinding heel handig. Mergin Maps kan ook gebruikt worden zonder mobiel internet, dan zijn een paar extra stappen in de opbouw van je project nodig. Die kunnen we indien nodig prima behandelen in de workshop.
+- Zorg dat je een laptop met QGIS bij je hebt.
+- Installeer Mergin Maps op je mobiele telefoon en maak van te voren een account aan. Een gratis trial account werkt prima voor deze workshop. [Instructies hier](https://courses.gisopencourseware.org/mod/book/view.php?id=1405&chapterid=3534)
+- Aangezien je met Mergin Maps buiten data gaat verzamelen is een mobiele internet-verbinding heel handig. Mergin Maps kan ook gebruikt worden zonder mobiel internet, dan zijn een paar extra stappen in de opbouw van je project nodig. Die kunnen we indien nodig prima behandelen in de workshop.
 
-
-| Tijd    | Organisatie          | Wie          |
-| ------- | -------------------- | ------------ |
-| Ronde 2 | QWAST-GIS | Hans van der Kwast |
+| Tijd    | Organisatie | Wie                |
+| ------- | ----------- | ------------------ |
+| Ronde 2 & 3 doorlopend | QWAST-GIS   | Hans van der Kwast |
 
 ---
 
 ## Lekker buiten je eigen geodata verzamelen met QField
-QField is een professionele veldwerk-app waarmee je alleen of in een team buiten in het veld, op het water, in de stad geodata kunt verzamlen en bewerken. In principe neem je met QField je eigen QGIS project mee naar buiten. 
+
+QField is een professionele veldwerk-app waarmee je alleen of in een team buiten in het veld, op het water, in de stad geodata kunt verzamlen en bewerken. In principe neem je met QField je eigen QGIS project mee naar buiten.
 Je kunt je eigen achtergrondlagen toevoegen en je eigen data klaarzetten. QField werkt met interactieve invulformulieren die je zelf kunt maken in QGIS om het bewerken van data zo foutloos mogelijk te doen. Het synchroniseren van je veld-data met je kantoor doe je via QFieldCloud.
 In de workshop leg ik uit wat QField en QFieldCloud is, hoe het samenwerkt met QGIS en gaan we samen een heel eenvoduig project maken om meteen buiten data te verzamelen en die data weer naar je QGIS project op je laptop te synchroniseren.
 
-
 **Doelgroep:** In de workshop ga je zelf een QField project maken. Daarom is basiskennis van QGIS nodig. Je moet in ieder geval een nieuw project kunnen starten en opslaan, lagen uit PDOK kunnen toevoegen, een nieuwe lege datalaag maken en opslaan in een geopackage.
 
-**Voorbereiding:**     
-* Zorg dat je een laptop met QGIS bij je hebt.
-* Maak van te voren [een account aan op QFieldcloud](https://app.qfield.cloud/accounts/signup/). Een gratis community-account werkt prima voor deze workshop.
-* [Installeer QField](https://docs.qfield.org/get-started/#installation) op je mobiele apparaat, kijk hier voor jouw operating system 
-* Aangezien je met QField buiten data gaat verzamelen is een mobiele internet-verbinding heel handig. QField kan ook gebruikt worden zonder mobiel internet, dan zijn een paar extra stappen in de opbouw van je project nodig. Die kunnen we indien nodig prima behandelen in de workshop.
+**Voorbereiding:**
 
+- Zorg dat je een laptop met QGIS bij je hebt.
+- Maak van te voren [een account aan op QFieldcloud](https://app.qfield.cloud/accounts/signup/). Een gratis community-account werkt prima voor deze workshop.
+- [Installeer QField](https://docs.qfield.org/get-started/#installation) op je mobiele apparaat, kijk hier voor jouw operating system
+- Aangezien je met QField buiten data gaat verzamelen is een mobiele internet-verbinding heel handig. QField kan ook gebruikt worden zonder mobiel internet, dan zijn een paar extra stappen in de opbouw van je project nodig. Die kunnen we indien nodig prima behandelen in de workshop.
 
-| Tijd    | Organisatie          | Wie          |
-| ------- | -------------------- | ------------ |
-| Ronde 2 | Groene Bij / Geo Academie | Jeroen Hovens |
+| Tijd    | Organisatie               | Wie           |
+| ------- | ------------------------- | ------------- |
+| Ronde 2 & 3 doorlopend | Groene Bij / Geo Academie | Jeroen Hovens |
+
+![](/img/startersdag_2026/groenebij.png)
 
 ---
 
@@ -223,13 +250,12 @@ Met behulp van open geodata analyseren we een stedelijk gebied. Je leert hoe je 
 
 Tijdens de workshop laten we ook zien hoe wat je in de grafische interface doet direct overeenkomt met de onderliggende commando’s. Zo zie je dat de stap naar het automatiseren van analyses verrassend klein is.
 
-**Doelgroep:** 
+**Doelgroep:**
 Iedereen die wil kennismaken met GRASS en wil zien wat je met rasterdata kunt analyseren. Basiskennis van geo-data is handig, maar ervaring met GRASS is niet nodig.
 
-**Voorbereiding:** 
-Zorg dat je een laptop met GRASS (versie 8.4.2) hebt geïnstalleerd. Downloads zijn te vinden op: [https://grass.osgeo.org](https://grass.osgeo.org). 
+**Voorbereiding:**
+Zorg dat je een laptop met GRASS (versie 8.4.2) hebt geïnstalleerd. Downloads zijn te vinden op: [https://grass.osgeo.org](https://grass.osgeo.org).
 
-| Tijd    | Organisatie          | Wie   |
-| ------- | -------------------- | ----- |
-| Ronde 2 | HAS green academy  | Paulo van Breugel |
-
+| Tijd    | Organisatie                              | Wie               |
+| ------- | ---------------------------------------- | ----------------- |
+| Ronde 3 | [HAS green academy](https://www.has.nl/) | Paulo van Breugel |
