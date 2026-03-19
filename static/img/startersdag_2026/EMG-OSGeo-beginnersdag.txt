@@ -1,0 +1,29 @@
+# Naam workshopgever en organisatie
+
+Edward Mac Gillavry
+Webmapper
+
+# Titel workshops -pakkend, inspirerend, uitnodigend
+
+Hoe gebruik je OSGeo-componenten in je architectuur voor web-applicaties?
+
+# Techniek/software die je gebruikt
+
+MapLibre, MapServer
+
+# Beschrijving van de workshop
+
+Of je nu een web-viewer nodig hebt voor je overheidsorganisatie, bij je televisieprogramma over klimaatverandering of om je onderzoeksresultaten in kaart te brengen, OSGeo-componenten helpen je om ruimtelijke informatie op het Web te publiceren. In deze workshop neemt Edward je mee achter de schermen van verschillende web-applicaties die Webmapper in de afgelopen jaren heeft gemaakt. Hij laat hierbij zien, welke afwegingen zijn gemaakt in de besluitvorming om tot een bepaalde IT-architectuur te komen, zowel op eigen hardware als in de cloud.
+
+# Doelgroep/niveau, verwachte voorkennis
+
+Full-stack en DevOps ontwikkelaars en architecten voor wie 'geo' nog abracadabra is
+
+# Van tevoren te installeren/downloaden
+
+Niet van toepassing
+
+# Voorkeur aantal deelnemers wat je aankan
+
++/- 25
+
