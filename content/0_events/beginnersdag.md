@@ -44,7 +44,7 @@ Meer informatie over de workshops staat hieronder.
 
 ---
 
-# Meld je [hier](https://pretix.eu/foss4gnl/Startersdag/) aan
+# Meld je [hier](https://pretix.eu/foss4gnl/beginnersdag/) aan
 
 **Kosten:** Pay-what-you-want (€25 aanbevolen), inclusief lunch en toegang tot de hele dag met 3 workshops naar keuze.
 Studenten kunnen gratis deelnemen!
@@ -61,32 +61,32 @@ De dag wordt georganiseerd door OSGeo.NL en de [HAS green academy](https://www.h
 
 Gedurende de dag kan je 3 workshops volgen; één in de ochtend en twee in de middag. Ben jij een absolute beginner? Dan raden we je aan in de ochtend de [GIS Essenties: Basiskennis om te werken met GIS](#gis-essenties-basiskennis-om-te-werken-met-gis) te volgen en in de middag jouw software naar keuze.
 
-Inschrijven moet van te vore (dit doe je bij ticket aanschaf). Inschrijven op de dag of wisselen is helaas niet te garanderen. Vol = vol en plaatsen zijn gelimiteerd. Zie de [ticket](https://pretix.eu/foss4gnl/Startersdag/) verkoop voor meer informatie en inschrijven.
+Inschrijven moet van tevoren (dit doe je bij ticket aanschaf). Inschrijven op de dag of wisselen is helaas niet te garanderen. Vol = vol en plaatsen zijn gelimiteerd. Zie de [ticket](https://pretix.eu/foss4gnl/Startersdag/) verkoop voor meer informatie en inschrijven.
 
 Kijk zelf goed of jouw workshop keuze te combineren is. Sommige workshops worden meermaals gegeven op de dag.
 
-| Ronde 1 | Workshop | Ruimte \* |
+| Ronde 1       | Workshop                                                                                                       | Ruimte \*                         |
 | ------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------- |
 | 10:00 - 12:00 | [GIS Essenties: Basiskennis om te werken met GIS](#gis-essenties-basiskennis-om-te-werken-met-gis)             | Space for digital minds           |
 | 10:00 - 12:00 | [Kennismaking webkaarten met MapLibre](#kennismaking-webkaarten-met-maplibre)                                  | Vergaderruimte HA0.08             |
 | 10:00 - 12:00 | [Quick intro QGIS](#quick-intro-qgis)                                                                          | Vergaderruimte HA0.16             |
 | 10:00 - 12:00 | [De kracht van PostGIS: haal meer uit een GIS database](#de-kracht-van-postgis-haal-meer-uit-een-gis-database) | Vergaderruimte HA1.18             |
-| 10:00 - 12:00 | [Van data naar kaart met open data & open source](#van-data-naar-kaart-met-open-data--open-source)             | Vergaderruimte HA1.19             |
+| 10:00 - 12:00 |                                                                                                                | Vergaderruimte HA1.19             |
 | 10:00 - 12:00 |                                                                                                                | Vergaderruimte A114               |
 
-| Ronde 2       | Workshop                                                                                                       | Ruimte \*                        |
-| ------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| 13:00 - 14:30 | [Quick intro QGIS](#quick-intro-qgis)                                                                          | Space for digital minds          |
-| 13:00 - 14:30 | [Kennismaking webkaarten met MapLibre](#kennismaking-webkaarten-met-maplibre)                                  | Vergaderruimte HA0.08            |
-| 13:00 - 14:30 | [Hoe gebruik je OSGeo-componenten in je architectuur voor web-applicaties?](#aan-de-slag-met-ogc-apis-laagdrempelig-geodata-bevragen)                                  | Vergaderruimte HA0.16            |
-| 13:00 - 14:30 | [De kracht van PostGIS: haal meer uit een GIS database](#de-kracht-van-postgis-haal-meer-uit-een-gis-database) | VergaderruimteHA1.18             |
-| 13:00 - 14:30 |                                                                                                                | Vergaderruimte HA1.19            |
+| Ronde 2       | Workshop                                                                                                                              | Ruimte \*                        |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| 13:00 - 14:30 | [Quick intro QGIS](#quick-intro-qgis)                                                                                                 | Space for digital minds          |
+| 13:00 - 14:30 |                                                                                                                                       | Vergaderruimte HA0.08            |
+| 13:00 - 14:30 | [Hoe gebruik je OSGeo-componenten in je architectuur voor web-applicaties?](#aan-de-slag-met-ogc-apis-laagdrempelig-geodata-bevragen) | Vergaderruimte HA0.16            |
+| 13:00 - 14:30 | [De kracht van PostGIS: haal meer uit een GIS database](#de-kracht-van-postgis-haal-meer-uit-een-gis-database)                        | VergaderruimteHA1.18             |
+| 13:00 - 14:30 | [Van data naar kaart met open data & open source](#van-data-naar-kaart-met-open-data--open-source)                                    | Vergaderruimte HA1.19            |
 
 | Ronde 3       | Workshop                                                                                                                                                            | Ruimte \*                                   |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| 14:30 - 16:00 | [Introductie Geoserver](#introductie-geoserver)                                                                                                                                                      | Space for digital minds                     |
+| 14:30 - 16:00 | [ Kaartlagen online publiceren met GeoServer](#kaartlagen-online-publiceren-met-geoserver)                                                                                                                     | Space for digital minds                     |
 | 14:30 - 16:00 | [Works hop 3D Tiles – Efficient Visualisatie en Streaming van 3D Geospatiale Data](#workshop-3d-tiles--efficient-visualisatie-en-streaming-van-3d-geospatiale-data) | Vergaderruimte HA0.08                       |
-| 14:30 - 16:00 | [Aan de slag met OGC API’s: laagdrempelig geodata bevragen](#aan-de-slag-met-ogc-apis-laagdrempelig-geodata-bevragen)                                                                                                                                                                    | Vergaderruimte HA0.16                       |
+| 14:30 - 16:00 | [Aan de slag met OGC API’s: laagdrempelig geodata bevragen](#aan-de-slag-met-ogc-apis-laagdrempelig-geodata-bevragen)                                               | Vergaderruimte HA0.16                       |
 | 14:30 - 16:00 | [GRASS in de stad: hoe groen is de stad eigenlijk?](#grass-in-de-stad-hoe-groen-is-de-stad-eigenlijk)                                                               | Vergaderruimte HA1.18                       |
 | 14:30 - 16:00 | [Van data naar kaart met open data & open source](#van-data-naar-kaart-met-open-data--open-source)                                                                  | Vergaderruimte HA1.19                       |
 
@@ -106,11 +106,11 @@ Als je nieuw bent in de GIS wereld kunnen alle termen en jargon het best moeilij
 
 **Voorbereiding:** Geen
 
-| Tijd    | Organisatie       | Wie          |
-| ------- | ----------------- | ------------ |
+| Tijd    | Organisatie                                           | Wie          |
+| ------- | ----------------------------------------------------- | ------------ |
 | Ronde 1 | [GeoSquare Academy](https://www.geosquare.nl/academy) | Lars van Tol |
 
-![](https://www.geosquare.nl/hubfs/Branding/GS-202508-BW-RGB.svg)
+![](/img/startersdag_2026/GS-202508-BO-RGB.png) 
 
 ---
 
@@ -134,31 +134,39 @@ En vergeet je muis niet!
 
 | Tijd              | Organisatie                     | Wie                                    |
 | ----------------- | ------------------------------- | -------------------------------------- |
-| Ronde 1 & Ronde 2 | [OpenGeoGroep](opengeogroep.nl) | Raymond Nijssen & Richard Duivenvoorde |
+| Ronde 1 & Ronde 2 | [OpenGeoGroep](https://www.opengeogroep.nl/) | Raymond Nijssen & Richard Duivenvoorde |
 
 ![](/img/startersdag_2026/OGG-logo2012_mettekst_nomargin.svg)
 
 ---
 
 ## De kracht van PostGIS: haal meer uit een GIS database
-
-PostgreSQL is een volwaardige enterprise database met alle features die je van zo’n database kan verwachten. Met de eenvoudig te installeren extensie PostGIS maak je er een ruimtelijke database van. Zo’n database is onmisbaar voor organisaties waar veel medewerkers met geodata werken: je kan de data geordend opslaan en het beheer en gebruik optimaal regelen.
-Maar ook voor een kleine organisatie of ZZP’er is zo’n PostGIS database ideaal. Je kan ‘m eenvoudig lokaal installeren en direct gebruiken.
+PostgreSQL is een volwaardige enterprise database met alle features die je van zo’n database kan verwachten. Met de eenvoudig te installeren extensie PostGIS maak je er een ruimtelijke database van. Zo’n database is onmisbaar voor organisaties waar veel medewerkers met geodata werken: je kan de data geordend opslaan en het beheer en gebruik optimaal regelen. 
+Maar ook voor een kleine organisatie of ZZP’er is zo’n PostGIS database ideaal. Je kan ‘m eenvoudig lokaal installeren en direct gebruiken. 
 En, PostGIS is niet alleen fijn om gegevens geordend op te slaan en te raadplegen, je kan er ook uitstekend GIS-analyses in doen. Sterker nog: PostGIS is daarin flexibeler en krachtiger dan welk standaard GIS-pakket dan ook.
 
-In deze workshop gaan we ruimtelijke gegevens in een database inladen, en deze in QGIS bekijken. Daarna gaan we bevragingen doen: een filter zetten op een dataset, en wat zaken manipuleren. En vervolgens gaan we verschillende datasets combineren in een GIS analyse.
+
+In deze workshop gaan we het volgende doen:
+* ruimtelijke gegevens in een database inladen, en deze in QGIS bekijken, 
+* bevragingen doen: een filter zetten op een dataset en wat zaken manipuleren,
+* verschillende datasets combineren in een GIS analyse. 
+
 
 **Doelgroep:** In deze workshop werken we bij voorkeur met een database verbinding in QGIS. Basiskennis van QGIS is hiervoor wel nodig: je moet in ieder geval weten hoe je een dataset inlaadt en visualiseert. Het is leuk als je al wat ervaring hebt met het zetten van een filter of het maken van een selectie (expressie) in GIS, maar als dat niet zo is ga je dat zeker in deze workshop leren.
 
 **Voorbereiding:**
 
 - Zorg dat je een laptop met QGIS hebt.
-- Installeer vooraf ook PostgreSQL en PostGIS. Een instructie hiervoor kun je hier vinden.
+- Installeer vooraf ook PostgreSQL en PostGIS. Een instructie hiervoor kun vinden in de [installatiehandleiding](https://github.com/willemhoffmans/workshop_postgis).
 - Als alternatief kun je ook een bestaande PostGIS database van je organisatie gebruiken, mits je voldoende rechten hebt (leesrechten sowieso, schrijfrechten is beter).
 
-| Tijd              | Organisatie                   | Wie             |
-| ----------------- | ----------------------------- | --------------- |
+
+| Tijd              | Organisatie                                                                                | Wie             |
+| ----------------- | ------------------------------------------------------------------------------------------ | --------------- |
 | Ronde 1 & Ronde 2 | [Ruimtemaatwerk](http://www.ruimtemaatwerk.nl/) / [Geo Academie](https://geo-academie.nl/) | Willem Hoffmans |
+
+
+![](/img/startersdag_2026/geoacademie.png)
 
 ---
 
@@ -193,9 +201,9 @@ Aan de hand van kleine hands-on oefeningen gaan we als een vogelvlucht door het 
 
 **Voorbereiding**: Om het meeste uit deze workshop te halen is basiskennis van webtechnologiën een plus (de woorden HTML, JavaScript, CSS en/of JSON moeten een belletje laten rinkelen).
 
-| Tijd              | Organisatie | Wie          |
-| ----------------- | ----------- | ------------ |
-| Ronde 1 & Ronde 2 | [Maplibre](https://maplibre.org/)    | Bart Louwers |
+| Tijd              | Organisatie                       | Wie          |
+| ----------------- | --------------------------------- | ------------ |
+| Ronde 1 & Ronde 2 | [MapLibre](https://maplibre.org/) | Bart Louwers |
 
 ![](https://maplibre.org/img/maplibre-logos/maplibre-logo-dark-blue-bg.png)
 
@@ -238,9 +246,11 @@ Tijdens de workshop leer je stap voor stap hoe je een complete workflow voor vel
 - Installeer Mergin Maps op je mobiele telefoon en maak van te voren een account aan. Een gratis trial account werkt prima voor deze workshop. [Instructies hier](https://courses.gisopencourseware.org/mod/book/view.php?id=1405&chapterid=3534)
 - Aangezien je met Mergin Maps buiten data gaat verzamelen is een mobiele internet-verbinding heel handig. Mergin Maps kan ook gebruikt worden zonder mobiel internet, dan zijn een paar extra stappen in de opbouw van je project nodig. Die kunnen we indien nodig prima behandelen in de workshop.
 
-| Tijd                   | Organisatie | Wie                |
-| ---------------------- | ----------- | ------------------ |
-| Ronde 2 & 3 doorlopend | [QWAST-GIS](https://www.qwast-gis.com/)   | Hans van der Kwast |
+| Tijd                   | Organisatie                             | Wie                |
+| ---------------------- | --------------------------------------- | ------------------ |
+| Ronde 2 & 3 doorlopend | [QWAST-GIS](https://www.qwast-gis.com/) | Hans van der Kwast |
+
+![](/img/startersdag_2026/QWAST.svg)
 
 ---
 
@@ -259,11 +269,12 @@ In de workshop leg ik uit wat QField en QFieldCloud is, hoe het samenwerkt met Q
 - [Installeer QField](https://docs.qfield.org/get-started/#installation) op je mobiele apparaat, kijk hier voor jouw operating system
 - Aangezien je met QField buiten data gaat verzamelen is een mobiele internet-verbinding heel handig. QField kan ook gebruikt worden zonder mobiel internet, dan zijn een paar extra stappen in de opbouw van je project nodig. Die kunnen we indien nodig prima behandelen in de workshop.
 
-| Tijd                   | Organisatie               | Wie           |
-| ---------------------- | ------------------------- | ------------- |
+| Tijd                   | Organisatie                                                                    | Wie           |
+| ---------------------- | ------------------------------------------------------------------------------ | ------------- |
 | Ronde 2 & 3 doorlopend | [Groene Bij](https://groenebij.nl/) / [Geo Academie](https://geo-academie.nl/) | Jeroen Hovens |
 
 ![](/img/startersdag_2026/groenebij.png)
+![](/img/startersdag_2026/geoacademie.png)
 
 ---
 
@@ -271,14 +282,13 @@ In de workshop leg ik uit wat QField en QFieldCloud is, hoe het samenwerkt met Q
 
 OGC API’s maken geodata beschikbaar voor een breed publiek en je hoeft geen specifieke geo-kennis te hebben om hier mee te kunnen werken. Als je met een REST API kunt werken, kun je ook met een OGC API overweg. We beginnen bij het begin en gaan eerst aan de slag met het bevragen en bekijken van geodata in de browser. Dan doen we met behulp van de API’s van PDOK. Op die manier maak je meteen kennis met het grootste geodataplatform van Nederland. Daarna gaan we aan de slag met het gebruiken van OGC API’s in QGIS. Wie geïnteresseerd is kan daarna aan de slag met curl in de command line of python notebooks.
 
-**Doelgroep**: iedereen die geïnteresseerd is in het (her)gebruiken van geodata uit landelijke bronnen. We houden het laagdrempelig dus deze workshop is geschikt voor iedereen. Maar zeker interessant voor iedereen met een data engineering-/analyse- of software development achtergrond. Wat ervaring met QGIS is handig, maar dat mag ook ervaring zijn die tijdens de beginnersdag is opgedaan.
+**Doelgroep**: iedereen die geïnteresseerd is in het (her)gebruiken van geodata uit landelijke bronnen. We houden het laagdrempelig dus deze workshop is geschikt voor iedereen. Maar zeker interessant voor iedereen met een data engineering-/analyse- of software development achtergrond. Wat ervaring met QGIS is handig, maar dat mag ook ervaring zijn die tijdens de startersdag is opgedaan.
 
 **Voorbereiding**: QGIS kun je hier gratis downloaden voor je eigen OS: https://qgis.org/download/
 
 | Tijd    | Organisatie              | Wie           |
 | ------- | ------------------------ | ------------- |
 | Ronde 3 | [Geon](https://geon.nl/) | Derek Bochove |
-
 
 ![](/img/startersdag_2026/Logo_Geon_transparant.png)
 
@@ -292,28 +302,32 @@ Of je nu een web-viewer nodig hebt voor je overheidsorganisatie, bij je televisi
 
 **Voorbereiding**: geen
 
-| Tijd    | Organisatie | Wie                 |
-| ------- | ----------- | ------------------- |
-| Ronde 2 | [Webmapper](https://webmapper.nl/)   | Edward Mac Gillavry |
+| Tijd    | Organisatie                        | Wie                 |
+| ------- | ---------------------------------- | ------------------- |
+| Ronde 2 | [Webmapper](https://webmapper.nl/) | Edward Mac Gillavry |
 
 ![](https://webmapper.nl/_nuxt/webmapper-logo.ClWZ1x7v.svg)
 
 ---
 
-## Introductie Geoserver
+## Kaartlagen online publiceren met GeoServer
 
-Meer informatie volgt snel! 
+In deze workshop leer je hoe je zelf GeoServer kunt installeren en configureren, en hoe je zelf vector- of rasterdata in GeoServer kunt publiceren als een mooi opgemaakte kaartlaag.
+GeoServer is één van de populairste webmap diensten ter wereld. Deze workshop biedt een laagdrempelige, praktische introductie tot het opzetten en gebruiken van GeoServer en is speciaal gericht op deelnemers zonder enige ervaring. Wel is het handig om op de hoogte te zijn van de basis GIS-concepten. Het is daarnaast misschien leuk om je eigen kaartdata mee te nemen die je wilt serveren.
+We beginnen met een demonstratie van de GeoServer-installatie en bespreken de systeemvereisten en de installatie van extensies. Daarna volgen enkele praktische oefeningen met het publiceren van ruimtelijke data (vector, raster en database) en de opmaak ervan (styling).
 
-**Doelgroep**:
+**Tooling**: GeoServer, QGIS, GeoCat Bridge (plugin)
 
-**Voorbereiding**:
+**Doelgroep**: Beginners op de hoogte te zijn van de basis GIS-concepten
 
-| Tijd    | Organisatie | Wie                 |
-| ------- | ----------- | ------------------- |
-| Ronde 3 | GeoCAt   | Sander |
+**Voorbereiding**: Van tevoren downloaden: https://geoserver.org/release/2.28.2
 
+| Tijd    | Organisatie | Wie    |
+| ------- | ----------- | ------ |
+| Ronde 3 | [GeoCAt](https://www.geocat.net)      | Sander Schaminée |
 
 ---
+
 ## GRASS in de stad: hoe groen is de stad eigenlijk?
 
 **GRASS** is een open source GIS dat al jaren bekend staat om zijn sterke analysemogelijkheden, vooral wanneer je met rasterdata werkt. Veel GIS-gebruikers zijn GRASS waarschijnlijk al eens tegengekomen zonder het te weten: in de processing toolbox van QGIS zitten namelijk veel analysetools die eigenlijk uit GRASS komen.
