@@ -2,10 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/0_events/</loc>
-    <lastmod>2026-03-12T12:11:01+00:00</lastmod>
+    <loc>/categories/actueel/</loc>
+    <lastmod>2026-03-23T07:00:39+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2026-03-23T07:00:39+00:00</lastmod>
+  </url><url>
+    <loc>/2026/03/starters-dag/</loc>
+    <lastmod>2026-03-23T07:00:39+00:00</lastmod>
+  </url><url>
+    <loc>/categories/events/</loc>
+    <lastmod>2026-03-23T07:00:39+00:00</lastmod>
+  </url><url>
+    <loc>/categories/nieuws/</loc>
+    <lastmod>2026-03-23T07:00:39+00:00</lastmod>
+  </url><url>
+    <loc>/categories/osgeo/</loc>
+    <lastmod>2026-03-23T07:00:39+00:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2026-03-23T07:00:39+00:00</lastmod>
+  </url><url>
+    <loc>/tags/osgeonl/</loc>
+    <lastmod>2026-03-23T07:00:39+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2026-03-23T07:00:39+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-03-23T07:00:39+00:00</lastmod>
+  </url><url>
+    <loc>/0_events/</loc>
     <lastmod>2026-03-12T12:11:01+00:00</lastmod>
   </url><url>
     <loc>/0_events/beginnersdag/</loc>
@@ -41,31 +68,10 @@
     <loc>/linktree/</loc>
     <lastmod>2023-08-02T11:19:12+00:00</lastmod>
   </url><url>
-    <loc>/categories/actueel/</loc>
-    <lastmod>2023-08-01T19:47:39+00:00</lastmod>
-  </url><url>
     <loc>/categories/bestuur/</loc>
     <lastmod>2023-08-01T19:47:39+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2023-08-01T19:47:39+00:00</lastmod>
-  </url><url>
     <loc>/2023/08/nieuw-bestuur-osgeo-nl/</loc>
-    <lastmod>2023-08-01T19:47:39+00:00</lastmod>
-  </url><url>
-    <loc>/categories/nieuws/</loc>
-    <lastmod>2023-08-01T19:47:39+00:00</lastmod>
-  </url><url>
-    <loc>/categories/osgeo/</loc>
-    <lastmod>2023-08-01T19:47:39+00:00</lastmod>
-  </url><url>
-    <loc>/tags/osgeonl/</loc>
-    <lastmod>2023-08-01T19:47:39+00:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2023-08-01T19:47:39+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2023-08-01T19:47:39+00:00</lastmod>
   </url><url>
     <loc>/0_sponsors/sponsorplan/</loc>
