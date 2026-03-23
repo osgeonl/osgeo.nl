@@ -24,10 +24,12 @@ of auteur van artikelen wilt worden [laat het ons weten][1]
 
 ### Binnenkort
 
-* **[Nieuwjaarsbijeenkomst - Utrecht 18 januari 2026](https://pretix.eu/foss4gnl/nieuwjaar/)**
+* **[OSGeoNL Startersdag - Den Bosch 17 april 2026](/0_events/beginnersdag/)**
+
 
 ### Geweest
 
+* **[Nieuwjaarsbijeenkomst - Utrecht 18 januari 2026](https://pretix.eu/foss4gnl/nieuwjaar/)**
 * **[PostGIS Dag - Utrecht 20 nov 2025](https://pretix.eu/foss4gnl/postgisdag2025/)**
 * **[OSGeo.nl Open Zomerpodium - Amsterdamse Bos 9 september 2025](https://www.meetup.com/osgeonl/events/310079241/)** 
 * **[FOSS4GNL Conferentie 2025 - Wageningen 2 & 3 juli 2025](https://foss4g.nl)** 
