@@ -74,25 +74,23 @@ Kijk zelf goed of jouw workshop keuze te combineren is. Sommige workshops worden
 | 10:00 - 12:00 |                                                                                                                | Vergaderruimte HA1.19             |
 | 10:00 - 12:00 |                                                                                                                | Vergaderruimte A114               |
 
-| Ronde 2       | Workshop                                                                                                                              | Ruimte \*                        |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| 13:00 - 14:30 | [Quick intro QGIS](#quick-intro-qgis)                                                                                                 | Space for digital minds          |
-| 13:00 - 14:30 |                                                                                                                                       | Vergaderruimte HA0.08            |
-| 13:00 - 14:30 | [Hoe gebruik je OSGeo-componenten in je architectuur voor web-applicaties?](#aan-de-slag-met-ogc-apis-laagdrempelig-geodata-bevragen) | Vergaderruimte HA0.16            |
-| 13:00 - 14:30 | [De kracht van PostGIS: haal meer uit een GIS database](#de-kracht-van-postgis-haal-meer-uit-een-gis-database)                        | VergaderruimteHA1.18             |
-| 13:00 - 14:30 | [Van data naar kaart met open data & open source](#van-data-naar-kaart-met-open-data--open-source)                                    | Vergaderruimte HA1.19            |
+| Ronde 2       | Workshop                                                                                                                                                                                                | Ruimte \*                        |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| 13:00 - 14:30 | [Quick intro QGIS](#quick-intro-qgis)                                                                                                                                                                   | Space for digital minds          |
+| 13:00 - 14:30 | [Aan de slag met OGC API’s: laagdrempelig geodata bevragen](#aan-de-slag-met-ogc-apis-laagdrempelig-geodata-bevragen)                                                                                   | Vergaderruimte HA0.08            |
+| 13:00 - 14:30 | [Hoe gebruik je OSGeo-componenten in je architectuur voor web-applicaties?](#aan-de-slag-met-ogc-apis-laagdrempelig-geodata-bevragen)                                                                   | Vergaderruimte HA0.16            |
+| 13:00 - 14:30 | [De kracht van PostGIS: haal meer uit een GIS database](#de-kracht-van-postgis-haal-meer-uit-een-gis-database)                                                                                          | VergaderruimteHA1.18             |
+| 13:00 - 14:30 | [Van data naar kaart met open data & open source](#van-data-naar-kaart-met-open-data--open-source)                                                                                                      | Vergaderruimte HA1.19            |
+| 13:00 - 14:30 | [Velddatacollectie met QGIS en Mergin Maps](#velddatacollectie-met-qgis-en-mergin-maps) & [Lekker buiten je eigen geodata verzamelen met QField](#lekker-buiten-je-eigen-geodata-verzamelen-met-qfield) | Vergaderruimte A114            |
 
-| Ronde 3       | Workshop                                                                                                                                                            | Ruimte \*                                   |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| 14:30 - 16:00 | [ Kaartlagen online publiceren met GeoServer](#kaartlagen-online-publiceren-met-geoserver)                                                                                                                     | Space for digital minds                     |
-| 14:30 - 16:00 | [Works hop 3D Tiles – Efficient Visualisatie en Streaming van 3D Geospatiale Data](#workshop-3d-tiles--efficient-visualisatie-en-streaming-van-3d-geospatiale-data) | Vergaderruimte HA0.08                       |
-| 14:30 - 16:00 | [Aan de slag met OGC API’s: laagdrempelig geodata bevragen](#aan-de-slag-met-ogc-apis-laagdrempelig-geodata-bevragen)                                               | Vergaderruimte HA0.16                       |
-| 14:30 - 16:00 | [GRASS in de stad: hoe groen is de stad eigenlijk?](#grass-in-de-stad-hoe-groen-is-de-stad-eigenlijk)                                                               | Vergaderruimte HA1.18                       |
-| 14:30 - 16:00 | [Van data naar kaart met open data & open source](#van-data-naar-kaart-met-open-data--open-source)                                                                  | Vergaderruimte HA1.19                       |
-
-| Ronde 2 & 3 doorlopend | Workshop                                                                                                                                                                                                | Ruimte \*                        |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| 13:00 - 16:00          | [Velddatacollectie met QGIS en Mergin Maps](#velddatacollectie-met-qgis-en-mergin-maps) & [Lekker buiten je eigen geodata verzamelen met QField](#lekker-buiten-je-eigen-geodata-verzamelen-met-qfield) | Vergaderruimte HA0.08            |
+| Ronde 3       | Workshop                                                                                                                                                                                                | Ruimte \*                                   |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| 14:30 - 16:00 | [ Kaartlagen online publiceren met GeoServer](#kaartlagen-online-publiceren-met-geoserver)                                                                                                              | Space for digital minds                     |
+| 14:30 - 16:00 | [Works hop 3D Tiles – Efficient Visualisatie en Streaming van 3D Geospatiale Data](#workshop-3d-tiles--efficient-visualisatie-en-streaming-van-3d-geospatiale-data)                                     | Vergaderruimte HA0.08                       |
+| 14:30 - 16:00 | [Aan de slag met OGC API’s: laagdrempelig geodata bevragen](#aan-de-slag-met-ogc-apis-laagdrempelig-geodata-bevragen)                                                                                   | Vergaderruimte HA0.16                       |
+| 14:30 - 16:00 | [GRASS in de stad: hoe groen is de stad eigenlijk?](#grass-in-de-stad-hoe-groen-is-de-stad-eigenlijk)                                                                                                   | Vergaderruimte HA1.18                       |
+| 14:30 - 16:00 | [Van data naar kaart met open data & open source](#van-data-naar-kaart-met-open-data--open-source)                                                                                                      | Vergaderruimte HA1.19                       |
+| 14:30 - 16:00 | [Velddatacollectie met QGIS en Mergin Maps](#velddatacollectie-met-qgis-en-mergin-maps) & [Lekker buiten je eigen geodata verzamelen met QField](#lekker-buiten-je-eigen-geodata-verzamelen-met-qfield) | Vergaderruimte A114                       |
 
 \* Zaal kan nog wijzigen, kijk altijd op de dag zelf waar je moet zijn.
 
@@ -110,7 +108,7 @@ Als je nieuw bent in de GIS wereld kunnen alle termen en jargon het best moeilij
 | ------- | ----------------------------------------------------- | ------------ |
 | Ronde 1 | [GeoSquare Academy](https://www.geosquare.nl/academy) | Lars van Tol |
 
-![](/img/startersdag_2026/GS-202508-BO-RGB.png) 
+![](/img/startersdag_2026/GS-202508-BO-RGB.png)
 
 ---
 
@@ -132,8 +130,8 @@ Je leert:
 **Voorbereiding:** QGIS kun je hier gratis downloaden voor je eigen OS: https://qgis.org/download/
 En vergeet je muis niet!
 
-| Tijd              | Organisatie                     | Wie                                    |
-| ----------------- | ------------------------------- | -------------------------------------- |
+| Tijd              | Organisatie                                  | Wie                                    |
+| ----------------- | -------------------------------------------- | -------------------------------------- |
 | Ronde 1 & Ronde 2 | [OpenGeoGroep](https://www.opengeogroep.nl/) | Raymond Nijssen & Richard Duivenvoorde |
 
 ![](/img/startersdag_2026/OGG-logo2012_mettekst_nomargin.svg)
@@ -141,16 +139,16 @@ En vergeet je muis niet!
 ---
 
 ## De kracht van PostGIS: haal meer uit een GIS database
-PostgreSQL is een volwaardige enterprise database met alle features die je van zo’n database kan verwachten. Met de eenvoudig te installeren extensie PostGIS maak je er een ruimtelijke database van. Zo’n database is onmisbaar voor organisaties waar veel medewerkers met geodata werken: je kan de data geordend opslaan en het beheer en gebruik optimaal regelen. 
-Maar ook voor een kleine organisatie of ZZP’er is zo’n PostGIS database ideaal. Je kan ‘m eenvoudig lokaal installeren en direct gebruiken. 
+
+PostgreSQL is een volwaardige enterprise database met alle features die je van zo’n database kan verwachten. Met de eenvoudig te installeren extensie PostGIS maak je er een ruimtelijke database van. Zo’n database is onmisbaar voor organisaties waar veel medewerkers met geodata werken: je kan de data geordend opslaan en het beheer en gebruik optimaal regelen.
+Maar ook voor een kleine organisatie of ZZP’er is zo’n PostGIS database ideaal. Je kan ‘m eenvoudig lokaal installeren en direct gebruiken.
 En, PostGIS is niet alleen fijn om gegevens geordend op te slaan en te raadplegen, je kan er ook uitstekend GIS-analyses in doen. Sterker nog: PostGIS is daarin flexibeler en krachtiger dan welk standaard GIS-pakket dan ook.
 
-
 In deze workshop gaan we het volgende doen:
-* ruimtelijke gegevens in een database inladen, en deze in QGIS bekijken, 
-* bevragingen doen: een filter zetten op een dataset en wat zaken manipuleren,
-* verschillende datasets combineren in een GIS analyse. 
 
+- ruimtelijke gegevens in een database inladen, en deze in QGIS bekijken,
+- bevragingen doen: een filter zetten op een dataset en wat zaken manipuleren,
+- verschillende datasets combineren in een GIS analyse.
 
 **Doelgroep:** In deze workshop werken we bij voorkeur met een database verbinding in QGIS. Basiskennis van QGIS is hiervoor wel nodig: je moet in ieder geval weten hoe je een dataset inlaadt en visualiseert. Het is leuk als je al wat ervaring hebt met het zetten van een filter of het maken van een selectie (expressie) in GIS, maar als dat niet zo is ga je dat zeker in deze workshop leren.
 
@@ -160,11 +158,9 @@ In deze workshop gaan we het volgende doen:
 - Installeer vooraf ook PostgreSQL en PostGIS. Een instructie hiervoor kun vinden in de [installatiehandleiding](https://github.com/willemhoffmans/workshop_postgis).
 - Als alternatief kun je ook een bestaande PostGIS database van je organisatie gebruiken, mits je voldoende rechten hebt (leesrechten sowieso, schrijfrechten is beter).
 
-
 | Tijd              | Organisatie                                                                                | Wie             |
 | ----------------- | ------------------------------------------------------------------------------------------ | --------------- |
 | Ronde 1 & Ronde 2 | [Ruimtemaatwerk](http://www.ruimtemaatwerk.nl/) / [Geo Academie](https://geo-academie.nl/) | Willem Hoffmans |
-
 
 ![](/img/startersdag_2026/geoacademie.png)
 
@@ -288,7 +284,7 @@ OGC API’s maken geodata beschikbaar voor een breed publiek en je hoeft geen sp
 
 | Tijd    | Organisatie              | Wie           |
 | ------- | ------------------------ | ------------- |
-| Ronde 3 | [Geon](https://geon.nl/) | Derek Bochove |
+| Ronde 3 | [Geon](https://geon.nl/) | Derek van Bochove |
 
 ![](/img/startersdag_2026/Logo_Geon_transparant.png)
 
@@ -322,9 +318,9 @@ We beginnen met een demonstratie van de GeoServer-installatie en bespreken de sy
 
 **Voorbereiding**: Van tevoren downloaden: https://geoserver.org/release/2.28.2
 
-| Tijd    | Organisatie | Wie    |
-| ------- | ----------- | ------ |
-| Ronde 3 | [GeoCAt](https://www.geocat.net)      | Sander Schaminée |
+| Tijd    | Organisatie                      | Wie              |
+| ------- | -------------------------------- | ---------------- |
+| Ronde 3 | [GeoCAt](https://www.geocat.net) | Sander Schaminée |
 
 ---
 
