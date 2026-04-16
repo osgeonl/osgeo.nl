@@ -16,7 +16,8 @@
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
+            &lt;!-- &lt;img loading=&#34;lazy&#34; class=&#34;alignnone  wp-image-708&#34; src=&#34;/photos/2015/01/osgeonl-dag-2014-800px-zaal.jpg&#34; alt=&#34;osgeonl-dag-2014-800px-zaal&#34; width=&#34;515&#34; height=&#34;194&#34; /&gt; --&gt;
+&lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
     
@@ -58,6 +59,7 @@
         
           
             &lt;p&gt;Op 9 oktober 2014 vond de OSGeo.nl PostGIS workshop plaats op het &lt;a href=&#34;http://www.geofort.nl&#34;&gt;GeoFort&lt;/a&gt; (met dank aan &lt;a href=&#34;http://geo-academie.nl/&#34;&gt;GeoAcademie&lt;/a&gt; voor beschikbaar stellen deze locatie). Hoofddocent en PostGIS expert &lt;a href=&#34;https://www.linkedin.com/pub/wouter-boasson/5/471/606&#34;&gt;Wouter Boasson&lt;/a&gt;, gesecondeerd  door PostgreSQL-expert &lt;a href=&#34;https://www.linkedin.com/in/michelsijmons&#34;&gt;Michel Sijmons&lt;/a&gt; verzorgden een inspirerende en vooral “hands-on” avond voor plm 20 enthousiaste deelnemers: van jonge WUR-studenten tot Kadaster-pensionado’s. Er stonden vier mensen op de wachtlijst. Hieronder foto tijdens de inloop.&lt;/p&gt;
+&lt;!-- [&lt;img loading=&#34;lazy&#34; class=&#34;alignnone size-full wp-image-593&#34; src=&#34;/photos/2014/10/postgis-ws-inloop1.jpg&#34; alt=&#34;postgis-ws-inloop&#34; width=&#34;640&#34; height=&#34;203&#34; srcset=&#34;/photos/2014/10/postgis-ws-inloop1.jpg 640w, /photos/2014/10/postgis-ws-inloop1-300x95.jpg 300w, /photos/2014/10/postgis-ws-inloop1-250x79.jpg 250w, /photos/2014/10/postgis-ws-inloop1-150x47.jpg 150w&#34; sizes=&#34;(max-width: 640px) 100vw, 640px&#34; /&gt;][1] --&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
@@ -83,7 +85,6 @@
     &lt;/picture&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Na een inleiding en uitleg over PostGIS, waarbij Wouter duidelijk maakte dat PostGIS naast geo-data opslag vooral ook een systeem is voor ruimtelijke queries en analyse, was het de praktijk die middels een serie opklimmende opgaven ervaren kon worden op de eigen laptop. Er was een PostGIS instantie van OSGeo.nl “in the Cloud” beschikbaar voor degenen die geen PostGIS op hun systeem hadden.&lt;/p&gt;
           
           
         

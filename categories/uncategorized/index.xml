@@ -42,6 +42,9 @@
     &lt;/picture&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
+&lt;!--
+&lt;img loading=&#34;lazy&#34; class=&#34;alignnone size-full wp-image-1898&#34; src=&#34;/photos/2018/02/njborrel18-0.jpg&#34; alt=&#34;&#34; width=&#34;582&#34; height=&#34;325&#34; srcset=&#34;/photos/2018/02/njborrel18-0.jpg 582w, /photos/2018/02/njborrel18-0-300x168.jpg 300w, /photos/2018/02/njborrel18-0-150x84.jpg 150w&#34; sizes=&#34;(max-width: 582px) 100vw, 582px&#34; /&gt; 
+--&gt;
 &lt;p&gt;Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakken zijn: niet alleen op gebied van de open data rond De Basis Registraties (BAG, BGT, BRK, Top10NL etc) en projecten die zich daar mee bezig houden zoals &lt;a href=&#34;http://www.nlextract.nl/&#34;&gt;NLExtract&lt;/a&gt;, maar ook op het gebied van bijvoorbeeld &lt;a href=&#34;http://www.missingmaps.org/&#34;&gt;Missing Maps&lt;/a&gt; en &lt;a href=&#34;https://qgis.org/&#34;&gt;QGIS&lt;/a&gt;. Dit smaakt ook naar meer events in 2018 om gezamenlijk Open Source en Open Data voor geo-informatie in Nederland te versterken.&lt;/p&gt;
           
           
@@ -77,6 +80,9 @@
         
           
             &lt;p&gt;Het nieuwe jaar is al weer een flink eind op streek. Toch wil ik jullie nog de “oogst” van de OpenStreetMap &amp;amp; OSGeo.nl Nieuwjaarsborrel meegeven. Tijdens deze traditionele Nieuwjaarsborrel in café Dudok in Hilversum werden de circa 50 aanwezigen uit alle delen van Nederland en Vlaanderen gevraagd om hun ideeën en wensen voor het nieuwe open source jaar kenbaar te maken. Dat leverde deze ideeënwand op:&lt;/p&gt;
+&lt;!--
+&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1063 size-large&#34; src=&#34;/photos/2016/03/ideeenwand-1024x768.jpg&#34; alt=&#34;Ideeënwand OSM/OSGeo.nl Nieuwjaarsborrel 2016&#34; width=&#34;900&#34; height=&#34;675&#34; srcset=&#34;/photos/2016/03/ideeenwand-1024x768.jpg 1024w, /photos/2016/03/ideeenwand-300x225.jpg 300w, /photos/2016/03/ideeenwand-768x576.jpg 768w, /photos/2016/03/ideeenwand-200x150.jpg 200w, /photos/2016/03/ideeenwand-150x113.jpg 150w&#34; sizes=&#34;(max-width: 900px) 100vw, 900px&#34; /&gt;
+--&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
@@ -162,6 +168,8 @@ Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
         
           
             &lt;p&gt;Op vrijdag 21 juni, om 11:42 werd de akte gepasseerd bij de notaris waardoor vanaf dat moment OSGeo.nl een Stichting is! Dit geeft OSGeo.nl meer ruimte om zaken structureel aan te pakken, zoals sponsoring. &lt;a href=&#34;http://io.osgeo.nl/sitecontent/media/stichting/persbericht_stichting_osgeonl_v0.4.pdf&#34;&gt;Zie ook het persbericht&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- [&lt;img loading=&#34;lazy&#34; class=&#34;alignleft wp-image-372 size-medium&#34; src=&#34;/photos/2013/06/akte-tekenen1-300x225.jpg&#34; alt=&#34;akte-tekenen1&#34; width=&#34;300&#34; height=&#34;225&#34; srcset=&#34;/photos/2013/06/akte-tekenen1-300x225.jpg 300w, /photos/2013/06/akte-tekenen1-200x150.jpg 200w, /photos/2013/06/akte-tekenen1-150x112.jpg 150w, /photos/2013/06/akte-tekenen1.jpg 320w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;][2]
+[&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-373&#34; src=&#34;/photos/2013/06/akte-tekenen2-300x225.jpg&#34; alt=&#34;akte-tekenen2&#34; width=&#34;300&#34; height=&#34;225&#34; srcset=&#34;/photos/2013/06/akte-tekenen2-300x225.jpg 300w, /photos/2013/06/akte-tekenen2-200x150.jpg 200w, /photos/2013/06/akte-tekenen2-150x112.jpg 150w, /photos/2013/06/akte-tekenen2.jpg 320w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;][3] --&gt;
 &lt;p&gt;
 &lt;div class=&#34;float_left&#34;&gt;
   &lt;a href=&#34;#ZgotmplZ&#34;&gt;
@@ -212,7 +220,9 @@ Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
       <description>
         
           
-            &lt;div class=&#34;&#34;&gt;
+            &lt;!-- [&lt;img loading=&#34;lazy&#34; class=&#34;alignnone size-medium wp-image-307&#34; src=&#34;/photos/2013/06/osgeogent-300x262.jpg&#34; alt=&#34;osgeogent&#34; width=&#34;300&#34; height=&#34;262&#34; srcset=&#34;/photos/2013/06/osgeogent-300x262.jpg 300w, /photos/2013/06/osgeogent-171x150.jpg 171w, /photos/2013/06/osgeogent-150x131.jpg 150w, /photos/2013/06/osgeogent.jpg 820w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;][1] --&gt;
+
+&lt;div class=&#34;&#34;&gt;
   &lt;a href=&#34;http://www.geomajas.org/osgeogent2013&#34;&gt;
     &lt;img class=&#34;lazy&#34;
       src=&#34;/photos/2013/06/osgeogent.jpg&#34;
@@ -241,6 +251,7 @@ Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
           
             &lt;p&gt;Ons belangrijkste event is de jaarlijkse &lt;a href=&#34;http://io.osgeo.nl/sitecontent/osgeonl_dag/osgeonl_dag_2012.html&#34;&gt;OSGeo.nl Dag&lt;/a&gt;. In 2012 hielden we de eerste op 28 juni 2012 tijdens de Open Source GIS Conferentie op de Hogeschool Larenstein (Velp).&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://io.osgeo.nl/sitecontent/osgeonl_dag/osgeonl_dag_2012.html&#34;&gt;Vind hier het verslag, presentatie-slides&lt;/a&gt; of klik op plaatje hieronder.&lt;/p&gt;
+&lt;!-- [&lt;img loading=&#34;lazy&#34; class=&#34;alignleft wp-image-315 size-medium&#34; src=&#34;/photos/2012/06/osgeonldag-poster-excerpt-300x267.jpg&#34; alt=&#34;osgeonldag-poster-excerpt&#34; width=&#34;300&#34; height=&#34;267&#34; srcset=&#34;/photos/2012/06/osgeonldag-poster-excerpt-300x267.jpg 300w, /photos/2012/06/osgeonldag-poster-excerpt-168x150.jpg 168w, /photos/2012/06/osgeonldag-poster-excerpt-150x133.jpg 150w, /photos/2012/06/osgeonldag-poster-excerpt.jpg 728w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;][1] --&gt;
 
 &lt;div class=&#34;float_left&#34;&gt;
   &lt;a href=&#34;http://io.osgeo.nl/sitecontent/osgeonl_dag/osgeonl_dag_2012.html&#34;&gt;
