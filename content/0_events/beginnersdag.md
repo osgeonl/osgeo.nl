@@ -71,26 +71,20 @@ Kijk zelf goed of jouw workshop keuze te combineren is. Sommige workshops worden
 | 10:00 - 12:00 | [Kennismaking webkaarten met MapLibre](#kennismaking-webkaarten-met-maplibre)                                  | Vergaderruimte HA0.08             |
 | 10:00 - 12:00 | [Quick intro QGIS](#quick-intro-qgis)                                                                          | Vergaderruimte HA0.16             |
 | 10:00 - 12:00 | [De kracht van PostGIS: haal meer uit een GIS database](#de-kracht-van-postgis-haal-meer-uit-een-gis-database) | Vergaderruimte HA1.18             |
-| 10:00 - 12:00 |                                                                                                                | Vergaderruimte HA1.19             |
-| 10:00 - 12:00 |                                                                                                                | Vergaderruimte A114               |
 
 | Ronde 2       | Workshop                                                                                                                                                                                                | Ruimte \*                        |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
 | 13:00 - 14:30 | [Quick intro QGIS](#quick-intro-qgis)                                                                                                                                                                   | Space for digital minds          |
 | 13:00 - 14:30 | [Aan de slag met OGC API’s: laagdrempelig geodata bevragen](#aan-de-slag-met-ogc-apis-laagdrempelig-geodata-bevragen)                                                                                   | Vergaderruimte HA0.08            |
-| 13:00 - 14:30 | [Hoe gebruik je OSGeo-componenten in je architectuur voor web-applicaties?](#aan-de-slag-met-ogc-apis-laagdrempelig-geodata-bevragen)                                                                   | Vergaderruimte HA0.16            |
 | 13:00 - 14:30 | [De kracht van PostGIS: haal meer uit een GIS database](#de-kracht-van-postgis-haal-meer-uit-een-gis-database)                                                                                          | VergaderruimteHA1.18             |
 | 13:00 - 14:30 | [Van data naar kaart met open data & open source](#van-data-naar-kaart-met-open-data--open-source)                                                                                                      | Vergaderruimte HA1.19            |
-| 13:00 - 14:30 | [Velddatacollectie met QGIS en Mergin Maps](#velddatacollectie-met-qgis-en-mergin-maps) & [Lekker buiten je eigen geodata verzamelen met QField](#lekker-buiten-je-eigen-geodata-verzamelen-met-qfield) | Vergaderruimte A114            |
+| 13:00 - 14:30 | [Velddatacollectie met QGIS en Mergin Maps](#velddatacollectie-met-qgis-en-mergin-maps) & [Lekker buiten je eigen geodata verzamelen met QField](#lekker-buiten-je-eigen-geodata-verzamelen-met-qfield) | Vergaderruimte HA0.16           |
 
 | Ronde 3       | Workshop                                                                                                                                                                                                | Ruimte \*                                   |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
 | 14:30 - 16:00 | [ Kaartlagen online publiceren met GeoServer](#kaartlagen-online-publiceren-met-geoserver)                                                                                                              | Space for digital minds                     |
-| 14:30 - 16:00 | [Works hop 3D Tiles – Efficient Visualisatie en Streaming van 3D Geospatiale Data](#workshop-3d-tiles--efficient-visualisatie-en-streaming-van-3d-geospatiale-data)                                     | Vergaderruimte HA0.08                       |
 | 14:30 - 16:00 | [Aan de slag met OGC API’s: laagdrempelig geodata bevragen](#aan-de-slag-met-ogc-apis-laagdrempelig-geodata-bevragen)                                                                                   | Vergaderruimte HA0.16                       |
-| 14:30 - 16:00 | [GRASS in de stad: hoe groen is de stad eigenlijk?](#grass-in-de-stad-hoe-groen-is-de-stad-eigenlijk)                                                                                                   | Vergaderruimte HA1.18                       |
 | 14:30 - 16:00 | [Van data naar kaart met open data & open source](#van-data-naar-kaart-met-open-data--open-source)                                                                                                      | Vergaderruimte HA1.19                       |
-| 14:30 - 16:00 | [Velddatacollectie met QGIS en Mergin Maps](#velddatacollectie-met-qgis-en-mergin-maps) & [Lekker buiten je eigen geodata verzamelen met QField](#lekker-buiten-je-eigen-geodata-verzamelen-met-qfield) | Vergaderruimte A114                       |
 
 \* Zaal kan nog wijzigen, kijk altijd op de dag zelf waar je moet zijn.
 
@@ -205,7 +199,9 @@ Aan de hand van kleine hands-on oefeningen gaan we als een vogelvlucht door het 
 
 ---
 
+
 ## Workshop 3D Tiles – Efficient Visualisatie en Streaming van 3D Geospatiale Data
+<i style="color:red;" > Deze workshop gaat vanwege te weinig inschrijvingen helaas niet meer door </i>
 
 **Tooling**: Docker, QGIS, Pg2b3dm, I3dm.export, CesiumJS/Giro3D en de OGC 3D Tiles standaard
 
@@ -292,6 +288,8 @@ OGC API’s maken geodata beschikbaar voor een breed publiek en je hoeft geen sp
 
 ## Hoe gebruik je OSGeo-componenten in je architectuur voor web-applicaties?
 
+<i style="color:red;" > Deze workshop gaat vanwege te weinig inschrijvingen helaas niet meer door </i>
+
 Of je nu een web-viewer nodig hebt voor je overheidsorganisatie, bij je televisieprogramma over klimaatverandering of om je onderzoeksresultaten in kaart te brengen, OSGeo-componenten helpen je om ruimtelijke informatie op het Web te publiceren. In deze workshop neemt Edward je mee achter de schermen van verschillende web-applicaties die Webmapper in de afgelopen jaren heeft gemaakt. Hij laat hierbij zien, welke afwegingen zijn gemaakt in de besluitvorming om tot een bepaalde IT-architectuur te komen, zowel op eigen hardware als in de cloud.
 
 **Doelgroep**: Full-stack en DevOps ontwikkelaars en architecten voor wie 'geo' nog abracadabra is
@@ -325,6 +323,7 @@ We beginnen met een demonstratie van de GeoServer-installatie en bespreken de sy
 ---
 
 ## GRASS in de stad: hoe groen is de stad eigenlijk?
+<i style="color:red;" > Deze workshop gaat vanwege te weinig inschrijvingen helaas niet meer door </i>
 
 **GRASS** is een open source GIS dat al jaren bekend staat om zijn sterke analysemogelijkheden, vooral wanneer je met rasterdata werkt. Veel GIS-gebruikers zijn GRASS waarschijnlijk al eens tegengekomen zonder het te weten: in de processing toolbox van QGIS zitten namelijk veel analysetools die eigenlijk uit GRASS komen.
 In deze workshop werken we direct met GRASS zelf aan de hand van een actuele vraag; hoe groen is de stad eigenlijk? Je maakt daarbij op een praktische manier kennis met de mogelijkheden van het programma.
