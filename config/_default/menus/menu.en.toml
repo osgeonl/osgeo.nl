@@ -61,21 +61,21 @@
   weight = -106
 [[main]]
   parent = "Events"
-  name = "Agenda"
+  name = "Agenda &neArr;"
   url = "https://www.meetup.com/osgeonl/"
   weight = -99
 [[main]]
   parent = "Events"
-  name = "FOSS4GNL 2026"
+  name = "FOSS4GNL 2026 &neArr;"
   url = "https://foss4g.nl/"
   weight = -97  
 [[main]]
   parent = "Events"
-  name = "PostGIS dag"
+  name = "PostGIS dag &neArr;"
   url = "https://postgisdag.nl/"
   weight = -97  
 [[main]]
-  parent = "Events"
+  parent = "Events &neArr;"
   name = "De Grote Geo Show"
   url = "https://tv.osgeo.nl/"
   weight = -90
