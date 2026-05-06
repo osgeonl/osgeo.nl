@@ -66,18 +66,13 @@
   weight = -99
 [[main]]
   parent = "Events"
-  name = "FOSS4GNL 2024 &neArr;"
+  name = "FOSS4GNL 2026 &neArr;"
   url = "https://foss4g.nl/"
   weight = -97  
 [[main]]
   parent = "Events"
   name = "PostGIS dag &neArr;"
   url = "https://postgisdag.nl/"
-  weight = -97  
-[[main]]
-  parent = "Events"
-  name = "OSGeoNL Startersdag 2026"
-  url = "0_events/beginnersdag/"
   weight = -97  
 [[main]]
   parent = "Events"
@@ -89,6 +84,21 @@
   parent = "Events"
   name = "Afgelopen events"
   weight = -80
+[[main]]
+  parent = "Events"
+  name = "OSGeoNL Startersdag 2026"
+  url = "0_events/beginnersdag/"
+  weight = -97  
+[[main]]
+  parent = "Afgelopen events"
+  name = "FOSS4GNL 2025 &neArr;"
+  url = "https://2025.foss4g.nl/"
+  weight = -97  
+[[main]]
+  parent = "Afgelopen events"
+  name = "FOSS4GNL 2024 &neArr;"
+  url = "https://2023.foss4g.nl/"
+  weight = -97  
 [[main]]
   parent = "Afgelopen events"
   name = "FOSS4GNL 2023 &neArr;"
