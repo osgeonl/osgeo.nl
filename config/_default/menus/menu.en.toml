@@ -61,22 +61,22 @@
   weight = -106
 [[main]]
   parent = "Events"
-  name = "Agenda &neArr;"
+  name = "Agenda"
   url = "https://www.meetup.com/osgeonl/"
   weight = -99
 [[main]]
   parent = "Events"
-  name = "FOSS4GNL 2026 &neArr;"
+  name = "FOSS4GNL 2026"
   url = "https://foss4g.nl/"
   weight = -97  
 [[main]]
   parent = "Events"
-  name = "PostGIS dag &neArr;"
+  name = "PostGIS dag"
   url = "https://postgisdag.nl/"
   weight = -97  
 [[main]]
   parent = "Events"
-  name = "De Grote Geo Show  &neArr;"
+  name = "De Grote Geo Show;"
   url = "https://tv.osgeo.nl/"
   weight = -90
 
@@ -91,7 +91,7 @@
   weight = -97  
 [[main]]
   parent = "Afgelopen events"
-  name = "FOSS4GNL 2025 &neArr;"
+  name = "FOSS4GNL 2025"
   url = "https://2025.foss4g.nl/"
   weight = -97  
 [[main]]
@@ -101,32 +101,32 @@
   weight = -97  
 [[main]]
   parent = "Afgelopen events"
-  name = "FOSS4GNL 2023 &neArr;"
+  name = "FOSS4GNL 2023"
   url = "https://2023.foss4g.nl/"
   weight = -97  
 [[main]]
   parent = "Afgelopen events"
-  name = "FOSS4GNL 2021 &neArr;"
+  name = "FOSS4GNL 2021"
   url = "https://2021foss4g.nl/"
   weight = -96
 [[main]]
   parent = "Afgelopen events"
-  name = "FOSS4GNL 2019 &neArr;"
+  name = "FOSS4GNL 2019"
   url = "https://2019.foss4g.nl/"
   weight = -95
 [[main]]
   parent = "Afgelopen events"
-  name = "FOSS4GNL 2018 &neArr;"
+  name = "FOSS4GNL 2018"
   url = "https://2018.foss4g.nl/"
   weight = -94
 [[main]]
   parent = "Afgelopen events"
-  name = "FOSS4GNL 2017 &neArr;"
+  name = "FOSS4GNL 2017"
   url = "https://2017.foss4g.nl/"
   weight = -93
 [[main]]
   parent = "Afgelopen events"
-  name = "QGIS Gebruikersdag 2018 &neArr;"
+  name = "QGIS Gebruikersdag 2018"
   url = "http://www.qgis.nl/2018/01/22/programma-gebruikersmiddag-compleet/"
   weight = -92
 [[main]]
