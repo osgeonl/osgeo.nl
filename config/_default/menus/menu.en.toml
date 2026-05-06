@@ -76,7 +76,7 @@
   weight = -97  
 [[main]]
   parent = "Events"
-  name = "De Grote Geo Show;"
+  name = "De Grote Geo Show"
   url = "https://tv.osgeo.nl/"
   weight = -90
 
