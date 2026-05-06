@@ -88,57 +88,57 @@
   parent = "Events"
   name = "OSGeoNL Startersdag 2026"
   url = "0_events/beginnersdag/"
-  weight = -97  
+  weight = -911 
 [[main]]
   parent = "Afgelopen events"
   name = "FOSS4GNL 2025"
   url = "https://2025.foss4g.nl/"
-  weight = -97  
+  weight = -910 
 [[main]]
   parent = "Afgelopen events"
   name = "FOSS4GNL 2024"
   url = "https://2024.foss4g.nl/"
-  weight = -97  
+  weight = -909 
 [[main]]
   parent = "Afgelopen events"
   name = "FOSS4GNL 2023"
   url = "https://2023.foss4g.nl/"
-  weight = -97  
+  weight = -908 
 [[main]]
   parent = "Afgelopen events"
   name = "FOSS4GNL 2021"
   url = "https://2021foss4g.nl/"
-  weight = -96
+  weight = -907
 [[main]]
   parent = "Afgelopen events"
   name = "FOSS4GNL 2019"
   url = "https://2019.foss4g.nl/"
-  weight = -95
+  weight = -906
 [[main]]
   parent = "Afgelopen events"
   name = "FOSS4GNL 2018"
   url = "https://2018.foss4g.nl/"
-  weight = -94
+  weight = -905
 [[main]]
   parent = "Afgelopen events"
   name = "FOSS4GNL 2017"
   url = "https://2017.foss4g.nl/"
-  weight = -93
+  weight = -904
 [[main]]
   parent = "Afgelopen events"
   name = "QGIS Gebruikersdag 2018"
   url = "http://www.qgis.nl/2018/01/22/programma-gebruikersmiddag-compleet/"
-  weight = -92
+  weight = -903
 [[main]]
   parent = "Afgelopen events"
   name = "GRASS GIS crash course"
   url = "0_events/grassgis-course/"
-  weight = -91
+  weight = -902
 [[main]]
   parent = "Afgelopen events"
   name = "OSGeo.nl Dag 2017"
   url = "0_events/dag/"
-  weight = -90
+  weight = -901
 
 [[main]]
   name = "Nieuws"
