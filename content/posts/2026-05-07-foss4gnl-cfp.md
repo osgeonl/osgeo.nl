@@ -16,7 +16,7 @@ tags:
 ---
 
 
-# Foss4G-NL 2026 Call for Presentations - 
+# Foss4G-NL 2026 Call for Presentations
 
 ## Dien jouw presentatie- of workshopvoorstel in!
 
