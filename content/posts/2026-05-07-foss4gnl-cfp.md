@@ -2,7 +2,7 @@
 title: 'Foss4G-NL 2026 Call for Presentations'
 author: Gert-Jan van der Weijden
 type: post
-date: 2026-05-23T07:00:39+00:00
+date: 2026-05-07T07:00:00+00:00
 url: /2026/05/foss4gnl-cfp/
 featured_image: ""
 categories:
