@@ -12,21 +12,21 @@ Wilt u ook OSGeo.nl sponsoren? Bekijk dan ons [Sponsorplan][2].
 
 ## Goud
 
-{{< a-img data-href="https://geocat.net/" data-src="/photos/sponsors/geocat_logo_colour.svg"  max-height="150" >}}
-{{< a-img data-href="https://www.geosquare.nl/" data-src="/photos/sponsors/GSQ Logo.png"  max-height="150" >}}
-{{< a-img data-href="https://www.opengeogroep.nl/" data-src="/photos/sponsors/OGG-logo2012_mettekst_nomargin.svg"  max-height="150" >}}
-{{< a-img data-href="https://www.tailormap.nl/" data-src="/photos/sponsors/Tailormap-Logo.svg"  max-height="150" >}}
-{{< a-img data-href="https://www.sogelink.nl/" data-src="/photos/sponsors/SOGELINK_Logo_Responsive_01_Bleu.png"  max-height="150" >}}
+{{< a-img data-href="https://geocat.net/" data-src="/photos/sponsors/geocat_logo_colour.svg"  height="100" >}}
+{{< a-img data-href="https://www.geosquare.nl/" data-src="/photos/sponsors/GSQ Logo.png"  height="100" >}}
+{{< a-img data-href="https://www.opengeogroep.nl/" data-src="/photos/sponsors/OGG-logo2012_mettekst_nomargin.svg"  height="100" >}}
+{{< a-img data-href="https://www.tailormap.nl/" data-src="/photos/sponsors/Tailormap-Logo.svg"  height="100" >}}
+{{< a-img data-href="https://www.sogelink.nl/" data-src="/photos/sponsors/SOGELINK_Logo_Responsive_01_Bleu.png"  height="100" >}}
 
 ## Zilver
 
-{{< a-img data-href="https://www.tomtom.com/" data-src="/photos/sponsors/TomTom-logo-RGB_lockup.png" max-height="150" >}}
-{{< a-img data-href="https://www.geo-academie.nl/" data-src="/photos/sponsors/logo_geo-academie.svg" max-height="150" >}}
-{{< a-img data-href="https://www.merkator.com/" data-src="/photos/sponsors/merkator-group-1-2048x573.png" max-height="150" >}}
+{{< a-img data-href="https://www.tomtom.com/" data-src="/photos/sponsors/TomTom-logo-RGB_lockup.png" height="100" >}}
+{{< a-img data-href="https://www.geo-academie.nl/" data-src="/photos/sponsors/logo_geo-academie.svg" height="100" >}}
+{{< a-img data-href="https://www.merkator.com/" data-src="/photos/sponsors/merkator-group-1-2048x573.png" height="100" >}}
 
 ## Brons
 
-{{< a-img data-href="https://www.idgis.nl/" data-src="/photos/sponsors/ID_GIS.png" >}}
+{{< a-img data-href="https://www.idgis.nl/" data-src="/photos/sponsors/ID_GIS.png" height="100" >}}
 
 ## In Natura Sponsoring
 
