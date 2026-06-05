@@ -12,11 +12,11 @@ Wilt u ook OSGeo.nl sponsoren? Bekijk dan ons [Sponsorplan][2].
 
 ## Goud
 
-{{< a-img data-href="https://geocat.net/" data-src="/photos/sponsors/geocat_logo_colour.svg" style="height:100" >}}
-{{< a-img data-href="https://www.geosquare.nl/" data-src="/photos/sponsors/GSQ Logo.png" style="height:100" >}}
-{{< a-img data-href="https://www.opengeogroep.nl/" data-src="/photos/sponsors/OGG-logo2012_mettekst_nomargin.svg" style="height:100" >}}
-{{< a-img data-href="https://www.tailormap.nl/" data-src="/photos/sponsors/Tailormap-Logo.svg" style="height:100" >}}
-{{< a-img data-href="https://www.sogelink.nl/" data-src="/photos/sponsors/SOGELINK_Logo_Responsive_01_Bleu.png" style="height:100" >}}
+{{< a-img data-href="https://geocat.net/" data-src="/photos/sponsors/geocat_logo_colour.svg" style="height:100px" >}}
+{{< a-img data-href="https://www.geosquare.nl/" data-src="/photos/sponsors/GSQ Logo.png" style="height:100px" >}}
+{{< a-img data-href="https://www.opengeogroep.nl/" data-src="/photos/sponsors/OGG-logo2012_mettekst_nomargin.svg" style="height:100px" >}}
+{{< a-img data-href="https://www.tailormap.nl/" data-src="/photos/sponsors/Tailormap-Logo.svg" style="height:100px" >}}
+{{< a-img data-href="https://www.sogelink.nl/" data-src="/photos/sponsors/SOGELINK_Logo_Responsive_01_Bleu.png" style="height:100px" >}}
 
 ## Zilver
 
