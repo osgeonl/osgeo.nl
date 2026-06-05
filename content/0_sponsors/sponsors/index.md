@@ -20,7 +20,6 @@ Wilt u ook OSGeo.nl sponsoren? Bekijk dan ons [Sponsorplan][2].
 
 ## Zilver
 
-{{< a-img data-href="https://www.tomtom.com/" data-src="/photos/sponsors/TomTom-logo-RGB_lockup.png" height="100" >}}
 {{< a-img data-href="https://www.geo-academie.nl/" data-src="/photos/sponsors/logo_geo-academie.svg" height="100" >}}
 {{< a-img data-href="https://www.merkator.com/" data-src="/photos/sponsors/merkator-group-1-2048x573.png" height="100" >}}
 
