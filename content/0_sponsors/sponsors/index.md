@@ -25,7 +25,7 @@ Wilt u ook OSGeo.nl sponsoren? Bekijk dan ons [Sponsorplan][2].
 
 ## Brons
 
-{{< a-img data-href="https://www.idgis.nl/" data-src="/photos/sponsors/ID_GIS.png" style="max-height:100" >}}
+{{< a-img data-href="https://www.idgis.nl/" data-src="/photos/sponsors/IDgis_logo.svg" style="max-height:100" >}}
 
 ## In Natura Sponsoring
 
