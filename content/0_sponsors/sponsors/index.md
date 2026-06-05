@@ -10,15 +10,21 @@ Door hun steun kunnen we o.a. events zoals de [FOSS4GNL][1] laagdrempelig aanbie
 
 Wilt u ook OSGeo.nl sponsoren? Bekijk dan ons [Sponsorplan][2].
 
-## Goud sponsors
+## Goud
 
-{{< a-img data-href="https://geocat.net/" data-src="/photos/sponsors/geocat_logo_colour.svg"  height="150" >}}
-{{< a-img data-href="https://www.geosquare.nl/" data-src="/photos/sponsors/GSQ Logo.png"  height="150" >}}
+{{< a-img data-href="https://geocat.net/" data-src="/photos/sponsors/geocat_logo_colour.svg"  max-height="150" >}}
+{{< a-img data-href="https://www.geosquare.nl/" data-src="/photos/sponsors/GSQ Logo.png"  max-height="150" >}}
+{{< a-img data-href="https://www.opengeogroep.nl/" data-src="/photos/sponsors/OGG-logo2012_mettekst_nomargin.svg"  max-height="150" >}}
+{{< a-img data-href="https://www.tailormap.nl/" data-src="/photos/sponsors/Tailormap-Logo.svg"  max-height="150" >}}
+{{< a-img data-href="https://www.sogelink.nl/" data-src="/photos/sponsors/SOGELINK_Logo_Responsive_01_Bleu.png"  max-height="150" >}}
 
-## Zilver sponsors
-{{< a-img data-href="https://www.tomtom.com/" data-src="/photos/sponsors/TomTom-logo-RGB_lockup.png" height="150" >}}
+## Zilver
 
-## Brons sponsor
+{{< a-img data-href="https://www.tomtom.com/" data-src="/photos/sponsors/TomTom-logo-RGB_lockup.png" max-height="150" >}}
+{{< a-img data-href="https://www.geo-academie.nl/" data-src="/photos/sponsors/logo_geo-academie.svg" max-height="150" >}}
+{{< a-img data-href="https://www.merkator.com/" data-src="/photos/sponsors/merkator-group-1-2048x573.png" max-height="150" >}}
+
+## Brons
 
 {{< a-img data-href="https://www.idgis.nl/" data-src="/photos/sponsors/ID_GIS.png" >}}
 
