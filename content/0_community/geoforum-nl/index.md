@@ -2,7 +2,7 @@
 title: Geoforum.nl
 author: Just van den Broecke
 type: page
-date: 2026-06-06T11:30:37+00:00
+date: 2026-06-05T11:30:37+00:00
 
 ---
 Sinds juni 2018 is [geoforum.nl][1] de voornaamste digitale 
