@@ -12,20 +12,20 @@ Wilt u ook OSGeo.nl sponsoren? Bekijk dan ons [Sponsorplan][2].
 
 ## Goud
 
-{{< a-img data-href="https://geocat.net/" data-src="/photos/sponsors/geocat_logo_colour.svg" style="max-height:100px" >}}
-{{< a-img data-href="https://www.geosquare.nl/" data-src="/photos/sponsors/GSQ Logo.png" style="max-height:100px" >}}
-{{< a-img data-href="https://www.opengeogroep.nl/" data-src="/photos/sponsors/OGG-logo2012_mettekst_nomargin.svg" style="max-height:100px" >}}
-{{< a-img data-href="https://www.tailormap.nl/" data-src="/photos/sponsors/Tailormap-Logo.svg" style="max-height:100px" >}}
-{{< a-img data-href="https://www.sogelink.nl/" data-src="/photos/sponsors/SOGELINK_Logo_Responsive_01_Bleu.png" style="max-height:100px" >}}
+{{< a-img data-href="https://geocat.net/" data-src="/photos/sponsors/geocat_logo_colour.svg" style="max-height:80px" >}}
+{{< a-img data-href="https://www.geosquare.nl/" data-src="/photos/sponsors/GSQ Logo.png" style="max-height:80px" >}}
+{{< a-img data-href="https://www.opengeogroep.nl/" data-src="/photos/sponsors/OGG-logo2012_mettekst_nomargin.svg" style="max-height:80px" >}}
+{{< a-img data-href="https://www.tailormap.nl/" data-src="/photos/sponsors/Tailormap-Logo.svg" style="max-height:80px" >}}
+{{< a-img data-href="https://www.sogelink.nl/" data-src="/photos/sponsors/SOGELINK_Logo_Responsive_01_Bleu.png" style="max-height:80px" >}}
 
 ## Zilver
 
-{{< a-img data-href="https://www.geo-academie.nl/" data-src="/photos/sponsors/logo_geo-academie.svg" style="max-height:100" >}}
-{{< a-img data-href="https://www.merkator.com/" data-src="/photos/sponsors/merkator-group-1-2048x573.png" style="max-height:100" >}}
+{{< a-img data-href="https://www.geo-academie.nl/" data-src="/photos/sponsors/logo_geo-academie.svg" style="max-height:80px" >}}
+{{< a-img data-href="https://www.merkator.com/" data-src="/photos/sponsors/merkator-group-1-2048x573.png" style="max-height:80px" >}}
 
 ## Brons
 
-{{< a-img data-href="https://www.idgis.nl/" data-src="/photos/sponsors/IDgis_logo.svg" style="max-height:100px" >}}
+{{< a-img data-href="https://www.idgis.nl/" data-src="/photos/sponsors/IDgis_logo.svg" style="max-height:80px" >}}
 
 ## In Natura Sponsoring
 
