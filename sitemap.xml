@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/0_community/</loc>
+    <lastmod>2026-06-05T11:30:37+00:00</lastmod>
+  </url><url>
+    <loc>/0_community/geoforum-nl/</loc>
+    <lastmod>2026-06-05T11:30:37+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-06-05T11:30:37+00:00</lastmod>
+  </url><url>
     <loc>/categories/actueel/</loc>
     <lastmod>2026-06-05T07:00:00+00:00</lastmod>
   </url><url>
@@ -23,9 +32,6 @@
     <loc>/categories/osgeo/</loc>
     <lastmod>2026-06-05T07:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2026-06-05T07:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/osgeonl/</loc>
     <lastmod>2026-06-05T07:00:00+00:00</lastmod>
   </url><url>
@@ -34,9 +40,6 @@
   </url><url>
     <loc>/tags/</loc>
     <lastmod>2026-06-05T07:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/0_community/</loc>
-    <lastmod>2026-06-03T06:52:35+00:00</lastmod>
   </url><url>
     <loc>/0_community/bestuur/</loc>
     <lastmod>2026-06-03T06:52:35+00:00</lastmod>
