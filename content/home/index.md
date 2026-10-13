@@ -21,6 +21,7 @@ OSGeo.NL is genomineerd in Organisatie.
 
 Genomineerd…, maar nu willen we natuurlijk ook winnen! 
 En aangezien wij de enige community-organisatie zijn (de [overige genomineerden]( https://geoinformatienederland.nl/over-ons/gin-awards/geo-prestige-award-2026-de-genomineerden) zijn bedrijven), vragen we iedereen om op ons te stemmen!
+[Lees hier meer](/2026/10/gin-award/).
 
 ### Onze missie
 
