@@ -2,10 +2,25 @@
 title: Welkom bij OSGeo.NL
 author: osgeonl
 type: page
-date: 2024-09-20T10:52:45+00:00
+date: 2026-10-13T10:52:45+00:00
 ---
 
 ![](/photos/2025/groepsfoto_2025.jpg)
+
+### GIN Geo Prestige Award 2026
+
+Stem op OSGeo.nl voor de Geo Prestige Award!
+
+{{< a-img data-href="https://geomares.typeform.com/to/YUyu9jo8" data-src="/img/gin-award-2026/vote-osgeonl-gin.jpg" data-caption="STEM HIER!" >}}
+
+TLDR; Direct stemmen via https://geomares.typeform.com/to/YUyu9jo8 .
+
+De vakvereniging Geo-Informatie Nederland (GIN) reikt jaarlijks vakprijzen uit, 
+de Geo Prestige Awards. Er zijn drie categorieën: Professional, Startup en Organisatie. 
+OSGeo.NL is genomineerd in Organisatie.
+
+Genomineerd…, maar nu willen we natuurlijk ook winnen! 
+En aangezien wij de enige community-organisatie zijn (de [overige genomineerden]( https://geoinformatienederland.nl/over-ons/gin-awards/geo-prestige-award-2026-de-genomineerden) zijn bedrijven), vragen we iedereen om op ons te stemmen!
 
 ### Onze missie
 
@@ -23,12 +38,11 @@ bruist, leeft en beschikbaar is. Als je nog suggesties hebt,
 of auteur van artikelen wilt worden [laat het ons weten][1]
 
 ### Binnenkort
-
-* **[FOSS4G-NL Conferentie 2026 - Groningen 8 en 9 juli 2026](https://www.foss4g.nl)**
-
+* **[PostGIS Dag - Utrecht nov 2026](https://postgisdag.nl/) - meer nieuws volgt!**
 
 ### Geweest
 
+* **[FOSS4G-NL Conferentie 2026 - Groningen 8 en 9 juli 2026](https://www.foss4g.nl)**
 * **[OSGeoNL Startersdag - Den Bosch 17 april 2026](/0_events/beginnersdag/)**
 * **[Nieuwjaarsbijeenkomst - Utrecht 18 januari 2026](https://pretix.eu/foss4gnl/nieuwjaar/)**
 * **[PostGIS Dag - Utrecht 20 nov 2025](https://pretix.eu/foss4gnl/postgisdag2025/)**
