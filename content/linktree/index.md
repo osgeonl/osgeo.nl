@@ -9,7 +9,6 @@ Op de hoogte blijven van evenementen? Volg ons op:
 
 - Meetup Agenda: [meetup.com/OSGeoNL][6]
 - LinkedIn : [linkedin/company/osgeo-nl][10]
-- Twitter: [@osgeo][2] [#osgeonl][3]
 
 Contact leggen:
 
