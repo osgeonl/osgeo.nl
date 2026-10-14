@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uncategorized on OSGeo.nl - Wegwijs in Open Geo</title>
-    <link>/categories/uncategorized/</link>
+    <link>https://osgeo.nl/categories/uncategorized/</link>
     <description>Recent content in Uncategorized on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Feb 2018 22:33:25 +0000</lastBuildDate><atom:link href="/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Feb 2018 22:33:25 +0000</lastBuildDate><atom:link href="https://osgeo.nl/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Verslag: OSGeo.nl en OpenStreetMap NL Nieuwjaarsborrel 2018</title>
-      <link>/2018/02/verslag-nieuwjaarsborrel-2018/</link>
+      <link>https://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</link>
       <pubDate>Tue, 13 Feb 2018 22:33:25 +0000</pubDate>
       
-      <guid>/2018/02/verslag-nieuwjaarsborrel-2018/</guid>
+      <guid>https://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</guid>
       <description>
         
           
@@ -34,7 +34,7 @@
       alt=&#34; &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2018/02/njborrel18-0.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2018/02/njborrel18-0.jpg&#34;
       
       
     /&gt;
@@ -43,7 +43,7 @@
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;!--
-&lt;img loading=&#34;lazy&#34; class=&#34;alignnone size-full wp-image-1898&#34; src=&#34;/photos/2018/02/njborrel18-0.jpg&#34; alt=&#34;&#34; width=&#34;582&#34; height=&#34;325&#34; srcset=&#34;/photos/2018/02/njborrel18-0.jpg 582w, /photos/2018/02/njborrel18-0-300x168.jpg 300w, /photos/2018/02/njborrel18-0-150x84.jpg 150w&#34; sizes=&#34;(max-width: 582px) 100vw, 582px&#34; /&gt; 
+&lt;img loading=&#34;lazy&#34; class=&#34;alignnone size-full wp-image-1898&#34; src=&#34;https://osgeo.nl/photos/2018/02/njborrel18-0.jpg&#34; alt=&#34;&#34; width=&#34;582&#34; height=&#34;325&#34; srcset=&#34;https://osgeo.nl/photos/2018/02/njborrel18-0.jpg 582w, https://osgeo.nl/photos/2018/02/njborrel18-0-300x168.jpg 300w, https://osgeo.nl/photos/2018/02/njborrel18-0-150x84.jpg 150w&#34; sizes=&#34;(max-width: 582px) 100vw, 582px&#34; /&gt; 
 --&gt;
 &lt;p&gt;Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakken zijn: niet alleen op gebied van de open data rond De Basis Registraties (BAG, BGT, BRK, Top10NL etc) en projecten die zich daar mee bezig houden zoals &lt;a href=&#34;http://www.nlextract.nl/&#34;&gt;NLExtract&lt;/a&gt;, maar ook op het gebied van bijvoorbeeld &lt;a href=&#34;http://www.missingmaps.org/&#34;&gt;Missing Maps&lt;/a&gt; en &lt;a href=&#34;https://qgis.org/&#34;&gt;QGIS&lt;/a&gt;. Dit smaakt ook naar meer events in 2018 om gezamenlijk Open Source en Open Data voor geo-informatie in Nederland te versterken.&lt;/p&gt;
           
@@ -54,10 +54,10 @@
     
     <item>
       <title>Verslag: mini-seminar RD en Open Source Software – okt 2016</title>
-      <link>/2016/10/verslag-mini-seminar-rd/</link>
+      <link>https://osgeo.nl/2016/10/verslag-mini-seminar-rd/</link>
       <pubDate>Thu, 27 Oct 2016 21:59:28 +0000</pubDate>
       
-      <guid>/2016/10/verslag-mini-seminar-rd/</guid>
+      <guid>https://osgeo.nl/2016/10/verslag-mini-seminar-rd/</guid>
       <description>
         
           
@@ -72,16 +72,16 @@
     
     <item>
       <title>De oogst van de nieuwjaarsborrel: de ideeënwand voor 2016</title>
-      <link>/2016/03/de-ideeenwand-voor-2016/</link>
+      <link>https://osgeo.nl/2016/03/de-ideeenwand-voor-2016/</link>
       <pubDate>Sat, 05 Mar 2016 00:43:43 +0000</pubDate>
       
-      <guid>/2016/03/de-ideeenwand-voor-2016/</guid>
+      <guid>https://osgeo.nl/2016/03/de-ideeenwand-voor-2016/</guid>
       <description>
         
           
             &lt;p&gt;Het nieuwe jaar is al weer een flink eind op streek. Toch wil ik jullie nog de “oogst” van de OpenStreetMap &amp;amp; OSGeo.nl Nieuwjaarsborrel meegeven. Tijdens deze traditionele Nieuwjaarsborrel in café Dudok in Hilversum werden de circa 50 aanwezigen uit alle delen van Nederland en Vlaanderen gevraagd om hun ideeën en wensen voor het nieuwe open source jaar kenbaar te maken. Dat leverde deze ideeënwand op:&lt;/p&gt;
 &lt;!--
-&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1063 size-large&#34; src=&#34;/photos/2016/03/ideeenwand-1024x768.jpg&#34; alt=&#34;Ideeënwand OSM/OSGeo.nl Nieuwjaarsborrel 2016&#34; width=&#34;900&#34; height=&#34;675&#34; srcset=&#34;/photos/2016/03/ideeenwand-1024x768.jpg 1024w, /photos/2016/03/ideeenwand-300x225.jpg 300w, /photos/2016/03/ideeenwand-768x576.jpg 768w, /photos/2016/03/ideeenwand-200x150.jpg 200w, /photos/2016/03/ideeenwand-150x113.jpg 150w&#34; sizes=&#34;(max-width: 900px) 100vw, 900px&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1063 size-large&#34; src=&#34;https://osgeo.nl/photos/2016/03/ideeenwand-1024x768.jpg&#34; alt=&#34;Ideeënwand OSM/OSGeo.nl Nieuwjaarsborrel 2016&#34; width=&#34;900&#34; height=&#34;675&#34; srcset=&#34;https://osgeo.nl/photos/2016/03/ideeenwand-1024x768.jpg 1024w, https://osgeo.nl/photos/2016/03/ideeenwand-300x225.jpg 300w, https://osgeo.nl/photos/2016/03/ideeenwand-768x576.jpg 768w, https://osgeo.nl/photos/2016/03/ideeenwand-200x150.jpg 200w, https://osgeo.nl/photos/2016/03/ideeenwand-150x113.jpg 150w&#34; sizes=&#34;(max-width: 900px) 100vw, 900px&#34; /&gt;
 --&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
@@ -100,7 +100,7 @@
       alt=&#34; Ideeënwand OSM/OSGeo.nl Nieuwjaarsborrel 2016 &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2016/03/ideeenwand.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2016/03/ideeenwand.jpg&#34;
       
       
     /&gt;
@@ -116,16 +116,16 @@
     
     <item>
       <title>25 november OSGeo.nl dag 2015 – programma en inschrijven</title>
-      <link>/2015/10/25-november-osgeo-nl-dag-2015/</link>
+      <link>https://osgeo.nl/2015/10/25-november-osgeo-nl-dag-2015/</link>
       <pubDate>Sun, 18 Oct 2015 16:18:43 +0000</pubDate>
       
-      <guid>/2015/10/25-november-osgeo-nl-dag-2015/</guid>
+      <guid>https://osgeo.nl/2015/10/25-november-osgeo-nl-dag-2015/</guid>
       <description>
         
           
             &lt;h2 id=&#34;osgeonl-dag-als-onderdeel-van-de-geobuzz-open-source-voor-iedereen&#34;&gt;OSGeo.nl dag als onderdeel van de GeoBuzz: &lt;em&gt;open source voor iedereen!&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;De OSGeo.nl dag is dit net als vorig jaar onderdeel van de &lt;a href=&#34;/2015/10/25-november-osgeo-nl-dag-2015/#programma&#34;&gt;GeoBuzz&lt;/a&gt; en vindt plaats op woensdag 25 november in congrescentrum “1931” in Den Bosch.&lt;br&gt;
-Het &lt;a href=&#34;/2015/10/25-november-osgeo-nl-dag-2015/#programma&#34;&gt;programma&lt;/a&gt; biedt voor zowel  toekomstige als bestaande gebruikers van opensource-GIS interessante presentaties en workshops.&lt;br&gt;
+&lt;p&gt;De OSGeo.nl dag is dit net als vorig jaar onderdeel van de &lt;a href=&#34;https://osgeo.nl/2015/10/25-november-osgeo-nl-dag-2015/#programma&#34;&gt;GeoBuzz&lt;/a&gt; en vindt plaats op woensdag 25 november in congrescentrum “1931” in Den Bosch.&lt;br&gt;
+Het &lt;a href=&#34;https://osgeo.nl/2015/10/25-november-osgeo-nl-dag-2015/#programma&#34;&gt;programma&lt;/a&gt; biedt voor zowel  toekomstige als bestaande gebruikers van opensource-GIS interessante presentaties en workshops.&lt;br&gt;
 Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;dat-gaat-naar-den-bosch-toe&#34;&gt;Dat gaat naar Den Bosch toe&lt;/h2&gt;
 &lt;p&gt;Congrescentrum &lt;a href=&#34;http://www.1931.nl/&#34;&gt;“1931”&lt;/a&gt; is met de auto prima bereikbaar. Op pakweg 5 minuten van de snelweg A59, met een zee aan parkeerruimte direct voor de deur. Met het OV reis je naar station ‘s-Hertogenbosch en wandel je in 10 minuten naar “1931”. Waarschijnlijk laat de GeoBuzz organisatie net als vorig jaar een pendelbus rijden. Opstappen bij de uitgang Paleiskwartier/Brabanthallen. Carpoolen kan natuurlijk ook, daarvoor doe je het beste een oproep op de &lt;a href=&#34;http://www.meetup.com/OSGeoNL/events/225281140/&#34;&gt;osgeo.nl -meetup-site&lt;/a&gt;.&lt;/p&gt;
@@ -137,17 +137,17 @@ Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Just Objects</title>
-      <link>/2014/04/just-objects/</link>
+      <link>https://osgeo.nl/2014/04/just-objects/</link>
       <pubDate>Tue, 29 Apr 2014 15:46:18 +0000</pubDate>
       
-      <guid>/2014/04/just-objects/</guid>
+      <guid>https://osgeo.nl/2014/04/just-objects/</guid>
       <description>
         
           
             &lt;div class=&#34;&#34;&gt;
   &lt;a href=&#34;http://www.justobjects.nl/&#34;&gt;
     &lt;img class=&#34;lazy&#34;
-      src=&#34;/photos/2014/04/logo-justobjects.png&#34;
+      src=&#34;https://osgeo.nl/photos/2014/04/logo-justobjects.png&#34;
       style=&#34;&#34;
       alt=&#34;Just Objects&#34; /&gt;
   &lt;/a&gt;
@@ -161,21 +161,21 @@ Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>21 juni 2013 – Stichting OSGeo.nl Opgericht!</title>
-      <link>/2013/06/21-juni-2013-stichting-osgeo-nl-opgericht/</link>
+      <link>https://osgeo.nl/2013/06/21-juni-2013-stichting-osgeo-nl-opgericht/</link>
       <pubDate>Fri, 21 Jun 2013 15:14:03 +0000</pubDate>
       
-      <guid>/2013/06/21-juni-2013-stichting-osgeo-nl-opgericht/</guid>
+      <guid>https://osgeo.nl/2013/06/21-juni-2013-stichting-osgeo-nl-opgericht/</guid>
       <description>
         
           
             &lt;p&gt;Op vrijdag 21 juni, om 11:42 werd de akte gepasseerd bij de notaris waardoor vanaf dat moment OSGeo.nl een Stichting is! Dit geeft OSGeo.nl meer ruimte om zaken structureel aan te pakken, zoals sponsoring. &lt;a href=&#34;http://io.osgeo.nl/sitecontent/media/stichting/persbericht_stichting_osgeonl_v0.4.pdf&#34;&gt;Zie ook het persbericht&lt;/a&gt;.&lt;/p&gt;
-&lt;!-- [&lt;img loading=&#34;lazy&#34; class=&#34;alignleft wp-image-372 size-medium&#34; src=&#34;/photos/2013/06/akte-tekenen1-300x225.jpg&#34; alt=&#34;akte-tekenen1&#34; width=&#34;300&#34; height=&#34;225&#34; srcset=&#34;/photos/2013/06/akte-tekenen1-300x225.jpg 300w, /photos/2013/06/akte-tekenen1-200x150.jpg 200w, /photos/2013/06/akte-tekenen1-150x112.jpg 150w, /photos/2013/06/akte-tekenen1.jpg 320w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;][2]
-[&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-373&#34; src=&#34;/photos/2013/06/akte-tekenen2-300x225.jpg&#34; alt=&#34;akte-tekenen2&#34; width=&#34;300&#34; height=&#34;225&#34; srcset=&#34;/photos/2013/06/akte-tekenen2-300x225.jpg 300w, /photos/2013/06/akte-tekenen2-200x150.jpg 200w, /photos/2013/06/akte-tekenen2-150x112.jpg 150w, /photos/2013/06/akte-tekenen2.jpg 320w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;][3] --&gt;
+&lt;!-- [&lt;img loading=&#34;lazy&#34; class=&#34;alignleft wp-image-372 size-medium&#34; src=&#34;https://osgeo.nl/photos/2013/06/akte-tekenen1-300x225.jpg&#34; alt=&#34;akte-tekenen1&#34; width=&#34;300&#34; height=&#34;225&#34; srcset=&#34;https://osgeo.nl/photos/2013/06/akte-tekenen1-300x225.jpg 300w, https://osgeo.nl/photos/2013/06/akte-tekenen1-200x150.jpg 200w, https://osgeo.nl/photos/2013/06/akte-tekenen1-150x112.jpg 150w, https://osgeo.nl/photos/2013/06/akte-tekenen1.jpg 320w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;][2]
+[&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-373&#34; src=&#34;https://osgeo.nl/photos/2013/06/akte-tekenen2-300x225.jpg&#34; alt=&#34;akte-tekenen2&#34; width=&#34;300&#34; height=&#34;225&#34; srcset=&#34;https://osgeo.nl/photos/2013/06/akte-tekenen2-300x225.jpg 300w, https://osgeo.nl/photos/2013/06/akte-tekenen2-200x150.jpg 200w, https://osgeo.nl/photos/2013/06/akte-tekenen2-150x112.jpg 150w, https://osgeo.nl/photos/2013/06/akte-tekenen2.jpg 320w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;][3] --&gt;
 &lt;p&gt;
 &lt;div class=&#34;float_left&#34;&gt;
   &lt;a href=&#34;#ZgotmplZ&#34;&gt;
     &lt;img class=&#34;lazy&#34;
-      src=&#34;/photos/2013/06/akte-tekenen1.jpg&#34;
+      src=&#34;https://osgeo.nl/photos/2013/06/akte-tekenen1.jpg&#34;
       style=&#34;&#34;
       alt=&#34;&#34; /&gt;
   &lt;/a&gt;
@@ -199,7 +199,7 @@ Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
       alt=&#34; &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2013/06/akte-tekenen2.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2013/06/akte-tekenen2.jpg&#34;
       
       
     /&gt;
@@ -215,19 +215,19 @@ Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>13 juni 2013 – OSGeo Dag in Gent (B)</title>
-      <link>/2013/06/13-juni-2013-osgeo-dag-gent-b/</link>
+      <link>https://osgeo.nl/2013/06/13-juni-2013-osgeo-dag-gent-b/</link>
       <pubDate>Fri, 14 Jun 2013 10:16:48 +0000</pubDate>
       
-      <guid>/2013/06/13-juni-2013-osgeo-dag-gent-b/</guid>
+      <guid>https://osgeo.nl/2013/06/13-juni-2013-osgeo-dag-gent-b/</guid>
       <description>
         
           
-            &lt;!-- [&lt;img loading=&#34;lazy&#34; class=&#34;alignnone size-medium wp-image-307&#34; src=&#34;/photos/2013/06/osgeogent-300x262.jpg&#34; alt=&#34;osgeogent&#34; width=&#34;300&#34; height=&#34;262&#34; srcset=&#34;/photos/2013/06/osgeogent-300x262.jpg 300w, /photos/2013/06/osgeogent-171x150.jpg 171w, /photos/2013/06/osgeogent-150x131.jpg 150w, /photos/2013/06/osgeogent.jpg 820w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;][1] --&gt;
+            &lt;!-- [&lt;img loading=&#34;lazy&#34; class=&#34;alignnone size-medium wp-image-307&#34; src=&#34;https://osgeo.nl/photos/2013/06/osgeogent-300x262.jpg&#34; alt=&#34;osgeogent&#34; width=&#34;300&#34; height=&#34;262&#34; srcset=&#34;https://osgeo.nl/photos/2013/06/osgeogent-300x262.jpg 300w, https://osgeo.nl/photos/2013/06/osgeogent-171x150.jpg 171w, https://osgeo.nl/photos/2013/06/osgeogent-150x131.jpg 150w, https://osgeo.nl/photos/2013/06/osgeogent.jpg 820w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;][1] --&gt;
 
 &lt;div class=&#34;&#34;&gt;
   &lt;a href=&#34;http://www.geomajas.org/osgeogent2013&#34;&gt;
     &lt;img class=&#34;lazy&#34;
-      src=&#34;/photos/2013/06/osgeogent.jpg&#34;
+      src=&#34;https://osgeo.nl/photos/2013/06/osgeogent.jpg&#34;
       style=&#34;&#34;
       alt=&#34;&#34; /&gt;
   &lt;/a&gt;
@@ -245,21 +245,21 @@ Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>160 Bezoekers op OSGeo.nl Dag 2012!</title>
-      <link>/2012/06/160-bezoekers-op-osgeo-nl-dag-2012/</link>
+      <link>https://osgeo.nl/2012/06/160-bezoekers-op-osgeo-nl-dag-2012/</link>
       <pubDate>Fri, 29 Jun 2012 10:22:37 +0000</pubDate>
       
-      <guid>/2012/06/160-bezoekers-op-osgeo-nl-dag-2012/</guid>
+      <guid>https://osgeo.nl/2012/06/160-bezoekers-op-osgeo-nl-dag-2012/</guid>
       <description>
         
           
             &lt;p&gt;Ons belangrijkste event is de jaarlijkse &lt;a href=&#34;http://io.osgeo.nl/sitecontent/osgeonl_dag/osgeonl_dag_2012.html&#34;&gt;OSGeo.nl Dag&lt;/a&gt;. In 2012 hielden we de eerste op 28 juni 2012 tijdens de Open Source GIS Conferentie op de Hogeschool Larenstein (Velp).&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://io.osgeo.nl/sitecontent/osgeonl_dag/osgeonl_dag_2012.html&#34;&gt;Vind hier het verslag, presentatie-slides&lt;/a&gt; of klik op plaatje hieronder.&lt;/p&gt;
-&lt;!-- [&lt;img loading=&#34;lazy&#34; class=&#34;alignleft wp-image-315 size-medium&#34; src=&#34;/photos/2012/06/osgeonldag-poster-excerpt-300x267.jpg&#34; alt=&#34;osgeonldag-poster-excerpt&#34; width=&#34;300&#34; height=&#34;267&#34; srcset=&#34;/photos/2012/06/osgeonldag-poster-excerpt-300x267.jpg 300w, /photos/2012/06/osgeonldag-poster-excerpt-168x150.jpg 168w, /photos/2012/06/osgeonldag-poster-excerpt-150x133.jpg 150w, /photos/2012/06/osgeonldag-poster-excerpt.jpg 728w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;][1] --&gt;
+&lt;!-- [&lt;img loading=&#34;lazy&#34; class=&#34;alignleft wp-image-315 size-medium&#34; src=&#34;https://osgeo.nl/photos/2012/06/osgeonldag-poster-excerpt-300x267.jpg&#34; alt=&#34;osgeonldag-poster-excerpt&#34; width=&#34;300&#34; height=&#34;267&#34; srcset=&#34;https://osgeo.nl/photos/2012/06/osgeonldag-poster-excerpt-300x267.jpg 300w, https://osgeo.nl/photos/2012/06/osgeonldag-poster-excerpt-168x150.jpg 168w, https://osgeo.nl/photos/2012/06/osgeonldag-poster-excerpt-150x133.jpg 150w, https://osgeo.nl/photos/2012/06/osgeonldag-poster-excerpt.jpg 728w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;][1] --&gt;
 
 &lt;div class=&#34;float_left&#34;&gt;
   &lt;a href=&#34;http://io.osgeo.nl/sitecontent/osgeonl_dag/osgeonl_dag_2012.html&#34;&gt;
     &lt;img class=&#34;lazy&#34;
-      src=&#34;/photos/2012/06/osgeonldag-poster-excerpt-300x267.jpg&#34;
+      src=&#34;https://osgeo.nl/photos/2012/06/osgeonldag-poster-excerpt-300x267.jpg&#34;
       style=&#34;&#34;
       alt=&#34;&#34; /&gt;
   &lt;/a&gt;
@@ -277,10 +277,10 @@ Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Geschiedenis van Open source geo in Nederland</title>
-      <link>/?p=563/</link>
+      <link>https://osgeo.nl/?p=563/</link>
       <pubDate>Fri, 30 Nov 2001 00:00:00 +0000</pubDate>
       
-      <guid>/?p=563/</guid>
+      <guid>https://osgeo.nl/?p=563/</guid>
       <description>
         
           

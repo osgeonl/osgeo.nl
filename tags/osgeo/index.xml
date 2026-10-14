@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Osgeo on OSGeo.nl - Wegwijs in Open Geo</title>
-    <link>/tags/osgeo/</link>
+    <link>https://osgeo.nl/tags/osgeo/</link>
     <description>Recent content in Osgeo on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 07:00:00 +0000</lastBuildDate><atom:link href="/tags/osgeo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Oct 2026 07:00:00 +0000</lastBuildDate><atom:link href="https://osgeo.nl/tags/osgeo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stem op ons!</title>
-      <link>/2026/10/gin-award/</link>
+      <link>https://osgeo.nl/2026/10/gin-award/</link>
       <pubDate>Tue, 13 Oct 2026 07:00:00 +0000</pubDate>
       
-      <guid>/2026/10/gin-award/</guid>
+      <guid>https://osgeo.nl/2026/10/gin-award/</guid>
       <description>
         
           
@@ -22,7 +22,7 @@
 &lt;div class=&#34;&#34;&gt;
   &lt;a href=&#34;https://geomares.typeform.com/to/YUyu9jo8&#34;&gt;
     &lt;img class=&#34;lazy&#34;
-      src=&#34;/img/gin-award-2026/vote-osgeonl-gin.jpg&#34;
+      src=&#34;https://osgeo.nl/img/gin-award-2026/vote-osgeonl-gin.jpg&#34;
       style=&#34;&#34;
       alt=&#34;STEM HIER!&#34; /&gt;
   &lt;/a&gt;
@@ -47,10 +47,10 @@ Dus: laat je stem niet verloren gaan.&lt;/p&gt;
     
     <item>
       <title>Verslag: OSGeo.nl en OpenStreetMap NL Nieuwjaarsborrel 2018</title>
-      <link>/2018/02/verslag-nieuwjaarsborrel-2018/</link>
+      <link>https://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</link>
       <pubDate>Tue, 13 Feb 2018 22:33:25 +0000</pubDate>
       
-      <guid>/2018/02/verslag-nieuwjaarsborrel-2018/</guid>
+      <guid>https://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</guid>
       <description>
         
           
@@ -72,7 +72,7 @@ Dus: laat je stem niet verloren gaan.&lt;/p&gt;
       alt=&#34; &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2018/02/njborrel18-0.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2018/02/njborrel18-0.jpg&#34;
       
       
     /&gt;
@@ -81,7 +81,7 @@ Dus: laat je stem niet verloren gaan.&lt;/p&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;!--
-&lt;img loading=&#34;lazy&#34; class=&#34;alignnone size-full wp-image-1898&#34; src=&#34;/photos/2018/02/njborrel18-0.jpg&#34; alt=&#34;&#34; width=&#34;582&#34; height=&#34;325&#34; srcset=&#34;/photos/2018/02/njborrel18-0.jpg 582w, /photos/2018/02/njborrel18-0-300x168.jpg 300w, /photos/2018/02/njborrel18-0-150x84.jpg 150w&#34; sizes=&#34;(max-width: 582px) 100vw, 582px&#34; /&gt; 
+&lt;img loading=&#34;lazy&#34; class=&#34;alignnone size-full wp-image-1898&#34; src=&#34;https://osgeo.nl/photos/2018/02/njborrel18-0.jpg&#34; alt=&#34;&#34; width=&#34;582&#34; height=&#34;325&#34; srcset=&#34;https://osgeo.nl/photos/2018/02/njborrel18-0.jpg 582w, https://osgeo.nl/photos/2018/02/njborrel18-0-300x168.jpg 300w, https://osgeo.nl/photos/2018/02/njborrel18-0-150x84.jpg 150w&#34; sizes=&#34;(max-width: 582px) 100vw, 582px&#34; /&gt; 
 --&gt;
 &lt;p&gt;Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakken zijn: niet alleen op gebied van de open data rond De Basis Registraties (BAG, BGT, BRK, Top10NL etc) en projecten die zich daar mee bezig houden zoals &lt;a href=&#34;http://www.nlextract.nl/&#34;&gt;NLExtract&lt;/a&gt;, maar ook op het gebied van bijvoorbeeld &lt;a href=&#34;http://www.missingmaps.org/&#34;&gt;Missing Maps&lt;/a&gt; en &lt;a href=&#34;https://qgis.org/&#34;&gt;QGIS&lt;/a&gt;. Dit smaakt ook naar meer events in 2018 om gezamenlijk Open Source en Open Data voor geo-informatie in Nederland te versterken.&lt;/p&gt;
           
@@ -92,10 +92,10 @@ Dus: laat je stem niet verloren gaan.&lt;/p&gt;
     
     <item>
       <title>Verslag: OSGeo.nl Dag 2017</title>
-      <link>/2017/12/verslag-osgeonl-dag-2017/</link>
+      <link>https://osgeo.nl/2017/12/verslag-osgeonl-dag-2017/</link>
       <pubDate>Wed, 06 Dec 2017 22:17:08 +0000</pubDate>
       
-      <guid>/2017/12/verslag-osgeonl-dag-2017/</guid>
+      <guid>https://osgeo.nl/2017/12/verslag-osgeonl-dag-2017/</guid>
       <description>
         
           
@@ -119,7 +119,7 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
       alt=&#34; &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2017/12/IMG_2017.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2017/12/IMG_2017.jpg&#34;
       
       
     /&gt;
@@ -144,7 +144,7 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
       alt=&#34; &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2017/12/IMG_2029.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2017/12/IMG_2029.jpg&#34;
       
       
     /&gt;
@@ -169,7 +169,7 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
       alt=&#34; &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2017/12/IMG_2022.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2017/12/IMG_2022.jpg&#34;
       
       
     /&gt;
@@ -178,7 +178,7 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;!--
-&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1820&#34; src=&#34;/photos/2017/12/IMG_2017-1024x683.jpg&#34; alt=&#34;&#34; width=&#34;309&#34; height=&#34;206&#34; srcset=&#34;/photos/2017/12/IMG_2017-1024x683.jpg 1024w, /photos/2017/12/IMG_2017-300x200.jpg 300w, /photos/2017/12/IMG_2017-768x512.jpg 768w, /photos/2017/12/IMG_2017-150x100.jpg 150w&#34; sizes=&#34;(max-width: 309px) 100vw, 309px&#34; /&gt;&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1821&#34; style=&#34;font-size: 12px;&#34; src=&#34;/photos/2017/12/IMG_2029-1024x683.jpg&#34; alt=&#34;&#34; width=&#34;309&#34; height=&#34;206&#34; srcset=&#34;/photos/2017/12/IMG_2029-1024x683.jpg 1024w, /photos/2017/12/IMG_2029-300x200.jpg 300w, /photos/2017/12/IMG_2029-768x512.jpg 768w, /photos/2017/12/IMG_2029-150x100.jpg 150w&#34; sizes=&#34;(max-width: 309px) 100vw, 309px&#34; /&gt;&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1818&#34; src=&#34;/photos/2017/12/IMG_2022-1024x683.jpg&#34; alt=&#34;&#34; width=&#34;309&#34; height=&#34;206&#34; srcset=&#34;/photos/2017/12/IMG_2022-1024x683.jpg 1024w, /photos/2017/12/IMG_2022-300x200.jpg 300w, /photos/2017/12/IMG_2022-768x512.jpg 768w, /photos/2017/12/IMG_2022-150x100.jpg 150w&#34; sizes=&#34;(max-width: 309px) 100vw, 309px&#34; /&gt; 
+&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1820&#34; src=&#34;https://osgeo.nl/photos/2017/12/IMG_2017-1024x683.jpg&#34; alt=&#34;&#34; width=&#34;309&#34; height=&#34;206&#34; srcset=&#34;https://osgeo.nl/photos/2017/12/IMG_2017-1024x683.jpg 1024w, https://osgeo.nl/photos/2017/12/IMG_2017-300x200.jpg 300w, https://osgeo.nl/photos/2017/12/IMG_2017-768x512.jpg 768w, https://osgeo.nl/photos/2017/12/IMG_2017-150x100.jpg 150w&#34; sizes=&#34;(max-width: 309px) 100vw, 309px&#34; /&gt;&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1821&#34; style=&#34;font-size: 12px;&#34; src=&#34;https://osgeo.nl/photos/2017/12/IMG_2029-1024x683.jpg&#34; alt=&#34;&#34; width=&#34;309&#34; height=&#34;206&#34; srcset=&#34;https://osgeo.nl/photos/2017/12/IMG_2029-1024x683.jpg 1024w, https://osgeo.nl/photos/2017/12/IMG_2029-300x200.jpg 300w, https://osgeo.nl/photos/2017/12/IMG_2029-768x512.jpg 768w, https://osgeo.nl/photos/2017/12/IMG_2029-150x100.jpg 150w&#34; sizes=&#34;(max-width: 309px) 100vw, 309px&#34; /&gt;&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1818&#34; src=&#34;https://osgeo.nl/photos/2017/12/IMG_2022-1024x683.jpg&#34; alt=&#34;&#34; width=&#34;309&#34; height=&#34;206&#34; srcset=&#34;https://osgeo.nl/photos/2017/12/IMG_2022-1024x683.jpg 1024w, https://osgeo.nl/photos/2017/12/IMG_2022-300x200.jpg 300w, https://osgeo.nl/photos/2017/12/IMG_2022-768x512.jpg 768w, https://osgeo.nl/photos/2017/12/IMG_2022-150x100.jpg 150w&#34; sizes=&#34;(max-width: 309px) 100vw, 309px&#34; /&gt; 
 --&gt;
 &lt;p&gt;Dank aan allen die hieraan meegewerkt hebben, in bijzonder Winifred Broeder (programma, logo’s, promotie materiaal, foto’s) , Ynte de Wolf (programma), Steven Ottens (techniek) en uiteraard alle sprekers die zich merkbaar degelijk hadden voorbereid!&lt;/p&gt;
           
@@ -189,10 +189,10 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
     
     <item>
       <title>GRASS GIS crash course</title>
-      <link>/2017/10/grass-gis-crash-course/</link>
+      <link>https://osgeo.nl/2017/10/grass-gis-crash-course/</link>
       <pubDate>Sun, 08 Oct 2017 18:44:12 +0000</pubDate>
       
-      <guid>/2017/10/grass-gis-crash-course/</guid>
+      <guid>https://osgeo.nl/2017/10/grass-gis-crash-course/</guid>
       <description>
         
           
@@ -205,16 +205,16 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
     
     <item>
       <title>25 november OSGeo.nl dag 2015 – programma en inschrijven</title>
-      <link>/2015/10/25-november-osgeo-nl-dag-2015/</link>
+      <link>https://osgeo.nl/2015/10/25-november-osgeo-nl-dag-2015/</link>
       <pubDate>Sun, 18 Oct 2015 16:18:43 +0000</pubDate>
       
-      <guid>/2015/10/25-november-osgeo-nl-dag-2015/</guid>
+      <guid>https://osgeo.nl/2015/10/25-november-osgeo-nl-dag-2015/</guid>
       <description>
         
           
             &lt;h2 id=&#34;osgeonl-dag-als-onderdeel-van-de-geobuzz-open-source-voor-iedereen&#34;&gt;OSGeo.nl dag als onderdeel van de GeoBuzz: &lt;em&gt;open source voor iedereen!&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;De OSGeo.nl dag is dit net als vorig jaar onderdeel van de &lt;a href=&#34;/2015/10/25-november-osgeo-nl-dag-2015/#programma&#34;&gt;GeoBuzz&lt;/a&gt; en vindt plaats op woensdag 25 november in congrescentrum “1931” in Den Bosch.&lt;br&gt;
-Het &lt;a href=&#34;/2015/10/25-november-osgeo-nl-dag-2015/#programma&#34;&gt;programma&lt;/a&gt; biedt voor zowel  toekomstige als bestaande gebruikers van opensource-GIS interessante presentaties en workshops.&lt;br&gt;
+&lt;p&gt;De OSGeo.nl dag is dit net als vorig jaar onderdeel van de &lt;a href=&#34;https://osgeo.nl/2015/10/25-november-osgeo-nl-dag-2015/#programma&#34;&gt;GeoBuzz&lt;/a&gt; en vindt plaats op woensdag 25 november in congrescentrum “1931” in Den Bosch.&lt;br&gt;
+Het &lt;a href=&#34;https://osgeo.nl/2015/10/25-november-osgeo-nl-dag-2015/#programma&#34;&gt;programma&lt;/a&gt; biedt voor zowel  toekomstige als bestaande gebruikers van opensource-GIS interessante presentaties en workshops.&lt;br&gt;
 Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;dat-gaat-naar-den-bosch-toe&#34;&gt;Dat gaat naar Den Bosch toe&lt;/h2&gt;
 &lt;p&gt;Congrescentrum &lt;a href=&#34;http://www.1931.nl/&#34;&gt;“1931”&lt;/a&gt; is met de auto prima bereikbaar. Op pakweg 5 minuten van de snelweg A59, met een zee aan parkeerruimte direct voor de deur. Met het OV reis je naar station ‘s-Hertogenbosch en wandel je in 10 minuten naar “1931”. Waarschijnlijk laat de GeoBuzz organisatie net als vorig jaar een pendelbus rijden. Opstappen bij de uitgang Paleiskwartier/Brabanthallen. Carpoolen kan natuurlijk ook, daarvoor doe je het beste een oproep op de &lt;a href=&#34;http://www.meetup.com/OSGeoNL/events/225281140/&#34;&gt;osgeo.nl -meetup-site&lt;/a&gt;.&lt;/p&gt;
@@ -226,10 +226,10 @@ Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Miniseminar “Wegwijs in Open Source Geo” bij Ruimteschepper</title>
-      <link>/2015/05/miniseminar-wegwijs-in-open-source-geo-bij-ruimteschepper/</link>
+      <link>https://osgeo.nl/2015/05/miniseminar-wegwijs-in-open-source-geo-bij-ruimteschepper/</link>
       <pubDate>Thu, 21 May 2015 14:13:31 +0000</pubDate>
       
-      <guid>/2015/05/miniseminar-wegwijs-in-open-source-geo-bij-ruimteschepper/</guid>
+      <guid>https://osgeo.nl/2015/05/miniseminar-wegwijs-in-open-source-geo-bij-ruimteschepper/</guid>
       <description>
         
           

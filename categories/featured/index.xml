@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Featured on OSGeo.nl - Wegwijs in Open Geo</title>
-    <link>/categories/featured/</link>
+    <link>https://osgeo.nl/categories/featured/</link>
     <description>Recent content in Featured on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Feb 2018 22:33:25 +0000</lastBuildDate><atom:link href="/categories/featured/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Feb 2018 22:33:25 +0000</lastBuildDate><atom:link href="https://osgeo.nl/categories/featured/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Verslag: OSGeo.nl en OpenStreetMap NL Nieuwjaarsborrel 2018</title>
-      <link>/2018/02/verslag-nieuwjaarsborrel-2018/</link>
+      <link>https://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</link>
       <pubDate>Tue, 13 Feb 2018 22:33:25 +0000</pubDate>
       
-      <guid>/2018/02/verslag-nieuwjaarsborrel-2018/</guid>
+      <guid>https://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</guid>
       <description>
         
           
@@ -34,7 +34,7 @@
       alt=&#34; &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2018/02/njborrel18-0.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2018/02/njborrel18-0.jpg&#34;
       
       
     /&gt;
@@ -43,7 +43,7 @@
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;!--
-&lt;img loading=&#34;lazy&#34; class=&#34;alignnone size-full wp-image-1898&#34; src=&#34;/photos/2018/02/njborrel18-0.jpg&#34; alt=&#34;&#34; width=&#34;582&#34; height=&#34;325&#34; srcset=&#34;/photos/2018/02/njborrel18-0.jpg 582w, /photos/2018/02/njborrel18-0-300x168.jpg 300w, /photos/2018/02/njborrel18-0-150x84.jpg 150w&#34; sizes=&#34;(max-width: 582px) 100vw, 582px&#34; /&gt; 
+&lt;img loading=&#34;lazy&#34; class=&#34;alignnone size-full wp-image-1898&#34; src=&#34;https://osgeo.nl/photos/2018/02/njborrel18-0.jpg&#34; alt=&#34;&#34; width=&#34;582&#34; height=&#34;325&#34; srcset=&#34;https://osgeo.nl/photos/2018/02/njborrel18-0.jpg 582w, https://osgeo.nl/photos/2018/02/njborrel18-0-300x168.jpg 300w, https://osgeo.nl/photos/2018/02/njborrel18-0-150x84.jpg 150w&#34; sizes=&#34;(max-width: 582px) 100vw, 582px&#34; /&gt; 
 --&gt;
 &lt;p&gt;Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakken zijn: niet alleen op gebied van de open data rond De Basis Registraties (BAG, BGT, BRK, Top10NL etc) en projecten die zich daar mee bezig houden zoals &lt;a href=&#34;http://www.nlextract.nl/&#34;&gt;NLExtract&lt;/a&gt;, maar ook op het gebied van bijvoorbeeld &lt;a href=&#34;http://www.missingmaps.org/&#34;&gt;Missing Maps&lt;/a&gt; en &lt;a href=&#34;https://qgis.org/&#34;&gt;QGIS&lt;/a&gt;. Dit smaakt ook naar meer events in 2018 om gezamenlijk Open Source en Open Data voor geo-informatie in Nederland te versterken.&lt;/p&gt;
           
@@ -54,10 +54,10 @@
     
     <item>
       <title>Verslag: OSGeo.nl Dag 2017</title>
-      <link>/2017/12/verslag-osgeonl-dag-2017/</link>
+      <link>https://osgeo.nl/2017/12/verslag-osgeonl-dag-2017/</link>
       <pubDate>Wed, 06 Dec 2017 22:17:08 +0000</pubDate>
       
-      <guid>/2017/12/verslag-osgeonl-dag-2017/</guid>
+      <guid>https://osgeo.nl/2017/12/verslag-osgeonl-dag-2017/</guid>
       <description>
         
           
@@ -81,7 +81,7 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
       alt=&#34; &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2017/12/IMG_2017.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2017/12/IMG_2017.jpg&#34;
       
       
     /&gt;
@@ -106,7 +106,7 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
       alt=&#34; &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2017/12/IMG_2029.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2017/12/IMG_2029.jpg&#34;
       
       
     /&gt;
@@ -131,7 +131,7 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
       alt=&#34; &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2017/12/IMG_2022.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2017/12/IMG_2022.jpg&#34;
       
       
     /&gt;
@@ -140,7 +140,7 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;!--
-&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1820&#34; src=&#34;/photos/2017/12/IMG_2017-1024x683.jpg&#34; alt=&#34;&#34; width=&#34;309&#34; height=&#34;206&#34; srcset=&#34;/photos/2017/12/IMG_2017-1024x683.jpg 1024w, /photos/2017/12/IMG_2017-300x200.jpg 300w, /photos/2017/12/IMG_2017-768x512.jpg 768w, /photos/2017/12/IMG_2017-150x100.jpg 150w&#34; sizes=&#34;(max-width: 309px) 100vw, 309px&#34; /&gt;&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1821&#34; style=&#34;font-size: 12px;&#34; src=&#34;/photos/2017/12/IMG_2029-1024x683.jpg&#34; alt=&#34;&#34; width=&#34;309&#34; height=&#34;206&#34; srcset=&#34;/photos/2017/12/IMG_2029-1024x683.jpg 1024w, /photos/2017/12/IMG_2029-300x200.jpg 300w, /photos/2017/12/IMG_2029-768x512.jpg 768w, /photos/2017/12/IMG_2029-150x100.jpg 150w&#34; sizes=&#34;(max-width: 309px) 100vw, 309px&#34; /&gt;&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1818&#34; src=&#34;/photos/2017/12/IMG_2022-1024x683.jpg&#34; alt=&#34;&#34; width=&#34;309&#34; height=&#34;206&#34; srcset=&#34;/photos/2017/12/IMG_2022-1024x683.jpg 1024w, /photos/2017/12/IMG_2022-300x200.jpg 300w, /photos/2017/12/IMG_2022-768x512.jpg 768w, /photos/2017/12/IMG_2022-150x100.jpg 150w&#34; sizes=&#34;(max-width: 309px) 100vw, 309px&#34; /&gt; 
+&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1820&#34; src=&#34;https://osgeo.nl/photos/2017/12/IMG_2017-1024x683.jpg&#34; alt=&#34;&#34; width=&#34;309&#34; height=&#34;206&#34; srcset=&#34;https://osgeo.nl/photos/2017/12/IMG_2017-1024x683.jpg 1024w, https://osgeo.nl/photos/2017/12/IMG_2017-300x200.jpg 300w, https://osgeo.nl/photos/2017/12/IMG_2017-768x512.jpg 768w, https://osgeo.nl/photos/2017/12/IMG_2017-150x100.jpg 150w&#34; sizes=&#34;(max-width: 309px) 100vw, 309px&#34; /&gt;&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1821&#34; style=&#34;font-size: 12px;&#34; src=&#34;https://osgeo.nl/photos/2017/12/IMG_2029-1024x683.jpg&#34; alt=&#34;&#34; width=&#34;309&#34; height=&#34;206&#34; srcset=&#34;https://osgeo.nl/photos/2017/12/IMG_2029-1024x683.jpg 1024w, https://osgeo.nl/photos/2017/12/IMG_2029-300x200.jpg 300w, https://osgeo.nl/photos/2017/12/IMG_2029-768x512.jpg 768w, https://osgeo.nl/photos/2017/12/IMG_2029-150x100.jpg 150w&#34; sizes=&#34;(max-width: 309px) 100vw, 309px&#34; /&gt;&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1818&#34; src=&#34;https://osgeo.nl/photos/2017/12/IMG_2022-1024x683.jpg&#34; alt=&#34;&#34; width=&#34;309&#34; height=&#34;206&#34; srcset=&#34;https://osgeo.nl/photos/2017/12/IMG_2022-1024x683.jpg 1024w, https://osgeo.nl/photos/2017/12/IMG_2022-300x200.jpg 300w, https://osgeo.nl/photos/2017/12/IMG_2022-768x512.jpg 768w, https://osgeo.nl/photos/2017/12/IMG_2022-150x100.jpg 150w&#34; sizes=&#34;(max-width: 309px) 100vw, 309px&#34; /&gt; 
 --&gt;
 &lt;p&gt;Dank aan allen die hieraan meegewerkt hebben, in bijzonder Winifred Broeder (programma, logo’s, promotie materiaal, foto’s) , Ynte de Wolf (programma), Steven Ottens (techniek) en uiteraard alle sprekers die zich merkbaar degelijk hadden voorbereid!&lt;/p&gt;
           
@@ -151,10 +151,10 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
     
     <item>
       <title>OSGeo.nl Dag 2017 – Geo.Samen.Doen.</title>
-      <link>/2017/10/osgeo-nl-dag-2017-geo-samen-doen/</link>
+      <link>https://osgeo.nl/2017/10/osgeo-nl-dag-2017-geo-samen-doen/</link>
       <pubDate>Wed, 04 Oct 2017 21:53:48 +0000</pubDate>
       
-      <guid>/2017/10/osgeo-nl-dag-2017-geo-samen-doen/</guid>
+      <guid>https://osgeo.nl/2017/10/osgeo-nl-dag-2017-geo-samen-doen/</guid>
       <description>
         
           
@@ -168,10 +168,10 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
     
     <item>
       <title>Nieuw OSGeo.nl Logo</title>
-      <link>/2017/09/nieuw-osgeo-nl-logo/</link>
+      <link>https://osgeo.nl/2017/09/nieuw-osgeo-nl-logo/</link>
       <pubDate>Fri, 29 Sep 2017 15:38:03 +0000</pubDate>
       
-      <guid>/2017/09/nieuw-osgeo-nl-logo/</guid>
+      <guid>https://osgeo.nl/2017/09/nieuw-osgeo-nl-logo/</guid>
       <description>
         
           
@@ -185,10 +185,10 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
     
     <item>
       <title>Bestuursverfrissingen (en een vacature)</title>
-      <link>/2017/04/bestuursverfrissingen-en-een-vacature/</link>
+      <link>https://osgeo.nl/2017/04/bestuursverfrissingen-en-een-vacature/</link>
       <pubDate>Fri, 28 Apr 2017 14:45:37 +0000</pubDate>
       
-      <guid>/2017/04/bestuursverfrissingen-en-een-vacature/</guid>
+      <guid>https://osgeo.nl/2017/04/bestuursverfrissingen-en-een-vacature/</guid>
       <description>
         
           
@@ -203,10 +203,10 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
     
     <item>
       <title>Huiswerk voor deelnemers aan de workshop “Versiebeheer in geoland”</title>
-      <link>/2016/11/huiswerk-voor-deelnemers-aan-de-workshop-versiebeheer-in-geoland/</link>
+      <link>https://osgeo.nl/2016/11/huiswerk-voor-deelnemers-aan-de-workshop-versiebeheer-in-geoland/</link>
       <pubDate>Sun, 20 Nov 2016 17:55:44 +0000</pubDate>
       
-      <guid>/2016/11/huiswerk-voor-deelnemers-aan-de-workshop-versiebeheer-in-geoland/</guid>
+      <guid>https://osgeo.nl/2016/11/huiswerk-voor-deelnemers-aan-de-workshop-versiebeheer-in-geoland/</guid>
       <description>
         
           
@@ -229,10 +229,10 @@ Die virtual machine kun je in VirtualBox  of VMWare openen.&lt;/li&gt;
     
     <item>
       <title>Een kijkje in de keuken van de OSGeo.nl dag: agile programmeren</title>
-      <link>/2016/11/een-kijkje-in-de-keuken-van-de-osgeo-nl-dag-agile-programmeren/</link>
+      <link>https://osgeo.nl/2016/11/een-kijkje-in-de-keuken-van-de-osgeo-nl-dag-agile-programmeren/</link>
       <pubDate>Tue, 15 Nov 2016 07:35:42 +0000</pubDate>
       
-      <guid>/2016/11/een-kijkje-in-de-keuken-van-de-osgeo-nl-dag-agile-programmeren/</guid>
+      <guid>https://osgeo.nl/2016/11/een-kijkje-in-de-keuken-van-de-osgeo-nl-dag-agile-programmeren/</guid>
       <description>
         
           
@@ -245,10 +245,10 @@ Die virtual machine kun je in VirtualBox  of VMWare openen.&lt;/li&gt;
     
     <item>
       <title>Verslag: mini-seminar RD en Open Source Software – okt 2016</title>
-      <link>/2016/10/verslag-mini-seminar-rd/</link>
+      <link>https://osgeo.nl/2016/10/verslag-mini-seminar-rd/</link>
       <pubDate>Thu, 27 Oct 2016 21:59:28 +0000</pubDate>
       
-      <guid>/2016/10/verslag-mini-seminar-rd/</guid>
+      <guid>https://osgeo.nl/2016/10/verslag-mini-seminar-rd/</guid>
       <description>
         
           
@@ -263,10 +263,10 @@ Die virtual machine kun je in VirtualBox  of VMWare openen.&lt;/li&gt;
     
     <item>
       <title>Come in, we’re open! – Inschrijving voor FOSS4G (Bonn) start vandaag</title>
-      <link>/2016/04/come-in-were-open/</link>
+      <link>https://osgeo.nl/2016/04/come-in-were-open/</link>
       <pubDate>Fri, 15 Apr 2016 10:51:48 +0000</pubDate>
       
-      <guid>/2016/04/come-in-were-open/</guid>
+      <guid>https://osgeo.nl/2016/04/come-in-were-open/</guid>
       <description>
         
           
@@ -279,16 +279,16 @@ Die virtual machine kun je in VirtualBox  of VMWare openen.&lt;/li&gt;
     
     <item>
       <title>25 november OSGeo.nl dag 2015 – programma en inschrijven</title>
-      <link>/2015/10/25-november-osgeo-nl-dag-2015/</link>
+      <link>https://osgeo.nl/2015/10/25-november-osgeo-nl-dag-2015/</link>
       <pubDate>Sun, 18 Oct 2015 16:18:43 +0000</pubDate>
       
-      <guid>/2015/10/25-november-osgeo-nl-dag-2015/</guid>
+      <guid>https://osgeo.nl/2015/10/25-november-osgeo-nl-dag-2015/</guid>
       <description>
         
           
             &lt;h2 id=&#34;osgeonl-dag-als-onderdeel-van-de-geobuzz-open-source-voor-iedereen&#34;&gt;OSGeo.nl dag als onderdeel van de GeoBuzz: &lt;em&gt;open source voor iedereen!&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;De OSGeo.nl dag is dit net als vorig jaar onderdeel van de &lt;a href=&#34;/2015/10/25-november-osgeo-nl-dag-2015/#programma&#34;&gt;GeoBuzz&lt;/a&gt; en vindt plaats op woensdag 25 november in congrescentrum “1931” in Den Bosch.&lt;br&gt;
-Het &lt;a href=&#34;/2015/10/25-november-osgeo-nl-dag-2015/#programma&#34;&gt;programma&lt;/a&gt; biedt voor zowel  toekomstige als bestaande gebruikers van opensource-GIS interessante presentaties en workshops.&lt;br&gt;
+&lt;p&gt;De OSGeo.nl dag is dit net als vorig jaar onderdeel van de &lt;a href=&#34;https://osgeo.nl/2015/10/25-november-osgeo-nl-dag-2015/#programma&#34;&gt;GeoBuzz&lt;/a&gt; en vindt plaats op woensdag 25 november in congrescentrum “1931” in Den Bosch.&lt;br&gt;
+Het &lt;a href=&#34;https://osgeo.nl/2015/10/25-november-osgeo-nl-dag-2015/#programma&#34;&gt;programma&lt;/a&gt; biedt voor zowel  toekomstige als bestaande gebruikers van opensource-GIS interessante presentaties en workshops.&lt;br&gt;
 Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;dat-gaat-naar-den-bosch-toe&#34;&gt;Dat gaat naar Den Bosch toe&lt;/h2&gt;
 &lt;p&gt;Congrescentrum &lt;a href=&#34;http://www.1931.nl/&#34;&gt;“1931”&lt;/a&gt; is met de auto prima bereikbaar. Op pakweg 5 minuten van de snelweg A59, met een zee aan parkeerruimte direct voor de deur. Met het OV reis je naar station ‘s-Hertogenbosch en wandel je in 10 minuten naar “1931”. Waarschijnlijk laat de GeoBuzz organisatie net als vorig jaar een pendelbus rijden. Opstappen bij de uitgang Paleiskwartier/Brabanthallen. Carpoolen kan natuurlijk ook, daarvoor doe je het beste een oproep op de &lt;a href=&#34;http://www.meetup.com/OSGeoNL/events/225281140/&#34;&gt;osgeo.nl -meetup-site&lt;/a&gt;.&lt;/p&gt;
@@ -300,15 +300,15 @@ Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Miniseminar “kiezen of delen” biedt nieuwe inzichten in volwassenheid open source software</title>
-      <link>/2015/09/miniseminar-kiezen-of-delen-biedt-nieuwe-inzichten-in-volwassenheid-open-source-software/</link>
+      <link>https://osgeo.nl/2015/09/miniseminar-kiezen-of-delen-biedt-nieuwe-inzichten-in-volwassenheid-open-source-software/</link>
       <pubDate>Fri, 11 Sep 2015 12:14:50 +0000</pubDate>
       
-      <guid>/2015/09/miniseminar-kiezen-of-delen-biedt-nieuwe-inzichten-in-volwassenheid-open-source-software/</guid>
+      <guid>https://osgeo.nl/2015/09/miniseminar-kiezen-of-delen-biedt-nieuwe-inzichten-in-volwassenheid-open-source-software/</guid>
       <description>
         
           
             &lt;p&gt;Op 9 juni jongstleden kwam een groep van circa 20 geïnteresseerden bijeen in het Ordina hoofdkantoor in Nieuwegein om met elkaar de discussie aan te gaan over de wijze waarop de volwassenheid van open source (geo-)projecten gemeten kan worden.&lt;/p&gt;
-&lt;p&gt;Na een welkomstwoord van Harco de Jager (Business unit manager Geo-ICT bij Ordina) beet Ordina’s open source specialist Patrick Jenner het spits af met allereerst een introductie over de geschiedenis van open source software, licensies en verschijningsvormen. daarna ging Patrick in op het meetbaar maken van de volwassenheid van een open source product. Leeftijd en grootte van de community zijn twee indicatoren, maar ook zaken als het aantal updates (“commits”) zijn indicatoren voor de volwassenheid. Bekijk de complete &lt;a href=&#34;/photos/2015/09/Open-Source-een-goede-keuze.pdf&#34;&gt;presentatie van Patrick&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Na een welkomstwoord van Harco de Jager (Business unit manager Geo-ICT bij Ordina) beet Ordina’s open source specialist Patrick Jenner het spits af met allereerst een introductie over de geschiedenis van open source software, licensies en verschijningsvormen. daarna ging Patrick in op het meetbaar maken van de volwassenheid van een open source product. Leeftijd en grootte van de community zijn twee indicatoren, maar ook zaken als het aantal updates (“commits”) zijn indicatoren voor de volwassenheid. Bekijk de complete &lt;a href=&#34;https://osgeo.nl/photos/2015/09/Open-Source-een-goede-keuze.pdf&#34;&gt;presentatie van Patrick&lt;/a&gt;.&lt;/p&gt;
           
           
         
@@ -317,20 +317,20 @@ Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>PostGIS Workshop door OSGeo.nl op 9 okt 2014</title>
-      <link>/2014/08/postgis-workshop-door-osgeo-nl/</link>
+      <link>https://osgeo.nl/2014/08/postgis-workshop-door-osgeo-nl/</link>
       <pubDate>Tue, 26 Aug 2014 19:29:31 +0000</pubDate>
       
-      <guid>/2014/08/postgis-workshop-door-osgeo-nl/</guid>
+      <guid>https://osgeo.nl/2014/08/postgis-workshop-door-osgeo-nl/</guid>
       <description>
         
           
             &lt;p&gt;Op de OpenTopo workshops door JW van Aalst bleek er behoefte te zijn aan workshops door OSGeo.nl rond basis tools: met name &lt;a href=&#34;http://postgis.net/&#34;&gt;PostGIS&lt;/a&gt; en QGIS. Twee grote specialisten zijn bereid een PostGIS workshop te geven: Michel Sijmons (&lt;a href=&#34;http://www.nibble-it.nl/&#34;&gt;Nibble IT&lt;/a&gt;) en &lt;a href=&#34;https://www.linkedin.com/pub/wouter-boasson/5/471/606&#34;&gt;Wouter Boasson&lt;/a&gt; (RIVM/HAS). Organisator is &lt;a href=&#34;http://wiki.osgeo.org/wiki/Just_van_den_Broecke&#34;&gt;Just van den Broecke&lt;/a&gt;. Vind hier de pagina met instructies, opgaven en data.&lt;/p&gt;
-&lt;!-- &lt;img loading=&#34;lazy&#34; class=&#34;alignleft wp-image-343&#34; src=&#34;/photos/2014/08/Logo_square_postgis-300x300.png&#34; alt=&#34;Logo_square_postgis&#34; width=&#34;112&#34; height=&#34;112&#34; srcset=&#34;/photos/2014/08/Logo_square_postgis.png 300w, /photos/2014/08/Logo_square_postgis-150x150.png 150w&#34; sizes=&#34;(max-width: 112px) 100vw, 112px&#34; /&gt; --&gt;
+&lt;!-- &lt;img loading=&#34;lazy&#34; class=&#34;alignleft wp-image-343&#34; src=&#34;https://osgeo.nl/photos/2014/08/Logo_square_postgis-300x300.png&#34; alt=&#34;Logo_square_postgis&#34; width=&#34;112&#34; height=&#34;112&#34; srcset=&#34;https://osgeo.nl/photos/2014/08/Logo_square_postgis.png 300w, https://osgeo.nl/photos/2014/08/Logo_square_postgis-150x150.png 150w&#34; sizes=&#34;(max-width: 112px) 100vw, 112px&#34; /&gt; --&gt;
 
 &lt;div class=&#34;float_left&#34;&gt;
   &lt;a href=&#34;&#34;&gt;
     &lt;img class=&#34;lazy&#34;
-      src=&#34;/photos/2014/08/Logo_square_postgis-150x150.png&#34;
+      src=&#34;https://osgeo.nl/photos/2014/08/Logo_square_postgis-150x150.png&#34;
       style=&#34;&#34;
       alt=&#34;Logo square postgis&#34; /&gt;
   &lt;/a&gt;
@@ -349,20 +349,20 @@ Wat zou je graag in zo’n workshop zien? Er staat een poll op de
     
     <item>
       <title>OpenTopo Workshops 12&#43;27 maart 2014</title>
-      <link>/2014/02/opentopo-workshops-1227-maart-2014/</link>
+      <link>https://osgeo.nl/2014/02/opentopo-workshops-1227-maart-2014/</link>
       <pubDate>Tue, 04 Feb 2014 20:08:39 +0000</pubDate>
       
-      <guid>/2014/02/opentopo-workshops-1227-maart-2014/</guid>
+      <guid>https://osgeo.nl/2014/02/opentopo-workshops-1227-maart-2014/</guid>
       <description>
         
           
             &lt;p&gt;&lt;strong&gt;Zie de &lt;a href=&#34;http://meetup.com/OSGeoNL&#34;&gt;OSGeo.nl Agenda&lt;/a&gt; voor alle events.&lt;/strong&gt;&lt;/p&gt;
-&lt;!-- &lt;img loading=&#34;lazy&#34; class=&#34;alignleft wp-image-156 size-medium&#34; src=&#34;/photos/2014/04/opentopo-workshop-300x84.png&#34; alt=&#34;opentopo-workshop&#34; width=&#34;300&#34; height=&#34;84&#34; srcset=&#34;/photos/2014/04/opentopo-workshop-300x84.png 300w, /photos/2014/04/opentopo-workshop-260x73.png 260w, /photos/2014/04/opentopo-workshop-160x45.png 160w, /photos/2014/04/opentopo-workshop.png 330w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt; --&gt;
+&lt;!-- &lt;img loading=&#34;lazy&#34; class=&#34;alignleft wp-image-156 size-medium&#34; src=&#34;https://osgeo.nl/photos/2014/04/opentopo-workshop-300x84.png&#34; alt=&#34;opentopo-workshop&#34; width=&#34;300&#34; height=&#34;84&#34; srcset=&#34;https://osgeo.nl/photos/2014/04/opentopo-workshop-300x84.png 300w, https://osgeo.nl/photos/2014/04/opentopo-workshop-260x73.png 260w, https://osgeo.nl/photos/2014/04/opentopo-workshop-160x45.png 160w, https://osgeo.nl/photos/2014/04/opentopo-workshop.png 330w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt; --&gt;
 
 &lt;div class=&#34;float_left&#34;&gt;
   &lt;a href=&#34;#ZgotmplZ&#34;&gt;
     &lt;img class=&#34;lazy&#34;
-      src=&#34;/photos/2014/04/opentopo-workshop-300x84.png&#34;
+      src=&#34;https://osgeo.nl/photos/2014/04/opentopo-workshop-300x84.png&#34;
       style=&#34;&#34;
       alt=&#34;&#34; /&gt;
   &lt;/a&gt;

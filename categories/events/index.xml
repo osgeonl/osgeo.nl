@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on OSGeo.nl - Wegwijs in Open Geo</title>
-    <link>/categories/events/</link>
+    <link>https://osgeo.nl/categories/events/</link>
     <description>Recent content in Events on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 07:00:00 +0000</lastBuildDate><atom:link href="/categories/events/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Oct 2026 07:00:00 +0000</lastBuildDate><atom:link href="https://osgeo.nl/categories/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stem op ons!</title>
-      <link>/2026/10/gin-award/</link>
+      <link>https://osgeo.nl/2026/10/gin-award/</link>
       <pubDate>Tue, 13 Oct 2026 07:00:00 +0000</pubDate>
       
-      <guid>/2026/10/gin-award/</guid>
+      <guid>https://osgeo.nl/2026/10/gin-award/</guid>
       <description>
         
           
@@ -22,7 +22,7 @@
 &lt;div class=&#34;&#34;&gt;
   &lt;a href=&#34;https://geomares.typeform.com/to/YUyu9jo8&#34;&gt;
     &lt;img class=&#34;lazy&#34;
-      src=&#34;/img/gin-award-2026/vote-osgeonl-gin.jpg&#34;
+      src=&#34;https://osgeo.nl/img/gin-award-2026/vote-osgeonl-gin.jpg&#34;
       style=&#34;&#34;
       alt=&#34;STEM HIER!&#34; /&gt;
   &lt;/a&gt;
@@ -47,10 +47,10 @@ Dus: laat je stem niet verloren gaan.&lt;/p&gt;
     
     <item>
       <title>Foss4G-NL 2026: Programma compleet en ticketverkoop gestart</title>
-      <link>/2026/06/foss4gnl-tickets/</link>
+      <link>https://osgeo.nl/2026/06/foss4gnl-tickets/</link>
       <pubDate>Fri, 05 Jun 2026 07:00:00 +0000</pubDate>
       
-      <guid>/2026/06/foss4gnl-tickets/</guid>
+      <guid>https://osgeo.nl/2026/06/foss4gnl-tickets/</guid>
       <description>
         
           
@@ -68,10 +68,10 @@ Ga naar &lt;a href=&#34;https://www.foss4g.nl&#34;&gt;https://www.foss4g.nl&lt;/
     
     <item>
       <title>Foss4G-NL 2026 Call for Presentations</title>
-      <link>/2026/05/foss4gnl-cfp/</link>
+      <link>https://osgeo.nl/2026/05/foss4gnl-cfp/</link>
       <pubDate>Thu, 07 May 2026 07:00:00 +0000</pubDate>
       
-      <guid>/2026/05/foss4gnl-cfp/</guid>
+      <guid>https://osgeo.nl/2026/05/foss4gnl-cfp/</guid>
       <description>
         
           
@@ -87,10 +87,10 @@ Ga naar &lt;a href=&#34;https://www.foss4g.nl&#34;&gt;https://www.foss4g.nl&lt;/
     
     <item>
       <title>Eerste editie OSGeoNL Startersdag!</title>
-      <link>/2026/03/starters-dag/</link>
+      <link>https://osgeo.nl/2026/03/starters-dag/</link>
       <pubDate>Mon, 23 Mar 2026 07:00:39 +0000</pubDate>
       
-      <guid>/2026/03/starters-dag/</guid>
+      <guid>https://osgeo.nl/2026/03/starters-dag/</guid>
       <description>
         
           

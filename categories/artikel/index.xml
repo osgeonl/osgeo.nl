@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artikel on OSGeo.nl - Wegwijs in Open Geo</title>
-    <link>/categories/artikel/</link>
+    <link>https://osgeo.nl/categories/artikel/</link>
     <description>Recent content in Artikel on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Feb 2018 22:33:25 +0000</lastBuildDate><atom:link href="/categories/artikel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Feb 2018 22:33:25 +0000</lastBuildDate><atom:link href="https://osgeo.nl/categories/artikel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Verslag: OSGeo.nl en OpenStreetMap NL Nieuwjaarsborrel 2018</title>
-      <link>/2018/02/verslag-nieuwjaarsborrel-2018/</link>
+      <link>https://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</link>
       <pubDate>Tue, 13 Feb 2018 22:33:25 +0000</pubDate>
       
-      <guid>/2018/02/verslag-nieuwjaarsborrel-2018/</guid>
+      <guid>https://osgeo.nl/2018/02/verslag-nieuwjaarsborrel-2018/</guid>
       <description>
         
           
@@ -34,7 +34,7 @@
       alt=&#34; &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2018/02/njborrel18-0.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2018/02/njborrel18-0.jpg&#34;
       
       
     /&gt;
@@ -43,7 +43,7 @@
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;!--
-&lt;img loading=&#34;lazy&#34; class=&#34;alignnone size-full wp-image-1898&#34; src=&#34;/photos/2018/02/njborrel18-0.jpg&#34; alt=&#34;&#34; width=&#34;582&#34; height=&#34;325&#34; srcset=&#34;/photos/2018/02/njborrel18-0.jpg 582w, /photos/2018/02/njborrel18-0-300x168.jpg 300w, /photos/2018/02/njborrel18-0-150x84.jpg 150w&#34; sizes=&#34;(max-width: 582px) 100vw, 582px&#34; /&gt; 
+&lt;img loading=&#34;lazy&#34; class=&#34;alignnone size-full wp-image-1898&#34; src=&#34;https://osgeo.nl/photos/2018/02/njborrel18-0.jpg&#34; alt=&#34;&#34; width=&#34;582&#34; height=&#34;325&#34; srcset=&#34;https://osgeo.nl/photos/2018/02/njborrel18-0.jpg 582w, https://osgeo.nl/photos/2018/02/njborrel18-0-300x168.jpg 300w, https://osgeo.nl/photos/2018/02/njborrel18-0-150x84.jpg 150w&#34; sizes=&#34;(max-width: 582px) 100vw, 582px&#34; /&gt; 
 --&gt;
 &lt;p&gt;Ieder jaar weer blijkt dat er bij deze communities weer interesses en raakvlakken zijn: niet alleen op gebied van de open data rond De Basis Registraties (BAG, BGT, BRK, Top10NL etc) en projecten die zich daar mee bezig houden zoals &lt;a href=&#34;http://www.nlextract.nl/&#34;&gt;NLExtract&lt;/a&gt;, maar ook op het gebied van bijvoorbeeld &lt;a href=&#34;http://www.missingmaps.org/&#34;&gt;Missing Maps&lt;/a&gt; en &lt;a href=&#34;https://qgis.org/&#34;&gt;QGIS&lt;/a&gt;. Dit smaakt ook naar meer events in 2018 om gezamenlijk Open Source en Open Data voor geo-informatie in Nederland te versterken.&lt;/p&gt;
           
@@ -54,10 +54,10 @@
     
     <item>
       <title>Verslag: OSGeo.nl Dag 2017</title>
-      <link>/2017/12/verslag-osgeonl-dag-2017/</link>
+      <link>https://osgeo.nl/2017/12/verslag-osgeonl-dag-2017/</link>
       <pubDate>Wed, 06 Dec 2017 22:17:08 +0000</pubDate>
       
-      <guid>/2017/12/verslag-osgeonl-dag-2017/</guid>
+      <guid>https://osgeo.nl/2017/12/verslag-osgeonl-dag-2017/</guid>
       <description>
         
           
@@ -81,7 +81,7 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
       alt=&#34; &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2017/12/IMG_2017.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2017/12/IMG_2017.jpg&#34;
       
       
     /&gt;
@@ -106,7 +106,7 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
       alt=&#34; &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2017/12/IMG_2029.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2017/12/IMG_2029.jpg&#34;
       
       
     /&gt;
@@ -131,7 +131,7 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
       alt=&#34; &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2017/12/IMG_2022.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2017/12/IMG_2022.jpg&#34;
       
       
     /&gt;
@@ -140,7 +140,7 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;!--
-&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1820&#34; src=&#34;/photos/2017/12/IMG_2017-1024x683.jpg&#34; alt=&#34;&#34; width=&#34;309&#34; height=&#34;206&#34; srcset=&#34;/photos/2017/12/IMG_2017-1024x683.jpg 1024w, /photos/2017/12/IMG_2017-300x200.jpg 300w, /photos/2017/12/IMG_2017-768x512.jpg 768w, /photos/2017/12/IMG_2017-150x100.jpg 150w&#34; sizes=&#34;(max-width: 309px) 100vw, 309px&#34; /&gt;&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1821&#34; style=&#34;font-size: 12px;&#34; src=&#34;/photos/2017/12/IMG_2029-1024x683.jpg&#34; alt=&#34;&#34; width=&#34;309&#34; height=&#34;206&#34; srcset=&#34;/photos/2017/12/IMG_2029-1024x683.jpg 1024w, /photos/2017/12/IMG_2029-300x200.jpg 300w, /photos/2017/12/IMG_2029-768x512.jpg 768w, /photos/2017/12/IMG_2029-150x100.jpg 150w&#34; sizes=&#34;(max-width: 309px) 100vw, 309px&#34; /&gt;&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1818&#34; src=&#34;/photos/2017/12/IMG_2022-1024x683.jpg&#34; alt=&#34;&#34; width=&#34;309&#34; height=&#34;206&#34; srcset=&#34;/photos/2017/12/IMG_2022-1024x683.jpg 1024w, /photos/2017/12/IMG_2022-300x200.jpg 300w, /photos/2017/12/IMG_2022-768x512.jpg 768w, /photos/2017/12/IMG_2022-150x100.jpg 150w&#34; sizes=&#34;(max-width: 309px) 100vw, 309px&#34; /&gt; 
+&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1820&#34; src=&#34;https://osgeo.nl/photos/2017/12/IMG_2017-1024x683.jpg&#34; alt=&#34;&#34; width=&#34;309&#34; height=&#34;206&#34; srcset=&#34;https://osgeo.nl/photos/2017/12/IMG_2017-1024x683.jpg 1024w, https://osgeo.nl/photos/2017/12/IMG_2017-300x200.jpg 300w, https://osgeo.nl/photos/2017/12/IMG_2017-768x512.jpg 768w, https://osgeo.nl/photos/2017/12/IMG_2017-150x100.jpg 150w&#34; sizes=&#34;(max-width: 309px) 100vw, 309px&#34; /&gt;&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1821&#34; style=&#34;font-size: 12px;&#34; src=&#34;https://osgeo.nl/photos/2017/12/IMG_2029-1024x683.jpg&#34; alt=&#34;&#34; width=&#34;309&#34; height=&#34;206&#34; srcset=&#34;https://osgeo.nl/photos/2017/12/IMG_2029-1024x683.jpg 1024w, https://osgeo.nl/photos/2017/12/IMG_2029-300x200.jpg 300w, https://osgeo.nl/photos/2017/12/IMG_2029-768x512.jpg 768w, https://osgeo.nl/photos/2017/12/IMG_2029-150x100.jpg 150w&#34; sizes=&#34;(max-width: 309px) 100vw, 309px&#34; /&gt;&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1818&#34; src=&#34;https://osgeo.nl/photos/2017/12/IMG_2022-1024x683.jpg&#34; alt=&#34;&#34; width=&#34;309&#34; height=&#34;206&#34; srcset=&#34;https://osgeo.nl/photos/2017/12/IMG_2022-1024x683.jpg 1024w, https://osgeo.nl/photos/2017/12/IMG_2022-300x200.jpg 300w, https://osgeo.nl/photos/2017/12/IMG_2022-768x512.jpg 768w, https://osgeo.nl/photos/2017/12/IMG_2022-150x100.jpg 150w&#34; sizes=&#34;(max-width: 309px) 100vw, 309px&#34; /&gt; 
 --&gt;
 &lt;p&gt;Dank aan allen die hieraan meegewerkt hebben, in bijzonder Winifred Broeder (programma, logo’s, promotie materiaal, foto’s) , Ynte de Wolf (programma), Steven Ottens (techniek) en uiteraard alle sprekers die zich merkbaar degelijk hadden voorbereid!&lt;/p&gt;
           
@@ -151,16 +151,16 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
     
     <item>
       <title>Verslag: Seminar “Open Historische Web Cartografie” sept 2015</title>
-      <link>/2015/12/verslag-histwebcart-2015/</link>
+      <link>https://osgeo.nl/2015/12/verslag-histwebcart-2015/</link>
       <pubDate>Thu, 31 Dec 2015 15:00:18 +0000</pubDate>
       
-      <guid>/2015/12/verslag-histwebcart-2015/</guid>
+      <guid>https://osgeo.nl/2015/12/verslag-histwebcart-2015/</guid>
       <description>
         
           
             &lt;p&gt;Dit gezamenlijk event van OSGeo.nl, &lt;a href=&#34;http://www.uva.nl/&#34;&gt;UvA&lt;/a&gt; en &lt;a href=&#34;http://cultureelerfgoed.nl/&#34;&gt;RCE&lt;/a&gt; was op vrijdag 25 sept 2015 (13:00-17:30, RCE Amersfoort). Hieronder het programma en achtergrond informatie. Er waren plm 50 deelnemers. Meer info op de &lt;a href=&#34;http://www.meetup.com/OSGeoNL/events/223443171/&#34;&gt;OSGeo.nl Meetup&lt;/a&gt;.&lt;/p&gt;
 &lt;!--
-&lt;img loading=&#34;lazy&#34; class=&#34; wp-image-1012 alignleft&#34; src=&#34;/photos/2015/12/OpenHistWebCarto-5.jpg&#34; alt=&#34;OpenHistWebCarto-5&#34; width=&#34;356&#34; height=&#34;215&#34; srcset=&#34;/photos/2015/12/OpenHistWebCarto-5.jpg 3057w, /photos/2015/12/OpenHistWebCarto-5-300x181.jpg 300w, /photos/2015/12/OpenHistWebCarto-5-1024x617.jpg 1024w, /photos/2015/12/OpenHistWebCarto-5-250x150.jpg 250w, /photos/2015/12/OpenHistWebCarto-5-150x90.jpg 150w&#34; sizes=&#34;(max-width: 356px) 100vw, 356px&#34; /&gt;&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1013&#34; src=&#34;/photos/2015/12/OpenHistWebCarto-6.jpg&#34; alt=&#34;OpenHistWebCarto-6&#34; width=&#34;363&#34; height=&#34;219&#34; srcset=&#34;/photos/2015/12/OpenHistWebCarto-6.jpg 3264w, /photos/2015/12/OpenHistWebCarto-6-300x181.jpg 300w, /photos/2015/12/OpenHistWebCarto-6-1024x617.jpg 1024w, /photos/2015/12/OpenHistWebCarto-6-250x150.jpg 250w, /photos/2015/12/OpenHistWebCarto-6-150x90.jpg 150w&#34; sizes=&#34;(max-width: 363px) 100vw, 363px&#34; /&gt; 
+&lt;img loading=&#34;lazy&#34; class=&#34; wp-image-1012 alignleft&#34; src=&#34;https://osgeo.nl/photos/2015/12/OpenHistWebCarto-5.jpg&#34; alt=&#34;OpenHistWebCarto-5&#34; width=&#34;356&#34; height=&#34;215&#34; srcset=&#34;https://osgeo.nl/photos/2015/12/OpenHistWebCarto-5.jpg 3057w, https://osgeo.nl/photos/2015/12/OpenHistWebCarto-5-300x181.jpg 300w, https://osgeo.nl/photos/2015/12/OpenHistWebCarto-5-1024x617.jpg 1024w, https://osgeo.nl/photos/2015/12/OpenHistWebCarto-5-250x150.jpg 250w, https://osgeo.nl/photos/2015/12/OpenHistWebCarto-5-150x90.jpg 150w&#34; sizes=&#34;(max-width: 356px) 100vw, 356px&#34; /&gt;&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1013&#34; src=&#34;https://osgeo.nl/photos/2015/12/OpenHistWebCarto-6.jpg&#34; alt=&#34;OpenHistWebCarto-6&#34; width=&#34;363&#34; height=&#34;219&#34; srcset=&#34;https://osgeo.nl/photos/2015/12/OpenHistWebCarto-6.jpg 3264w, https://osgeo.nl/photos/2015/12/OpenHistWebCarto-6-300x181.jpg 300w, https://osgeo.nl/photos/2015/12/OpenHistWebCarto-6-1024x617.jpg 1024w, https://osgeo.nl/photos/2015/12/OpenHistWebCarto-6-250x150.jpg 250w, https://osgeo.nl/photos/2015/12/OpenHistWebCarto-6-150x90.jpg 150w&#34; sizes=&#34;(max-width: 363px) 100vw, 363px&#34; /&gt; 
 --&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
@@ -179,7 +179,7 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
       alt=&#34; OpenHistWebCarto-5 &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2015/12/OpenHistWebCarto-5.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2015/12/OpenHistWebCarto-5.jpg&#34;
       
       
     /&gt;
@@ -204,7 +204,7 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
       alt=&#34; OpenHistWebCarto-6 &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2015/12/OpenHistWebCarto-6.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2015/12/OpenHistWebCarto-6.jpg&#34;
       
       
     /&gt;
@@ -220,10 +220,10 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
     
     <item>
       <title>Open Geodata op groot formaat</title>
-      <link>/2015/09/open-geodata-op-groot-formaat/</link>
+      <link>https://osgeo.nl/2015/09/open-geodata-op-groot-formaat/</link>
       <pubDate>Sun, 20 Sep 2015 15:42:25 +0000</pubDate>
       
-      <guid>/2015/09/open-geodata-op-groot-formaat/</guid>
+      <guid>https://osgeo.nl/2015/09/open-geodata-op-groot-formaat/</guid>
       <description>
         
           

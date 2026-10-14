@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Osgeonldag on OSGeo.nl - Wegwijs in Open Geo</title>
-    <link>/tags/osgeonldag/</link>
+    <link>https://osgeo.nl/tags/osgeonldag/</link>
     <description>Recent content in Osgeonldag on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Jan 2015 15:34:19 +0000</lastBuildDate><atom:link href="/tags/osgeonldag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jan 2015 15:34:19 +0000</lastBuildDate><atom:link href="https://osgeo.nl/tags/osgeonldag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSGeo.nl Dag 2014 – Verslag en Presentaties</title>
-      <link>/2015/01/osgeo-nl-dag-2014-verslag-en-presentaties/</link>
+      <link>https://osgeo.nl/2015/01/osgeo-nl-dag-2014-verslag-en-presentaties/</link>
       <pubDate>Fri, 23 Jan 2015 15:34:19 +0000</pubDate>
       
-      <guid>/2015/01/osgeo-nl-dag-2014-verslag-en-presentaties/</guid>
+      <guid>https://osgeo.nl/2015/01/osgeo-nl-dag-2014-verslag-en-presentaties/</guid>
       <description>
         
           
-            &lt;!-- &lt;img loading=&#34;lazy&#34; class=&#34;alignnone  wp-image-708&#34; src=&#34;/photos/2015/01/osgeonl-dag-2014-800px-zaal.jpg&#34; alt=&#34;osgeonl-dag-2014-800px-zaal&#34; width=&#34;515&#34; height=&#34;194&#34; /&gt; --&gt;
+            &lt;!-- &lt;img loading=&#34;lazy&#34; class=&#34;alignnone  wp-image-708&#34; src=&#34;https://osgeo.nl/photos/2015/01/osgeonl-dag-2014-800px-zaal.jpg&#34; alt=&#34;osgeonl-dag-2014-800px-zaal&#34; width=&#34;515&#34; height=&#34;194&#34; /&gt; --&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
@@ -34,7 +34,7 @@
       alt=&#34; osgeonl-dag-2014-800px-zaal &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2015/01/osgeonl-dag-2014-800px-zaal.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2015/01/osgeonl-dag-2014-800px-zaal.jpg&#34;
       
       
     /&gt;

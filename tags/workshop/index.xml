@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workshop on OSGeo.nl - Wegwijs in Open Geo</title>
-    <link>/tags/workshop/</link>
+    <link>https://osgeo.nl/tags/workshop/</link>
     <description>Recent content in Workshop on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Oct 2017 18:44:12 +0000</lastBuildDate><atom:link href="/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Oct 2017 18:44:12 +0000</lastBuildDate><atom:link href="https://osgeo.nl/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GRASS GIS crash course</title>
-      <link>/2017/10/grass-gis-crash-course/</link>
+      <link>https://osgeo.nl/2017/10/grass-gis-crash-course/</link>
       <pubDate>Sun, 08 Oct 2017 18:44:12 +0000</pubDate>
       
-      <guid>/2017/10/grass-gis-crash-course/</guid>
+      <guid>https://osgeo.nl/2017/10/grass-gis-crash-course/</guid>
       <description>
         
           
@@ -25,10 +25,10 @@
     
     <item>
       <title>Huiswerk voor deelnemers aan de workshop “Versiebeheer in geoland”</title>
-      <link>/2016/11/huiswerk-voor-deelnemers-aan-de-workshop-versiebeheer-in-geoland/</link>
+      <link>https://osgeo.nl/2016/11/huiswerk-voor-deelnemers-aan-de-workshop-versiebeheer-in-geoland/</link>
       <pubDate>Sun, 20 Nov 2016 17:55:44 +0000</pubDate>
       
-      <guid>/2016/11/huiswerk-voor-deelnemers-aan-de-workshop-versiebeheer-in-geoland/</guid>
+      <guid>https://osgeo.nl/2016/11/huiswerk-voor-deelnemers-aan-de-workshop-versiebeheer-in-geoland/</guid>
       <description>
         
           
@@ -51,15 +51,15 @@ Die virtual machine kun je in VirtualBox  of VMWare openen.&lt;/li&gt;
     
     <item>
       <title>OSGeo.nl PostGIS Workshop</title>
-      <link>/2014/10/581/</link>
+      <link>https://osgeo.nl/2014/10/581/</link>
       <pubDate>Thu, 09 Oct 2014 10:18:59 +0000</pubDate>
       
-      <guid>/2014/10/581/</guid>
+      <guid>https://osgeo.nl/2014/10/581/</guid>
       <description>
         
           
             &lt;p&gt;Op 9 oktober 2014 vond de OSGeo.nl PostGIS workshop plaats op het &lt;a href=&#34;http://www.geofort.nl&#34;&gt;GeoFort&lt;/a&gt; (met dank aan &lt;a href=&#34;http://geo-academie.nl/&#34;&gt;GeoAcademie&lt;/a&gt; voor beschikbaar stellen deze locatie). Hoofddocent en PostGIS expert &lt;a href=&#34;https://www.linkedin.com/pub/wouter-boasson/5/471/606&#34;&gt;Wouter Boasson&lt;/a&gt;, gesecondeerd  door PostgreSQL-expert &lt;a href=&#34;https://www.linkedin.com/in/michelsijmons&#34;&gt;Michel Sijmons&lt;/a&gt; verzorgden een inspirerende en vooral “hands-on” avond voor plm 20 enthousiaste deelnemers: van jonge WUR-studenten tot Kadaster-pensionado’s. Er stonden vier mensen op de wachtlijst. Hieronder foto tijdens de inloop.&lt;/p&gt;
-&lt;!-- [&lt;img loading=&#34;lazy&#34; class=&#34;alignnone size-full wp-image-593&#34; src=&#34;/photos/2014/10/postgis-ws-inloop1.jpg&#34; alt=&#34;postgis-ws-inloop&#34; width=&#34;640&#34; height=&#34;203&#34; srcset=&#34;/photos/2014/10/postgis-ws-inloop1.jpg 640w, /photos/2014/10/postgis-ws-inloop1-300x95.jpg 300w, /photos/2014/10/postgis-ws-inloop1-250x79.jpg 250w, /photos/2014/10/postgis-ws-inloop1-150x47.jpg 150w&#34; sizes=&#34;(max-width: 640px) 100vw, 640px&#34; /&gt;][1] --&gt;
+&lt;!-- [&lt;img loading=&#34;lazy&#34; class=&#34;alignnone size-full wp-image-593&#34; src=&#34;https://osgeo.nl/photos/2014/10/postgis-ws-inloop1.jpg&#34; alt=&#34;postgis-ws-inloop&#34; width=&#34;640&#34; height=&#34;203&#34; srcset=&#34;https://osgeo.nl/photos/2014/10/postgis-ws-inloop1.jpg 640w, https://osgeo.nl/photos/2014/10/postgis-ws-inloop1-300x95.jpg 300w, https://osgeo.nl/photos/2014/10/postgis-ws-inloop1-250x79.jpg 250w, https://osgeo.nl/photos/2014/10/postgis-ws-inloop1-150x47.jpg 150w&#34; sizes=&#34;(max-width: 640px) 100vw, 640px&#34; /&gt;][1] --&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
@@ -77,7 +77,7 @@ Die virtual machine kun je in VirtualBox  of VMWare openen.&lt;/li&gt;
       alt=&#34; &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2014/10/postgis-ws-inloop1.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2014/10/postgis-ws-inloop1.jpg&#34;
       
       
     /&gt;

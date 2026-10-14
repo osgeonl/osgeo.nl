@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GDAL on OSGeo.nl - Wegwijs in Open Geo</title>
-    <link>/tags/gdal/</link>
+    <link>https://osgeo.nl/tags/gdal/</link>
     <description>Recent content in GDAL on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Oct 2016 21:59:28 +0000</lastBuildDate><atom:link href="/tags/gdal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Oct 2016 21:59:28 +0000</lastBuildDate><atom:link href="https://osgeo.nl/tags/gdal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Verslag: mini-seminar RD en Open Source Software – okt 2016</title>
-      <link>/2016/10/verslag-mini-seminar-rd/</link>
+      <link>https://osgeo.nl/2016/10/verslag-mini-seminar-rd/</link>
       <pubDate>Thu, 27 Oct 2016 21:59:28 +0000</pubDate>
       
-      <guid>/2016/10/verslag-mini-seminar-rd/</guid>
+      <guid>https://osgeo.nl/2016/10/verslag-mini-seminar-rd/</guid>
       <description>
         
           
@@ -27,16 +27,16 @@
     
     <item>
       <title>Seminar “Open Historische Web Cartografie” 25 sept 2015</title>
-      <link>/2015/06/seminar-open-historische-web-cartografie-op-25-sept-2015/</link>
+      <link>https://osgeo.nl/2015/06/seminar-open-historische-web-cartografie-op-25-sept-2015/</link>
       <pubDate>Tue, 23 Jun 2015 18:01:47 +0000</pubDate>
       
-      <guid>/2015/06/seminar-open-historische-web-cartografie-op-25-sept-2015/</guid>
+      <guid>https://osgeo.nl/2015/06/seminar-open-historische-web-cartografie-op-25-sept-2015/</guid>
       <description>
         
           
             &lt;p&gt;Dit gezamenlijk event van OSGeo.nl, &lt;a href=&#34;http://www.uva.nl/&#34;&gt;UvA&lt;/a&gt; en &lt;a href=&#34;http://cultureelerfgoed.nl/&#34;&gt;RCE&lt;/a&gt; is op vrijdag 25 sept 2015 (13:00-17:30, RCE Amersfoort). Hieronder het programma en achtergrond informatie. Opgeven kan via de &lt;a href=&#34;http://www.meetup.com/OSGeoNL/events/223443171/&#34;&gt;OSGeo.nl Meetup&lt;/a&gt;:&lt;/p&gt;
 &lt;!--
-&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-856 size-full&#34; src=&#34;/photos/2015/06/programma-e1441108140771.png&#34; alt=&#34;programma&#34; width=&#34;500&#34; height=&#34;371&#34; /&gt; 
+&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-856 size-full&#34; src=&#34;https://osgeo.nl/photos/2015/06/programma-e1441108140771.png&#34; alt=&#34;programma&#34; width=&#34;500&#34; height=&#34;371&#34; /&gt; 
 --&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
@@ -55,7 +55,7 @@
       alt=&#34; programma &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2015/06/programma-e1441108140771.png&#34;
+        src=&#34;https://osgeo.nl/photos/2015/06/programma-e1441108140771.png&#34;
       
       
     /&gt;
@@ -63,7 +63,7 @@
     &lt;/picture&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Download hier het volledige &lt;a href=&#34;/photos/2015/09/programma.pdf&#34;&gt;programma&lt;/a&gt; (PDF).&lt;/p&gt;
+&lt;p&gt;Download hier het volledige &lt;a href=&#34;https://osgeo.nl/photos/2015/09/programma.pdf&#34;&gt;programma&lt;/a&gt; (PDF).&lt;/p&gt;
 &lt;p&gt;Historische kaarten spreken velen tot de verbeelding. Het vakgebied Historische Cartografie kent dan ook een lange geschiedenis. Het ontsluiten van historische kaarten via het Web is sterk in opkomst.&lt;/p&gt;
           
           

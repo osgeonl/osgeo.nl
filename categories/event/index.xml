@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Event on OSGeo.nl - Wegwijs in Open Geo</title>
-    <link>/categories/event/</link>
+    <link>https://osgeo.nl/categories/event/</link>
     <description>Recent content in Event on OSGeo.nl - Wegwijs in Open Geo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Aug 2022 19:47:39 +0000</lastBuildDate><atom:link href="/categories/event/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Aug 2022 19:47:39 +0000</lastBuildDate><atom:link href="https://osgeo.nl/categories/event/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nieuwe website osgeo.nl</title>
-      <link>/2022/08/nieuwe-website-osgeo-nl/</link>
+      <link>https://osgeo.nl/2022/08/nieuwe-website-osgeo-nl/</link>
       <pubDate>Wed, 03 Aug 2022 19:47:39 +0000</pubDate>
       
-      <guid>/2022/08/nieuwe-website-osgeo-nl/</guid>
+      <guid>https://osgeo.nl/2022/08/nieuwe-website-osgeo-nl/</guid>
       <description>
         
           
@@ -31,10 +31,10 @@ bijv &lt;a href=&#34;https://tv.osgeo.nl&#34;&gt;tv.osgeo.nl&lt;/a&gt;, ook al e
     
     <item>
       <title>Verslag: NLExtract Hacking Day</title>
-      <link>/2018/04/verslag-nlextract-hacking-day/</link>
+      <link>https://osgeo.nl/2018/04/verslag-nlextract-hacking-day/</link>
       <pubDate>Mon, 30 Apr 2018 09:47:39 +0000</pubDate>
       
-      <guid>/2018/04/verslag-nlextract-hacking-day/</guid>
+      <guid>https://osgeo.nl/2018/04/verslag-nlextract-hacking-day/</guid>
       <description>
         
           
@@ -47,10 +47,10 @@ bijv &lt;a href=&#34;https://tv.osgeo.nl&#34;&gt;tv.osgeo.nl&lt;/a&gt;, ook al e
     
     <item>
       <title>Verslag: OSGeo.nl Dag 2017</title>
-      <link>/2017/12/verslag-osgeonl-dag-2017/</link>
+      <link>https://osgeo.nl/2017/12/verslag-osgeonl-dag-2017/</link>
       <pubDate>Wed, 06 Dec 2017 22:17:08 +0000</pubDate>
       
-      <guid>/2017/12/verslag-osgeonl-dag-2017/</guid>
+      <guid>https://osgeo.nl/2017/12/verslag-osgeonl-dag-2017/</guid>
       <description>
         
           
@@ -74,7 +74,7 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
       alt=&#34; &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2017/12/IMG_2017.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2017/12/IMG_2017.jpg&#34;
       
       
     /&gt;
@@ -99,7 +99,7 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
       alt=&#34; &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2017/12/IMG_2029.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2017/12/IMG_2029.jpg&#34;
       
       
     /&gt;
@@ -124,7 +124,7 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
       alt=&#34; &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2017/12/IMG_2022.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2017/12/IMG_2022.jpg&#34;
       
       
     /&gt;
@@ -133,7 +133,7 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;!--
-&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1820&#34; src=&#34;/photos/2017/12/IMG_2017-1024x683.jpg&#34; alt=&#34;&#34; width=&#34;309&#34; height=&#34;206&#34; srcset=&#34;/photos/2017/12/IMG_2017-1024x683.jpg 1024w, /photos/2017/12/IMG_2017-300x200.jpg 300w, /photos/2017/12/IMG_2017-768x512.jpg 768w, /photos/2017/12/IMG_2017-150x100.jpg 150w&#34; sizes=&#34;(max-width: 309px) 100vw, 309px&#34; /&gt;&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1821&#34; style=&#34;font-size: 12px;&#34; src=&#34;/photos/2017/12/IMG_2029-1024x683.jpg&#34; alt=&#34;&#34; width=&#34;309&#34; height=&#34;206&#34; srcset=&#34;/photos/2017/12/IMG_2029-1024x683.jpg 1024w, /photos/2017/12/IMG_2029-300x200.jpg 300w, /photos/2017/12/IMG_2029-768x512.jpg 768w, /photos/2017/12/IMG_2029-150x100.jpg 150w&#34; sizes=&#34;(max-width: 309px) 100vw, 309px&#34; /&gt;&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1818&#34; src=&#34;/photos/2017/12/IMG_2022-1024x683.jpg&#34; alt=&#34;&#34; width=&#34;309&#34; height=&#34;206&#34; srcset=&#34;/photos/2017/12/IMG_2022-1024x683.jpg 1024w, /photos/2017/12/IMG_2022-300x200.jpg 300w, /photos/2017/12/IMG_2022-768x512.jpg 768w, /photos/2017/12/IMG_2022-150x100.jpg 150w&#34; sizes=&#34;(max-width: 309px) 100vw, 309px&#34; /&gt; 
+&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1820&#34; src=&#34;https://osgeo.nl/photos/2017/12/IMG_2017-1024x683.jpg&#34; alt=&#34;&#34; width=&#34;309&#34; height=&#34;206&#34; srcset=&#34;https://osgeo.nl/photos/2017/12/IMG_2017-1024x683.jpg 1024w, https://osgeo.nl/photos/2017/12/IMG_2017-300x200.jpg 300w, https://osgeo.nl/photos/2017/12/IMG_2017-768x512.jpg 768w, https://osgeo.nl/photos/2017/12/IMG_2017-150x100.jpg 150w&#34; sizes=&#34;(max-width: 309px) 100vw, 309px&#34; /&gt;&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1821&#34; style=&#34;font-size: 12px;&#34; src=&#34;https://osgeo.nl/photos/2017/12/IMG_2029-1024x683.jpg&#34; alt=&#34;&#34; width=&#34;309&#34; height=&#34;206&#34; srcset=&#34;https://osgeo.nl/photos/2017/12/IMG_2029-1024x683.jpg 1024w, https://osgeo.nl/photos/2017/12/IMG_2029-300x200.jpg 300w, https://osgeo.nl/photos/2017/12/IMG_2029-768x512.jpg 768w, https://osgeo.nl/photos/2017/12/IMG_2029-150x100.jpg 150w&#34; sizes=&#34;(max-width: 309px) 100vw, 309px&#34; /&gt;&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1818&#34; src=&#34;https://osgeo.nl/photos/2017/12/IMG_2022-1024x683.jpg&#34; alt=&#34;&#34; width=&#34;309&#34; height=&#34;206&#34; srcset=&#34;https://osgeo.nl/photos/2017/12/IMG_2022-1024x683.jpg 1024w, https://osgeo.nl/photos/2017/12/IMG_2022-300x200.jpg 300w, https://osgeo.nl/photos/2017/12/IMG_2022-768x512.jpg 768w, https://osgeo.nl/photos/2017/12/IMG_2022-150x100.jpg 150w&#34; sizes=&#34;(max-width: 309px) 100vw, 309px&#34; /&gt; 
 --&gt;
 &lt;p&gt;Dank aan allen die hieraan meegewerkt hebben, in bijzonder Winifred Broeder (programma, logo’s, promotie materiaal, foto’s) , Ynte de Wolf (programma), Steven Ottens (techniek) en uiteraard alle sprekers die zich merkbaar degelijk hadden voorbereid!&lt;/p&gt;
           
@@ -144,10 +144,10 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
     
     <item>
       <title>OSGeo.nl Dag 2017 – Geo.Samen.Doen.</title>
-      <link>/2017/10/osgeo-nl-dag-2017-geo-samen-doen/</link>
+      <link>https://osgeo.nl/2017/10/osgeo-nl-dag-2017-geo-samen-doen/</link>
       <pubDate>Wed, 04 Oct 2017 21:53:48 +0000</pubDate>
       
-      <guid>/2017/10/osgeo-nl-dag-2017-geo-samen-doen/</guid>
+      <guid>https://osgeo.nl/2017/10/osgeo-nl-dag-2017-geo-samen-doen/</guid>
       <description>
         
           
@@ -161,10 +161,10 @@ Eng.: this is a report &lt;a href=&#34;https://github.com/osgeonl/osgeonl.github
     
     <item>
       <title>Huiswerk voor deelnemers aan de workshop “Versiebeheer in geoland”</title>
-      <link>/2016/11/huiswerk-voor-deelnemers-aan-de-workshop-versiebeheer-in-geoland/</link>
+      <link>https://osgeo.nl/2016/11/huiswerk-voor-deelnemers-aan-de-workshop-versiebeheer-in-geoland/</link>
       <pubDate>Sun, 20 Nov 2016 17:55:44 +0000</pubDate>
       
-      <guid>/2016/11/huiswerk-voor-deelnemers-aan-de-workshop-versiebeheer-in-geoland/</guid>
+      <guid>https://osgeo.nl/2016/11/huiswerk-voor-deelnemers-aan-de-workshop-versiebeheer-in-geoland/</guid>
       <description>
         
           
@@ -187,10 +187,10 @@ Die virtual machine kun je in VirtualBox  of VMWare openen.&lt;/li&gt;
     
     <item>
       <title>Verslag: mini-seminar RD en Open Source Software – okt 2016</title>
-      <link>/2016/10/verslag-mini-seminar-rd/</link>
+      <link>https://osgeo.nl/2016/10/verslag-mini-seminar-rd/</link>
       <pubDate>Thu, 27 Oct 2016 21:59:28 +0000</pubDate>
       
-      <guid>/2016/10/verslag-mini-seminar-rd/</guid>
+      <guid>https://osgeo.nl/2016/10/verslag-mini-seminar-rd/</guid>
       <description>
         
           
@@ -205,10 +205,10 @@ Die virtual machine kun je in VirtualBox  of VMWare openen.&lt;/li&gt;
     
     <item>
       <title>22 november 2016: 5e OSGeo.nl Dag op een rij!</title>
-      <link>/2016/10/22-november-5e-osgeo-nl-dag-op-een-rij/</link>
+      <link>https://osgeo.nl/2016/10/22-november-5e-osgeo-nl-dag-op-een-rij/</link>
       <pubDate>Sat, 08 Oct 2016 17:40:43 +0000</pubDate>
       
-      <guid>/2016/10/22-november-5e-osgeo-nl-dag-op-een-rij/</guid>
+      <guid>https://osgeo.nl/2016/10/22-november-5e-osgeo-nl-dag-op-een-rij/</guid>
       <description>
         
           
@@ -224,10 +224,10 @@ Die virtual machine kun je in VirtualBox  of VMWare openen.&lt;/li&gt;
     
     <item>
       <title>Mini-seminar “RD en open source software “- do. 20 oktober 2016 – Hilversum</title>
-      <link>/2016/10/mini-seminar-rd-en-open-source-software-do-20-oktober-2016-hilversum/</link>
+      <link>https://osgeo.nl/2016/10/mini-seminar-rd-en-open-source-software-do-20-oktober-2016-hilversum/</link>
       <pubDate>Sat, 01 Oct 2016 15:13:31 +0000</pubDate>
       
-      <guid>/2016/10/mini-seminar-rd-en-open-source-software-do-20-oktober-2016-hilversum/</guid>
+      <guid>https://osgeo.nl/2016/10/mini-seminar-rd-en-open-source-software-do-20-oktober-2016-hilversum/</guid>
       <description>
         
           
@@ -241,10 +241,10 @@ Die virtual machine kun je in VirtualBox  of VMWare openen.&lt;/li&gt;
     
     <item>
       <title>Come in, we’re open! – Inschrijving voor FOSS4G (Bonn) start vandaag</title>
-      <link>/2016/04/come-in-were-open/</link>
+      <link>https://osgeo.nl/2016/04/come-in-were-open/</link>
       <pubDate>Fri, 15 Apr 2016 10:51:48 +0000</pubDate>
       
-      <guid>/2016/04/come-in-were-open/</guid>
+      <guid>https://osgeo.nl/2016/04/come-in-were-open/</guid>
       <description>
         
           
@@ -257,16 +257,16 @@ Die virtual machine kun je in VirtualBox  of VMWare openen.&lt;/li&gt;
     
     <item>
       <title>De oogst van de nieuwjaarsborrel: de ideeënwand voor 2016</title>
-      <link>/2016/03/de-ideeenwand-voor-2016/</link>
+      <link>https://osgeo.nl/2016/03/de-ideeenwand-voor-2016/</link>
       <pubDate>Sat, 05 Mar 2016 00:43:43 +0000</pubDate>
       
-      <guid>/2016/03/de-ideeenwand-voor-2016/</guid>
+      <guid>https://osgeo.nl/2016/03/de-ideeenwand-voor-2016/</guid>
       <description>
         
           
             &lt;p&gt;Het nieuwe jaar is al weer een flink eind op streek. Toch wil ik jullie nog de “oogst” van de OpenStreetMap &amp;amp; OSGeo.nl Nieuwjaarsborrel meegeven. Tijdens deze traditionele Nieuwjaarsborrel in café Dudok in Hilversum werden de circa 50 aanwezigen uit alle delen van Nederland en Vlaanderen gevraagd om hun ideeën en wensen voor het nieuwe open source jaar kenbaar te maken. Dat leverde deze ideeënwand op:&lt;/p&gt;
 &lt;!--
-&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1063 size-large&#34; src=&#34;/photos/2016/03/ideeenwand-1024x768.jpg&#34; alt=&#34;Ideeënwand OSM/OSGeo.nl Nieuwjaarsborrel 2016&#34; width=&#34;900&#34; height=&#34;675&#34; srcset=&#34;/photos/2016/03/ideeenwand-1024x768.jpg 1024w, /photos/2016/03/ideeenwand-300x225.jpg 300w, /photos/2016/03/ideeenwand-768x576.jpg 768w, /photos/2016/03/ideeenwand-200x150.jpg 200w, /photos/2016/03/ideeenwand-150x113.jpg 150w&#34; sizes=&#34;(max-width: 900px) 100vw, 900px&#34; /&gt;
+&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1063 size-large&#34; src=&#34;https://osgeo.nl/photos/2016/03/ideeenwand-1024x768.jpg&#34; alt=&#34;Ideeënwand OSM/OSGeo.nl Nieuwjaarsborrel 2016&#34; width=&#34;900&#34; height=&#34;675&#34; srcset=&#34;https://osgeo.nl/photos/2016/03/ideeenwand-1024x768.jpg 1024w, https://osgeo.nl/photos/2016/03/ideeenwand-300x225.jpg 300w, https://osgeo.nl/photos/2016/03/ideeenwand-768x576.jpg 768w, https://osgeo.nl/photos/2016/03/ideeenwand-200x150.jpg 200w, https://osgeo.nl/photos/2016/03/ideeenwand-150x113.jpg 150w&#34; sizes=&#34;(max-width: 900px) 100vw, 900px&#34; /&gt;
 --&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
@@ -285,7 +285,7 @@ Die virtual machine kun je in VirtualBox  of VMWare openen.&lt;/li&gt;
       alt=&#34; Ideeënwand OSM/OSGeo.nl Nieuwjaarsborrel 2016 &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2016/03/ideeenwand.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2016/03/ideeenwand.jpg&#34;
       
       
     /&gt;
@@ -301,16 +301,16 @@ Die virtual machine kun je in VirtualBox  of VMWare openen.&lt;/li&gt;
     
     <item>
       <title>Verslag: Seminar “Open Historische Web Cartografie” sept 2015</title>
-      <link>/2015/12/verslag-histwebcart-2015/</link>
+      <link>https://osgeo.nl/2015/12/verslag-histwebcart-2015/</link>
       <pubDate>Thu, 31 Dec 2015 15:00:18 +0000</pubDate>
       
-      <guid>/2015/12/verslag-histwebcart-2015/</guid>
+      <guid>https://osgeo.nl/2015/12/verslag-histwebcart-2015/</guid>
       <description>
         
           
             &lt;p&gt;Dit gezamenlijk event van OSGeo.nl, &lt;a href=&#34;http://www.uva.nl/&#34;&gt;UvA&lt;/a&gt; en &lt;a href=&#34;http://cultureelerfgoed.nl/&#34;&gt;RCE&lt;/a&gt; was op vrijdag 25 sept 2015 (13:00-17:30, RCE Amersfoort). Hieronder het programma en achtergrond informatie. Er waren plm 50 deelnemers. Meer info op de &lt;a href=&#34;http://www.meetup.com/OSGeoNL/events/223443171/&#34;&gt;OSGeo.nl Meetup&lt;/a&gt;.&lt;/p&gt;
 &lt;!--
-&lt;img loading=&#34;lazy&#34; class=&#34; wp-image-1012 alignleft&#34; src=&#34;/photos/2015/12/OpenHistWebCarto-5.jpg&#34; alt=&#34;OpenHistWebCarto-5&#34; width=&#34;356&#34; height=&#34;215&#34; srcset=&#34;/photos/2015/12/OpenHistWebCarto-5.jpg 3057w, /photos/2015/12/OpenHistWebCarto-5-300x181.jpg 300w, /photos/2015/12/OpenHistWebCarto-5-1024x617.jpg 1024w, /photos/2015/12/OpenHistWebCarto-5-250x150.jpg 250w, /photos/2015/12/OpenHistWebCarto-5-150x90.jpg 150w&#34; sizes=&#34;(max-width: 356px) 100vw, 356px&#34; /&gt;&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1013&#34; src=&#34;/photos/2015/12/OpenHistWebCarto-6.jpg&#34; alt=&#34;OpenHistWebCarto-6&#34; width=&#34;363&#34; height=&#34;219&#34; srcset=&#34;/photos/2015/12/OpenHistWebCarto-6.jpg 3264w, /photos/2015/12/OpenHistWebCarto-6-300x181.jpg 300w, /photos/2015/12/OpenHistWebCarto-6-1024x617.jpg 1024w, /photos/2015/12/OpenHistWebCarto-6-250x150.jpg 250w, /photos/2015/12/OpenHistWebCarto-6-150x90.jpg 150w&#34; sizes=&#34;(max-width: 363px) 100vw, 363px&#34; /&gt; 
+&lt;img loading=&#34;lazy&#34; class=&#34; wp-image-1012 alignleft&#34; src=&#34;https://osgeo.nl/photos/2015/12/OpenHistWebCarto-5.jpg&#34; alt=&#34;OpenHistWebCarto-5&#34; width=&#34;356&#34; height=&#34;215&#34; srcset=&#34;https://osgeo.nl/photos/2015/12/OpenHistWebCarto-5.jpg 3057w, https://osgeo.nl/photos/2015/12/OpenHistWebCarto-5-300x181.jpg 300w, https://osgeo.nl/photos/2015/12/OpenHistWebCarto-5-1024x617.jpg 1024w, https://osgeo.nl/photos/2015/12/OpenHistWebCarto-5-250x150.jpg 250w, https://osgeo.nl/photos/2015/12/OpenHistWebCarto-5-150x90.jpg 150w&#34; sizes=&#34;(max-width: 356px) 100vw, 356px&#34; /&gt;&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-1013&#34; src=&#34;https://osgeo.nl/photos/2015/12/OpenHistWebCarto-6.jpg&#34; alt=&#34;OpenHistWebCarto-6&#34; width=&#34;363&#34; height=&#34;219&#34; srcset=&#34;https://osgeo.nl/photos/2015/12/OpenHistWebCarto-6.jpg 3264w, https://osgeo.nl/photos/2015/12/OpenHistWebCarto-6-300x181.jpg 300w, https://osgeo.nl/photos/2015/12/OpenHistWebCarto-6-1024x617.jpg 1024w, https://osgeo.nl/photos/2015/12/OpenHistWebCarto-6-250x150.jpg 250w, https://osgeo.nl/photos/2015/12/OpenHistWebCarto-6-150x90.jpg 150w&#34; sizes=&#34;(max-width: 363px) 100vw, 363px&#34; /&gt; 
 --&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
@@ -329,7 +329,7 @@ Die virtual machine kun je in VirtualBox  of VMWare openen.&lt;/li&gt;
       alt=&#34; OpenHistWebCarto-5 &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2015/12/OpenHistWebCarto-5.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2015/12/OpenHistWebCarto-5.jpg&#34;
       
       
     /&gt;
@@ -354,7 +354,7 @@ Die virtual machine kun je in VirtualBox  of VMWare openen.&lt;/li&gt;
       alt=&#34; OpenHistWebCarto-6 &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2015/12/OpenHistWebCarto-6.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2015/12/OpenHistWebCarto-6.jpg&#34;
       
       
     /&gt;
@@ -370,16 +370,16 @@ Die virtual machine kun je in VirtualBox  of VMWare openen.&lt;/li&gt;
     
     <item>
       <title>25 november OSGeo.nl dag 2015 – programma en inschrijven</title>
-      <link>/2015/10/25-november-osgeo-nl-dag-2015/</link>
+      <link>https://osgeo.nl/2015/10/25-november-osgeo-nl-dag-2015/</link>
       <pubDate>Sun, 18 Oct 2015 16:18:43 +0000</pubDate>
       
-      <guid>/2015/10/25-november-osgeo-nl-dag-2015/</guid>
+      <guid>https://osgeo.nl/2015/10/25-november-osgeo-nl-dag-2015/</guid>
       <description>
         
           
             &lt;h2 id=&#34;osgeonl-dag-als-onderdeel-van-de-geobuzz-open-source-voor-iedereen&#34;&gt;OSGeo.nl dag als onderdeel van de GeoBuzz: &lt;em&gt;open source voor iedereen!&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;De OSGeo.nl dag is dit net als vorig jaar onderdeel van de &lt;a href=&#34;/2015/10/25-november-osgeo-nl-dag-2015/#programma&#34;&gt;GeoBuzz&lt;/a&gt; en vindt plaats op woensdag 25 november in congrescentrum “1931” in Den Bosch.&lt;br&gt;
-Het &lt;a href=&#34;/2015/10/25-november-osgeo-nl-dag-2015/#programma&#34;&gt;programma&lt;/a&gt; biedt voor zowel  toekomstige als bestaande gebruikers van opensource-GIS interessante presentaties en workshops.&lt;br&gt;
+&lt;p&gt;De OSGeo.nl dag is dit net als vorig jaar onderdeel van de &lt;a href=&#34;https://osgeo.nl/2015/10/25-november-osgeo-nl-dag-2015/#programma&#34;&gt;GeoBuzz&lt;/a&gt; en vindt plaats op woensdag 25 november in congrescentrum “1931” in Den Bosch.&lt;br&gt;
+Het &lt;a href=&#34;https://osgeo.nl/2015/10/25-november-osgeo-nl-dag-2015/#programma&#34;&gt;programma&lt;/a&gt; biedt voor zowel  toekomstige als bestaande gebruikers van opensource-GIS interessante presentaties en workshops.&lt;br&gt;
 Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;dat-gaat-naar-den-bosch-toe&#34;&gt;Dat gaat naar Den Bosch toe&lt;/h2&gt;
 &lt;p&gt;Congrescentrum &lt;a href=&#34;http://www.1931.nl/&#34;&gt;“1931”&lt;/a&gt; is met de auto prima bereikbaar. Op pakweg 5 minuten van de snelweg A59, met een zee aan parkeerruimte direct voor de deur. Met het OV reis je naar station ‘s-Hertogenbosch en wandel je in 10 minuten naar “1931”. Waarschijnlijk laat de GeoBuzz organisatie net als vorig jaar een pendelbus rijden. Opstappen bij de uitgang Paleiskwartier/Brabanthallen. Carpoolen kan natuurlijk ook, daarvoor doe je het beste een oproep op de &lt;a href=&#34;http://www.meetup.com/OSGeoNL/events/225281140/&#34;&gt;osgeo.nl -meetup-site&lt;/a&gt;.&lt;/p&gt;
@@ -391,10 +391,10 @@ Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>25 november: OSGeo.nl dag op GeoBuzz</title>
-      <link>/2015/09/25-november-osgeo-nl-dag-op-geobuzz/</link>
+      <link>https://osgeo.nl/2015/09/25-november-osgeo-nl-dag-op-geobuzz/</link>
       <pubDate>Fri, 11 Sep 2015 12:28:39 +0000</pubDate>
       
-      <guid>/2015/09/25-november-osgeo-nl-dag-op-geobuzz/</guid>
+      <guid>https://osgeo.nl/2015/09/25-november-osgeo-nl-dag-op-geobuzz/</guid>
       <description>
         
           
@@ -408,16 +408,16 @@ Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Seminar “Open Historische Web Cartografie” 25 sept 2015</title>
-      <link>/2015/06/seminar-open-historische-web-cartografie-op-25-sept-2015/</link>
+      <link>https://osgeo.nl/2015/06/seminar-open-historische-web-cartografie-op-25-sept-2015/</link>
       <pubDate>Tue, 23 Jun 2015 18:01:47 +0000</pubDate>
       
-      <guid>/2015/06/seminar-open-historische-web-cartografie-op-25-sept-2015/</guid>
+      <guid>https://osgeo.nl/2015/06/seminar-open-historische-web-cartografie-op-25-sept-2015/</guid>
       <description>
         
           
             &lt;p&gt;Dit gezamenlijk event van OSGeo.nl, &lt;a href=&#34;http://www.uva.nl/&#34;&gt;UvA&lt;/a&gt; en &lt;a href=&#34;http://cultureelerfgoed.nl/&#34;&gt;RCE&lt;/a&gt; is op vrijdag 25 sept 2015 (13:00-17:30, RCE Amersfoort). Hieronder het programma en achtergrond informatie. Opgeven kan via de &lt;a href=&#34;http://www.meetup.com/OSGeoNL/events/223443171/&#34;&gt;OSGeo.nl Meetup&lt;/a&gt;:&lt;/p&gt;
 &lt;!--
-&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-856 size-full&#34; src=&#34;/photos/2015/06/programma-e1441108140771.png&#34; alt=&#34;programma&#34; width=&#34;500&#34; height=&#34;371&#34; /&gt; 
+&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-856 size-full&#34; src=&#34;https://osgeo.nl/photos/2015/06/programma-e1441108140771.png&#34; alt=&#34;programma&#34; width=&#34;500&#34; height=&#34;371&#34; /&gt; 
 --&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
@@ -436,7 +436,7 @@ Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
       alt=&#34; programma &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2015/06/programma-e1441108140771.png&#34;
+        src=&#34;https://osgeo.nl/photos/2015/06/programma-e1441108140771.png&#34;
       
       
     /&gt;
@@ -444,7 +444,7 @@ Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
     &lt;/picture&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Download hier het volledige &lt;a href=&#34;/photos/2015/09/programma.pdf&#34;&gt;programma&lt;/a&gt; (PDF).&lt;/p&gt;
+&lt;p&gt;Download hier het volledige &lt;a href=&#34;https://osgeo.nl/photos/2015/09/programma.pdf&#34;&gt;programma&lt;/a&gt; (PDF).&lt;/p&gt;
 &lt;p&gt;Historische kaarten spreken velen tot de verbeelding. Het vakgebied Historische Cartografie kent dan ook een lange geschiedenis. Het ontsluiten van historische kaarten via het Web is sterk in opkomst.&lt;/p&gt;
           
           
@@ -454,10 +454,10 @@ Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Workshop: “Open source geo: kiezen of delen?”</title>
-      <link>/2015/05/open-source-geo-kiezen-of-delen/</link>
+      <link>https://osgeo.nl/2015/05/open-source-geo-kiezen-of-delen/</link>
       <pubDate>Sat, 23 May 2015 13:29:17 +0000</pubDate>
       
-      <guid>/2015/05/open-source-geo-kiezen-of-delen/</guid>
+      <guid>https://osgeo.nl/2015/05/open-source-geo-kiezen-of-delen/</guid>
       <description>
         
           
@@ -470,10 +470,10 @@ Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Miniseminar “Wegwijs in Open Source Geo” bij Ruimteschepper</title>
-      <link>/2015/05/miniseminar-wegwijs-in-open-source-geo-bij-ruimteschepper/</link>
+      <link>https://osgeo.nl/2015/05/miniseminar-wegwijs-in-open-source-geo-bij-ruimteschepper/</link>
       <pubDate>Thu, 21 May 2015 14:13:31 +0000</pubDate>
       
-      <guid>/2015/05/miniseminar-wegwijs-in-open-source-geo-bij-ruimteschepper/</guid>
+      <guid>https://osgeo.nl/2015/05/miniseminar-wegwijs-in-open-source-geo-bij-ruimteschepper/</guid>
       <description>
         
           
@@ -487,22 +487,22 @@ Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>Nieuwjaarsborrel 2015 – De Presentaties</title>
-      <link>/2015/01/nieuwjaarsborrel-2015-de-presentaties/</link>
+      <link>https://osgeo.nl/2015/01/nieuwjaarsborrel-2015-de-presentaties/</link>
       <pubDate>Sun, 25 Jan 2015 15:33:10 +0000</pubDate>
       
-      <guid>/2015/01/nieuwjaarsborrel-2015-de-presentaties/</guid>
+      <guid>https://osgeo.nl/2015/01/nieuwjaarsborrel-2015-de-presentaties/</guid>
       <description>
         
           
             &lt;p&gt;Op de vierde opeenvolgende gezamenlijke nieuwjaarsborrel van OSGeo.nl en OpenStreetMap NL in cafe Dudok te Hilversum waren weer een aantal interessante presentaties. Hieronder ook de links naar de PDF-slides en een zeer fraaie &lt;a href=&#34;https://www.youtube.com/watch?v=u7wNP1fi0IY&#34;&gt;3D video&lt;/a&gt;.&lt;/p&gt;
 &lt;!--
-&lt;a href=&#34;http://osgeonl.github.io/sitecontent/events/nieuwjaarsborrel2015/presentaties/OpenTopo_1600px_issues_JW_van_Aalst.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;&lt;strong&gt;&lt;img loading=&#34;lazy&#34; class=&#34;  wp-image-719 alignleft&#34; src=&#34;/photos/2015/01/jw-slide.png&#34; alt=&#34;jw-slide&#34; width=&#34;289&#34; height=&#34;194&#34; srcset=&#34;/photos/2015/01/jw-slide.png 420w, /photos/2015/01/jw-slide-300x201.png 300w, /photos/2015/01/jw-slide-223x150.png 223w, /photos/2015/01/jw-slide-150x101.png 150w&#34; sizes=&#34;(max-width: 289px) 100vw, 289px&#34; /&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;
+&lt;a href=&#34;http://osgeonl.github.io/sitecontent/events/nieuwjaarsborrel2015/presentaties/OpenTopo_1600px_issues_JW_van_Aalst.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;&lt;strong&gt;&lt;img loading=&#34;lazy&#34; class=&#34;  wp-image-719 alignleft&#34; src=&#34;https://osgeo.nl/photos/2015/01/jw-slide.png&#34; alt=&#34;jw-slide&#34; width=&#34;289&#34; height=&#34;194&#34; srcset=&#34;https://osgeo.nl/photos/2015/01/jw-slide.png 420w, https://osgeo.nl/photos/2015/01/jw-slide-300x201.png 300w, https://osgeo.nl/photos/2015/01/jw-slide-223x150.png 223w, https://osgeo.nl/photos/2015/01/jw-slide-150x101.png 150w&#34; sizes=&#34;(max-width: 289px) 100vw, 289px&#34; /&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;
 --&gt;
 
 &lt;div class=&#34;float_left&#34;&gt;
   &lt;a href=&#34;http://osgeonl.github.io/sitecontent/events/nieuwjaarsborrel2015/presentaties/OpenTopo_1600px_issues_JW_van_Aalst.pdf&#34;&gt;
     &lt;img class=&#34;lazy&#34;
-      src=&#34;/photos/2015/01/jw-slide.png&#34;
+      src=&#34;https://osgeo.nl/photos/2015/01/jw-slide.png&#34;
       style=&#34;&#34;
       alt=&#34; &#34; /&gt;
   &lt;/a&gt;
@@ -520,10 +520,10 @@ Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>OpenTopo workshop 2014 video beschikbaar</title>
-      <link>/2014/09/opentopo-workshop-2014-video-beschikbaar/</link>
+      <link>https://osgeo.nl/2014/09/opentopo-workshop-2014-video-beschikbaar/</link>
       <pubDate>Sun, 21 Sep 2014 16:22:13 +0000</pubDate>
       
-      <guid>/2014/09/opentopo-workshop-2014-video-beschikbaar/</guid>
+      <guid>https://osgeo.nl/2014/09/opentopo-workshop-2014-video-beschikbaar/</guid>
       <description>
         
           
@@ -537,10 +537,10 @@ Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>OSGeo.nl dag 2014 als onderdeel van de GeoBuzz</title>
-      <link>/2014/08/osgeo-nl-dag-2014-als-onderdeel-van-de-geobuzz/</link>
+      <link>https://osgeo.nl/2014/08/osgeo-nl-dag-2014-als-onderdeel-van-de-geobuzz/</link>
       <pubDate>Sun, 31 Aug 2014 19:36:43 +0000</pubDate>
       
-      <guid>/2014/08/osgeo-nl-dag-2014-als-onderdeel-van-de-geobuzz/</guid>
+      <guid>https://osgeo.nl/2014/08/osgeo-nl-dag-2014-als-onderdeel-van-de-geobuzz/</guid>
       <description>
         
           
@@ -555,20 +555,20 @@ Het thema is: &lt;em&gt;open source – voor iedereen!&lt;/em&gt;&lt;/p&gt;
     
     <item>
       <title>PostGIS Workshop door OSGeo.nl op 9 okt 2014</title>
-      <link>/2014/08/postgis-workshop-door-osgeo-nl/</link>
+      <link>https://osgeo.nl/2014/08/postgis-workshop-door-osgeo-nl/</link>
       <pubDate>Tue, 26 Aug 2014 19:29:31 +0000</pubDate>
       
-      <guid>/2014/08/postgis-workshop-door-osgeo-nl/</guid>
+      <guid>https://osgeo.nl/2014/08/postgis-workshop-door-osgeo-nl/</guid>
       <description>
         
           
             &lt;p&gt;Op de OpenTopo workshops door JW van Aalst bleek er behoefte te zijn aan workshops door OSGeo.nl rond basis tools: met name &lt;a href=&#34;http://postgis.net/&#34;&gt;PostGIS&lt;/a&gt; en QGIS. Twee grote specialisten zijn bereid een PostGIS workshop te geven: Michel Sijmons (&lt;a href=&#34;http://www.nibble-it.nl/&#34;&gt;Nibble IT&lt;/a&gt;) en &lt;a href=&#34;https://www.linkedin.com/pub/wouter-boasson/5/471/606&#34;&gt;Wouter Boasson&lt;/a&gt; (RIVM/HAS). Organisator is &lt;a href=&#34;http://wiki.osgeo.org/wiki/Just_van_den_Broecke&#34;&gt;Just van den Broecke&lt;/a&gt;. Vind hier de pagina met instructies, opgaven en data.&lt;/p&gt;
-&lt;!-- &lt;img loading=&#34;lazy&#34; class=&#34;alignleft wp-image-343&#34; src=&#34;/photos/2014/08/Logo_square_postgis-300x300.png&#34; alt=&#34;Logo_square_postgis&#34; width=&#34;112&#34; height=&#34;112&#34; srcset=&#34;/photos/2014/08/Logo_square_postgis.png 300w, /photos/2014/08/Logo_square_postgis-150x150.png 150w&#34; sizes=&#34;(max-width: 112px) 100vw, 112px&#34; /&gt; --&gt;
+&lt;!-- &lt;img loading=&#34;lazy&#34; class=&#34;alignleft wp-image-343&#34; src=&#34;https://osgeo.nl/photos/2014/08/Logo_square_postgis-300x300.png&#34; alt=&#34;Logo_square_postgis&#34; width=&#34;112&#34; height=&#34;112&#34; srcset=&#34;https://osgeo.nl/photos/2014/08/Logo_square_postgis.png 300w, https://osgeo.nl/photos/2014/08/Logo_square_postgis-150x150.png 150w&#34; sizes=&#34;(max-width: 112px) 100vw, 112px&#34; /&gt; --&gt;
 
 &lt;div class=&#34;float_left&#34;&gt;
   &lt;a href=&#34;&#34;&gt;
     &lt;img class=&#34;lazy&#34;
-      src=&#34;/photos/2014/08/Logo_square_postgis-150x150.png&#34;
+      src=&#34;https://osgeo.nl/photos/2014/08/Logo_square_postgis-150x150.png&#34;
       style=&#34;&#34;
       alt=&#34;Logo square postgis&#34; /&gt;
   &lt;/a&gt;
@@ -587,20 +587,20 @@ Wat zou je graag in zo’n workshop zien? Er staat een poll op de
     
     <item>
       <title>OpenTopo Workshops 12&#43;27 maart 2014</title>
-      <link>/2014/02/opentopo-workshops-1227-maart-2014/</link>
+      <link>https://osgeo.nl/2014/02/opentopo-workshops-1227-maart-2014/</link>
       <pubDate>Tue, 04 Feb 2014 20:08:39 +0000</pubDate>
       
-      <guid>/2014/02/opentopo-workshops-1227-maart-2014/</guid>
+      <guid>https://osgeo.nl/2014/02/opentopo-workshops-1227-maart-2014/</guid>
       <description>
         
           
             &lt;p&gt;&lt;strong&gt;Zie de &lt;a href=&#34;http://meetup.com/OSGeoNL&#34;&gt;OSGeo.nl Agenda&lt;/a&gt; voor alle events.&lt;/strong&gt;&lt;/p&gt;
-&lt;!-- &lt;img loading=&#34;lazy&#34; class=&#34;alignleft wp-image-156 size-medium&#34; src=&#34;/photos/2014/04/opentopo-workshop-300x84.png&#34; alt=&#34;opentopo-workshop&#34; width=&#34;300&#34; height=&#34;84&#34; srcset=&#34;/photos/2014/04/opentopo-workshop-300x84.png 300w, /photos/2014/04/opentopo-workshop-260x73.png 260w, /photos/2014/04/opentopo-workshop-160x45.png 160w, /photos/2014/04/opentopo-workshop.png 330w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt; --&gt;
+&lt;!-- &lt;img loading=&#34;lazy&#34; class=&#34;alignleft wp-image-156 size-medium&#34; src=&#34;https://osgeo.nl/photos/2014/04/opentopo-workshop-300x84.png&#34; alt=&#34;opentopo-workshop&#34; width=&#34;300&#34; height=&#34;84&#34; srcset=&#34;https://osgeo.nl/photos/2014/04/opentopo-workshop-300x84.png 300w, https://osgeo.nl/photos/2014/04/opentopo-workshop-260x73.png 260w, https://osgeo.nl/photos/2014/04/opentopo-workshop-160x45.png 160w, https://osgeo.nl/photos/2014/04/opentopo-workshop.png 330w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt; --&gt;
 
 &lt;div class=&#34;float_left&#34;&gt;
   &lt;a href=&#34;#ZgotmplZ&#34;&gt;
     &lt;img class=&#34;lazy&#34;
-      src=&#34;/photos/2014/04/opentopo-workshop-300x84.png&#34;
+      src=&#34;https://osgeo.nl/photos/2014/04/opentopo-workshop-300x84.png&#34;
       style=&#34;&#34;
       alt=&#34;&#34; /&gt;
   &lt;/a&gt;
@@ -616,20 +616,20 @@ Wat zou je graag in zo’n workshop zien? Er staat een poll op de
     
     <item>
       <title>Nieuwjaarsborrel 12 jan 2014</title>
-      <link>/2013/12/nieuwjaarsborrel-12-jan-2014/</link>
+      <link>https://osgeo.nl/2013/12/nieuwjaarsborrel-12-jan-2014/</link>
       <pubDate>Tue, 17 Dec 2013 21:06:50 +0000</pubDate>
       
-      <guid>/2013/12/nieuwjaarsborrel-12-jan-2014/</guid>
+      <guid>https://osgeo.nl/2013/12/nieuwjaarsborrel-12-jan-2014/</guid>
       <description>
         
           
             &lt;p&gt;Onze traditionele nieuwjaarsborrel met OpenStreetMap-NL. Dit jaar in Cafe Dudok Hilversum (t/o Station NS) , bovenzaal zondag 12 jan, vanaf 15:00. Voor details en aanmelding zie de &lt;a href=&#34;http://www.meetup.com/OSGeoNL/events/156113292&#34;&gt;Meetup event&lt;/a&gt;.&lt;/p&gt;
-&lt;!-- &lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-472 size-full&#34; src=&#34;/photos/2013/12/njborrel-2014.jpg&#34; alt=&#34;njborrel-2014&#34; width=&#34;320&#34; height=&#34;73&#34; srcset=&#34;/photos/2013/12/njborrel-2014.jpg 320w, /photos/2013/12/njborrel-2014-300x68.jpg 300w, /photos/2013/12/njborrel-2014-250x57.jpg 250w, /photos/2013/12/njborrel-2014-150x34.jpg 150w, /photos/2013/12/njborrel-2014-318x73.jpg 318w&#34; sizes=&#34;(max-width: 320px) 100vw, 320px&#34; /&gt; --&gt;
+&lt;!-- &lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-472 size-full&#34; src=&#34;https://osgeo.nl/photos/2013/12/njborrel-2014.jpg&#34; alt=&#34;njborrel-2014&#34; width=&#34;320&#34; height=&#34;73&#34; srcset=&#34;https://osgeo.nl/photos/2013/12/njborrel-2014.jpg 320w, https://osgeo.nl/photos/2013/12/njborrel-2014-300x68.jpg 300w, https://osgeo.nl/photos/2013/12/njborrel-2014-250x57.jpg 250w, https://osgeo.nl/photos/2013/12/njborrel-2014-150x34.jpg 150w, https://osgeo.nl/photos/2013/12/njborrel-2014-318x73.jpg 318w&#34; sizes=&#34;(max-width: 320px) 100vw, 320px&#34; /&gt; --&gt;
 
 &lt;div class=&#34;&#34;&gt;
   &lt;a href=&#34;http://www.meetup.com/OSGeoNL/events/156113292&#34;&gt;
     &lt;img class=&#34;lazy&#34;
-      src=&#34;/photos/2013/12/njborrel-2014.jpg&#34;
+      src=&#34;https://osgeo.nl/photos/2013/12/njborrel-2014.jpg&#34;
       style=&#34;&#34;
       alt=&#34;njborrel-2014&#34; /&gt;
   &lt;/a&gt;
@@ -645,20 +645,20 @@ Wat zou je graag in zo’n workshop zien? Er staat een poll op de
     
     <item>
       <title>OSGeo.nl Dag 2013 – Een succes!</title>
-      <link>/2013/11/osgeo-nl-dag-2013-een-succes/</link>
+      <link>https://osgeo.nl/2013/11/osgeo-nl-dag-2013-een-succes/</link>
       <pubDate>Wed, 20 Nov 2013 19:05:25 +0000</pubDate>
       
-      <guid>/2013/11/osgeo-nl-dag-2013-een-succes/</guid>
+      <guid>https://osgeo.nl/2013/11/osgeo-nl-dag-2013-een-succes/</guid>
       <description>
         
           
             &lt;p&gt;Ook de &lt;a href=&#34;http://io.osgeo.nl/sitecontent/osgeonl_dag/osgeonl_dag_2013.html&#34;&gt;tweede OSGeo.nl Dag&lt;/a&gt; gehouden op 13 november 2013 in Delft was een succes. Klik op poster hieronder om het programma en de presentaties terug te zien.&lt;/p&gt;
-&lt;!-- [&lt;img loading=&#34;lazy&#34; class=&#34;alignleft wp-image-320&#34; src=&#34;/photos/2013/09/osgeonldag13-mini-poster.png&#34; alt=&#34;osgeonldag13-mini-poster&#34; width=&#34;288&#34; height=&#34;225&#34; srcset=&#34;/photos/2013/09/osgeonldag13-mini-poster.png 270w, /photos/2013/09/osgeonldag13-mini-poster-192x150.png 192w, /photos/2013/09/osgeonldag13-mini-poster-150x116.png 150w&#34; sizes=&#34;(max-width: 288px) 100vw, 288px&#34; /&gt;][1] --&gt;
+&lt;!-- [&lt;img loading=&#34;lazy&#34; class=&#34;alignleft wp-image-320&#34; src=&#34;https://osgeo.nl/photos/2013/09/osgeonldag13-mini-poster.png&#34; alt=&#34;osgeonldag13-mini-poster&#34; width=&#34;288&#34; height=&#34;225&#34; srcset=&#34;https://osgeo.nl/photos/2013/09/osgeonldag13-mini-poster.png 270w, https://osgeo.nl/photos/2013/09/osgeonldag13-mini-poster-192x150.png 192w, https://osgeo.nl/photos/2013/09/osgeonldag13-mini-poster-150x116.png 150w&#34; sizes=&#34;(max-width: 288px) 100vw, 288px&#34; /&gt;][1] --&gt;
 
 &lt;div class=&#34;float_left&#34;&gt;
   &lt;a href=&#34;http://io.osgeo.nl/sitecontent/osgeonl_dag/osgeonl_dag_2013.html&#34;&gt;
     &lt;img class=&#34;lazy&#34;
-      src=&#34;/photos/2013/09/osgeonldag13-mini-poster.png&#34;
+      src=&#34;https://osgeo.nl/photos/2013/09/osgeonldag13-mini-poster.png&#34;
       style=&#34;&#34;
       alt=&#34;&#34; /&gt;
   &lt;/a&gt;
@@ -675,10 +675,10 @@ Wat zou je graag in zo’n workshop zien? Er staat een poll op de
     
     <item>
       <title>OSGeo.nl Dag op 13 november 2013</title>
-      <link>/2013/09/osgeo-nl-dag-op-13-november-2013/</link>
+      <link>https://osgeo.nl/2013/09/osgeo-nl-dag-op-13-november-2013/</link>
       <pubDate>Fri, 20 Sep 2013 10:10:12 +0000</pubDate>
       
-      <guid>/2013/09/osgeo-nl-dag-op-13-november-2013/</guid>
+      <guid>https://osgeo.nl/2013/09/osgeo-nl-dag-op-13-november-2013/</guid>
       <description>
         
           
@@ -704,20 +704,20 @@ Wat zou je graag in zo’n workshop zien? Er staat een poll op de
     
     <item>
       <title>16 mei 2013 – Open Source Seminar op Geospatial World Forum</title>
-      <link>/2013/06/16-mei-2013-open-source-seminar-op-geospatial-world-forum/</link>
+      <link>https://osgeo.nl/2013/06/16-mei-2013-open-source-seminar-op-geospatial-world-forum/</link>
       <pubDate>Sat, 01 Jun 2013 10:17:46 +0000</pubDate>
       
-      <guid>/2013/06/16-mei-2013-open-source-seminar-op-geospatial-world-forum/</guid>
+      <guid>https://osgeo.nl/2013/06/16-mei-2013-open-source-seminar-op-geospatial-world-forum/</guid>
       <description>
         
           
             &lt;p&gt;Net als in 2012 organiseerde OSGeo.nl een &lt;a href=&#34;http://www.geospatialworldforum.org/2013/open_pr.htm&#34;&gt;Open Source Seminar met nationale en internationale sprekers&lt;/a&gt; op het Geospatial World Forum in het WTC in Rotterdam. Georganiseerd door: &lt;a href=&#34;http://wiki.osgeo.org/wiki/User:Genuchten&#34;&gt;Paul van Genuchten&lt;/a&gt;.&lt;/p&gt;
-&lt;!-- [&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-364 size-full&#34; src=&#34;/photos/2013/04/gwf13-foss.jpg&#34; alt=&#34;gwf13-foss&#34; width=&#34;800&#34; height=&#34;691&#34; srcset=&#34;/photos/2013/04/gwf13-foss.jpg 800w, /photos/2013/04/gwf13-foss-300x259.jpg 300w, /photos/2013/04/gwf13-foss-173x150.jpg 173w, /photos/2013/04/gwf13-foss-150x129.jpg 150w&#34; sizes=&#34;(max-width: 800px) 100vw, 800px&#34; /&gt;][1] --&gt;
+&lt;!-- [&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-364 size-full&#34; src=&#34;https://osgeo.nl/photos/2013/04/gwf13-foss.jpg&#34; alt=&#34;gwf13-foss&#34; width=&#34;800&#34; height=&#34;691&#34; srcset=&#34;https://osgeo.nl/photos/2013/04/gwf13-foss.jpg 800w, https://osgeo.nl/photos/2013/04/gwf13-foss-300x259.jpg 300w, https://osgeo.nl/photos/2013/04/gwf13-foss-173x150.jpg 173w, https://osgeo.nl/photos/2013/04/gwf13-foss-150x129.jpg 150w&#34; sizes=&#34;(max-width: 800px) 100vw, 800px&#34; /&gt;][1] --&gt;
 
 &lt;div class=&#34;&#34;&gt;
   &lt;a href=&#34;http://www.geospatialworldforum.org/2013/open_pr.htm&#34;&gt;
     &lt;img class=&#34;lazy&#34;
-      src=&#34;/photos/2013/04/gwf13-foss.jpg&#34;
+      src=&#34;https://osgeo.nl/photos/2013/04/gwf13-foss.jpg&#34;
       style=&#34;&#34;
       alt=&#34;&#34; /&gt;
   &lt;/a&gt;
@@ -731,20 +731,20 @@ Wat zou je graag in zo’n workshop zien? Er staat een poll op de
     
     <item>
       <title>27 jan 2013 – Nieuwjaars Borrel met OpenStreetMap NL</title>
-      <link>/2013/01/27-jan-2013-nieuwjaars-borrel-met-openstreetmap-nl/</link>
+      <link>https://osgeo.nl/2013/01/27-jan-2013-nieuwjaars-borrel-met-openstreetmap-nl/</link>
       <pubDate>Sat, 05 Jan 2013 11:20:55 +0000</pubDate>
       
-      <guid>/2013/01/27-jan-2013-nieuwjaars-borrel-met-openstreetmap-nl/</guid>
+      <guid>https://osgeo.nl/2013/01/27-jan-2013-nieuwjaars-borrel-met-openstreetmap-nl/</guid>
       <description>
         
           
             &lt;p&gt;De bijna alweer traditionele Nieuwjaarsborrel met OpenStreetMap NL houden we dit jaar op &lt;strong&gt;zondag 27 januari 2013&lt;/strong&gt; in Utrecht (&lt;a href=&#34;http://maps.google.com/maps?q=Domplein&amp;#43;17%2C&amp;#43;Utrecht&#34;&gt;Grand Cafe Lebowski&lt;/a&gt;, nabij CS) vanaf 15:00. Ook als je nog niet bekend bent met OSGeo.nl maar nieuwsgierig bent raden we je aan om te komen. Zie alle details en aanmelding op &lt;a href=&#34;http://www.meetup.com/OSGeoNL/events/95340442&#34;&gt;onze Meetup groep&lt;/a&gt;.&lt;/p&gt;
-&lt;!-- [&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-367 size-full&#34; src=&#34;/photos/2013/01/osgeonjborrel13.jpg&#34; alt=&#34;osgeonjborrel13&#34; width=&#34;729&#34; height=&#34;606&#34; srcset=&#34;/photos/2013/01/osgeonjborrel13.jpg 729w, /photos/2013/01/osgeonjborrel13-300x249.jpg 300w, /photos/2013/01/osgeonjborrel13-180x150.jpg 180w, /photos/2013/01/osgeonjborrel13-150x124.jpg 150w&#34; sizes=&#34;(max-width: 729px) 100vw, 729px&#34; /&gt;][3] --&gt;
+&lt;!-- [&lt;img loading=&#34;lazy&#34; class=&#34;alignnone wp-image-367 size-full&#34; src=&#34;https://osgeo.nl/photos/2013/01/osgeonjborrel13.jpg&#34; alt=&#34;osgeonjborrel13&#34; width=&#34;729&#34; height=&#34;606&#34; srcset=&#34;https://osgeo.nl/photos/2013/01/osgeonjborrel13.jpg 729w, https://osgeo.nl/photos/2013/01/osgeonjborrel13-300x249.jpg 300w, https://osgeo.nl/photos/2013/01/osgeonjborrel13-180x150.jpg 180w, https://osgeo.nl/photos/2013/01/osgeonjborrel13-150x124.jpg 150w&#34; sizes=&#34;(max-width: 729px) 100vw, 729px&#34; /&gt;][3] --&gt;
 
 &lt;div class=&#34;&#34;&gt;
   &lt;a href=&#34;http://www.meetup.com/OSGeoNL/photos/all_photos/?photoAlbumId=12842132&#34;&gt;
     &lt;img class=&#34;lazy&#34;
-      src=&#34;/photos/2013/01/osgeonjborrel13.jpg&#34;
+      src=&#34;https://osgeo.nl/photos/2013/01/osgeonjborrel13.jpg&#34;
       style=&#34;&#34;
       alt=&#34;&#34; /&gt;
   &lt;/a&gt;
@@ -758,21 +758,21 @@ Wat zou je graag in zo’n workshop zien? Er staat een poll op de
     
     <item>
       <title>160 Bezoekers op OSGeo.nl Dag 2012!</title>
-      <link>/2012/06/160-bezoekers-op-osgeo-nl-dag-2012/</link>
+      <link>https://osgeo.nl/2012/06/160-bezoekers-op-osgeo-nl-dag-2012/</link>
       <pubDate>Fri, 29 Jun 2012 10:22:37 +0000</pubDate>
       
-      <guid>/2012/06/160-bezoekers-op-osgeo-nl-dag-2012/</guid>
+      <guid>https://osgeo.nl/2012/06/160-bezoekers-op-osgeo-nl-dag-2012/</guid>
       <description>
         
           
             &lt;p&gt;Ons belangrijkste event is de jaarlijkse &lt;a href=&#34;http://io.osgeo.nl/sitecontent/osgeonl_dag/osgeonl_dag_2012.html&#34;&gt;OSGeo.nl Dag&lt;/a&gt;. In 2012 hielden we de eerste op 28 juni 2012 tijdens de Open Source GIS Conferentie op de Hogeschool Larenstein (Velp).&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://io.osgeo.nl/sitecontent/osgeonl_dag/osgeonl_dag_2012.html&#34;&gt;Vind hier het verslag, presentatie-slides&lt;/a&gt; of klik op plaatje hieronder.&lt;/p&gt;
-&lt;!-- [&lt;img loading=&#34;lazy&#34; class=&#34;alignleft wp-image-315 size-medium&#34; src=&#34;/photos/2012/06/osgeonldag-poster-excerpt-300x267.jpg&#34; alt=&#34;osgeonldag-poster-excerpt&#34; width=&#34;300&#34; height=&#34;267&#34; srcset=&#34;/photos/2012/06/osgeonldag-poster-excerpt-300x267.jpg 300w, /photos/2012/06/osgeonldag-poster-excerpt-168x150.jpg 168w, /photos/2012/06/osgeonldag-poster-excerpt-150x133.jpg 150w, /photos/2012/06/osgeonldag-poster-excerpt.jpg 728w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;][1] --&gt;
+&lt;!-- [&lt;img loading=&#34;lazy&#34; class=&#34;alignleft wp-image-315 size-medium&#34; src=&#34;https://osgeo.nl/photos/2012/06/osgeonldag-poster-excerpt-300x267.jpg&#34; alt=&#34;osgeonldag-poster-excerpt&#34; width=&#34;300&#34; height=&#34;267&#34; srcset=&#34;https://osgeo.nl/photos/2012/06/osgeonldag-poster-excerpt-300x267.jpg 300w, https://osgeo.nl/photos/2012/06/osgeonldag-poster-excerpt-168x150.jpg 168w, https://osgeo.nl/photos/2012/06/osgeonldag-poster-excerpt-150x133.jpg 150w, https://osgeo.nl/photos/2012/06/osgeonldag-poster-excerpt.jpg 728w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;][1] --&gt;
 
 &lt;div class=&#34;float_left&#34;&gt;
   &lt;a href=&#34;http://io.osgeo.nl/sitecontent/osgeonl_dag/osgeonl_dag_2012.html&#34;&gt;
     &lt;img class=&#34;lazy&#34;
-      src=&#34;/photos/2012/06/osgeonldag-poster-excerpt-300x267.jpg&#34;
+      src=&#34;https://osgeo.nl/photos/2012/06/osgeonldag-poster-excerpt-300x267.jpg&#34;
       style=&#34;&#34;
       alt=&#34;&#34; /&gt;
   &lt;/a&gt;
@@ -790,15 +790,15 @@ Wat zou je graag in zo’n workshop zien? Er staat een poll op de
     
     <item>
       <title>Verslag: OSGeo.nl op Geospatial World Forum 2012</title>
-      <link>/2012/05/verslag-osgeo-nl-op-geospatial-world-forum-2012/</link>
+      <link>https://osgeo.nl/2012/05/verslag-osgeo-nl-op-geospatial-world-forum-2012/</link>
       <pubDate>Tue, 01 May 2012 11:35:00 +0000</pubDate>
       
-      <guid>/2012/05/verslag-osgeo-nl-op-geospatial-world-forum-2012/</guid>
+      <guid>https://osgeo.nl/2012/05/verslag-osgeo-nl-op-geospatial-world-forum-2012/</guid>
       <description>
         
           
             &lt;p&gt;Op 25 April 2012 organiseerden wij namens OSGeo.org een &lt;a href=&#34;http://www.geospatialworldforum.org/2012/open.htm&#34;&gt;Open Source Seminar op het Geospatial World Forum&lt;/a&gt; (RAI, Amsterdam)]&lt;/p&gt;
-&lt;!-- [&lt;img loading=&#34;lazy&#34; class=&#34;alignnone size-medium wp-image-382&#34; src=&#34;/wp-content/photos/2014/08/The_DreamTeam_GWF_2012_v2-300x225.jpg&#34; alt=&#34;The_DreamTeam_GWF_2012_v2&#34; width=&#34;300&#34; height=&#34;225&#34; srcset=&#34;/photos/2014/08/The_DreamTeam_GWF_2012_v2-300x225.jpg 300w, /photos/2014/08/The_DreamTeam_GWF_2012_v2-200x150.jpg 200w, /photos/2014/08/The_DreamTeam_GWF_2012_v2-150x112.jpg 150w, /photos/2014/08/The_DreamTeam_GWF_2012_v2.jpg 1024w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;][1] --&gt;
+&lt;!-- [&lt;img loading=&#34;lazy&#34; class=&#34;alignnone size-medium wp-image-382&#34; src=&#34;https://osgeo.nl/wp-content/photos/2014/08/The_DreamTeam_GWF_2012_v2-300x225.jpg&#34; alt=&#34;The_DreamTeam_GWF_2012_v2&#34; width=&#34;300&#34; height=&#34;225&#34; srcset=&#34;https://osgeo.nl/photos/2014/08/The_DreamTeam_GWF_2012_v2-300x225.jpg 300w, https://osgeo.nl/photos/2014/08/The_DreamTeam_GWF_2012_v2-200x150.jpg 200w, https://osgeo.nl/photos/2014/08/The_DreamTeam_GWF_2012_v2-150x112.jpg 150w, https://osgeo.nl/photos/2014/08/The_DreamTeam_GWF_2012_v2.jpg 1024w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;][1] --&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
@@ -816,7 +816,7 @@ Wat zou je graag in zo’n workshop zien? Er staat een poll op de
       alt=&#34; &#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;/photos/2012/05/The_DreamTeam_GWF_2012_v2.jpg&#34;
+        src=&#34;https://osgeo.nl/photos/2012/05/The_DreamTeam_GWF_2012_v2.jpg&#34;
       
       
     /&gt;
