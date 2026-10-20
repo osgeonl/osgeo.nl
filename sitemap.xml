@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://osgeo.nl/</loc>
+    <lastmod>2026-10-20T09:52:45+00:00</lastmod>
+  </url><url>
+    <loc>https://osgeo.nl/home/</loc>
+    <lastmod>2026-10-20T09:52:45+00:00</lastmod>
+  </url><url>
     <loc>https://osgeo.nl/categories/actueel/</loc>
     <lastmod>2026-10-14T07:00:00+00:00</lastmod>
   </url><url>
@@ -21,9 +27,6 @@
     <lastmod>2026-10-14T07:00:00+00:00</lastmod>
   </url><url>
     <loc>https://osgeo.nl/tags/osgeo/</loc>
-    <lastmod>2026-10-14T07:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://osgeo.nl/</loc>
     <lastmod>2026-10-14T07:00:00+00:00</lastmod>
   </url><url>
     <loc>https://osgeo.nl/tags/osgeonl/</loc>
@@ -46,9 +49,6 @@
   </url><url>
     <loc>https://osgeo.nl/0_community/geoforum-nl/</loc>
     <lastmod>2026-10-13T11:30:37+00:00</lastmod>
-  </url><url>
-    <loc>https://osgeo.nl/home/</loc>
-    <lastmod>2026-10-13T10:52:45+00:00</lastmod>
   </url><url>
     <loc>https://osgeo.nl/2026/06/foss4gnl-tickets/</loc>
     <lastmod>2026-06-05T07:00:00+00:00</lastmod>
