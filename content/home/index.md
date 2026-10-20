@@ -2,7 +2,7 @@
 title: Welkom bij OSGeo.NL
 author: osgeonl
 type: page
-date: 2026-10-13T10:52:45+00:00
+date: 2026-10-20T09:52:45+00:00
 ---
 
 ![](/photos/2025/groepsfoto_2025.jpg)
@@ -39,7 +39,7 @@ bruist, leeft en beschikbaar is. Als je nog suggesties hebt,
 of auteur van artikelen wilt worden [laat het ons weten][1]
 
 ### Binnenkort
-* **[PostGIS Dag - Utrecht nov 2026](https://postgisdag.nl/) - meer nieuws volgt!**
+* **[PostGIS Dag - Utrecht - 20 November 2026](https://postgisdag.nl/)**
 
 ### Geweest
 
