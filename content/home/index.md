@@ -2,7 +2,7 @@
 title: Welkom bij OSGeo.NL
 author: osgeonl
 type: page
-date: 2026-10-20T09:52:45+00:00
+date: 2026-10-22T09:52:45+00:00
 ---
 
 ![](/photos/2025/groepsfoto_2025.jpg)
@@ -20,7 +20,8 @@ de Geo Prestige Awards. Er zijn drie categorieën: Professional, Startup en Orga
 OSGeo.NL is genomineerd in Organisatie.
 
 Genomineerd…, maar nu willen we natuurlijk ook winnen! 
-En aangezien wij de enige community-organisatie zijn (de [overige genomineerden]( https://geoinformatienederland.nl/over-ons/gin-awards/geo-prestige-award-2026-de-genomineerden) zijn bedrijven), vragen we iedereen om op ons te stemmen!
+Daarom vragen wij iedereen die OSGeo.nl, [FOSS4G.nl](https://foss4g.nl), de [PostGISdag](https://postgisdag.nl) en alle open source geo software een warm hart toe draagt om op ons te stemmen!
+
 [Lees hier meer](/2026/10/gin-award/).
 
 ### Onze missie
